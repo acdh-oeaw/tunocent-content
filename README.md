@@ -1,6 +1,6 @@
 # TUNOCENT Data
 
-This repository contains the data collected by the research project *Tunisia’s Linguistic terra incognita: An Investigation into the Arabic Varieties of Northwestern and Central Tunisia (TUNOCENT)*, led by Veronika Ritt-Benmioum at the University of Vienna, Department for Near Eastern Studies, in cooperation with the [Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)](https://www.oeaw.ac.at/acdh) of the Austrian Academy of Sciences. 
+This repository contains the data collected by the research project *Tunisia’s Linguistic terra incognita: An Investigation into the Arabic Varieties of Northwestern and Central Tunisia (TUNOCENT)*, led by Veronika Ritt-Benmimoun at the [University of Vienna, Department for Near Eastern Studies](https://orientalistik.univie.ac.at/en/) in cooperation with the [Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)](https://www.oeaw.ac.at/acdh) of the Austrian Academy of Sciences. 
 
 The project aimed at the collection, documentation and analysis of dialectal varieties in the northwestern and central Tunisian governorates and makes use of the technical framework of VICAV, the *Vienna Corpus of Arabic Varieties*. For more information please consult the main installation of VICAV at <https://vicav.acdh.oeaw.ac.at>. 
 
