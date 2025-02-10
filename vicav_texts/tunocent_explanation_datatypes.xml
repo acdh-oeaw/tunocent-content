@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explanation Data Types</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div xml:id="tunocentExplanationDataTypes" xml:space="preserve">
+              <head>Explanation Data Types</head>
+              
+                       
+              <div>
+                  <head>Profiles</head>
+              
+              <p xml:space="preserve">Profiles are general portrayals of chosen locations where fieldwork was conducted, often describing briefly their geography, history and most notable sights, 
+                  demographics, and the inhabitants’ prevalent way of life and main means of income. Furthermore, information on tribal subgroups as well as local saints are found in the profiles, 
+                  as they are important pillars for the people’s identity. The pictures included in the profiles - all of them taken by the project’s field researchers - show the landscape and the 
+                  villages of northwestern and central Tunisia and give insight into the way people live. As such, they are valuable ethnographic witnesses of the people’s traditional activities 
+                  which the interviewees also describe in the recorded texts. </p>
+                  
+              </div>
+          
+          <div>
+             <head>Sample Texts</head> 
+              <p xml:space="preserve">The sample texts are translations of the same source text. This text is composed of seven sentences or units which provide details on everyday activities and duties, 
+                  and as such contain important basic vocabulary: shopping in the market, different fruits and vegetables, returning home, having lunch with the family, asking the children about their 
+                  plans for the rest of the day and for future activities. Thus, they provide an easy way to compare the numerous linguistic phenomena contained in the texts
+</p>
+          </div>
+          
+          <div>
+              <head>Corpus Texts</head>
+              <p xml:space="preserve">The corpus texts, also called free speech texts or unmonitored speech, include narratives, ethnographic texts and conversations recorded during the numerous fieldwork trips 
+                  in the regions of northwestern and central Tunisia. In addition to the transcribed corpus texts on the TUNOCENT-webpage which are extracts from already published research, about 60 to 70 hours 
+                  of speech were transcribed in the course of the project but have not been published yet. Together, these published and to-be-published corpus texts form the largest text collection in scientific 
+                  transcription to exist for Tunisian dialects.</p>
+                 
+                 </div>
+          <div>
+              <head>Feature Lists</head>
+              <p xml:space="preserve">The feature list is a standardised questionnaire that focuses on grammatical and lexical variation. It consists of linguistic features in lists of sentence pairs in English 
+                  and Arabic that are meant to exemplify selected salient linguistic features of the particular varieties. The categories contained in the feature lists include phonological, morphological and 
+                  lexical features, which are Interrogatives, Pronouns, Presentatives, Adverbs, Numerals, Adjectives, Colours, Prepositions, Important Verbs, Nouns, Neologisms, Modality, and Other Items. 
+                  The usage of the same sentences/features allows for optimal comparisons between the varieties recorded within the TUNOCENT-project. </p>
+                  
+          </div>
+          
+          <div>
+              <head>TUNOCENT-Questionnaire</head>
+              <p>This is a detailed and extensive questionnaire which brings together the most important phonological, morphological, syntactic and lexical peculiarities of the varieties spoken in the various 
+                  reference points. It is a comprehensive tool for the synthesis and analysis of the linguistic data. Though not digitalised yet, these questionnaires have been used for the description of the 
+                  varieties spoken in Testour and Nefza, for the shorter dialect sketches, as well as for the comparative research undertaken and published in the course of the project.</p>
+          </div>
+          
+          <div>
+              <head>WAD-Questionnaire</head>
+              <p>This is a lexical questionnaire kindly provided for use by the authors of the monumental "Wortatlas der arabischen Dialekte" (WAD), Peter Behnstedt and Manfred Woidich. With 500 lexical items 
+                  it covers the most important semantic categories of relevance for Arabic dialects. Though not digitalised yet, these questionnaires have been used for the description of the varieties spoken 
+                  in Testour and Nefza, for the shorter dialect sketches, as well as for the comparative research undertaken and published in the course of the project.</p>
+          </div>
+          </div>
+      </body>
+  </text>
+</TEI>

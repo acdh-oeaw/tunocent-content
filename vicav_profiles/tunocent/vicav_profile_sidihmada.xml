@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_sidihmada_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of Sidi Hmada Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:IB">Ilona Abdelfattah</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Sidi Hmada</name>
+                  <name xml:lang="aeb">Sīdi Ḥmǟda</name>
+               </settlement>
+               <region>Siliana</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>35.96, 9.54</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2019-08-29T15:38:00Z" who="corpus:IB" type="major" n="0">created</change>
+         <change status="draft" when="2019-10-29T09:40:00Z" who="corpus:IB" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="SidiHmada1.jpg"/>
+                  <head type="imgCaption">Ilona Abdelfattah</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">Sidi Hmada</name>
+               <label>Name (Fuṣḥā, transcription)</label>
+               <name xml:lang="ara-x-DMG">Sīdi Ḥamāda</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">Sīdi Ḥmǟda</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">سيدي حمادة</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>35.96, 9.54</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › North Western Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">The village of Sīdi Ḥmǟda is located on the foot of Žbal is-Sarž in the governorate of Silyǟna. The region is famous for the grotto ʕĪn iḏ-Ḏhab and the recently established natural reserve where gazelles are reared. Sīdi Ḥmǟda is home to about 2,000 inhabitants who consider themselves descendants of the local saint Sīdi Ḥmǟda. He is said to be the son of a Libyan father and of a mother from the Ūlǟd ʕŪn tribe of Silyǟna.</p>
+            </div>
+            <div type="gallery">
+               <head/>
+               <link target="SidiHmada-2.jpg">
+                  <graphic url="SidiHmada-2.jpg"/>
+                  <head>Mountain</head>
+               </link>
+               <link target="IMG_4580-scaled.jpg">
+                  <graphic url="IMG_4580-scaled.jpg"/>
+                  <head>Cock</head>
+               </link>
+               <link target="old_sidihmeda-scaled-e1581594838561.jpg">
+                  <graphic url="old_sidihmeda-scaled-e1581594838561.jpg"/>
+                  <head>Ilona with two locals</head>
+               </link>
+               <link target="kids_sidihmeda-scaled-e1581594155259.jpg">
+                  <graphic url="kids_sidihmeda-scaled-e1581594155259.jpg"/>
+                  <head>Researcher Ilona surrounded by children</head>
+               </link>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Sīdi Ḥmǟda, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_sidihmada_01">SidiHmada9/f/50</ref>
+                  <ref type="sample" target="vicav_sample_sidihmada_02">SidiHmada15/f/16</ref>
+                  <ref type="sample" target="vicav_sample_sidihmada_03">SidiHmada17/f/16</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_sidihmada_04">SidiHmada16/f/67</ref>
+                  <ref type="feature" target="vicav_lingfeatures_sidihmada_01">SidiHmada10/f/56</ref>
+                  <ref type="feature" target="vicav_lingfeatures_sidihmada_03">SidiHmada7/m/63</ref>
+                  <ref type="feature" target="vicav_lingfeatures_sidihmada_02">SidiHmada6/f/22</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

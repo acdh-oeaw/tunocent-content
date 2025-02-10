@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In April 2019 the TUNOCENT project started. What happened so far? –
+               TUNOCENT</title>
+         </titleStmt>
+         <publicationStmt>
+            <p xml:space="preserve">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p xml:space="preserve">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>The links for the profiles were assembled by
+               scriptor.exe--&gt;createListOfVICAVProfiles</ab>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="tunocent_team">
+            <head>Team</head>
+
+           
+            <figure rendition="#center">
+               <link target="TUNOCENT-Team.kopie_.jpg"/>
+               <graphic url="TUNOCENT-Team.kopie_.jpg"/>
+               <head type="imgCaption">Ilona,Franzi and Aleks</head>
+            </figure>
+
+
+            <div xml:id="uni_vie_team">
+               <head>Team at the University of Vienna</head>
+
+               <div><head>Veronika Ritt-Benmimoun (project leader)</head>
+                  <p>Veronika Ritt-Benmimoun is Assistant Professor in Arabic Studies at the <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies</ref> at the University of Vienna, initiator
+                     and leader of the TUNOCENT-project. Since 2004 she has worked on the different varieties of Tunisian Arabic, with a focus on the Bedouin-type dialects of southern Tunisia. She has also published two
+                     monographs and numerous articles in peer-reviewed journals. Today she is one of the leading specialists for spoken Arabic in the central Maghreb. She has an active command of both Bedouin-type and
+                     urban Tunisian Arabic, has done extensive fieldwork, and has well-established contacts in Tunisian society.</p>
+               </div>
+
+               <div>
+                  <head> Aleksandra Naddari</head>
+                  <p>Aleksandra Naddari is currently enrolled in a PhD programme at the <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies</ref> at the University of Vienna. She has studied Tunisian Arabic for
+                     four semesters and has a very good command of it. Her gift and passion for languages (she is fluent in many) and her interest in Arabic dialects makes her an ideal collaborator in this project. In addition to fieldwork and
+                     data reviewing Aleksandra will participate in the creation of the TUNOCENT-text corpus and the dialect descriptions.</p>
+               </div>
+
+               <div>
+                  <head>Ilona Abdelfattah</head>
+                  <p>Ilona Abdelfattah holds a BA from the <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies</ref> at the University of Vienna, as well as a BA of her further study of biology. Currently,
+                     she is enrolled in a MA programme “The Arab World: Language and Society” at the Univiersity of Vienna. During her stay in Tunis, where Ilona started her Research Master degree in Arabic Linguistics, Literature and Islamic
+                     Civilisation at the University of Tunis El Manar, she has not only become fluent in Arabic but has also established contacts in various parts of the country. Her main tasks in the project consist of fieldwork and the
+                     reviewing of data.</p>
+               </div>
+
+               <div>
+                  <head>Franziska Schwemmer</head>
+                  <p>Like Ilona Abdelfattah, Franziska Schwemmer is enrolled in the MA programme “The Arab World: Language and Society”. Having studied Tunisian Arabic at the
+                     <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies</ref> at the University of Vienna, as well as on-site, at the University of Tunis El Manar, Franziska has a very good command
+                     of the dialect of Tunis. During her Bachelor's programme, she joined the project <ref target="https://tunico.acdh.oeaw.ac.at/corpus.html?query=red">TUNICO – Linguistic dynamics in the Greater Tunis Area</ref>
+                     for technical support. Experienced in fieldwork and qualitative surveys and with a great interest in linguistics she is now involved in the TUNOCENT-investigation. Alongside field research, her main tasks are
+                     reviewing, processing and annotating the data.</p>
+               </div>
+
+               <div>
+                  <head>Ghaith Naddari</head>
+                  <p>Ghaith Naddari, originating from Kasserine and living in Vienna, was employed in the TUNOCENT-project from January 2022 until June 2023. He was not involved in fieldwork himself but transcribed hundreds of pages of recorded
+                     unmonitored speech as well as questionnaires, and thus was of invaluable help in building up our text corpus.</p>
+               </div>
+               
+               <div>
+                  <head>Maria Rebecca Zarb</head>
+                  <p>
+                     Maria Rebecca Zarb is currently a team member and prae-doc researcher in the <ref target="https://wibarab.acdh.oeaw.ac.at/">WIBARAB-project</ref>. Though not a collaborator in the proper sense, she has made an important 
+                     contribution to the outcomes of our project by using our TUNOCENT-data for her MA-thesis on the dialect spoken in the Tunisian town of Testour.
+                  </p>
+               </div>
+
+            </div>
+
+
+
+            <div xml:id="tunisian_collaborators">
+               <head>Tunisian Collaborators</head>
+
+
+               <div>
+                  <head>May Marzouki</head>
+                  <p>May Marzouki, originating from the town of Gafsa and studying in Tunis, was one of our most important research partners: She did fieldwork in the governorates of Gafsa (Amaymiya), Kasserine (Ain Difla, Gargara, Haidra, Skhirat),
+                     Jendouba (Houaidia, Tabarka, Jendouba) and Beja (Teboursouk, Jabbes (Testour)) from June to December 2020.</p>
+               </div>
+
+               <div>
+                  <head>Sara Ben Maiz</head>
+
+                  <p>Sara Ben Maiz from Tunis did fieldwork in the governorate of Jendouba (Ain Soltane, Babouch, Hammam Bourguiba, Ouled Aridh) in June 2020.</p>
+               </div>
+
+               <div>
+                  <head>Wissem Saybi</head>
+                  <p>Wissem Saybi who originates from the village of Shlihat in the governorate of el Kef, initially was one of Franziska Schwemmer’s interviewees. During the Corona pandemic he became one of our most important collaborators
+                     doing fieldwork in five governorates: the governorate of Kef (Shlihat, Dir, Sakiet Sidi Youssef, Tajerouine, Kef), Siliana (Hbabsa), Kasserine (Sidi Shil, Sbiba, Jabbes, Sbeitla, Fajj et-Tin), Sidi Bouzid
+                     (Baten Ghazel, Santaj) and Kairouan (Kabbara, Ouled Said) starting in June 2020 as long as April 2021.</p>
+               </div>
+
+               <div>
+                  <head>Khayri Guesmi</head>
+                  <p>Also Khayri Guesmi from the town of Sbiba in the governorate of Kasserine was one of Franziska Schwemmer’s interviewees during her first fieldwork campaign in Tunisia. All the fieldwork campaigns in Siliana, Kasserine,
+                     Sidi Bouzid and Kairouan were launched together with Wissem Saybi.</p>
+               </div>
+
+               <div>
+                  <head>Yosra Oueslati</head>
+                  <p>Yosra Oueslati from Lakhouet in the governorate of Siliana was Ilona Abdelfattah’s most important interview partner in Lakhouet during her first fieldwork campaign. Then she herself did field work in Siliana (Bou Arada, Krib,
+                     Lakhouet, Mellita, Umm Zid) as well as in Beja (Dougga, Teboursouk) in July 2020.</p>
+               </div>
+
+               <div>
+                  <head>Marwen Charradi</head>
+                  <p>Marwen Charradi from Rouhia in the governorate of Siliana did fieldwork in the governorate of Siliana (Rouhia, Skarna) in July 2020.</p>
+               </div>
+
+               <div>
+                  <head>Rawaa Tlili</head>
+                  <p>Rawaa Tlili from Guettar in the governorate of Gafsa was one of Franziska Schwemmer’s interview partners in Guettar. From July 2020 onwards, she did fieldwork mainly in the governorate of Gafsa (Bir Saad, Bou Omrane,
+                     Bou Saad, Gafsa, Ksar, Lela, Moulares, Ouled Slema, Redeyef, Talah, Zarrouk), but also in the town of Sidi Bouzid and in Akouda near Sousse.</p>
+               </div>
+
+               <div>
+                  <head>Eya Zaouri</head>
+                  <p>Similarly, Eya Zaouri from Dahmani in the governorate of el Kef, initially being an interview partner herself, launched a fieldwork campaign in the governorate of Kef (Dahmani, Mdayna, Sammena, Shmeysiya, Zouarine)
+                     in July and August 2020 during the Corona pandemic.</p>
+               </div>
+
+               <div>
+                  <head>Nidhal Aloui</head>
+                  <p>Aleksandra and her husband Ghaith led us to one of our most important Tunisian collaborators: Nidhal Aloui from the village of Ouled Ali in Kasserine who did extensive fieldwork in the governorates of Kasserine
+                     (Dakhlet Ajej, Feriana, Garaat Toufiya, Gouira, Hassi Frid, Majel Bel Abbes, Nadhour, Ouled Ali), Sidi Bouzid (Douara, Farsh Shih, Gobrar, Hsinette, Jwa Ammar, Meknessi, Meloussi, Regueb, Sidi Ali Ben Aoun) and
+                     also Beja (Gboullat, Heri, Maagoula, Medjez, Murra, Umm Labid, Zaga). With Kasserine and Sidi Bouzid he covered regions that would otherwise have been very difficult for us to reach.</p>
+               </div>
+
+               <div>
+                  <head>Ghofran Naddari</head>
+                  <p>Ghofran Naddari, Ghaith’s sister from Kasserine, did fieldwork in the town of Kasserine, as well as in Arish and Frikhat, both situated in the governorate of Kasserine.</p>
+               </div>
+
+            </div>
+
+
+
+            <div xml:id="ACDH-CH_team">
+               <head>ACDH-CH Team</head>
+
+               <div>
+                  <head>Karlheinz Mörth (National Research Partner)</head>
+                  <p>Karlheinz Mörth is currently head of the <ref target="https://www.oeaw.ac.at/acdh/"> Austrian Centre for Digital Humanities and Cultural Heritage (Austrian Academy of Sciences).</ref> From a background in Near Eastern studies,
+                     focusing on modern languages and applied linguistics, he has worked on the interface between modern ICT and humanities studies. He has conducted research in text technological fields, with special interests in eLexicography,
+                     text lexicography, methodologies for the build-up and maintenance of digital corpora, annotation research, and corpus-related encoding standards. He participated in the project
+                     <ref target="https://tunico.acdh.oeaw.ac.at/corpus.html?query=red">TUNICO – Linguistic dynamics in the Greater Tunis Area</ref> and takes an active part in the projects
+                     <ref target="https://www.dariah.eu/">DARIAH – Digital Research Infrastructure for the Arts and Humanities</ref> and
+                     <ref target="https://www.clarin.eu/">CLARIN – European Research Infrastructure for Language Resources and Technology.</ref></p>
+               </div>
+
+               <div>
+                  <head>Daniel Schopper</head>
+                  <p></p>
+
+               </div>
+
+               <div>
+                  <head>Zsofia Abraham</head>
+                  <p>Zsofia Abraham is our collaborator in the field of Digital Humanities from the <ref target="https://www.oeaw.ac.at/acdh/about/">Austrian Centre for Digital Humanities and Cultural Heritage (Austrian Academy of Sciences)</ref>.
+                     She is finishing her BA in Iranian Studies at the Eotvos Lorard University in Budapest and has a background in ancient and Middle Eastern studies, so she has a good grasp on Semitic languages and has studied Arabic in
+                     particular as well (though she doesn't speak any modern Arabic dialect). Prior to joining the project she had been working as a web developer and DevOps engineer for about eight years, so she has all the skills to mediate
+                     between researchers' needs and future-proof digital solutions.</p>
+
+               </div>
+
+               <div>
+                  <head>Veronika Engler</head>
+
+                  <p>Veronika Engler is another collaborator in the field of Digital Humanities from the <ref target="https://www.oeaw.ac.at/acdh/about/">Austrian Centre for Digital Humanities and Cultural Heritage (Austrian Academy of Sciences)</ref>.
+                     She got her Ma in Arabic Studies from the <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies</ref> at the University of Vienna. The combination of her proficiencies in both Arabic and the
+                     Digital Humanities are highly useful for working with the TUNOCENT data. Prior to joining the TUNOCENT project, she has been a part of the <ref target="https://wibarab.acdh.oeaw.ac.at/">WIBARAB</ref> project where she
+                     contributed to developing and constructing a TEI-based linguistic database.</p>
+
+               </div>
+
+
+            </div>
+            
+           
+
+
+
+         </div>
+
+      </body>
+   </text>
+</TEI>

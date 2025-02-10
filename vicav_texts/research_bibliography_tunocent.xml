@@ -1,0 +1,3173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exported from Zotero</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2024-11-13 14:01:46</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="research_bibliography_tunocent">
+            <head>TUNOCENT research bibliography</head>
+            </div>
+               
+         <listBibl>
+            <biblStruct type="book"
+                        xml:id="GrandHenry_1976_2248"
+                        corresp="http://zotero.org/groups/2165756/items/YFVNNVL7"
+                        n="Grand_Henry1976c">
+               <monogr>
+                  <title level="m">Les parles arabes de la région du Mzāb</title>
+                  <author>
+                     <forename>Jacques</forename>
+                     <surname>Grand'Henry</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>1976</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Mzab</name>
+                     <geo>32.583333 3.333333</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="GrandHenry_1979_3844"
+                        corresp="http://zotero.org/groups/2165756/items/E9XITWZC"
+                        n="Grand_Henry1979">
+               <analytic>
+                  <title level="a">Le parler arabe de la Saoura (Sud-ouest algérien)</title>
+                  <author>
+                     <forename>Jacques</forename>
+                     <surname>Grand'Henry</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Arabica</title>
+                  <imprint>
+                     <biblScope unit="volume">26</biblScope>
+                     <biblScope unit="page">213-228</biblScope>
+                     <date>1979</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1970-01-01"
+                           notAfter-iso="1979-12-31">1970s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Saoura</name>
+                     <geo>28.943056 -0.921944</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="presentation"
+                        xml:id="Ritt-Benmimoun2024"
+                        corresp="http://zotero.org/groups/2165756/items/KZ8WZ5ER"
+                        n="Ritt-Benmimoun2024b">
+               <monogr>
+                  <title level="m">Intra-Bedouin Isoglosses in Tunisia: old ones revisited and new ones proposed</title>
+                  <respStmt>
+                     <resp>presenter</resp>
+                     <persName>
+                        <forename>Veronika</forename>
+                        <surname>Ritt-Benmimoun</surname>
+                     </persName>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Valetta, Malta</pubPlace>
+                     <date>2024</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="Vicente_2008_6396"
+                        corresp="http://zotero.org/groups/2165756/items/BEE5L3IM"
+                        n="Vicente2008d">
+               <analytic>
+                  <title level="a">Génesis y clasificación de los dialectos neoárabes</title>
+                  <author>
+                     <forename>Ángeles</forename>
+                     <surname>Vicente</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Manual de dialectología neoárabe</title>
+                  <editor>
+                     <forename>Federico</forename>
+                     <surname>Corriente</surname>
+                  </editor>
+                  <editor>
+                     <forename>Ángeles</forename>
+                     <surname>Vicente</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">19-67</biblScope>
+                     <publisher>Instituto de Estudios Islámicos y del Oriente Próximo</publisher>
+                     <date>2008</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:diachronic perspective</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="abdelfattah_Ritt_2022_1812"
+                        corresp="http://zotero.org/groups/2165756/items/EY56FXZI"
+                        n="Abdelfattah2022">
+               <analytic>
+                  <title level="a">Language attitudes in Northwestern Tunisia and their implication for speech patterns</title>
+                  <author>
+                     <forename>Ilona</forename>
+                     <surname>Abdelfattah</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">International Journal of the Sociology of Language</title>
+                  <imprint>
+                     <biblScope unit="volume">278</biblScope>
+                     <biblScope unit="page">259-283</biblScope>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="aguadé_2018_1092"
+                        corresp="http://zotero.org/groups/2165756/items/3KPE4TCP"
+                        n="Aguadé2018">
+               <analytic>
+                  <title level="a">The Maghrebi Dialects of Arabic</title>
+                  <author>
+                     <forename>Jordi</forename>
+                     <surname>Aguadé</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">The Historical Dialectology of Arabic: Linguistic and Sociolinguistic Approaches.</title>
+                  <editor>
+                     <forename>Holes</forename>
+                     <surname>Clive</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Oxford</pubPlace>
+                     <publisher>University Press</publisher>
+                     <date>2018</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="attia_1969_7499"
+                        corresp="http://zotero.org/groups/2165756/items/5STLPHCU"
+                        n="Attia1969">
+               <analytic>
+                  <title level="a">Description phonologique du parler arabe de Mahdia (Tunisie)</title>
+                  <author>
+                     <forename>Abdelmajid</forename>
+                     <surname>Attia</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Cahiers du Ceres, Série Linguistique</title>
+                  <imprint>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="page">115-138</biblScope>
+                     <date>1969</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Mahdia</name>
+                     <geo>35.504722 11.062222</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:conversation/dialogue</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:phonology</note>
+                  <note type="tag">vt:sedentary dialect</note>
+                  <note type="tag">vt:transcribed texts</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="baccouche_1972_0000"
+                        corresp="http://zotero.org/groups/2165756/items/L9ITNM4R"
+                        n="Baccouche1972">
+               <analytic>
+                  <title level="a">Le phonème "g" dans les parlers arabes citadins de Tunisie</title>
+                  <author>
+                     <forename>Taïeb</forename>
+                     <surname>Baccouche</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Tunisienne de Sciences Sociales</title>
+                  <imprint>
+                     <biblScope unit="volume">30-31</biblScope>
+                     <biblScope unit="page">103-137</biblScope>
+                     <date>1972</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:phonology</note>
+                  <note type="tag">vt:sociolinguistics</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="baccouche_2003_0000"
+                        corresp="http://zotero.org/groups/2165756/items/6TLWQSCU"
+                        n="Baccouche2003">
+               <analytic>
+                  <title level="a">L'atlas linguistique de Tunisie: repères méthodologiques pour la description du système dialectal</title>
+                  <author>
+                     <forename>Taieb</forename>
+                     <surname>Baccouche</surname>
+                  </author>
+                  <author>
+                     <forename>Salah</forename>
+                     <surname>Mejri</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Mélanges David Cohen. Études sur le langage, les langues, les dialects, les littératures, offertes par ses élèves, ses collègues, ses amis presentées à l'occasion de son quatre-vingtième anniversaire</title>
+                  <editor>
+                     <forename>Jérome</forename>
+                     <surname>Lentin</surname>
+                  </editor>
+                  <editor>
+                     <forename>Antoine</forename>
+                     <surname>Lonnet</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <biblScope unit="page">47-54</biblScope>
+                     <publisher>Maisonneuve</publisher>
+                     <date>2003</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="baccouche_youssi_2002_0000"
+                        corresp="http://zotero.org/groups/2165756/items/TXLSRINX"
+                        n="Baccouche2002">
+               <analytic>
+                  <title level="a">L’Atlas linguistique de Tunisie: spécificités phonologiques</title>
+                  <author>
+                     <forename>Taïeb</forename>
+                     <surname>Baccouche</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Aspects of the dialects of Arabic today: Proceedings of the 4th Conference of the International Arabic Dialectology Association (AIDA), Marrakesh, April 1-4, 2000. In honour of Professor David Cohen</title>
+                  <idno type="ISBN">9954-0-2720-3</idno>
+                  <editor>
+                     <forename>Abderrahim</forename>
+                     <surname>Youssi</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Rabat</pubPlace>
+                     <biblScope unit="page">3-6</biblScope>
+                     <publisher>Amapatril</publisher>
+                     <date>2002</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+                  <note type="tag">vt:phonology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="behnstedt_1998_0001"
+                        corresp="http://zotero.org/groups/2165756/items/F5KF969K"
+                        n="Behnstedt1998c">
+               <analytic>
+                  <title level="a">Zum Arabischen von Djerba (Tunesien) I</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <imprint>
+                     <biblScope unit="volume">35</biblScope>
+                     <biblScope unit="page">52-83</biblScope>
+                     <date>1998</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1990-01-01"
+                           notAfter-iso="1999-12-31">1990s</date>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Djerba</name>
+                     <geo>33.800000 10.900000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="behnstedt_1999_0000"
+                        corresp="http://zotero.org/groups/2165756/items/38YG554Q"
+                        n="Behnstedt1999c">
+               <analytic>
+                  <title level="a">Zum Arabischen von Djerba (Tunesien) II: Texte</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <imprint>
+                     <biblScope unit="volume">36</biblScope>
+                     <biblScope unit="page">32-65</biblScope>
+                     <date>1999</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Djerba</name>
+                     <geo>33.800000 10.900000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="behnstedt_2011-2014_3010"
+                        corresp="http://zotero.org/groups/2165756/items/CG324JCW"
+                        n="Behnstedt2011a">
+               <monogr>
+                  <title level="m">Wortatlas der arabischen Dialekte. I: Mensch, Natur, Fauna und Flora. II: Materielle Kultur. III: Verben, Adjektive, Zeit und Zahlen. IV: Funktionswörter, Adverbien, Phraseologisches: eine Auswahl</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+                  <author>
+                     <forename>Manfred</forename>
+                     <surname>Woidich</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden &amp; Boston</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>2011</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="behnstedt_2011-2014_3011"
+                        corresp="http://zotero.org/groups/2165756/items/9AW5782P"
+                        n="Behnstedt2011b">
+               <monogr>
+                  <title level="m">Wortatlas der arabischen Dialekte. I: Mensch, Natur, Fauna und Flora</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+                  <author>
+                     <forename>Manfred</forename>
+                     <surname>Woidich</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden &amp; Boston</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>2011</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="behnstedt_2011-2014_3012"
+                        corresp="http://zotero.org/groups/2165756/items/JLBVCU8P"
+                        n="Behnstedt2012">
+               <monogr>
+                  <title level="m">Wortatlas der arabischen Dialekte. II: Materielle Kultur</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+                  <author>
+                     <forename>Manfred</forename>
+                     <surname>Woidich</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden &amp; Boston</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>2012</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="behnstedt_2011-2014_3013"
+                        corresp="http://zotero.org/groups/2165756/items/82828DKE"
+                        n="Behnstedt2014">
+               <monogr>
+                  <title level="m">Wortatlas der arabischen Dialekte. III: Verben, Adjektive, Zeit und Zahlen</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+                  <author>
+                     <forename>Manfred</forename>
+                     <surname>Woidich</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden &amp; Boston</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>2014</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="behnstedt_2011-2014_3014"
+                        corresp="http://zotero.org/groups/2165756/items/SUPZ2ED9"
+                        n="Behnstedt2021">
+               <monogr>
+                  <title level="m">Wortatlas der arabischen Dialekte. IV: Funktionswörter, Adverbien, Phraseologisches: eine Auswahl</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+                  <author>
+                     <forename>Manfred</forename>
+                     <surname>Woidich</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leiden &amp; Boston</pubPlace>
+                     <publisher>Brill</publisher>
+                     <date>2021</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="benkato_ritt-benmimoun_2023_7629"
+                        corresp="http://zotero.org/groups/2165756/items/D4EDST67"
+                        n="Benkato2023b">
+               <analytic>
+                  <title level="a">Voice archives in Arabic dialectology: the case of the southern Tunisian recordings in the Berliner Lautarchiv</title>
+                  <title type="short">Voice archives in Arabic dialectology</title>
+                  <author>
+                     <forename>Adam</forename>
+                     <surname>Benkato</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The journal of North African studies</title>
+                  <idno type="ISSN">1362-9387</idno>
+                  <imprint>
+                     <biblScope unit="volume">28</biblScope>
+                     <biblScope unit="issue">5</biblScope>
+                     <biblScope unit="page">1142-1162</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <div data-schema-version="8">
+                     <p>Published online: 29 Aug 2022</p>
+                  </div>
+               </note>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="benmimoun_2013_3932"
+                        corresp="http://zotero.org/groups/2165756/items/RDVU9EIH"
+                        n="Ritt-Benmimoun2013">
+               <analytic>
+                  <title level="a">Giftiges aus Gafṣa. Ein Text im arabischen Beduinendialekt von Bil-Xēr (Gafṣa)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Nicht nur mit Engelszungen. Beiträge zur semitischen Dialektologie. Festschrift für Werner Arnold zum 60. Geburtstag</title>
+                  <editor>
+                     <name>R. Kuty, U. Seeger &amp; S. Talay (eds.)</name>
+                  </editor>
+                  <imprint>
+                     <biblScope unit="page">289-300</biblScope>
+                     <date>2013</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="bin_murad_1999_0000"
+                        corresp="http://zotero.org/groups/2165756/items/AHF56B3Q"
+                        n="Bin_Murād1999">
+               <monogr>
+                  <title level="m">al-Kalima al-ʾaʿǧamīya fī ʿarabīyat nifzāwa (bi-l-ǧanūb al-ġarbī at-tūnisī)</title>
+                  <author>
+                     <forename>Ibrāhīm</forename>
+                     <surname>Bin Murād</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Tunis</pubPlace>
+                     <date>1999</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="borg_2012_9471"
+                        corresp="http://zotero.org/groups/2165756/items/YL4AGY3U"
+                        n="Borg2012">
+               <analytic>
+                  <title level="a">Towards a comparative dictionary of Bedouin Arabic</title>
+                  <author>
+                     <forename>Alexander</forename>
+                     <surname>Borg</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Al-Majalla (Haifa)</title>
+                  <imprint>
+                     <biblScope unit="volume">3</biblScope>
+                     <biblScope unit="page">I–XXXIV</biblScope>
+                     <date>2012</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="boris_1951_0001"
+                        corresp="http://zotero.org/groups/2165756/items/Z4NXER6S"
+                        n="Boris1951b">
+               <monogr>
+                  <title level="m">Documents linguistiques et ethnographiques sur une région du sud tunisien (Nefzaoua)</title>
+                  <author>
+                     <forename>Gilbert</forename>
+                     <surname>Boris</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <date>1951</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="boris_1958_0000"
+                        corresp="http://zotero.org/groups/2165756/items/6B253B9J"
+                        n="Boris1958">
+               <monogr>
+                  <title level="m">Lexique du parler arabe des Marâzîg</title>
+                  <author>
+                     <forename>Gilbert</forename>
+                     <surname>Boris</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <date>1958</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1930-01-01"
+                           notAfter-iso="1939-12-31">1930s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:dictionary</note>
+                  <note type="tag">vt:lexicon</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="cantineau_1936_8064"
+                        corresp="http://zotero.org/groups/2165756/items/453BSU8F"
+                        n="Cantineau1936b">
+               <analytic>
+                  <title level="a">Géographie linguistique des parlers arabes algériens</title>
+                  <author>
+                     <forename>Jean</forename>
+                     <surname>Cantineau</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Africaine</title>
+                  <imprint>
+                     <biblScope unit="volume">79</biblScope>
+                     <biblScope unit="page">91-93</biblScope>
+                     <date>1936</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="cantineau_1938_7058"
+                        corresp="http://zotero.org/groups/2165756/items/R3PKLNTI"
+                        n="Cantineau1938b">
+               <analytic>
+                  <title level="a">Les parlers arabes du département de Constantine</title>
+                  <author>
+                     <forename>Jean</forename>
+                     <surname>Cantineau</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Actes du IV. Congrès de la Fédération des Sociétés Savantes de l'Afrique du Nord II</title>
+                  <imprint>
+                     <biblScope unit="volume">2</biblScope>
+                     <date>1938</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Constantine</name>
+                     <geo>36.365000 6.614722</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="cantineau_1941_7022"
+                        corresp="http://zotero.org/groups/2165756/items/IUH9TIMB"
+                        n="Cantineau1941">
+               <analytic>
+                  <title level="a">Les parlers arabes des Territoires du Sud</title>
+                  <author>
+                     <forename>Jean</forename>
+                     <surname>Cantineau</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Africaine</title>
+                  <imprint>
+                     <biblScope unit="volume">85</biblScope>
+                     <biblScope unit="page">72-77</biblScope>
+                     <date>1941</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="cantineau_1951_7557"
+                        corresp="http://zotero.org/groups/2165756/items/TVTJQNS3"
+                        n="Cantineau1951">
+               <analytic>
+                  <title level="a">Analyse phonologique du parler arabe d’El-Ḥâmma de Gabès</title>
+                  <author>
+                     <forename>Jean</forename>
+                     <surname>Cantineau</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Bulletin de la Société de Linguistique de Paris</title>
+                  <imprint>
+                     <biblScope unit="volume">47</biblScope>
+                     <biblScope unit="page">64-105</biblScope>
+                     <date>1951</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1940-01-01"
+                           notAfter-iso="1949-12-31">1940s</date>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="caubet_2000_5088"
+                        corresp="http://zotero.org/groups/2165756/items/9XRTIYLX"
+                        n="Caubet2000e">
+               <analytic>
+                  <title level="a">Pour un atlas linguistique du Maghreb</title>
+                  <author>
+                     <forename>Dominique</forename>
+                     <surname>Caubet</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Tunisienne de Sciences Sociales</title>
+                  <imprint>
+                     <biblScope unit="volume">120</biblScope>
+                     <biblScope unit="page">191-202</biblScope>
+                     <date>2000</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="caubet_2000_5862"
+                        corresp="http://zotero.org/groups/2165756/items/N8LWJJUV"
+                        n="Caubet2000d">
+               <analytic>
+                  <title level="a">Questionnaire de dialectologie du Maghreb (d’après les travaux de W. Marçais, M. Cohen, G.S. Colin, J. Cantineau, D. Cohen, Ph. Marçais, S. Lévy, etc.)</title>
+                  <author>
+                     <forename>Dominique</forename>
+                     <surname>Caubet</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Estudios de Dialectología Norteafricana y Andalusí</title>
+                  <imprint>
+                     <biblScope unit="volume">5</biblScope>
+                     <biblScope unit="page">73-92</biblScope>
+                     <date>2000</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Morocco</name>
+                     <geo>32.000000 -6.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:general/comparative study</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="caubet_2004_3508"
+                        corresp="http://zotero.org/groups/2165756/items/Z8BXD2S8"
+                        n="Caubet2004e">
+               <analytic>
+                  <title level="a">Les parlers arabes nomades et sédentaires du Fezzān, d'après William et Philippe Marçais</title>
+                  <author>
+                     <forename>Dominique</forename>
+                     <surname>Caubet</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Approaches to Arabic dialects: a collection of articles presented to Manfred Woidich on the occasion of his sixtieth birthday</title>
+                  <editor>
+                     <forename>Martine</forename>
+                     <surname>Haak</surname>
+                  </editor>
+                  <editor>
+                     <forename>Rudolf</forename>
+                     <surname>De Jong</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Leiden</pubPlace>
+                     <biblScope unit="page">67-96</biblScope>
+                     <publisher>Brill</publisher>
+                     <date>2004</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert="high"
+                           notBefore-iso="1940-01-01"
+                           notAfter-iso="1949-12-31">1940s</date>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Fezzan</name>
+                     <geo>26.000000 14.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Fezzan</name>
+                     <geo>26.000000 14.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Libya</name>
+                     <geo>28.000000 17.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:description of dialect</note>
+                  <note type="tag">vt:ethnography</note>
+                  <note type="tag">vt:sedentary dialect</note>
+                  <note type="tag">vt:sociolinguistics</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="cheikh_2017_8165"
+                        corresp="http://zotero.org/groups/2165756/items/MPQSQQN4"
+                        n="Taine-Cheikh2017">
+               <analytic>
+                  <title level="a">La classification des parlers bédouins du Maghreb: Revisiter le classement traditionnel</title>
+                  <author>
+                     <forename>Catherine</forename>
+                     <surname>Taine-Cheikh</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Tunisian and Libyan Arabic Dialects: Common Trends – Recent Developments – Diachronic Aspects</title>
+                  <editor>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">15-42</biblScope>
+                     <publisher>Prensas de la Universidad de Zaragoza</publisher>
+                     <date>2017</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="cohen_1963_0000"
+                        corresp="http://zotero.org/groups/2165756/items/LWE8Y78S"
+                        n="Cohen1963">
+               <monogr>
+                  <title level="m">Le dialecte arabe Hassānīya de Mauritanie (parler de la Gəbla)</title>
+                  <author>
+                     <forename>David</forename>
+                     <surname>Cohen</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Librairie C. Klincksieck</publisher>
+                     <date>1963</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Mauritania</name>
+                     <geo>20.250000 -10.500000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="cohen_1970_3542"
+                        corresp="http://zotero.org/groups/2165756/items/Y8X6B9YR"
+                        n="Cohen1970f">
+               <analytic>
+                  <title level="a">Le système des voyelles brèves dans les dialectes maghrébins</title>
+                  <author>
+                     <forename>David</forename>
+                     <surname>Cohen</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Etudes de linguistique sémitique et arabe</title>
+                  <imprint>
+                     <pubPlace>The Hague/Paris</pubPlace>
+                     <biblScope unit="page">172-178</biblScope>
+                     <publisher>Mouton</publisher>
+                     <date>1970</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>original in Arabica IX (1962)</p>
+               </note>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Morocco</name>
+                     <geo>32.000000 -6.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:phonology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="despois_1950_9244"
+                        corresp="http://zotero.org/groups/2165756/items/WQUK27N6"
+                        n="Despois1950">
+               <analytic>
+                  <title level="a">Les Tunisiens</title>
+                  <author>
+                     <forename>M.J.</forename>
+                     <surname>Despois</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Initiation à la Tunisie</title>
+                  <editor>
+                     <forename>A.</forename>
+                     <surname>Basset</surname>
+                  </editor>
+                  <imprint>
+                     <biblScope unit="page">135-148</biblScope>
+                     <date>1950</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="encyclopediaArticle"
+                        xml:id="despois_1965_9066"
+                        corresp="http://zotero.org/groups/2165756/items/MJ3YUUZ3"
+                        n="Despois1965">
+               <analytic>
+                  <title level="a">Algeria</title>
+                  <author>
+                     <forename>M.J.</forename>
+                     <surname>Despois</surname>
+                  </author>
+                  <author>
+                     <forename>G.</forename>
+                     <surname>Marçais</surname>
+                  </author>
+                  <author>
+                     <forename>M.</forename>
+                     <surname>Colombe</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Encyclopaedia of Islam: New Edition. Vol. II.</title>
+                  <imprint>
+                     <pubPlace>Leiden</pubPlace>
+                     <biblScope unit="volume">H.A.R. Gibb et al. (eds.)</biblScope>
+                     <biblScope unit="page">374-379</biblScope>
+                     <publisher>Brill</publisher>
+                     <date>1965</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="dhina_1938_0000"
+                        corresp="http://zotero.org/groups/2165756/items/7M3CF8ME"
+                        n="Dhina1938">
+               <analytic>
+                  <title level="a">Notes sur la phonétique et la morphologie du parler des Arbāˁ</title>
+                  <author>
+                     <forename>A.</forename>
+                     <surname>Dhina</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Africaine</title>
+                  <imprint>
+                     <biblScope unit="volume">82</biblScope>
+                     <biblScope unit="page">313-353</biblScope>
+                     <date>1938</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:phonology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="dornier_2004_2653"
+                        corresp="http://zotero.org/groups/2165756/items/Z6SZASGG"
+                        n="Dornier2004">
+               <analytic>
+                  <title level="a">La Politesse tunisienne</title>
+                  <author>
+                     <forename>François</forename>
+                     <surname>Dornier</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Publications de l’Institut des Belles Lettres Arabes, Tunis</title>
+                  <imprint>
+                     <biblScope unit="volume">39</biblScope>
+                     <biblScope unit="issue">3ème tirage</biblScope>
+                     <date>2004</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="eksell_harning_1980_0000"
+                        corresp="http://zotero.org/groups/2165756/items/D8DFHQVR"
+                        n="Eksell_Harning1980">
+               <monogr>
+                  <title level="m">The analytic genitive in the modern Arabic dialects</title>
+                  <author>
+                     <forename>Kerstin</forename>
+                     <surname>Eksell Harning</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Göteborg</pubPlace>
+                     <publisher>University of Göteborg</publisher>
+                     <date>1980</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="gibson_1996_0000"
+                        corresp="http://zotero.org/groups/2165756/items/Y4XCUTRW"
+                        n="Gibson1996">
+               <analytic>
+                  <title level="a">Implicational dialectology: Second person pronouns and suffixes in Tunisian Arabic</title>
+                  <author>
+                     <forename>Maik</forename>
+                     <surname>Gibson</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Current Issues in Linguistic Theory</title>
+                  <imprint>
+                     <biblScope unit="volume">141</biblScope>
+                     <biblScope unit="page">95-114</biblScope>
+                     <date>1996</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:morphology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="gibson_2002_0000"
+                        corresp="http://zotero.org/groups/2165756/items/XS4REWBZ"
+                        n="Gibson2002">
+               <analytic>
+                  <title level="a">Dialect levelling in Tunisian Arabic: Towards a new standard</title>
+                  <author>
+                     <forename>Maik</forename>
+                     <surname>Gibson</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Language Contact and Language Conflict in Arabic: Variations on a sociolinguistic theme</title>
+                  <editor>
+                     <forename>Aleya</forename>
+                     <surname>Rouchdy</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>London</pubPlace>
+                     <biblScope unit="page">24-40</biblScope>
+                     <publisher>RoutledgeCurzon</publisher>
+                     <date>2002</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:conversation/dialogue</note>
+                  <note type="tag">vt:diglossia</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:sociolinguistics</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="encyclopediaArticle"
+                        xml:id="gibson_2008_0000"
+                        corresp="http://zotero.org/groups/2165756/items/MX9LYWP3"
+                        n="Gibson2008">
+               <analytic>
+                  <title level="a">Tunis Arabic</title>
+                  <author>
+                     <forename>Maik</forename>
+                     <surname>Gibson</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
+                  <imprint>
+                     <pubPlace>Leiden</pubPlace>
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="page">563-571</biblScope>
+                     <publisher>Brill</publisher>
+                     <date>2008</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Tunis</name>
+                     <geo>36.818889 10.165833</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:conversation/dialogue</note>
+                  <note type="tag">vt:description of dialect</note>
+                  <note type="tag">vt:sedentary dialect</note>
+                  <note type="tag">vt:transcribed texts</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="henkin_2010_3039"
+                        corresp="http://zotero.org/groups/2165756/items/TTMVIHVK"
+                        n="Henkin2010">
+               <monogr>
+                  <title level="m">Negev Arabic: Dialectal, sociolinguistic, and stylistic variation</title>
+                  <author>
+                     <forename>Roni</forename>
+                     <surname>Henkin</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wiesbaden</pubPlace>
+                     <publisher>Harrassowitz</publisher>
+                     <date>2010</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Arabian Peninsula</name>
+                     <geo>25.000000 45.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Israel</name>
+                     <geo>31.500000 34.750000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Negev</name>
+                     <geo>30.500000 34.916667</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:language of a tribe</note>
+                  <note type="tag">vt:sociolinguistics</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="holes_2004_6329"
+                        corresp="http://zotero.org/groups/2165756/items/ZTZRV4UF"
+                        n="Holes2004d">
+               <monogr>
+                  <title level="m">Modern Arabic: Structures, Functions and Varieties. Revised Edition</title>
+                  <author>
+                     <forename>Clive</forename>
+                     <surname>Holes</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Washington D.C.</pubPlace>
+                     <publisher>Georgetown University Press</publisher>
+                     <date>2004</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Georgetown Classics in Arabic Language and Linguistics</title>
+               </series>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:comparative studies</note>
+                  <note type="tag">vt:diachronic perspective</note>
+                  <note type="tag">vt:diglossia</note>
+                  <note type="tag">vt:sociolinguistics</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="encyclopediaArticle"
+                        xml:id="idris_1971_3373"
+                        corresp="http://zotero.org/groups/2165756/items/TJ6SBQIT"
+                        n="Idris1971">
+               <analytic>
+                  <title level="a">Hilal</title>
+                  <author>
+                     <forename>H.R.</forename>
+                     <surname>Idris</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Encyclopaedia of Islam: New Edition. Vol. III.</title>
+                  <imprint>
+                     <pubPlace>Leiden</pubPlace>
+                     <biblScope unit="volume">H.A.R. Gibb et al. (eds.)</biblScope>
+                     <biblScope unit="page">385-387</biblScope>
+                     <publisher>Brill</publisher>
+                     <date>1971</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="louis_1979_6278"
+                        corresp="http://zotero.org/groups/2165756/items/BKKXU6IN"
+                        n="Louis1979">
+               <monogr>
+                  <title level="m">Nomades d’hier et d’aujourd’hui dans le Sud tunisien</title>
+                  <author>
+                     <forename>André</forename>
+                     <surname>Louis</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Aix-en-Provence</pubPlace>
+                     <date>1979</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="marcais_1938_3834"
+                        corresp="http://zotero.org/groups/2165756/items/WSX4T7AB"
+                        n="Marçais1938">
+               <analytic>
+                  <title level="a">Comment l'Afrique du Nord été arabisée I. L'arabisation des villes</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Annales de l'Institut d'études Orientales</title>
+                  <imprint>
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="page">1-21</biblScope>
+                     <date>1938</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:diachronic perspective</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="marcais_1956_3835"
+                        corresp="http://zotero.org/groups/2165756/items/7BMZ86TF"
+                        n="Marçais1956a">
+               <analytic>
+                  <title level="a">Comment l'Afrique du Nord été arabisée I. L'arabisation des campagnes</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Annales de l'Institut d'études Orientales</title>
+                  <imprint>
+                     <biblScope unit="volume">14</biblScope>
+                     <biblScope unit="page">5-17</biblScope>
+                     <date>1956</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:Egypt-Sudan</note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:diachronic perspective</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="marcais_1977_3829"
+                        corresp="http://zotero.org/groups/2165756/items/DV6VRG9W"
+                        n="Marçais1977b">
+               <monogr>
+                  <title level="m">Esquisse grammaticale de l'arabe maghrébin</title>
+                  <author>
+                     <forename>Philippe</forename>
+                     <surname>Marçais</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Maisonneuve</publisher>
+                     <date>1977</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>UBW AR V 708 - HAND</p>
+               </note>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Morocco</name>
+                     <geo>32.000000 -6.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:grammar</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="marcais_1981_0000"
+                        corresp="http://zotero.org/groups/2165756/items/HQNSVVXD"
+                        n="Marçais1981">
+               <analytic>
+                  <title level="a">Gazelles et outardes en Tunisie: reportage en parler arabe de la tribu des Mahâdhba</title>
+                  <author>
+                     <forename>Philippe</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Arabica</title>
+                  <imprint>
+                     <biblScope unit="volume">28</biblScope>
+                     <biblScope unit="page">369-387</biblScope>
+                     <date>1981</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:ethnography</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:language of a tribe</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="marcais_2001_0000"
+                        corresp="http://zotero.org/groups/2165756/items/HHMRB5I6"
+                        n="Marçais2001">
+               <monogr>
+                  <title level="m">Parlers arabes du Fezzân. Textes, traductions et éléments de morphologie rassemblés et présentés par Dominique Caubet, Aubert Martin et Laurence Denooz</title>
+                  <author>
+                     <forename>Philippe</forename>
+                     <surname>Marçais</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Geneva</pubPlace>
+                     <date>2001</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert="low"
+                           notBefore-iso="1940-01-01"
+                           notAfter-iso="1949-12-31">1940s</date>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Fezzan</name>
+                     <geo>26.000000 14.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Libya</name>
+                     <geo>28.000000 17.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="marcais_fares_1931_0000"
+                        corresp="http://zotero.org/groups/2165756/items/4X55WQEN"
+                        n="Marçais1931a">
+               <analytic>
+                  <title level="a">Trois textes arabes d'el-Hâmma de Gabès</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+                  <author>
+                     <forename>Jelloûli</forename>
+                     <surname>Farès</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Journal Asiatique</title>
+                  <imprint>
+                     <biblScope unit="volume">218</biblScope>
+                     <biblScope unit="page">193-247</biblScope>
+                     <date>1931</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">El-Hamma</name>
+                     <geo>33.892500 9.594167</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:ethnographic record</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="martel_1965_2819"
+                        corresp="http://zotero.org/groups/2165756/items/SKPY2EHH"
+                        n="Martel1965">
+               <monogr>
+                  <title level="m">Les confins saharo-tripolitains de la Tunisie (1881-1911)</title>
+                  <author>
+                     <forename>André</forename>
+                     <surname>Martel</surname>
+                  </author>
+                  <edition>2</edition>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Presse Universitaires de France</publisher>
+                     <date>1965</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="marçais_1921_9177"
+                        corresp="http://zotero.org/groups/2165756/items/GQGS5FS9"
+                        n="Marçais1921">
+               <analytic>
+                  <title level="a">Le nom d’une fois dans le parler arabe du Djendouba (nord-ouest Tunisien)</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Mélanges du cinquantenaire de l’École pratique des Hautes-Études</title>
+                  <imprint>
+                     <biblScope unit="page">122-140</biblScope>
+                     <date>1921</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="marçais_1925_6953"
+                        corresp="http://zotero.org/groups/2165756/items/IPDIJ38P"
+                        n="Marçais1925">
+               <monogr>
+                  <title level="m">Textes arabes de Takroûna. I: Textes, transcription et traduction annotée</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+                  <author>
+                     <forename>Abderrahmân</forename>
+                     <surname>Guîga</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Ernest Leroux</publisher>
+                     <date>1925</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Takrouna</name>
+                     <geo>36.150000 10.333333</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tunis</name>
+                     <geo>36.818889 10.165833</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:ethnographic record</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="marçais_1950_0746"
+                        corresp="http://zotero.org/groups/2165756/items/GW8XL97T"
+                        n="Marçais1950">
+               <analytic>
+                  <title level="a">Les parlers arabes</title>
+                  <author>
+                     <forename>William</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Initiation à la Tunisie</title>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <biblScope unit="page">195-226</biblScope>
+                     <publisher>Maisonneuve</publisher>
+                     <date>1950</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:conversation/dialogue</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="marçais_1957_8418"
+                        corresp="http://zotero.org/groups/2165756/items/JFH9S2RV"
+                        n="Marçais1957">
+               <analytic>
+                  <title level="a">Les parlers arabes</title>
+                  <author>
+                     <forename>Phillippe</forename>
+                     <surname>Marçais</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Initiation à l'Algérie</title>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <biblScope unit="page">214-237</biblScope>
+                     <publisher>Maisonneuve</publisher>
+                     <date>1957</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="mejri_2000_3926"
+                        corresp="http://zotero.org/groups/2165756/items/RPIXFW54"
+                        n="Mejri2000">
+               <analytic>
+                  <title level="a">L’Atlas linguistique de Tunisie: le linguistique ancré dans le réel</title>
+                  <author>
+                     <forename>Salah</forename>
+                     <surname>Mejri</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Tunisienne des Sciences Sociales</title>
+                  <imprint>
+                     <biblScope unit="issue">120</biblScope>
+                     <biblScope unit="page">183-190</biblScope>
+                     <date>2000</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="mejri_youssi_2002_0000"
+                        corresp="http://zotero.org/groups/2165756/items/IG65PKD2"
+                        n="Mejri2002">
+               <analytic>
+                  <title level="a">L’Atlas linguistique de Tunisie : le questionnaire morphosyntaxique</title>
+                  <author>
+                     <forename>Salah</forename>
+                     <surname>Mejri</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Aspects of the dialects of Arabic today: Proceedings of the 4th Conference of the International Arabic Dialectology Association (AIDA), Marrakesh, April 1-4, 2000. In honour of Professor David Cohen</title>
+                  <idno type="ISBN">9954-0-2720-3</idno>
+                  <editor>
+                     <forename>Abderrahim</forename>
+                     <surname>Youssi</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Rabat</pubPlace>
+                     <biblScope unit="page">55-59</biblScope>
+                     <publisher>Amapatril</publisher>
+                     <date>2002</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="magazineArticle"
+                        xml:id="mion_2014_6669"
+                        corresp="http://zotero.org/groups/2165756/items/RE76T9AX"
+                        n="Mion2014b">
+               <analytic>
+                  <title level="a">Éléments de description de l’arabe parlé à Mateur (Tunisie)</title>
+                  <author>
+                     <forename>Giuliano</forename>
+                     <surname>Mion</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Al-Andalus Magreb: Estudios árabes e islámicos</title>
+                  <imprint>
+                     <biblScope unit="issue">21</biblScope>
+                     <biblScope unit="page">57-77</biblScope>
+                     <date>2014</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="mion_2015_4988"
+                        corresp="http://zotero.org/groups/2165756/items/TY96T8K4"
+                        n="Mion2015b">
+               <analytic>
+                  <title level="a">Réflexions sur la catégorie des «parlers villageois» en arabe tunisien.”</title>
+                  <author>
+                     <forename>Giuliano</forename>
+                     <surname>Mion</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Romano-Arabica XV</title>
+                  <imprint>
+                     <biblScope unit="issue">Graffiti, Writing and Street Art in the Arab World</biblScope>
+                     <biblScope unit="page">269-277</biblScope>
+                     <date>2015</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="mosbah_2000_5108"
+                        corresp="http://zotero.org/groups/2165756/items/UF9KFP9C"
+                        n="Mosbah2000">
+               <analytic>
+                  <title level="a">‘Q’ ‘γ’ à el Faouar, Kebili: Quels rapports? Quelles interpretations?</title>
+                  <author>
+                     <forename>Said</forename>
+                     <surname>Mosbah</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue Tunisienne de Sciences Sociales</title>
+                  <imprint>
+                     <biblScope unit="volume">120</biblScope>
+                     <biblScope unit="page">225-230</biblScope>
+                     <date>2000</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+            <biblStruct type="thesis"
+                        xml:id="naddari_2023_2742"
+                        corresp="http://zotero.org/groups/2165756/items/ERM2XT6C"
+                        n="Aleksandra_Naddari2023">
+               <monogr>
+                  <title level="m">“The Arabic Variety of Nefza (Northwest Tunisia):  Phonology, Morphology and Texts”</title>
+                  <author>
+                     <name>Aleksandra Naddari</name>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="naddari_2024_2985"
+                        corresp="http://zotero.org/groups/2165756/items/R32S6HU7"
+                        n="Naddari2024">
+               <analytic>
+                  <title level="a">Pronominal Suffix Variation in Nefza Arabic (Northwest Tunisia)</title>
+                  <author>
+                     <forename>Aleksandra</forename>
+                     <surname>Naddari</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">AIDA Granada: A pomegranate of Arabic varieties</title>
+                  <editor>
+                     <forename>Carmen</forename>
+                     <surname>Berlinches Ramos</surname>
+                  </editor>
+                  <editor>
+                     <forename>Jairo</forename>
+                     <surname>Guerrero</surname>
+                  </editor>
+                  <editor>
+                     <forename>Montserrat</forename>
+                     <surname>Benítez Fernández</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">335-346</biblScope>
+                     <publisher>Prensas de la Universidad de Zaragoza</publisher>
+                     <date>2024</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="owens_2006_3200"
+                        corresp="http://zotero.org/groups/2165756/items/QZ8LMB8Z"
+                        n="Owens2006">
+               <monogr>
+                  <title level="m">A linguistic history of Arabic</title>
+                  <author>
+                     <forename>Jonathan</forename>
+                     <surname>Owens</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Oxford</pubPlace>
+                     <publisher>Oxford University Press</publisher>
+                     <date>2006</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:diachronic perspective</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="pereira_2010_1918"
+                        corresp="http://zotero.org/groups/2165756/items/LP9K6JE8"
+                        n="Pereira2010">
+               <monogr>
+                  <title level="m">Le parler arabe de Tripoli (Libye)</title>
+                  <author>
+                     <forename>Christophe</forename>
+                     <surname>Pereira</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <publisher>Instituto de Estudios Islámicos y del Oriente Próximo</publisher>
+                     <date>2010</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert="low"
+                           notBefore-iso="2000-01-01"
+                           notAfter-iso="2009-12-31">2000s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tripoli (Libya)</name>
+                     <geo>32.887500 13.187222</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tripoli (Libya)</name>
+                     <geo>32.887500 13.187222</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Libya</name>
+                     <geo>28.000000 17.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="prochazka_ritt_benmimoun_2008_0000"
+                        corresp="http://zotero.org/groups/2165756/items/GY2QQ2WW"
+                        n="Procházka2008c">
+               <analytic>
+                  <title level="a">The desert versus the sown in modern Tunisian Bedouin dialects</title>
+                  <author>
+                     <forename>Stephan</forename>
+                     <surname>Procházka</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">30 Years of Arabic in Islamic Studies in Bulgaria</title>
+                  <editor>
+                     <forename>Tzvetan</forename>
+                     <surname>Theophanov</surname>
+                  </editor>
+                  <editor>
+                     <forename>Penka</forename>
+                     <surname>Samsareva</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Sofia</pubPlace>
+                     <biblScope unit="page">83-96</biblScope>
+                     <publisher>University Press St. Kliment Ohridski</publisher>
+                     <date>2008</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tunis</name>
+                     <geo>36.818889 10.165833</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:sociolinguistics</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="quemeneur_1963_0000"
+                        corresp="http://zotero.org/groups/2165756/items/2WLN4VC7"
+                        n="Quéméneur1963">
+               <analytic>
+                  <title level="a">Les verbes à allongement vocalique interne en arabe parlé tunisien</title>
+                  <author>
+                     <forename>Jean</forename>
+                     <surname>Quéméneur</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">La Revue IBLA</title>
+                  <imprint>
+                     <biblScope unit="issue">26/102</biblScope>
+                     <biblScope unit="page">119-136</biblScope>
+                     <date>1963</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="retso_1983_0001"
+                        corresp="http://zotero.org/groups/2165756/items/5AGSDUQK"
+                        n="Retsö1983b">
+               <monogr>
+                  <title level="m">The Finite Passive Voice in Modern Arabic Dialects</title>
+                  <author>
+                     <forename>Jan</forename>
+                     <surname>Retsö</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Gothenburg</pubPlace>
+                     <publisher>Acta Universitatis Gothoburgensis</publisher>
+                     <date>1983</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Orientalia Gothoburgensia</title>
+                  <biblScope unit="volume">7</biblScope>
+               </series>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:morphology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_2016_2779"
+                        corresp="http://zotero.org/groups/2165756/items/KB3LRVGV"
+                        n="Ritt-Benmimoun2016">
+               <analytic>
+                  <title level="a">A Formal Analysis of Curses and Blessings in a Bedouin Dialect of Southern Tunisia</title>
+                  <idno type="DOI">10.13173/zeitarabling.64.0034</idno>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <idno type="ISSN">0170026X</idno>
+                  <imprint>
+                     <biblScope unit="issue">64</biblScope>
+                     <biblScope unit="page">34-68</biblScope>
+                     <date>2016</date>
+                     <note type="url">http://www.jstor.org/stable/10.13173/zeitarabling.64.0034</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:lexicon</note>
+                  <note type="tag">vt:phraseology</note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt-benmimoun_2017_3101"
+                        corresp="http://zotero.org/groups/2165756/items/J4Y2SWD7"
+                        n="Ritt-Benmimoun2017d">
+               <analytic>
+                  <title level="a">Agreement with Plural Heads in Tunisian Arabic: The Bedouin South</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Tunisian and Libyan Arabic Dialects : Common Trends - Recent Developments - Diachronic Aspects</title>
+                  <editor>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">261-287</biblScope>
+                     <publisher>Prensas de la Universidad de Zaragoza</publisher>
+                     <date>2017</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Accession Number: ICHA1007738. Ritt-Benmimoun, Veronika. Publication Date: 20170101. Note: Estudios de Dialectología Árabe. Number of Pages: 27. Document Type: Book Chapter. Language: English.</p>
+               </note>
+               <note type="tags">
+                  <note type="tag">Arabic language: colloquial</note>
+                  <note type="tag">Bedouins</note>
+                  <note type="tag">Colloquial Arabic dialects Maghribi</note>
+                  <note type="tag" subtype="unmarked_geo">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">Village studies &amp; rural living</note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_2021_2993"
+                        corresp="http://zotero.org/groups/2165756/items/9C39H9AK"
+                        n="Ritt-Benmimoun2021">
+               <analytic>
+                  <title level="a">First new data fromTunisia's dialectal terra incognita: A preliminary report</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue de Linguistique Tunisienne</title>
+                  <imprint>
+                     <biblScope unit="volume">6</biblScope>
+                     <biblScope unit="page">29-59</biblScope>
+                     <date>2021</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt-benmimoun_2022_1834"
+                        corresp="http://zotero.org/groups/2165756/items/JR9RHV84"
+                        n="Ritt-Benmimoun2020c">
+               <analytic>
+                  <title level="a">Tunisia's linguistic terra incognita: An investigation into the Arabic varieties of northwestern and central Tunisia (Tunocent)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Studies on Arabic dialectology and sociolinguistics: Proceedings of the 13th International Conference of AIDA held in Kutaisi in June 10-13, 2019</title>
+                  <idno type="ISBN">978-9941-453-88-5</idno>
+                  <editor>
+                     <forename>Guram</forename>
+                     <surname>Chikovani</surname>
+                  </editor>
+                  <editor>
+                     <forename>Zviad</forename>
+                     <surname>Tskhvediani</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Kutaisi</pubPlace>
+                     <biblScope unit="page">256-264</biblScope>
+                     <publisher>Akaki Tsereteli State University</publisher>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt-benmimoun_2022_2434"
+                        corresp="http://zotero.org/groups/2165756/items/5TEEAD39"
+                        n="Ritt-Benmimoun_Veronika2022">
+               <analytic>
+                  <title level="a">Traditional Recipes from il-Kǟf (Northwestern Tunisia)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Semitic dialects and dialectology : fieldwork - community - change</title>
+                  <idno type="ISBN">978-3-96822-095-6 / Druck:  9783968220963</idno>
+                  <editor>
+                     <forename>Maciej</forename>
+                     <surname>Klimiuk</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Heidelberg</pubPlace>
+                     <biblScope unit="page">331-343</biblScope>
+                     <publisher>Heidelberg University Publishing</publisher>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_2023_3821"
+                        corresp="http://zotero.org/groups/2165756/items/PTZMM3AP"
+                        n="Ritt-Benmimoun2023">
+               <analytic>
+                  <title level="a">Interrogatives in Tunisia with a focus on the Arabic varieties spoken in North-western, Central and Southern Tunisia</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <imprint>
+                     <biblScope unit="volume">77</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="page">52-71</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_et_al_2021_5678"
+                        corresp="http://zotero.org/groups/2165756/items/9T4CCL5C"
+                        n="Mattiello2021">
+               <analytic>
+                  <title level="a">Asymmetric use of diminutives and hypocoristics to pet animals in Italian, German, English, and Arabic</title>
+                  <idno type="DOI">10.1016/j.langcom.2020.11.004</idno>
+                  <author>
+                     <forename>Elisa</forename>
+                     <surname>Mattiello</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+                  <author>
+                     <forename>Wolfgang U.</forename>
+                     <surname>Dressler</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Language &amp; Communication</title>
+                  <idno type="ISSN">02715309</idno>
+                  <imprint>
+                     <biblScope unit="volume">76</biblScope>
+                     <biblScope unit="page">136-153</biblScope>
+                     <date>2021</date>
+                     <note type="accessed">2024-09-30T10:30:42Z</note>
+                     <note type="url">https://linkinghub.elsevier.com/retrieve/pii/S0271530920301063</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt_benmimoun_2011_0000"
+                        corresp="http://zotero.org/groups/2165756/items/IXIJRVEE"
+                        n="Ritt-Benmimoun2011a">
+               <analytic>
+                  <title level="a">Mädchenspiele der ʿAðāṛa in Zaʿfṛān (Südtunesien)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Mediterranean Language Review</title>
+                  <imprint>
+                     <biblScope unit="volume">18</biblScope>
+                     <biblScope unit="page">25-64</biblScope>
+                     <date>2011</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Zaafrane</name>
+                     <geo>33.442778 8.920556</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="ritt_benmimoun_2011_0001"
+                        corresp="http://zotero.org/groups/2165756/items/NX84URPM"
+                        n="Ritt-Benmimoun2011b">
+               <monogr>
+                  <title level="m">Texte im arabischen Beduinendialekt der Region Douz (Südtunesien)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wiesbaden</pubPlace>
+                     <publisher>Harrassowitz</publisher>
+                     <date>2011</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="2000-01-01"
+                           notAfter-iso="2009-12-31">2000s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt_benmimoun_2023_2345"
+                        corresp="http://zotero.org/groups/2165756/items/2KL83TEJ"
+                        n="Dressler2023">
+               <analytic>
+                  <title level="a">Morphological richness and priority of pragmatics over semantics in Italian, Arabic, German and English diminutives</title>
+                  <author>
+                     <forename>Wolfgang U.</forename>
+                     <surname>Dressler</surname>
+                  </author>
+                  <author>
+                     <forename>Elsa</forename>
+                     <surname>Matiello</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Diminutives Across Languages, Theoretical Frameworks and Linguistic Domains</title>
+                  <idno type="ISBN">978-3-11-079283-6</idno>
+                  <imprint>
+                     <biblScope unit="volume">380</biblScope>
+                     <biblScope unit="page">335-362</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt_benmimoun_durand_2014_0000"
+                        corresp="http://zotero.org/groups/2165756/items/BP7U8J3C"
+                        n="Ritt-Benmimoun2014b">
+               <analytic>
+                  <title level="a">The Tunisian Hilāl and Sulaym Dialects. A Preliminary Comparative Study</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Alf lahǧa wa lahǧa : proceedings of the 9th Aida Conference</title>
+                  <idno type="ISBN">978-3-643-90334-1</idno>
+                  <editor>
+                     <forename>Olivier</forename>
+                     <surname>Durand</surname>
+                  </editor>
+                  <editor>
+                     <forename>Angela Daiana</forename>
+                     <surname>Langone</surname>
+                  </editor>
+                  <editor>
+                     <forename>Giuliano</forename>
+                     <surname>Mion</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <biblScope unit="page">351-359</biblScope>
+                     <publisher>LIT Verlag</publisher>
+                     <date>2014</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:general/comparative study</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="rosenhouse_1984_0003"
+                        corresp="http://zotero.org/groups/2165756/items/JJRQAHT4"
+                        n="Rosenhouse1984b">
+               <monogr>
+                  <title level="m">The Bedouin Arabic Dialects. General problems and a close analysis of North Israel Bedouin Dialects</title>
+                  <author>
+                     <forename>Judith</forename>
+                     <surname>Rosenhouse</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wiesbaden</pubPlace>
+                     <publisher>Harrassowitz</publisher>
+                     <date>1984</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Jisr az-Zarqa</name>
+                     <geo>32.536944 34.912778</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Israel</name>
+                     <geo>31.500000 34.750000</geo>
+                  </note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="saada_1981_0000"
+                        corresp="http://zotero.org/groups/2165756/items/GX56I4BF"
+                        n="Saada1981">
+               <monogr>
+                  <title level="m">Études sur le parler arabe de Tozeur</title>
+                  <author>
+                     <forename>Lucienne</forename>
+                     <surname>Saada</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Geuthner</publisher>
+                     <date>1981</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Tozeur</name>
+                     <geo>33.919722 8.133611</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="saada_1984_0002"
+                        corresp="http://zotero.org/groups/2165756/items/SR2MYQQU"
+                        n="Saada1984">
+               <monogr>
+                  <title level="m">Éléments de description du parler arabe de Tozeur (Tunisie). Phonologie, morphologie, syntaxe</title>
+                  <author>
+                     <forename>Lucienne</forename>
+                     <surname>Saada</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Geuthner</publisher>
+                     <date>1984</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1960-01-01"
+                           notAfter-iso="1969-12-31">1960s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tozeur</name>
+                     <geo>33.919722 8.133611</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="singer_1980_4006"
+                        corresp="http://zotero.org/groups/2165756/items/Z44ZYP5X"
+                        n="Singer1980c">
+               <analytic>
+                  <title level="a">Das Westarabische oder Maghribinische</title>
+                  <author>
+                     <forename>Hans-Rudolf</forename>
+                     <surname>Singer</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Handbuch der Arabischen Dialekte</title>
+                  <editor>
+                     <forename>Wolfdietrich</forename>
+                     <surname>Fischer</surname>
+                  </editor>
+                  <editor>
+                     <forename>Otto</forename>
+                     <surname>Jastrow</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Wiesbaden</pubPlace>
+                     <biblScope unit="page">249-270</biblScope>
+                     <publisher>Harrassowitz</publisher>
+                     <date>1980</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>UBW AR V 2/b</p>
+               </note>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Algeria</name>
+                     <geo>28.000000 3.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Morocco</name>
+                     <geo>32.000000 -6.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="singer_1984_0000"
+                        corresp="http://zotero.org/groups/2165756/items/84SAGIDU"
+                        n="Singer1984">
+               <monogr>
+                  <title level="m">Grammatik der arabischen Mundart der Medina von Tunis</title>
+                  <author>
+                     <forename>Hans-Rudolf</forename>
+                     <surname>Singer</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Berlin &amp; New York</pubPlace>
+                     <publisher>De Gruyter</publisher>
+                     <date>1984</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1960-01-01"
+                           notAfter-iso="1969-12-31">1960s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Tunis</name>
+                     <geo>36.818889 10.165833</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:phonology</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="singer_1996_4001"
+                        corresp="http://zotero.org/groups/2165756/items/ZU2UHHWX"
+                        n="Singer1996">
+               <analytic>
+                  <title level="a">Ein arabischer Text aus Ṭaṭawîn</title>
+                  <author>
+                     <forename>Hans-Rudolf</forename>
+                     <surname>Singer</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Romania Arabica: Festschrift für Reinhold Kontzi zum 70. Geburtstag</title>
+                  <editor>
+                     <forename>J.</forename>
+                     <surname>Lüdtke</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Tübingen</pubPlace>
+                     <biblScope unit="page">31-36</biblScope>
+                     <publisher>Narr</publisher>
+                     <date>1996</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Tataouine</name>
+                     <geo>32.929722 10.451667</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="skik_1969_2886"
+                        corresp="http://zotero.org/groups/2165756/items/9K294XHN"
+                        n="Skik1969">
+               <analytic>
+                  <title level="a">Description phonologique du parler arabe de Gabès (Tunisie)</title>
+                  <author>
+                     <forename>Hichem</forename>
+                     <surname>Skik</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Travaux de Phonologie. Cahier du C.E.R.E.S.</title>
+                  <imprint>
+                     <biblScope unit="volume">Série Linguistique 2</biblScope>
+                     <biblScope unit="page">83-114</biblScope>
+                     <date>1969</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="stumme_1896_0000"
+                        corresp="http://zotero.org/groups/2165756/items/X7XIJK9X"
+                        n="Stumme1896b">
+               <monogr>
+                  <title level="m">Grammatik des tunisischen Arabisch nebst Glossar</title>
+                  <author>
+                     <forename>Hans</forename>
+                     <surname>Stumme</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <publisher>J.C. Heinrich</publisher>
+                     <date>1896</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Tunis</name>
+                     <geo>36.818889 10.165833</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:lexicon</note>
+                  <note type="tag">vt:morphology</note>
+                  <note type="tag">vt:phonology</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="book"
+                        xml:id="talmoudi_1980_0000"
+                        corresp="http://zotero.org/groups/2165756/items/VNHH49Z2"
+                        n="Talmoudi1980">
+               <monogr>
+                  <title level="m">The Arabic Dialect of Sūsa (Tunisia)</title>
+                  <author>
+                     <forename>Fathi</forename>
+                     <surname>Talmoudi</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Göteborg</pubPlace>
+                     <publisher>Acta Universitatis Gothoburgensis</publisher>
+                     <date>1980</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Orientalia Gothoburgensia</title>
+               </series>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Sousse</name>
+                     <geo>35.825278 10.636944</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:description of dialect</note>
+                  <note type="tag">vt:urban dialect</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="talmoudi_1984_0000"
+                        corresp="http://zotero.org/groups/2165756/items/YV9CGWBZ"
+                        n="Talmoudi1984c">
+               <analytic>
+                  <title level="a">Notes on the syntax of the Arabic dialect of Sūsa</title>
+                  <author>
+                     <forename>Fathi</forename>
+                     <surname>Talmoudi</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <idno type="ISSN">0170026X</idno>
+                  <imprint>
+                     <biblScope unit="issue">12</biblScope>
+                     <biblScope unit="page">48-85</biblScope>
+                     <date>1984</date>
+                     <note type="url">http://www.jstor.org/stable/43530450</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="1970-01-01"
+                           notAfter-iso="1979-12-31">1970s</date>
+                  </note>
+                  <note type="tag">
+                     <name type="geo">Sousse</name>
+                     <geo>35.825278 10.636944</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="vicente_2009_3789"
+                        corresp="http://zotero.org/groups/2165756/items/FZT7RK6J"
+                        n="Vicente2009b">
+               <analytic>
+                  <title level="a">Gender and Language Boundaries in the Arab World. Current Issues and Perspectives.</title>
+                  <author>
+                     <forename>Ángeles</forename>
+                     <surname>Vicente</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Estudios de Dialectología Norteafricana y Andalusí (EDNA) 13</title>
+                  <imprint>
+                     <biblScope unit="page">7-30</biblScope>
+                     <date>2009</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:gender aspects</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="vincente_2008_3119"
+                        corresp="http://zotero.org/groups/2165756/items/39ZBC9KE"
+                        n="Behnstedt2008">
+               <analytic>
+                  <title level="a">Árabe beduino (Península Arábiga y Oriente Próximo)</title>
+                  <author>
+                     <forename>Peter</forename>
+                     <surname>Behnstedt</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Manual de dialectología neoárabe</title>
+                  <editor>
+                     <forename>Federico</forename>
+                     <surname>Corriente</surname>
+                  </editor>
+                  <editor>
+                     <forename>Ángeles</forename>
+                     <surname>Vicente</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">69-95</biblScope>
+                     <publisher>Instituto de Estudios Islámicos y del Oriente Próximo</publisher>
+                     <date>2008</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:diachronic perspective</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="waltisberg_2012_7253"
+                        corresp="http://zotero.org/groups/2165756/items/QBZWYCND"
+                        n="Waltisberg2012">
+               <analytic>
+                  <title level="a">Zur Syntax eines arabischen Beduinendialekts</title>
+                  <author>
+                     <forename>Michael</forename>
+                     <surname>Waltisberg</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Mediterranean Language Review</title>
+                  <imprint>
+                     <biblScope unit="volume">19</biblScope>
+                     <biblScope unit="page">35-58</biblScope>
+                     <date>2012</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">
+                     <name type="geo">Douz</name>
+                     <geo>33.466389 9.020278</geo>
+                  </note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:syntax</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="watson_2011_3122"
+                        corresp="http://zotero.org/groups/2165756/items/CXJP36EU"
+                        n="Watson2011b">
+               <analytic>
+                  <title level="a">Arabic dialects (general article)</title>
+                  <author>
+                     <forename>Janet C.E.</forename>
+                     <surname>Watson</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">The Semitic languages: an international handbook</title>
+                  <editor>
+                     <forename>Stefan</forename>
+                     <surname>Weninger</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Berlin &amp; Boston</pubPlace>
+                     <biblScope unit="page">851-895</biblScope>
+                     <publisher>De Gruyter Mouton</publisher>
+                     <date>2011</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">vt:Arab World general</note>
+                  <note type="tag">vt:general/comparative study</note>
+                  <note type="tag">vt:linguistics/dialectology</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="zafrani_2003_4098"
+                        corresp="http://zotero.org/groups/2165756/items/DKHJE6NM"
+                        n="Skik2003">
+               <analytic>
+                  <title level="a">La prononciation de qaf arabe en Tunisie</title>
+                  <author>
+                     <forename>Hichem</forename>
+                     <surname>Skik</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Mélanges David Cohen. Études sur le langage, les langues, les dialects, les littératures, offertes par ses élèves, ses collègues, ses amis preÅ›entées à l'occasion de son quatre-vingtième anniversaire</title>
+                  <editor>
+                     <forename>Jèrôme</forename>
+                     <surname>Lentin</surname>
+                  </editor>
+                  <editor>
+                     <forename>Antoine</forename>
+                     <surname>Lonnet</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <biblScope unit="page">635-642</biblScope>
+                     <publisher>Maisonneuve &amp; Larose</publisher>
+                     <date>2003</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>The aim of the author is to describe the 'traditional pronunciation' and not the most recent development of /q/, therefore he chooses older informants who could provide information on the reflex of /q/ through their dialects, that is the dialects which existed before the independence of Tunisia caused a more frequent occurrence of mixed dialects.</p>
+               </note>
+               <note type="tags">
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Morocco</name>
+                     <geo>32.000000 -6.000000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:Maghreb</note>
+                  <note type="tag">vt:bedouin dialect</note>
+                  <note type="tag">vt:general/comparative study</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="thesis"
+                        xml:id="zarb_2023_0602"
+                        corresp="http://zotero.org/groups/2165756/items/X25QQG3S"
+                        n="Zarb2023">
+               <monogr>
+                  <title level="m">The Arabic Dialect of Testour (Northwestern Tunisia): A phonological and morphological analysis</title>
+                  <author>
+                     <forename>Maria Rebecca</forename>
+                     <surname>Zarb</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Vienna</pubPlace>
+                     <date>2023</date>
+                     <note type="thesisType">MA thesis</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert=""
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

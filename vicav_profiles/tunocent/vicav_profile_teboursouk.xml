@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_Teboursouk">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of Téboursouk Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:IB">Ilona Abdelfattah</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Teboursouk</name>
+                  <name xml:lang="aeb">Tbursug</name>
+               </settlement>
+               <region>Beja</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>36.456745, 9.247394</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2021-07-13T13:37:00Z" who="corpus:IB" type="major" n="0">created</change>
+         <change status="draft" when="2021-07-19T12:39:00Z" who="corpus:IB" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="Teboursouk1.jpg"/>
+                  <head type="imgCaption">Yosra Weslati</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">Téboursouk, Teboursouk</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">Tbursug</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">تبرسق</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>36.456745, 9.247394</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › North Western Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">Teboursouk constitutes a town and municipality in the Beja governorate. The Romans founded the ancient town Thubursicum Bure there, of which the modern town takes its name, but it was not until the Byzantine era that it gained importance and was turned into a fortress, the remains of which can still be seen today, surrounding partially the old city (<hi xml:lang="aeb" rendition="#i">m</hi><hi xml:lang="aeb" rendition="#i">d</hi><hi xml:lang="aeb" rendition="#i">ī</hi><hi xml:lang="aeb" rendition="#i">na</hi>). As the Arabic town was built on top of the ancient one, fountains from the Roman era can still be found in the houses. Only a few kilometres away, there are the ruins of the Roman Thugga (modern <seg type="comment" xml:id="seg0"><ref target="comment0" type="noteAnchor">Dougga</ref></seg>). </p>
+               <p xml:space="preserve">Due to the constant migration movements the town witnessed during the centuries, the dialect of Teboursouk was influenced by many different sources. According to locals, the town used to be home to several minorities like Jews, French, Andalusians, Italians, Maltese and Bulgarians.</p>
+               <p xml:space="preserve">Teboursouk is surrounded by olive groves, and among the main crops grown around the city are pomegranates, wheat and leguminosae. As there is no industry employing youth, agriculture and construction remain the main fields of work. As in other parts of Tunisia, traditional handicrafts are disappearing as the art is no longer transmitted to the new generations. Since there used to be no higher education in Teboursouk itself, students had to go to the capital or other Tunisian cities, where many changed their dialect from speaking with <hi xml:lang="aeb" rendition="#i">gǟ</hi> to using urban <hi xml:lang="aeb" rendition="#i">qā</hi>. Originally, however, Teboursoukians are known to speak with <hi xml:lang="aeb" rendition="#i">gǟ</hi>.</p>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Testour, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_teboursouk_01">Teboursouk17/f/49</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_teboursouk_02">Teboursouk7/m/71</ref>
+                  <ref type="feature" target="vicav_lingfeatures_teboursouk_01">Teboursouk17/f/49</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

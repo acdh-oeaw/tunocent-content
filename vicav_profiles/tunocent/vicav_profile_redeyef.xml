@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_Redeyef_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of Redeyef Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:FS">Franziska Schwemmer</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Redeyef</name>
+                  <name xml:lang="aeb">ir-Rdayyif</name>
+               </settlement>
+               <region>Gafsa</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.40081, 8.17057</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2019-12-05T12:31:00Z" who="corpus:FS" type="major" n="0">created</change>
+         <change status="draft" when="2019-12-11T09:03:00Z" who="corpus:FS" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="Redeyef1.jpg"/>
+                  <head type="imgCaption">Franziska Schwemmer</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">Redeyef</name>
+               <label>Name (Fuṣḥā, transcription)</label>
+               <name xml:lang="ara-x-DMG">ar-Rudayyif</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">ir-Rdayyif</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">الرديف</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>34.40081, 8.17057</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › Southern Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">Redeyef is a town in the very west of the Tunisian governorate of Gafsa, and was, according to local sources, called Xanfūsa l-Kaḥla in older days.</p>
+               <p>
+                  <figure>
+                     <link target="Redeyef-map.jpg"/>
+                     <graphic url="thumb/Redeyef-map.jpg"/>
+                     <head type="imgCaption">Map of the governorate of Gafsa showing Redeyef in the very west</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">It is famous for the railway-line that was established for the transport of phosphate between Redeyef and the Eastern coast. This is due to the fact, that the town and its surrounding mountainous area is best known for its high amount of phospahte resources. </p>
+               <div type="gallery">
+                  <head>Impressions of Redeyef</head>
+                  <link target="Redeyef-color-train.jpg">
+                     <graphic url="Redeyef-color-train.jpg"/>
+                     <head>Redeyef. Brightly coloured mini railway engine</head>
+                  </link>
+                  <link target="Redeyef-landscape.jpg">
+                     <graphic url="Redeyef-landscape.jpg"/>
+                     <head>Landscape</head>
+                  </link>
+                  <link target="Redeyef-Lampshades.jpg">
+                     <graphic url="Redeyef-Lampshades.jpg"/>
+                     <head>Lampshades on the marketplace</head>
+                  </link>
+                  <link target="Redeyef-roundabout.jpg">
+                     <graphic url="Redeyef-roundabout.jpg"/>
+                     <head>Mini roundabout in the city center</head>
+                  </link>
+                  <link target="Redeyef-man.jpg">
+                     <graphic url="Redeyef-man.jpg"/>
+                     <head>Man walking in the street</head>
+                  </link>
+                  <link target="Redeyef-city-hall.jpg">
+                     <graphic url="Redeyef-city-hall.jpg"/>
+                     <head>City hall entrance</head>
+                  </link>
+                  <link target="Redeyef-bath.jpg">
+                     <graphic url="Redeyef-bath.jpg"/>
+                     <head>Green puplic bath's door with beautiful ornaments</head>
+                  </link>
+                  <link target="Redeyef-fight-club.jpg">
+                     <graphic url="Redeyef-fight-club.jpg"/>
+                     <head>Church transformed into a fighting cub</head>
+                  </link>
+                  <link target="Redeyef-bin.jpg">
+                     <graphic url="Redeyef-bin.jpg"/>
+                     <head>Colorful painted garbage container</head>
+                  </link>
+                  <link target="Redeyef-graffiti.jpg">
+                     <graphic url="Redeyef-graffiti.jpg"/>
+                     <head>Graffiti arts in the schoolyard</head>
+                  </link>
+                  <link target="Redeyef-sign.jpg">
+                     <graphic url="Redeyef-sign.jpg"/>
+                     <head>Street sign</head>
+                  </link>
+               </div>
+               <p xml:space="preserve">
+                  Because of the available jobs in the mining industry and the town’s geographical closeness to the Algerian border and to the south Tunisian governorate of Tozeur, Redeyef’s population is very heterogeneous. As a result, the locals’ dialects differ strongly from each other. This is particularly true for people whose families might have lived in Redeyef for decades, but who grew up in different districts of the same town. According to local sources, the majority of the residents belong to the Awlǟd Yaḥya tribe. People are proud of their origin and uphold their traditions and customs. During wedding ceremonies, for instance, the music and the traditional dress demonstrate the families’ origins.
+               </p>
+            </div>
+            <div type="gallery">
+               <link target="Redeyef-hand-drum.jpg">
+                  <graphic url="Redeyef-hand-drum.jpg"/>
+                  <head type="imgCaption">Hand drum</head>
+               </link>
+               <link target="Redeyef-girls.jpg">
+                  <graphic url="Redeyef-girls.jpg"/>
+                  <head type="imgCaption">Celebrating girls accompaining a bride from the bath to her home</head>
+               </link>
+               <link target="Redeyef-bride.jpg">
+                  <graphic url="Redeyef-bride.jpg"/>
+                  <head type="imgCaption">Dancing bride in traditional clothes of Algerian origin</head>
+               </link>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Redeyef, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_redeyef_02">Redeyef4/f/53</ref>
+                  <ref type="sample" target="vicav_sample_redeyef_03">Redeyef2/m/31</ref>
+                  <ref type="sample" target="vicav_sample_redeyef_01">Redeyef6/m/30</ref>
+                  <ref type="sample" target="vicav_sample_redeyef_04">Redeyef10/f/53</ref>
+                  <ref type="sample" target="vicav_sample_redeyef_05">Redeyef7/f/24</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_06">Redeyef1/m/30</ref>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_04">Redeyef4/f/53</ref>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_05">Redeyef2/m/31</ref>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_01">Redeyef11/f/40</ref>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_02">Redeyef3/f/24</ref>
+                  <ref type="feature" target="vicav_lingfeatures_redeyef_03">Redeyef7/f/24</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

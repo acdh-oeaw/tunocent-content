@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_kef_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of El Kef Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:FS">Franziska Schwemmer</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Kef</name>
+                  <name xml:lang="aeb">il-Kǟf</name>
+               </settlement>
+               <region>Kef</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>36.17424, 8.70486</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2019-12-05T09:34:00Z" who="corpus:FS" type="major" n="0">created</change>
+         <change status="draft" when="2020-02-03T13:44:58Z" who="corpus:FS" type="major" n="2">last modified (revision 2)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="Kef1.jpg"/>
+                  <head type="imgCaption">Franziska Schwemmer</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">El Kef, Le Kef</name>
+               <label>Name (Fuṣḥā, transcription)</label>
+               <name xml:lang="ara-x-DMG">al-Kāf</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">il-Kǟf</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">الكاف</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>36.17424, 8.70486</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › North Western Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="gallery">
+               <head>Impressions of Kef</head>
+               <link target="Kef-centre.jpg">
+                  <graphic url="thumb/Kef-centre.jpg"/>
+                  <head>Municipality</head>
+               </link>
+               <link target="Kef-centre-2.jpg">
+                  <graphic url="Kef-centre-2.jpg"/>
+                  <head>View of the city</head>
+               </link>
+               <link target="Kef-centre-cafe.jpg">
+                  <graphic url="Kef-centre-cafe.jpg"/>
+                  <head>Coffee Bou Makhlouf</head>
+               </link>
+               <link target="Kef-centre-wall.jpg">
+                  <graphic url="Kef-centre-wall.jpg"/>
+                  <head>Part of the wall which surrounded the city in past times</head>
+               </link>
+               <link target="Kef-centre-flora.jpg">
+                  <graphic url="Kef-centre-flora.jpg"/>
+                  <head>Flora</head>
+               </link>
+               <link target="Kef-centre-themepark.jpg">
+                  <graphic url="Kef-centre-themepark.jpg"/>
+                  <head>Theme park</head>
+               </link>
+               <link target="Kef-centre-qadriyya.jpg">
+                  <graphic url="Kef-centre-qadriyya.jpg"/>
+                  <head>Mosque El Qadriya</head>
+               </link>
+               <link target="Kef-centre-Ali-bin-Saleh.jpg">
+                  <graphic url="Kef-centre-Ali-bin-Saleh.jpg"/>
+                  <head>Mosque Ali bin Saleh</head>
+               </link>
+               <link target="Kef-centre-people-thursday.jpg">
+                  <graphic url="Kef-centre-people-thursday.jpg"/>
+                  <head>People gather on Thursday's market</head>
+               </link>
+               <link target="Kef-centre-carpet.jpg">
+                  <graphic url="Kef-centre-carpet.jpg"/>
+                  <head>Crafted cushions and carpets</head>
+               </link>
+               <link target="Kef-centre-pepper.jpg">
+                  <graphic url="Kef-centre-pepper.jpg"/>
+                  <head>Grilling pepper</head>
+               </link>
+               <link target="Kef-centre-mlewi.jpg">
+                  <graphic url="Kef-centre-mlewi.jpg"/>
+                  <head>Tunisian fast food Mlewi from the Thursday's market</head>
+               </link>
+               <link target="Kef-centre-museum.jpg">
+                  <graphic url="Kef-centre-museum.jpg"/>
+                  <head>At the museum</head>
+               </link>
+               <link target="Kef-centre-museum2.jpg">
+                  <graphic url="Kef-centre-museum2.jpg"/>
+                  <head>Researcher Franzi in the museum</head>
+               </link>
+               <link target="Kef-centre-clothes.jpg">
+                  <graphic url="Kef-centre-clothes.jpg"/>
+                  <head>Traditional women clothes in the museum</head>
+               </link>
+               <link target="Kef-centre-mathaf.jpg">
+                  <graphic url="Kef-centre-mathaf.jpg"/>
+                  <head>Old working tools in the museum</head>
+               </link>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">El Kef is the capital of its eponymous Tunisian governorate. It is located in the northwestern part of the country in the Tunisian-Algerian border region. Though beyond Tunisia’s touristic regions, the small town provides interesting insights into Tunisia’s cultural and historical heritage. </p>
+               <p>
+                  <figure rendition="#small">
+                     <link target="Kef-roman-bath.jpg"/>
+                     <graphic url="Kef-roman-bath.jpg"/>
+                     <head>Roman bath</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-Franzi-bath.jpg"/>
+                     <graphic url="Kef-Franzi-bath.jpg"/>
+                     <head>Researcher Franzi in front the Roman baths ruins</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-flowers.jpg"/>
+                     <graphic url="Kef-flowers.jpg"/>
+                     <head>Flowers planted within the area of the Roman baths</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-baths-2.jpg"/>
+                     <graphic url="Kef-baths-2.jpg"/>
+                     <head>Roman bath</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">Ruins of a Roman bath (<hi xml:lang="aeb" rendition="#i">ḥammām</hi>) evoke the country’s antique past, while the Kasbah (<hi xml:lang="aeb" rendition="#i">qaṣba</hi>), a fort with a view over the whole town, goes back to the time of Ottoman rule. </p>
+               <p>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba.jpg"/>
+                     <graphic url="Kef-kasba.jpg"/>
+                     <head>Inside the Kasbah: beautiful stairs</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba-guns.jpg"/>
+                     <graphic url="Kef-kasba-guns.jpg"/>
+                     <head>Guns of the Kasbah</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba-entrance.jpg"/>
+                     <graphic url="Kef-kasba-entrance.jpg"/>
+                     <head>Entrance of the Kasbah</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba-view.jpg"/>
+                     <graphic url="Kef-kasba-view.jpg"/>
+                     <head>View of the city from the the Kasbah</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba-guns-view.jpg"/>
+                     <graphic url="Kef-kasba-guns-view.jpg"/>
+                     <head>Guns of and view from the Kasbah</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-kasba-night.jpg"/>
+                     <graphic url="Kef-kasba-night.jpg"/>
+                     <head>The Kasbah Illuminated at Night</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">An old synagogue in the centre of El Kef as well as a Jewish and a Christian cemetery are indicators of the former times’ religious diversity.</p>
+               <p>
+                  <figure rendition="#small">
+                     <link target="Kef-synagogue-road.jpg"/>
+                     <graphic url="Kef-synagogue-road.jpg"/>
+                     <head>On the way to the Synagogue de la Ghriba</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-synagogue-entrance.jpg"/>
+                     <graphic url="Kef-synagogue-entrance.jpg"/>
+                     <head>Entrance of the Synagogue de la Ghriba</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-synagogue-yard.jpg"/>
+                     <graphic url="Kef-synagogue-yard.jpg"/>
+                     <head>Yard with Ruins of the Synagogue de la Ghriba</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-synagogue-inside.jpg"/>
+                     <graphic url="Kef-synagogue-inside.jpg"/>
+                     <head>Inside the Synagogue de la Ghriba</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-cemeteries.jpg"/>
+                     <graphic url="Kef-cemeteries.jpg"/>
+                     <head>Jewish and Christian cemeteries</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">In addition to the mosque, the mausoleum of the local saint Sidi Bou Makhlouf (Sīdi Bū Maxlūf) is one of the holy places people visit to the present.</p>
+               <p>
+                  <figure rendition="#small">
+                     <link target="Kef-makhlouf-sign.jpg"/>
+                     <graphic url="Kef-makhlouf-sign.jpg"/>
+                     <head>Tombs of Bou Makhlouf </head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-makhlouf-door.jpg"/>
+                     <graphic url="Kef-makhlouf-door.jpg"/>
+                     <head>Tombs of Bou Makhlouf</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-makhlouf-tomb.jpg"/>
+                     <graphic url="Kef-makhlouf-tomb.jpg"/>
+                     <head>Tombs of Bou Makhlouf </head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-makhlouf-tomb-2.jpg"/>
+                     <graphic url="Kef-makhlouf-tomb-2.jpg"/>
+                     <head>Tombs of Bou Makhlouf</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">While historical traces are omnipresent, professional graffiti arts embellish roads, paths and public places showing the modern side of El Kef. </p>
+               <p rendition="#slideshow">
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-makhlouf.jpg"/>
+                     <graphic url="Kef-graffiti-makhlouf.jpg"/>
+                     <head>Graffiti of Bou Makhlouf</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-bird.jpg"/>
+                     <graphic url="Kef-graffiti-bird.jpg"/>
+                     <head>Graffiti of a dove by Wiss</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-calligraphy.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy.jpg"/>
+                     <head>Graffiti calligraphy I</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-calligraphy-2.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-2.jpg"/>
+                     <head>Graffiti calligraphy II</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-calligraphy-3.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-3.jpg"/>
+                     <head>Graffiti calligraphy III</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-old-man.jpg"/>
+                     <graphic url="Kef-graffiti-old-man.jpg"/>
+                     <head>Graffiti of an old man</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-berber.jpg"/>
+                     <graphic url="Kef-graffiti-berber.jpg"/>
+                     <head>Graffiti of an Berber woman</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-calligraphy-4.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-4.jpg"/>
+                     <head>Kefian proverb</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-park.jpg"/>
+                     <graphic url="Kef-graffiti-park.jpg"/>
+                     <head>Graffiti on a park entrance</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-basketball.jpg"/>
+                     <graphic url="Kef-graffiti-basketball.jpg"/>
+                     <head>Graffiti of old men playing basketball</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-vase.jpg"/>
+                     <graphic url="Kef-vase.jpg"/>
+                     <head>Ornated vase</head>
+                  </figure>
+                  <figure rendition="#small">
+                     <link target="Kef-graffiti-wiss.jpg"/>
+                     <graphic url="Kef-graffiti-wiss.jpg"/>
+                     <head>Artist Wiss in front of his graffiti of an eye</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">Some Kefian artists even integrate the town’s past into their work, using El Kef’s former Latin name Sicca Veneria as a graffiti motif. </p>
+               <p rendition="#full-width">
+                  <figure>
+                     <link target="Kef-graffiti-1.jpg"/>
+                     <graphic url="Kef-graffiti-1.jpg"/>
+                     <head>Graffiti SICCA</head>
+                  </figure>
+                  <figure>
+                     <link target="Kef-graffiti-2.jpg"/>
+                     <graphic url="Kef-graffiti-2.jpg"/>
+                     <head>Graffiti VENERIA</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">This dialect was linguistically investigated within the TUNOCENT project, which resulted in the following publication: <rs type="bibl" ref="zotid:5TEEAD39">Ritt-Benmimoun (2022)</rs>
+                     </p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_kef_02">Kef1/f/45</ref>
+                  <ref type="sample" target="vicav_sample_kef_01">Kef3/m/22</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_kef_04">Kef4/m/61</ref>
+                  <ref type="feature" target="vicav_lingfeatures_kef_02">Kef6/f/30</ref>
+                  <ref type="feature" target="vicav_lingfeatures_kef_03">Kef2/m/58</ref>
+                  <ref type="feature" target="vicav_lingfeatures_kef_01">Kef5/f/52</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

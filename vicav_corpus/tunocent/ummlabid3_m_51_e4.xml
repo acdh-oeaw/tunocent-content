@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../082_scripts_xsl/tei_2_html__shawi.xsl"?>
+<?xslt inPathSegment="\010_manannot\" outPathSegment="\106_html\"?>
+<?processor name="saxon" removePreserveFromXML="true" removePreserveFromXSLT="true"?>
+<?snippets fn="snippets_shawi_001.xml" path="{filePath}/../880_conf/"?>
+<?standoff fn="shawi_standoff.xml" path=""?>
+<?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
+<?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:13.485087+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:ummlabid3_m_51_e4">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Life Before and After the Dam</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:VB">Veronika Ritt-Benmimoun</persName>
+               <resp>principal</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:AN"/>
+               <resp>transcription</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VE"/>
+               <resp>transfer to ELAN</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:NA"/>
+               <resp>recording</resp>
+            </respStmt>
+            <funder>Funded by the <orgName ref="https://ror.org/013tf3c58">FWF Austrian Science Fund</orgName> under the number <idno type="projectNumber">P 31647</idno>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <date when="2025-02-01">February 2025</date>
+            <address>
+               <addrLine>Bäckersterstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+               <addrLine>Austria</addrLine>
+            </address>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+            <availability status="free"
+                          xml:id="ummlabid3_m_51_e4-free"
+                          default="false"
+                          corresp="#ummlabid3_m_51_e4-master #ummlabid3_m_51_e4-dist">
+               <p>The audio can be used by anyone honoring the specified license.</p>
+            </availability>
+            <idno type="TUNOCENTCorpusID">ummlabid3_m_51_e4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt xml:id="ummlabid3_m_51_e4_recordingStmt">
+               <recording dur-iso="PT1745.0S" type="audio">
+                  <date when="2021-04-03"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:NA"/>
+                  </respStmt>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4.mp3"
+                         mimeType="audio/mp3"
+                         type="master"
+                         xml:id="ummlabid3_m_51_e4-master">
+                     <desc>The informant has agreed to the publication of the audio recording.</desc>
+                  </media>
+                  <media url="assets:ummlabid3_m_51_e4.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"
+                         xml:id="ummlabid3_m_51_e4-dist">
+                     <desc>This is the compressed distribution copy of the recording for production use.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+            <biblStruct type="thesis"
+                        corresp="http://zotero.org/groups/2165756/items/ERM2XT6C"
+                        n="Aleksandra_Naddari2023">
+               <monogr>
+                  <title level="m">The Arabic Variety of Nefza (Northwest Tunisia):  Phonology, Morphology and Texts</title>
+                  <author>
+                     <forename>Aleksandra</forename>
+                     <surname>Naddari</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert="unknown"
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+               </note>
+               <note type="abstract">This PhD thesis provides a comprehensive description of the phonology and morphology of the hitherto undescribed Arabic variety spoken in the Northwest Tunisian Nefza region, with a selection of transcribed and translated texts attached. The linguistic corpus of ~ 50,000 words is based on data collected during three field research stays in the Nefza region within the scope of the TUNOCENT project, which examines the hitherto undescribed Northwest and Central Tunisian Bedouin type Arabic varieties. The data, consisting of both questionnaires and narrative texts, have been collected in the town of Nefza, as well as in the five surrounding villages Touila, Umm Labid, Zaga, Ouled Bou Ali and Hbeba.The description includes linguistic variation based on the speaker’s age, gender and origin. Moreover, comparative remarks on geographically adjacent and linguistically cognate Arabic varieties, such as the prestigious sedentary variety of Tunis and the South Tunisian Bedouin type variety of Douz are made.According to W. Marçais’ (1950) classification of Tunisian Bedouin type Arabic varieties as the so called Sulaym type and Hilāl type varieties, Nefza Arabic should belong to the northern group of Sulaym type varieties. In the final part of this thesis W. Marçais’ Sulaym–Hilāl division of Tunisian Bedouin type varieties is reevaluated by investigating the degree of correspondence of the linguistic features listed by W. Marçais as typical for Sulaym type varieties with actual Nefza Arabic features.</note>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef ident="geo"
+                       matchPattern="(.+)"
+                       replacementPattern="../../102_derived_tei/places.xml$1"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1"
+                       ident="semlib"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1"
+                       ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <head>Informants in <title>UmmLabid3/m/51 E 4</title>
+               </head>
+               <person sameAs="corpus:UmmLabid3" sex="m" age="51">
+                  <idno>UmmLabid3/m/51</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place sameAs="geo:UmmLabid">
+               <settlement>
+                  <name xml:lang="en">Umm Labid</name>
+                  <name xml:lang="aeb">Umm l-Aʕbīd</name>
+               </settlement>
+               <region>Beja</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>36.9962949,9.0409191</geo>
+               </location>
+            </place>
+         </settingDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.ums"/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <timeline unit="ms">
+         <when xml:id="T0"/>
+         <when interval="62544" since="#T0" xml:id="T25"/>
+         <when interval="67475" since="#T0" xml:id="T26"/>
+         <when interval="67818" since="#T0" xml:id="T1"/>
+         <when interval="71300" since="#T0" xml:id="T27"/>
+         <when interval="71420" since="#T0" xml:id="T2"/>
+         <when interval="75181" since="#T0" xml:id="T28"/>
+         <when interval="118641" since="#T0" xml:id="T29"/>
+         <when interval="123590" since="#T0" xml:id="T30"/>
+         <when interval="123672" since="#T0" xml:id="T31"/>
+         <when interval="127560" since="#T0" xml:id="T3"/>
+         <when interval="127872" since="#T0" xml:id="T32"/>
+         <when interval="128620" since="#T0" xml:id="T4"/>
+         <when interval="128730" since="#T0" xml:id="T33"/>
+         <when interval="135920" since="#T0" xml:id="T5"/>
+         <when interval="136295" since="#T0" xml:id="T34"/>
+         <when interval="136788" since="#T0" xml:id="T35"/>
+         <when interval="137286" since="#T0" xml:id="T6"/>
+         <when interval="139852" since="#T0" xml:id="T36"/>
+         <when interval="139939" since="#T0" xml:id="T7"/>
+         <when interval="141190" since="#T0" xml:id="T37"/>
+         <when interval="141524" since="#T0" xml:id="T8"/>
+         <when interval="143020" since="#T0" xml:id="T38"/>
+         <when interval="143470" since="#T0" xml:id="T9"/>
+         <when interval="144068" since="#T0" xml:id="T39"/>
+         <when interval="144622" since="#T0" xml:id="T10"/>
+         <when interval="146590" since="#T0" xml:id="T40"/>
+         <when interval="146594" since="#T0" xml:id="T11"/>
+         <when interval="147170" since="#T0" xml:id="T41"/>
+         <when interval="147774" since="#T0" xml:id="T42"/>
+         <when interval="148006" since="#T0" xml:id="T12"/>
+         <when interval="148296" since="#T0" xml:id="T13"/>
+         <when interval="148785" since="#T0" xml:id="T43"/>
+         <when interval="149800" since="#T0" xml:id="T14"/>
+         <when interval="155180" since="#T0" xml:id="T15"/>
+         <when interval="155240" since="#T0" xml:id="T44"/>
+         <when interval="155946" since="#T0" xml:id="T45"/>
+         <when interval="156130" since="#T0" xml:id="T16"/>
+         <when interval="162720" since="#T0" xml:id="T46"/>
+         <when interval="162910" since="#T0" xml:id="T47"/>
+         <when interval="167480" since="#T0" xml:id="T48"/>
+         <when interval="167730" since="#T0" xml:id="T49"/>
+         <when interval="170310" since="#T0" xml:id="T17"/>
+         <when interval="170410" since="#T0" xml:id="T50"/>
+         <when interval="171570" since="#T0" xml:id="T18"/>
+         <when interval="171637" since="#T0" xml:id="T51"/>
+         <when interval="175990" since="#T0" xml:id="T52"/>
+         <when interval="177036" since="#T0" xml:id="T53"/>
+         <when interval="182458" since="#T0" xml:id="T54"/>
+         <when interval="182624" since="#T0" xml:id="T55"/>
+         <when interval="185307" since="#T0" xml:id="T56"/>
+         <when interval="185541" since="#T0" xml:id="T19"/>
+         <when interval="188131" since="#T0" xml:id="T20"/>
+         <when interval="188328" since="#T0" xml:id="T57"/>
+         <when interval="191353" since="#T0" xml:id="T58"/>
+         <when interval="191720" since="#T0" xml:id="T59"/>
+         <when interval="194030" since="#T0" xml:id="T60"/>
+         <when interval="194230" since="#T0" xml:id="T61"/>
+         <when interval="198752" since="#T0" xml:id="T62"/>
+         <when interval="199820" since="#T0" xml:id="T63"/>
+         <when interval="204000" since="#T0" xml:id="T64"/>
+         <when interval="204060" since="#T0" xml:id="T65"/>
+         <when interval="205640" since="#T0" xml:id="T21"/>
+         <when interval="205820" since="#T0" xml:id="T66"/>
+         <when interval="206710" since="#T0" xml:id="T22"/>
+         <when interval="206770" since="#T0" xml:id="T67"/>
+         <when interval="207470" since="#T0" xml:id="T68"/>
+         <when interval="208210" since="#T0" xml:id="T23"/>
+         <when interval="210000" since="#T0" xml:id="T24"/>
+         <when interval="210097" since="#T0" xml:id="T69"/>
+         <when interval="212045" since="#T0" xml:id="T70"/>
+      </timeline>
+      <body>
+         <div subtype="d0" type="Situation">
+            <head>
+               <note type="start">#T0</note>
+               <note type="end">#T70</note>
+            </head>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a1"
+                  who="corpus:UmmLabid3"
+                  end="#T26"
+                  start="#T25">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000001">kunna</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000002">qbal</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000003">ʕāyšīn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000004" rend="withDash">b</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000006" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000008" join="right">ⁱgdǟ</w>
+                  <pc xml:id="xTok_000009">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000010">ayyǟmǟt</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000011">qbal</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000012" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000014">bāṛāž</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000015">nazⁱṛʕu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000016">kull</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000017">šayy</w>
+                  <pc join="right" xml:id="xTok_000018">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a1.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a1.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a29"
+                  who="corpus:NA"
+                  end="#T2"
+                  start="#T1">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000019">ǟy</w>
+                  <pc xml:id="xTok_000020">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000021" rend="withDash">aḥkī</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000023">li</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000024">ayyǟm</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000025">qbal</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000026" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000028" join="right">bāṛāž</w>
+                  <pc xml:id="xTok_000029">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000030" rend="withDash">aḥkī</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000032">li</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000033">qbal</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000034" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000036">bāṛāž</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000037">kīfǟš</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000038">tʕīšu</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000039">maṯalán</w>
+                  <pc join="right" xml:id="xTok_000040">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a29.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a29.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a3"
+                  who="corpus:UmmLabid3"
+                  end="#T28"
+                  start="#T27">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000041">qbal</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000042" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000044" join="right">bāṛāž</w>
+                  <pc xml:id="xTok_000045">:</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000046">rēt</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000047">ḥāža</w>
+                  <pc xml:id="xTok_000048">?</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000049" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000051">xuḏ̣ṛa</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000052" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000054" rend="withDash">nišrūhǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000056">š</w>
+                  <pc join="right" xml:id="xTok_000057">.</pc>
+                  <gap/>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a3.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a3.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a4"
+                  who="corpus:UmmLabid3"
+                  end="#T30"
+                  start="#T29">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000058">qbal</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000059">kunna</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000060">nʕīšu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000061">ʕīša</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000062">ʕaṛbi</w>
+                  <pc xml:id="xTok_000063">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000064">kull</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000065">šayy</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000066">nazⁱṛʕu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000067">fīh</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000068" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000070" rend="withDash">is</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000072">sǟnya</w>
+                  <pc join="right" xml:id="xTok_000073">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a4.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a4.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a5"
+                  who="corpus:UmmLabid3"
+                  end="#T32"
+                  start="#T31">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000074">kull</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000075">šayy</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000076">nazⁱṛʕu</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000077">fīh</w>
+                  <pc xml:id="xTok_000078">:</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000079" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000081" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000083">bittīx</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000084">ḥattǟn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000085" rend="withDash">l</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000087">ⁱbṣal</w>
+                  <pc join="right" xml:id="xTok_000088">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a5.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a5.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a30"
+                  who="corpus:NA"
+                  end="#T4"
+                  start="#T3">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000089" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000091" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000093">mǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000094">mnīn</w>
+                  <pc join="right" xml:id="xTok_000095">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a30.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a30.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a7"
+                  who="corpus:UmmLabid3"
+                  end="#T34"
+                  start="#T33">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000096" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000098">mǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000099" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000101" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000103" join="right">wǟd</w>
+                  <pc xml:id="xTok_000104">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000105">ʕinna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000106">byǟr</w>
+                  <pc xml:id="xTok_000107">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000108">ⁱkṛam</w>
+                  <pc xml:id="xTok_000109">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000110">kaṛmūwṣ</w>
+                  <pc xml:id="xTok_000111">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000112">ʕwēna</w>
+                  <pc xml:id="xTok_000113">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000114">hindi</w>
+                  <pc xml:id="xTok_000115">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000116" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000118" rend="withDash">nišrū</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000120">š</w>
+                  <pc join="right" xml:id="xTok_000121">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a7.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a7.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a11"
+                  who="corpus:NA"
+                  end="#T6"
+                  start="#T5">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000122" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000124">wǟd</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000125">dīma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000126">yižri</w>
+                  <pc join="right" xml:id="xTok_000127">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a11.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a11.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a8"
+                  who="corpus:UmmLabid3"
+                  end="#T36"
+                  start="#T35">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000128" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000130">wǟd</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000131">dīma</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000132">yižri</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000133">ʕām</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000134">aṯnāš</w>
+                  <pc xml:id="xTok_000135">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000136">nšaṛṛbu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000137">minum</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000138" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000140">ⁱbgaṛ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000141" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000143" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000145">ⁱġlam</w>
+                  <pc join="right" xml:id="xTok_000146">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a8.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a8.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a12"
+                  who="corpus:NA"
+                  end="#T8"
+                  start="#T7">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000147" rend="withDash">w</w>
+                  <w type="truncated">
+                     <w xml:id="ummlabid3_m_51_e4_xTok_000149">tušᵘṛbu</w>
+                  </w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000150">intum</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000151">mnīn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000152">tušᵘṛbu</w>
+                  <pc join="right" xml:id="xTok_000153">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a12.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a12.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a9"
+                  who="corpus:UmmLabid3"
+                  end="#T38"
+                  start="#T37">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000154" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000156">nušᵘṛbu</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000157" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000159" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000161">ᵃʕyūn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000162">niḥna</w>
+                  <pc join="right" xml:id="xTok_000163">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a9.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a9.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a13"
+                  who="corpus:NA"
+                  end="#T10"
+                  start="#T9">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000164">ṯamma</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000165">ʕyūn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000166">ⁱhnǟ</w>
+                  <pc join="right" xml:id="xTok_000167">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a13.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a13.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a10"
+                  who="corpus:UmmLabid3"
+                  end="#T40"
+                  start="#T39">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000168">ǟ</w>
+                  <pc xml:id="xTok_000169">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000170">ʕāmlīn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000171">ʕēn</w>
+                  <pc xml:id="xTok_000172">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000173">žaddi</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000174">ʕāmil</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000175">ʕēn</w>
+                  <pc join="right" xml:id="xTok_000176">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a10.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a10.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a31"
+                  who="corpus:NA"
+                  end="#T12"
+                  start="#T11">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000177">kīfǟš</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000178">ʕāmil</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000179">ʕēn</w>
+                  <pc join="right" xml:id="xTok_000180">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a31.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a31.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a14"
+                  who="corpus:UmmLabid3"
+                  end="#T42"
+                  start="#T41">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000181">bīr</w>
+                  <pc join="right" xml:id="xTok_000182">!</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a14.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a14.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a32"
+                  who="corpus:NA"
+                  end="#T14"
+                  start="#T13">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000183">āh</w>
+                  <pc xml:id="xTok_000184">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000185">bīr</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000186">tsammūh</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000187">ʕīn</w>
+                  <pc join="right" xml:id="xTok_000188">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a32.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a32.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a15"
+                  who="corpus:UmmLabid3"
+                  end="#T44"
+                  start="#T43">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000189">bīr</w>
+                  <pc xml:id="xTok_000190">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000191">nsammūh</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000192">ʕēn</w>
+                  <pc xml:id="xTok_000193">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000194">fhimt</w>
+                  <pc xml:id="xTok_000195">?</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000196" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000198">ʕinna</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000199">ʕēn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000200" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000202" rend="withDash">iž</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000204">žbal</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000205" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000207">taww</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000208">gāʕda</w>
+                  <pc xml:id="xTok_000209">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000210" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000212">mī</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000213">yižri</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000214" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000216" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000218">ḥažṛa</w>
+                  <pc join="right" xml:id="xTok_000219">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a15.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a15.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a33"
+                  who="corpus:NA"
+                  end="#T16"
+                  start="#T15">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000220">wāḏ̣aḥ</w>
+                  <pc join="right" xml:id="xTok_000221">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a33.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a33.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a16"
+                  who="corpus:UmmLabid3"
+                  end="#T46"
+                  start="#T45">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000222" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000224" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000226" join="right">ḥažṛa</w>
+                  <pc xml:id="xTok_000227">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000228">nimšu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000229">nʕabbu</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000230">ᵘḅḅādīn</w>
+                  <pc xml:id="xTok_000231">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000232">xamsa</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000233">ᵘḅḅādīn</w>
+                  <pc xml:id="xTok_000234">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000235">sitta</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000236">ᵘḅḅādīn</w>
+                  <pc xml:id="xTok_000237">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000238" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000240">ʕinna</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000241">byǟr</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000242">ḏalli</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000243">maṛṛāt</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000244">mǟlaḥ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000245">ⁱšwayy</w>
+                  <pc join="right" xml:id="xTok_000246">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a16.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a16.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a17"
+                  who="corpus:UmmLabid3"
+                  end="#T48"
+                  start="#T47">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000247">hāḏāka</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000248">naġⁱslu</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000249">bīh</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000250" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000252">ⁱġsīl</w>
+                  <w type="truncated">
+                     <w xml:id="ummlabid3_m_51_e4_xTok_000253">il</w>
+                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000254">wǟḥid</w>
+                  <pc xml:id="xTok_000255">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000256" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000258" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000260">ōxuṛ</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000261">nušᵘṛbu</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000262">fīh</w>
+                  <pc xml:id="xTok_000263">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000264">wāḏ̣ḥīn</w>
+                  <pc join="right" xml:id="xTok_000265">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a17.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a17.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a18"
+                  who="corpus:UmmLabid3"
+                  end="#T50"
+                  start="#T49">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000266">žē</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000267" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000269" join="right">bāṛāž</w>
+                  <pc xml:id="xTok_000270">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000271">dagdigna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000272">digdīg</w>
+                  <pc join="right" xml:id="xTok_000273">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a18.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a18.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a34"
+                  who="corpus:NA"
+                  end="#T18"
+                  start="#T17">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000274">ʕām</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000275">giddǟš</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000276" rend="withDash">bi</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000278">llǟhi</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000279" rend="withDash">l</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000281">bāṛāž</w>
+                  <pc join="right" xml:id="xTok_000282">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a34.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a34.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a19"
+                  who="corpus:UmmLabid3"
+                  end="#T52"
+                  start="#T51">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000283" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000285">bāṛāž</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000286" rend="withDash">mā</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000288">yuqāṛib</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000289">tlǟṯa</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000290" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000292">ʕišrīn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000293">snǟ</w>
+                  <pc xml:id="xTok_000294">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000295">xamsa</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000296" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000298">ʕišrīn</w>
+                  <w type="truncated">
+                     <w xml:id="ummlabid3_m_51_e4_xTok_000299">snǟ</w>
+                  </w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000300">taww</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000301" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000303">bāṛāž</w>
+                  <pc join="right" xml:id="xTok_000304">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a19.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a19.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a20"
+                  who="corpus:UmmLabid3"
+                  end="#T54"
+                  start="#T53">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000305">kī</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000306">žǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000307" rend="withDash">l</w>
+                  <w type="truncated">
+                     <w xml:id="ummlabid3_m_51_e4_xTok_000309">bāṛāž</w>
+                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000310" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000312" rend="withDash">nikḏib</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000314">š</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000315">ʕlīk</w>
+                  <pc xml:id="xTok_000316">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000317">ⁱtṣawwir</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000318">inta</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000319" rend="withDash">s</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000321">saqwi</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000322" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000324">ᵘgṭāṛ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000325" rend="withDash">ⁱb</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000327">malyūn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000328" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000330">myǟ</w>
+                  <pc join="right" xml:id="xTok_000331">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a20.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a20.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a21"
+                  who="corpus:UmmLabid3"
+                  end="#T56"
+                  start="#T55">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000332">saqwi</w>
+                  <pc xml:id="xTok_000333">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000334">tlǟṯa</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000335">šhūṛ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000336">baṛⁱk</w>
+                  <pc join="right" xml:id="xTok_000337">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a21.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a21.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a35"
+                  who="corpus:NA"
+                  end="#T20"
+                  start="#T19">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000338">tidfaʕ</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000339">malyūn</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000340" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000342">myǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000343" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000345">tizgi</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000346">gidd</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000347">ma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000348">tḥibb</w>
+                  <pc join="right" xml:id="xTok_000349">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a35.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a35.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a22"
+                  who="corpus:UmmLabid3"
+                  end="#T58"
+                  start="#T57">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000350">wǟš</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000351" rend="withDash">tā</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000353" join="right">tizgi</w>
+                  <pc xml:id="xTok_000354">?</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000355">xi</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000356" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000358">brīma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000359" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000361" rend="withDash">ʕandū</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000363">š</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000364">ᵘgṭāṛ</w>
+                  <pc join="right" xml:id="xTok_000365">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a22.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a22.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a23"
+                  who="corpus:UmmLabid3"
+                  end="#T60"
+                  start="#T59">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000366">taww</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000367">ⁱhnǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000368" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000370">brīma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000371" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000373" rend="withDash">ʕandū</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000375">š</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000376">ᵘgṭāṛ</w>
+                  <pc join="right" xml:id="xTok_000377">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a23.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a23.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a24"
+                  who="corpus:UmmLabid3"
+                  end="#T62"
+                  start="#T61">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000378">aṛⁱḏ̣na</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000379" rend="withDash">ʕāṭīnhā</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000381">lna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000382" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000384" rend="withDash">is</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000386" join="right">Sxūwna</w>
+                  <pc xml:id="xTok_000387">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000388" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000390" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000392" join="right">Munšāṛ</w>
+                  <pc xml:id="xTok_000393">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000394" rend="withDash">fi</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000396" join="right">Bǟža</w>
+                  <pc xml:id="xTok_000397">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000398" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000400" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000402">Maʕgūwla</w>
+                  <pc join="right" xml:id="xTok_000403">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a24.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a24.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a25"
+                  who="corpus:UmmLabid3"
+                  end="#T64"
+                  start="#T63">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000404">ṯamma</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000405">nǟs</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000406">hižrit</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000407" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000409" join="right">ṃǟtit</w>
+                  <pc xml:id="xTok_000410">,</pc>
+                  <w type="truncated">
+                     <w xml:id="ummlabid3_m_51_e4_xTok_000411">ḥassit</w>
+                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000412" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000414" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000416">ihǟna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000417" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000419" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000421">wāḥid</w>
+                  <pc join="right" xml:id="xTok_000422">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a25.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a25.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a26"
+                  who="corpus:UmmLabid3"
+                  end="#T66"
+                  start="#T65">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000423">waḷḷah</w>
+                  <pc xml:id="xTok_000424">!</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000425" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000427">ᵘkbāṛ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000428" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000430">kull</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000431">ḥassu</w>
+                  <pc join="right" xml:id="xTok_000432">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a26.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a26.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a36"
+                  who="corpus:NA"
+                  end="#T22"
+                  start="#T21">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000433" rend="withDash">iz</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000435">zaḥḥ</w>
+                  <pc join="right" xml:id="xTok_000436">!</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a36.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a36.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a27"
+                  who="corpus:UmmLabid3"
+                  end="#T68"
+                  start="#T67">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000437">waḷḷah</w>
+                  <pc join="right" xml:id="xTok_000438">!</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a27.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a27.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a37"
+                  who="corpus:NA"
+                  end="#T24"
+                  start="#T23">
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000439">maʕnǟha</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000440" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000442" rend="withDash">ḥmilhǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000444">š</w>
+                  <pc join="right" xml:id="xTok_000445">?</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a37.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a37.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="ummlabid3_m_51_e4_a28"
+                  who="corpus:UmmLabid3"
+                  end="#T70"
+                  start="#T69">
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000446" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000448" rend="withDash">ḥmilhǟ</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000450" join="right">š</w>
+                  <pc xml:id="xTok_000451">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000452">ṛāha</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000453">ihǟna</w>
+                  <pc join="right" xml:id="xTok_000454">.</pc>
+                  <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a28.mp3"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/mp3"
+                         type="distributionFile"/>
+                  <media url="arche:Beja/Umm_Labid/UMS/ummlabid3_m_51_e4/ummlabid3_m_51_e4_a28.wav"
+                         decls="#ummlabid3_m_51_e4-free"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+         </div>
+      </body>
+   </text>
+</TEI>

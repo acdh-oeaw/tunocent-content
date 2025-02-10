@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opening Page</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div xml:id="tunocentOpeningPage" xml:space="preserve">
+              <head>The TUNOCENT project</head>
+              
+               <p xml:space="preserve"><hi rendition="#b">About</hi> … team members, news section: learn about the TUNOCENT-project, its team members and activities</p>
+              
+             
+              
+              <p xml:space="preserve"> <hi rendition="#b">71 Profiles </hi>… geography, history and most notable sights of the research locations; demographics, the inhabitants’ prevalent way of life 
+                  and main means of income: get an impression of the different localities; get an insight into the way people live by viewing the photos
+</p>
+              
+             <p xml:space="preserve"><hi rendition="#b">195 Feature lists </hi>… a questionnaire that focuses on grammatical and lexical variation: get an impression of a specific variety; 
+                 compare the linguistic features in various locations; filter the data by a number of categories, such as place, feature, and speaker </p>
+              
+              <p xml:space="preserve"><hi rendition="#b">185 Sample texts </hi> … a text with seven sentences which provide details on everyday activities and duties: 
+                  compare linguistic characteristics contained in the texts; filter the data by a number of categories, such as place, sentence number, and speaker</p>
+              
+               <p xml:space="preserve"><hi rendition="#b">24 Corpus texts</hi> … transcribed narratives, ethnographic texts and conversations: read the texts and search for words within the corpus texts;
+                  listen to selected texts </p>
+              
+              <p xml:space="preserve"><hi rendition="#b">Browse data </hi>(with 2683 entries) … data list with speakers and the details of locations and data type: 
+                  get an impression of the immense amount of linguistic data we collected; filter the list of speakers and recordings by a number of categories, such as place, age, gender and data type </p>
+              
+              <p xml:space="preserve"><hi rendition="#b">Research</hi> … lists with publications, presentations and the conference we organised; get an impression of our research activities 
+                  and the various topics we addressed</p>
+              
+             
+          </div>
+          
+      </body>
+  </text>
+</TEI>

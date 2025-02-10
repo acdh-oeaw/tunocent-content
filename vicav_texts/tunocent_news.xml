@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In April 2019 the TUNOCENT project started. What happened so far? – TUNOCENT</title>
+         </titleStmt>
+         <publicationStmt>
+            <p xml:space="preserve"></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p xml:space="preserve"></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab>The links for the profiles were assembled by scriptor.exe--&lt;createListOfVICAVProfiles</ab>
+            <tagsDecl partial="true">
+               <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+               <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+               <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+            </tagsDecl>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         
+         <div xml:id="tunocent_news">
+            
+            <div xml:id="news-3670">
+               <head>2024 | September: Official End of TUNOCENT</head>
+               <div type="date"><p>Mon 30 Sep 2024</p></div>
+               <p>
+                  September, 30th is the official end of our project. On January, 30th the final report for the FWF is due.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3629">
+               <head>2024 | Spring: Veronika Attends AIDA</head>
+               <div type="date"><p>Mon 27 May 2024</p></div>
+               <p>
+                  We start to prepare our data for the long-time archiving in ARCHE. The webpage application is finalized. It is being designed to fit into the VICAV framework, 
+                  to ensure both its interoperability with other digital resources of Arabic and its long-term maintenance. Sample Texts, Feature Lists and a number of select 
+                  Corpus Texts can be searched and compared on the TUNOCENT webpage which makes it a useful tool for linguistic analysis in addition to providing information 
+                  on our project.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3628">
+               <head>2024 | January: Veronika Attends AIDA</head>
+               <div type="date"><p>Mon 27 May 2024</p></div>
+               <p>
+                  Veronika Ritt-Benmimoun attends the 15th AIDA conference in Valletta on the island of Malta. She gives a talk on
+                  “Intra-Bedouin Isoglosses in Tunisia: old ones revisited and new ones proposed”.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3627">
+               <head>2024 | May: Veronika Engler Joins TUNOCENT</head>
+               <div type="date"><p>Mon 08 Jan 2024</p></div>
+               <p>
+                  Veronika Engler joins our project for the ACDH-CH. She supports the ACDH-CH team in tasks such as systematising the projects data, 
+                  processing select data for publication on the TUNOCENT Website, as well as preparing for the long-term archiving of all the project’s data.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3626">
+               <head>2023 | December: Veronika Attends 47. ÖLT</head>
+               <div type="date"><p>Fri 22 Nov 2023</p></div>
+               <p>
+                  Veronika attends the 47. Österreichische Linguistiktagung (ÖLT) in Graz (Austria) and gives a talk on 
+                  “Negative copulae in Tunisian Arabic and in a wider Maghrebi context”.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3625">
+               <head>2023 | November: Aleksandra Defends Her PhD Thesis and Graduates</head>
+               <div type="date"><p>Mon 27 Nov 2023</p></div>
+               <p>
+                  On November 24th, Aleksandra’s defense takes place. She graduates with honors! Both reviewers, Prof. Ángeles Vicente from the 
+                  University of Saragossa, and Prof. Christophe Pereira from INALCO in Paris attend the defense. 
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3624">
+               <head>2023 | September: Aleksandra Leaves TUNOCENT</head>
+               <div type="date"><p>Fri 29 Sep 2023</p></div>
+               <p>
+                  Aleksandra Naddari’s contract expires. From now on the project has no more collaborators at the University of Vienna, 
+                  but only at the Austrian Academy of Sciences.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3623">
+               <head>2023 | June: Ghaith Leaves TUNOCENT</head>
+               <div type="date"><p>Fri 30 Jun 2023</p></div>
+               <p>
+                  Ghaith Naddari’s contract expires. 
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3622">
+               <head>2023 | June: Aleksandra Finishes Her PhD-Thesis</head>
+               <div type="date"><p>Fri 30 Jun 2023</p></div>
+               <p>
+                  Aleksandra Naddari finalizes her PhD-thesis <hi rend="italics">The Arabic variety of Nefza (Northwest Tunisia): phonology, morphology and texts.</hi>
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3621">
+               <head>2023 | April: Veronika and Aleksandra Present at a Conference in Bayreuth</head>
+               <div type="date"><p>Fri 28 Apr 2023</p></div>
+               <p>
+                  Aleksandra and Veronika both participate in the conference <hi rend="italics">Arabic in Africa: Historical and Sociolinguistic Perspectives</hi> which takes place from 
+                  April 12th to April 14th in Bayreuth in Germany. Aleksandra presents on “Language variation in the Arabic variety of Nefza (Northwest Tunisia)” 
+                  and Veronika on “Gender distinction in Tunisian Arabic dialects”.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3458">
+               <head>2023 | February: Rebecca Defends her MA-Thesis and Graduates</head>
+               <div type="date"><p>Fri 03 Feb 2023</p></div>
+               <p>
+                  On February 2nd Rebecca’s defense takes place. She graduates with honors!
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3457">
+               <head>2023 | January: Rebecca Finishes Her MA-Thesis</head>
+               <div type="date"><p>Mon 16 Jan 2023</p></div>
+               <p>
+                  Maria Rebecca Zarb finalizes her MA-thesis with the title 
+                  <hi rend="italics">The Arabic dialect of Testour (Northwestern Tunisia): a phonological and morphological analysis.</hi>
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3456">
+               <head>2022 | July to December: Intensive Writing of Academic Theses</head>
+               <div type="date"><p>Mon 16 Jan 2023</p></div>
+               <p>
+                  Aleksandra continues with her PhD project, a dialect description of the Northwest Tunisian town of Nefza, and Maria Rebecca Zarb with her MA-thesis, 
+                  in which she describes the phonology and morphology of the dialect spoken in Testour on the basis of the data collected within our TUNOCENT-project. 
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-2538">
+               <head>2022 | End of June: The TUNOCENT Team Presents at AIDA Conference</head>
+               <div type="date"><p>Mon 04 Jul 2022</p></div>
+               <p>
+                  From June, 28th to July, 1st the 14th AIDA (International Association of Arabic Dialectology) conference takes places in Granada in Spain. 
+                  Aleksandra Naddari presents on “The pronominal suffixes in the Arabic dialect of Nefza (Northwest Tunisia)”, and Veronika Ritt-Benmimoun’s talk 
+                  is dedicated to interrogatives: “From šnōwa to šinhu and from waqtǟš to wēmta: The use of interrogatives in North-western and Central Tunisia”.
+               </p>
+            </div>
+            
+            <div xml:id="news-2438">
+               <head>2022 | Beginning of June: Our Online-Conference Takes Place</head>
+               <div type="date"><p>Mon 04 Jul 2022</p></div>
+               <p>
+                  Our online-conference <hi rend="bold">Revisiting traditional isoglosses in the Maghreb: Methodology | Terminology | Classification; Algeria | Tunisia | Libya</hi> 
+                  which is organized in cooperation with our national research partner Karlheinz Mörth of the ACDH-CH (Austrian Academy of Sciences) takes place 
+                  from June, 2nd to June 3rd. Karlheinz Mörth gives a talk with the title “Refining infrastructure components: TUNOCENT and the VICAV framework”. 
+                  Aleksandra Naddari presents on “Phonological and Morphological Features of the Arabic Dialect of Nefza (Northwest Tunisia)”, and Maria Rebecca Zarb 
+                  on “Preliminary data on the dialect of Testour (Northwest Tunisia)”. Veronika Ritt-Benmimoun’s talk is about “Revisiting Traditional Isoglosses 
+                  within Tunisian Bedouin Dialects”.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3438">
+               <head>2022 | May: Veronika Attends a Conference in Berlin</head>
+               <div type="date"><p>Mon 30 May 2022</p></div>
+               <p>
+                  At the conference Modern Semitic Dialectology which took place in Berlin, Veronika Ritt-Benmimoun gives a talk on “The Arabic dialect 
+                  spoken in Kasserine (Central Tunisia) and its position within Tunisia's dialectal landscape”.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3437">
+               <head>2022 | Spring: Conference Preparations</head>
+               <div type="date"><p>Mon 30 May 2022</p></div>
+               <p>
+                  We are occupied with preparations for our conference that will take place in June.
+               </p>
+            </div>
+            
+            <div xml:id="news-3436">
+               <head>2022 | January: Ghaith Joins TUNOCENT</head>
+               <div type="date"><p>Mon 01 Jan 2022</p></div>
+               <p>
+                  Ghaith Naddari joins our project. He is mainly responsible for transcribing our linguistic data and for building up a corpus of transcribed texts.
+               </p>
+            </div>
+            
+            
+            <div xml:id="news-3442">
+               <head>2021 | End of the Year: The Conclusion of 2021</head>
+               <div type="date"><p>Mon 01 Jan 2022</p></div>
+               <p>
+                  By the end of the year we can finalize the transcription and digitalization of the Feature Lists and Sample Texts. For our seven governorates 
+                  we have a total of 195 Feature Lists and 185 Sample Texts. Both questionnaires can now be comparatively searched for. Information on 71 locations 
+                  where fieldwork was undertaken is found in the Profiles.
+               </p>
+               <p>
+                  After the additional three fieldwork campaigns of 2021 we end up with data from 914 speakers in 113 different locations. The linguistic 
+                  data reaches approximately 740 hours of recordings.
+               </p>
+               <p>
+                  Fortunately, the FWF grants us additional one and a half cost-neutral years for our project! 
+               </p>
+            </div>
+            
+         
+            <div xml:id="news-3432">
+               <head>2021 | December: Veronika Attends 46. ÖLT</head>
+               <div type="date"><p>Mon 01 Jan 2022</p></div>
+               <p>
+                  Wolfgang Dressler, Elisa Mattiello and Veronika Ritt-Benmimoun present on diminutives at the 46. Österreichischen Linguistik-Tagung in Vienna. 
+                  The title of the paper was “The impact of language typology and pragmatics on diminutive formation: A comparison of Tunisian Arabic with Italian, 
+                  German and English”.
+               </p>
+            </div>
+            
+            <div xml:id="news-3412">
+               <head>2021 | June: Veronika Presents at a Conference</head>
+               <div type="date"><p>Thu 01 Jul 2021</p></div>
+               <p>
+                  Veronika Ritt-Benmimoun presents her work “A comparative look on linguistic urbanisation trends in Northwestern and Central Tunisia” at 
+                  the conference Semitic Dialectology: Crises and Change in Heidelberg in Germany.
+               </p>
+            </div>
+         
+         
+         <div xml:id="news-3495">
+               <head>2021 | June: Ilona, Veronika and Stephan Present at a Conference</head>
+               <div type="date"><p>Thu 01 Jul 2021</p></div>
+               <p>
+               Ilona Abdelfattah, Stephan Procházka and Veronika Ritt-Benmimoun attend the conference Ideologies, attitudes and social 
+               variables: Their role in the variation and (socio-) linguistic change in Arabic vernaculars in Granada (Spain). The 
+               title of their presentation was “Where does Bedouin Arabic go? A preliminary study on the leveling process in the 
+               Bedouin dialects of Tunisia and the Western Fertile Crescent”.
+               </p>
+              </div>
+         
+          <div xml:id="news-2895">
+               <head>2021 | March: Ilona Leaves TUNOCENT</head>
+               <div type="date"><p>Wed 31 Mar 2021</p></div>
+               <p>
+                Ilona Abdelfattah's contract expires and she leaves the TUNOCENT team.
+               </p>
+              </div>
+         
+          <div xml:id="news-2895">
+               <head>2021 | February-May: Final Fieldwork Campaigns</head>
+               <div type="date"><p>Mon 31 May 2021</p></div>
+               <p>
+                Three more fieldwork campaigns are undertaken by our Tunisian colleagues in the governorates of Beja, Kasserine and 
+                Sidi Bouzid. After this final field research, we decide that no more recordings are needed. 
+               </p>
+              </div>
+              
+              
+         <div xml:id="news-2755">
+               <head>2020 | End of the Year: What We Have Accomplished so Far.</head>
+               <div type="date"><p>Mon 04 Jan 2021</p></div>
+               <p>
+                  After less than two years we have a total of 650 hours of recordings from 85 Tunisian localities in seven governorates. We finish 
+                  the year 2020 with 169 transcribed Features Lists and 161 transcribed and digitalized Sample Texts from these locations. 
+                  46 so-called Profiles provide geographical and historical information of chosen locations. Pictures taken by our team allow a glance 
+                  into the landscape and sights of the different regions.
+               </p>
+              </div>
+              
+            
+            <div xml:id="news-1845">
+               <head>2020 | End of September: Franziska Schwemmer Leaves TUNOCENT</head>
+               <div type="date"><p>Thu, 1 Oct 2020</p></div>
+               <p>
+                  After finishing her MA-studies, Franziska Schwemmer leaves the TUNOCENT project.
+               </p>
+              </div>
+                        
+            
+            <div xml:id="news-1845">
+               <head>2020 | July-December: Review of New Data</head>
+               <div type="date"><p>Wed, 16 Dec 2020</p></div>
+               <p>
+                  After our Tunisian colleagues recorded about 400 hours of questionnaires, ethnographic texts and narratives during 20 fieldwork campaigns, the new linguistic data is reviewed and systematised.
+               </p>
+             </div>
+            
+
+
+            <div xml:id="news-1519">
+               <head>2020 | June*July*August: New Opportunities</head>
+               <div type="date"><p>Mon, 08 Aug 2020</p></div>
+
+               <p> A crisis challenges people, but it can be a chance! Corona hit us hard and unexpected. In March, we still have been convinced that we could simply postpone our cancelled fieldtrip to the time “after the pandemic”.
+                  In June, however, we realized that we would have to look for new horizons. Conducting online interviews was no option – we needed people on site. </p>
+
+               <p>
+                  <figure>
+                     <link target="Rawaa.jpg"/>
+                     <graphic url="Rawaa.jpg"/>
+                     <head type="imgCaption">Rawaa from Gafsa</head>
+                     <!--https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Rawaa.jpg -->
+                  </figure>
+
+                  <figure>
+                     <link target="Wiss.jpg"/>
+                     <graphic url="Wiss.jpg"/>
+                     <head type="imgCaption">Wiss from El Kef</head>
+                     <!-- https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Wiss.jpg-->
+                  </figure>
+
+                  <figure>
+                     <link target="Yosra.jpg"/>
+                     <graphic url="Yosra.jpg"/>
+                     <head type="imgCaption">Yosra from Siliana</head>
+                     <!-- https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Yosra.jpg-->
+                  </figure>
+
+                  <figure>
+                     <link target="Nidhal.jpg"/>
+                     <graphic url="Nidhal.jpg"/>
+                     <head type="imgCaption">Nidhal from Kasserine</head>
+                     <!--https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Nidhal.jpg -->
+                  </figure>
+
+                  <figure>
+                     <link target="Sarah_1.jpg"/>
+                     <graphic url="Sarah_1.jpg"/>
+                     <head type="imgCaption">Sarah from Tunis</head>
+                     <!-- https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Sarah_1.jpg-->
+                  </figure>
+
+                  <figure>
+                     <link target="Khayri.jpg"/>
+                     <graphic url="Khayri.jpg"/>
+                     <head type="imgCaption">Khayri from Kasserine</head>
+                     <!-- https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Khayri.jpg-->
+                  </figure>
+               </p>
+
+               <p>Gladly friends and those who became friends over the course of the work helped us out. Welcome to our new colleagues Rawaa and May from Gafsa, Wiss from el Kef, Yosra from Siliana, Sarah from Tunis
+                  as well as Khayri, Nidhal and a further new colleague from Kasserine! Moreover, the <a href="https://www.bmeia.gv.at/fr/ambassade-dautriche-a-tunis/">Austrian Embassy in Tunis</a> kept on supporting
+                  the TUNOCENT field research and thus, the entire project.</p>
+
+               <p>“It was a great experience to be part of the TUNOCENT project. Even though creating a relaxed atmosphere and encouraging people to talk was not easy, it deserves the try! I had the chance to meet exceptional people;
+                  the beautiful thing is the paradox between the happiness of the people I met and the lack of comfort that they are facing. The extraordinary beauty of those places in my precious country amazed me. Finally,
+                  I want to thank you for this opportunity even though it was only for a short period but it was remarkable for me.” (Sarah)
+                  <figure>
+                     <link target="Sarah-2-225x300.jpg"/>
+                     <graphic url="Sarah-2-225x300.jpg"/>
+                     <head type="imgCaption">Sarah</head>
+                     <!-- https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Sarah-2-225x300.jpg-->
+                  </figure>
+               </p>
+
+
+               <p>While our actual researcher team kept themselves busy with explaining, coordinating and managing, their new colleagues found themselves facing the challenging job of field research.
+                  Despite being locals, it proved difficult to them, too. Although the interviewers were Tunisians, some people used standard Arabic even after being reminded to talk in their local dialect multiple times,
+                  Wiss reports. Others, in turn, were unable to translate the requested sentences because of their different education levels. </p>
+
+               <p>“Some persons were difficult to deal with, others were more friendly and open minded.” (Khayri)
+                  <figure>
+                     <link target="Wiss-and-Khayri-at-work-300x225.jpg"/>
+                     <graphic url="Wiss-and-Khayri-at-work-300x225.jpg"/>
+                     <head type="imgCaption">Wiss and Khayri at work</head>
+                     <!--https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Wiss-and-Khayri-at-work-300x225.jpg-->
+                  </figure>
+               </p>
+               <p>“I learnt to exercise patience and got to know many new people. Being part of the TUNOCENT team was an honour for me and made me happy!” (Yosra)</p>
+
+               <p>For other people the recordings simply took too much time and concentration. Many people for instance did not understand what a dialectal research is about and doubted in it, Wiss explains.
+                  Convincing people to cooperate was a difficulty in this job, Nidhal agrees. Yosra continues that some people even associated her with politics and suspected her to work as politician. May shares
+                  this experience:</p>
+
+               <p>“I am very happy to be a part of the TUNOCENT team. In fact, it gave me the opportunity to discover new places in my country. It is each time an adventure: I listen to new stories about the history
+                  of the places and very amusing myths. Also meeting new different people and watch their behavior, live with them their daily life and taste their traditional food was so fun for me. Despite these pleasing
+                  parts, I have faced some problems. At the beginning 15 hours seemed so easy to collect but then I discovered is not easy at all. In fact, it is not that evident to find someone who wants to talk for more
+                  than 30 minutes. Finding the perfect environment (no noise, no children …) for the recording is very hard, too. Still, the most annoying thing is explaining people that you are not a spy.” (May)</p>
+
+               <p>This attitude complicated the matters. As male researchers, Khayri and Wiss experienced also women’s refusal of recording. Furthermore, all our new colleagues had struggles with the transportation.
+                  Nevertheless, Rawaa, May, Wiss, Khayri, Yosra, Sarah and Nidhal eventually were very glad to be part of our team. They gained exciting experiences and shared their best moments with us.  </p>
+
+               <p>“I liked this work very, very much because I got to know a lot of things about my country of which I was not aware before. Even customs from other places that are not far from my hometown were new
+                  to me! Moreover, I got in touch with very kind new people!” (Rawaa)
+                  <figure>
+                     <link target="Rawaa-with-her-interviewee-300x169.jpg"/>
+                     <graphic url="Rawaa-with-her-interviewee-300x169.jpg"/>
+                     <head type="imgCaption">Rawaa with her interviewee</head>
+                     <!--https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/Rawaa-with-her-interviewee-300x169.jpg-->
+                  </figure>
+               </p>
+
+               <p>“I very much enjoyed listening to the stories of elders. Thereby, I learnt new things and got insights about how my own people used to live in previous times. Also, I joked with the interviewees
+                  and we had fun.” (Wiss)</p>
+
+
+               <p>Nidhal describes his job experience as a change of perspective. Learning about the life of locals in his own region, he started to focus on details.</p>
+
+               <p>“This job is an amazing experience for me. It opens my eyes as I am going through a journey of self-discovery. I feel like an alien trying to learn about life here. Words cannot capture my gratitude
+                  for this opportunity. I won’t look at my country the same way as I did before.” (Nidhal)</p>
+
+            </div>
+
+
+            <div xml:id="news-1518">
+               <head>2020 | March*April: Change of Plan</head>
+               <div type="date">
+                  <p>Thu, 02 Apr 2020</p>
+               </div>
+               <p>The flights were booked, the researcher team was ready for its third fieldtrip to Tunisia at the end of March. But the given circumstances hold the researchers back. Ilona, Aleks and Franzi spontaneously had to cancel because of the coronavirus-pandemic. Nevertheless, the team members keep themselves busy with a huge amount of transcription work of recordings from the two previous fieldtrips.</p>
+               <p>At this point we would like to express our gratitude to all our supporters, especially to all the helpful people in Tunisia, to whom we dearly wish the best getting through these days!</p>
+
+               <p style="text-align: center;">Y3yychkom!</p>
+               <p style="text-align: center;">!يعطيكم الصحة</p>
+            </div>
+
+
+            <div xml:id="news-1395">
+               <head>2020 | February: Linguistics in Tunisia – Meetup in Tunis</head>
+               <div type="date"><p>Tue, 10 Mar 2020</p></div>
+               <p>
+                  <figure>
+                     <link target="Veronika-on-the-rostrum-231x300.jpg"/>
+                     <graphic url="Veronika-on-the-rostrum-231x300.jpg"/>
+                     <head type="imgCaption">TUNOCENT leader Veronika on the rostrum</head>
+                  </figure>
+               </p>
+               <p>
+                  "La linguistique en Tunisie : acquis et perspectives" is the title of the conference, Veronika (leader of the TUNOCENT-project) is attending for two days. As the international conference,
+                  organised by the Association Tunisienne de Linguistique (ATL) and the
+                  <ref target="http://www.flm.rnu.tn/fra/home">Faculté des Lettres, des Arts et des Humanités de la Manouba (FLAHM)</ref> deals with approaches and perspectives of linguistics in Tunisia,
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/about#cooppart"><!-- TODO: Check reference! -->many cooperation partners</ref> of the TUNOCENT project arrive at the meeting as well.
+                  However, all interested parties are following Veronika’s presentation of the project with enthusiastic support: While the project is still completely new to some, Veronika also surprises those,
+                  who just already knew about the TUNOCENT-project, with an update of the progress and happily shares what the TUNOCENT-team achieved within the ten months the project is ongoing.
+
+                  <figure>
+                     <link target="Stephan-with-cooperation-partners.jpg"/>
+                     <graphic url="Stephan-with-cooperation-partners.jpg"/>
+                     <head type="imgCaption">The project’s cooperation partners Stephan Prochazka and Dominique Caubet with Henriette Walter and Farah Zaiem in the campus of Manouba-University</head>
+                  </figure>
+
+
+                  <figure>
+                     <link target="Group-photo-at-the-conference.jpg"/>
+                     <graphic url="Group-photo-at-the-conference.jpg"/>
+                     <head type="imgCaption">Group photo with the organisers of the conference and the founding members of the ATL at the University of Manouba</head>
+                  </figure>
+
+                  <figure>
+                     <link target="At-the-Association-Derja.jpg"/>
+                     <graphic url="At-the-Association-Derja.jpg"/>
+                     <head type="imgCaption">Veronika at the Association Derja</head>
+                  </figure>
+               </p>
+
+
+               <p>Furthermore, the two Austrian dialect specialists Veronika Ritt-Benmimoun and Stephan Procházka use the possibility to get in touch with members of the
+                  <ref target="http://www.bettounsi.com/">Association Derja</ref> . whom they share their passion for the Tunisian dialect. Holding a conference, the association, also exhibits an impressive collection of books written in different Tunisian dialectal varieties — that kind of literature Arabic dialect researchers love.</p>
+            </div>
+
+
+            <div xml:id="news-1049">
+               <head>2019*2020 | December*January: 82 Sample Text Recordings Transcribed</head>
+               <div type="date"><p>Wed, 15 Jan 2020</p>
+               </div>
+
+               <p>Listening, typing, listening, typing, listening again and correcting what she typed before. Aleks is entirely in her element. After the two successful fieldtrips, each of the three researchers spent in Tunisia,
+                  the team proudly counts 82 recordings of people’s reading sample texts in their local dialect!</p>
+
+               <p>As part of the <ref target="https://vicav.acdh.oeaw.ac.at/">VICAV project</ref>, the collection and transcription of sample text recordings is embedded in a transnational comparison of Arab dialect varieties. At the same time,
+                  the possibility to compare sample text readings of so many different <ref target="https://tunocent.acdh.oeaw.ac.at/">reference points</ref> within just one country is unique within this project!</p>
+
+               <p>Working on the spot, Ilona, Aleksandra and Franziska sometimes had to remind their interviewees to keep on talking their dialect – ­and not just reading the given text as it is written. Working on its transcription,
+                  nevertheless, means going much more into details and focusing on the linguistic nuances.</p>
+               <p>Aleksandra reports:</p>
+
+               <p xml:space="preserve">
+                  "I spent a big part of the month of December with the transcription of sample texts recorded in the respective dialect (the template for the sample texts is provided by the VICAV
+                  project). On the one hand, it was refreshing that transcribing one sample text took only 15-30 minutes on average, and by that the sense of achievement was experienced faster and more
+                  often than it is the case with other types of recordings, which made the motivation for this task fairly high. On the other hand, the overwhelming amount of the sample texts made the task
+                  monotonous over time. However, after finishing the transcription of the sample texts of the Beja and El Kef governorates, hearing and transcribing the sample texts from the governorate of Gafsa
+                  was a pleasant alternation for me, as these dialects are significantly different from those in Beja and El Kef."
+               </p>
+
+            </div>
+
+
+            <div xml:id="news-727">
+               <head>2019 | November: Rural vs. Urban Dialect ­– a Sociolinguistic Topic of TUNOCENT at the Aix-en-Provence-Conference, France</head>
+               <div type="date">
+                  <p>Thu, 21 Nov 2019</p>
+               </div>
+               <p>Today in Aix-en-Provence, the study meeting “Représentations Linguistiques et Variation dans les Parlers Arabes Maghrébins” takes place.* An international group of scientists dealing with Maghrebinian dialects is gathering in the university town Aix-en-Provence sharing their sociolinguistic research issues and findings.</p>
+
+               <p>Veronika and Ilona join the conference with their presentation “The Perception of ‘rural’ as ‘backward’ and ‘urban’ as ‘advanced’ and the resulting linguistic behaviour in Central Tunisia”. Focusing on the linguistic differences between the countryside and the city and the consequences of the general perception of a certain variety, Veronika and Ilona give an insight into a socio-linguistic issue examined within the TUNOCENT project. Although their post-lunchtime presentation follows a series of interesting lectures from other linguists, Veronika and Ilona hope to keep participants attentive and interested well into the afternoon. Their intensive preparations paid off!</p>
+
+
+               <figure>
+                  <link target="ilona-und-Veronika-in-Aixe.jpg"/>
+                  <graphic url="ilona-und-Veronika-in-Aixe.jpg"/>
+                  <head type="imgCaption">Team leader Veronika and researcher Ilona at the conference</head>
+               </figure>
+
+
+               <p>Moreover, there is another reason why the participation on the conference is a great success for the TUNOCENT team: While we keep on collecting and systematizing the data, we are – as the presentation shows –, for the first time, even able to draw conclusions. A huge motivation for the TUNOCENT project!</p>
+
+
+
+               <p style="font-size: 12px;">*Organized by Catherine MILLER, Jacopo FALCHETTA, Jairo GUERRERO from <ref target="http://iremam.cnrs.fr/spip.php?article3058&amp;lang=en"> IREMAM</ref> (<ref target="https://www.univ-amu.fr/">AMU</ref>&#8211;<ref target="http://www.cnrs.fr/en/cnrs">CNRS</ref>) and Montserrat BENÍTEZ FERNÁNDEZ from <ref target="https://www.eea.csic.es/home/inicio/?lang=en">EAA (CSIC)</ref>
+               </p>
+
+
+            </div>
+
+
+            <div xml:id="news-724">
+               <head>2019 | October*November: Reinforcement on the Technical Front</head>
+               <div type="date">
+                  <p>Thu, 07 Nov 2019</p>
+               </div>
+
+
+               <p>Finally, our team is staffed! Linking the field research and its digital processing, Zsofia joins the TUNOCENT-team at the beginning of autumn.</p>
+
+
+
+               <p>The three field researchers Aleksandra, Ilona and Franziska reunite with the project leader Veronika in Vienna. Each of the researchers spent
+                  two field trips abroad during the last months. The amount of data grew. Aleksandra and Ilona industriously work on laying a foundation for its
+                  further processing. In addition, Franziska has just started to build the web site. As a number of questions arose and a few technical issues
+                  still need to be discussed, we are looking forward to the meet-up with our cooperation partners at the
+                  <ref target="https://www.oeaw.ac.at/acdh/about">Austrian Centre for Digital Humanities and Cultural Heritage of the Austrian Academy of Sciences</ref>.
+                  Gladly <ref target="https://tunocent.acdh.oeaw.ac.at/team">Zsofia</ref><!-- TODO: Check reference --> joined the team exactly at the right moment
+                  serving from now on as central contact for technical support. Welcome, Zsofia!</p>
+
+            </div>
+
+
+            <div xml:id="news-721">
+               <head>2019 | August*September: Investigation and Categorization, no Procrastination!</head>
+               <div type="date">
+                  <p>Sun, 15 Sep 2019</p>
+               </div>
+               <p>With positive affirmation on the workstation, the <ref target="https://tunocent.acdh.oeaw.ac.at/team/">team</ref> <!-- TODO: Check reference -->
+                  keeps on with its investigation and categorization:</p>
+               <p>Three different reseachers, five different field trips and hundreds of different recordings needing systematizing. Aleksandra and Ilona face a huge
+                  amount of paperwork trying to bring the collected data into some kind of order and improve the labelling system. Of all the material collected so far,
+                  transcribing and finalizing the recorded sample texts and feature lists has priority. Ilona and Aleksandra subsequently pass their results to our
+                  cooperation partners from the<ref target="https://www.oeaw.ac.at/"> Austrian Academy of Sciences</ref> for the data's digital processing. At the same
+                  time, Aleksandra and Ilona start to write short articles about the <ref target="https://tunocent.acdh.oeaw.ac.at/category/place/">sites</ref><!-- TODO: Check reference -->
+                  they have been working at. These profiles expand the investigations’ linguistic focus sharing also some insights into the region, its people and some
+                  local cultural characteristics.</p>
+               <p>Franziska, meanwhile, finds herself back in Tunisia after just three weeks in Austria between the two trips. Strengthened by her positive experiences
+                  she continues the survey in the most southern part of the area to investigate the governorate of
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/gafsa/">Gafsa</ref><!-- TODO: Check reference -->. “People of the South” in Tunisia are renowned for their hospitality and warm hearts.
+                  Indeed, this reputation is fully deserved! Thanks to the support of the locals, Franziska conducts nomerous interviews in the capital Gafsa as well as
+                  in the small town <ref target="https://tunocent.acdh.oeaw.ac.at/el-guettar/">El Guettar</ref><!-- TODO: Check reference --> which is about 20 km to the south of the capital. She also gets
+                  in touch with people from the village Lala, located between these two cities. The researcher interviews people from the governorate’s eastern part,
+                  namely from the mountain region Bir Saad and the village Talah and went to the far west of the governorate of Gafsa, the commune of Redeyef and the town
+                  Moulares (Oum el Araies) to the north of it.</p>
+
+               <p>Three weeks after a great deal of exiting interviews and some exhausting marriages […], Franziska is back to
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/el-kef/">El Kef</ref><!-- TODO: Check reference -->.
+                  Although, the stay in this beautiful governorate is associated with some bureaucratic burdens, the investigation continuous very successfully:</p>
+               <p>Having finished the town of <ref target="https://tunocent.acdh.oeaw.ac.at/tajerouine/">Tajerouine</ref><!-- TODO: Check reference --> and its coutry
+                  side including Sbiat, Mahjouba, Kalaat es Senam and Sidi Mtir as well as the sites Smeena and Dir within the closer surrounding of El Kef, Franziska
+                  now focuses on the commune of <ref target="https://tunocent.acdh.oeaw.ac.at/dahmani/">Dahmani</ref><!-- TODO: Check reference -->. Recording people in
+                  Shmeysiya and Maskhiya, both neighbouring Dahmani, but also in the mountain region Ain El Ksiba on the border to the governorate of Kasserine, she keeps
+                  on capturing dialectal varieties.</p>
+               <p>And then, there is still a surprise in El Kef: the opportunity to get in touch with some students from the Kasserine town of Sbiba, who are available
+                  for an interview too.</p>
+            </div>
+
+
+            <div xml:id="news-716">
+               <head>2019 | July*August: Back to Tunisia for the Second Fieldtrip</head>
+               <div type="date">
+                  <p>Thu, 01 Aug 2019</p>
+               </div>
+               <!-- TODO: Check references in this section -->
+               <p>With new energy, improved questionnaires and the researcher <ref target="https://tunocent.acdh.oeaw.ac.at/team/">team</ref>’s reinforcement by
+                  a new associate, Franziska, the investigation continues: Aleksandra carries on with her work in the northern governorate of
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/beja/">Beja</ref> while Ilona returns to <ref target="https://tunocent.acdh.oeaw.ac.at/siliana/">Siliana</ref>,
+                  happy to see her friends – and Siliana’s cats – again. Moving on to the northwestern part of the country, Ilona afterwards proceeds her fieldwork in
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/jendouba/">Jendouba</ref>. In the meanwhile, Franziska has already arrived to “her” governorate,
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/el-kef/">El Kef</ref>, finding herself not just surrounded by an admirable area with a huge amount of
+                  cultural heritage but also by a number of friendly and open-minded locals, ready to help. Gladly enjoying this warm atmosphere and the people’s
+                  support, she works her way through the governorate.</p>
+
+               <p>However, the working conditions are not that easy for the researchers. Tunisia’s scorching sun means that locals rarely leave their homes throughout the
+                  day during summer months. Interviewees are hard to catch as they are usually found at home, enjoying a siesta in the shade. These circumstances demand
+                  late-night hours interviewing those who are available after their afternoon naps. Being flexible allowed us to adapt to the timing and availability of
+                  potential interview partners.</p>
+
+               <p>Nonetheless, the lack of infrastructure often restricted our eager plans. Many regions &#8211; rural areas and small towns &#8211; do not offer any
+                  public transportation after five o’clock. Sometimes there is even no connection before five! Our partial reliance on local guides had somewhat of an
+                  impact on our schedules, and meant that early mornings, coupled with evening <hi rend="italics">ḥōš</hi>-assemblies*, were the general order of the day – taking
+                  every opportunity for Franziska and Aleksandra to catch valuable sleep. Ilona, for her part, acquired a taste for the local’s daily rhythm and
+                  happily adopted their siesta custom <hi rend="italics">gaylūla</hi>.</p>
+
+
+               <figure>
+                  <link target="IMG_20190913_095104203-1024x768.jpg"/>
+                  <graphic url="IMG_20190913_095104203-1024x768.jpg"/>
+                  <head type="imgCaption">Minibus stop in Gafsa</head>
+               </figure>
+
+               <p>All the more, we are very satisfied with our fieldtrip’s outcome: The work in the governorates
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/beja/">Beja</ref> and <ref target="https://tunocent.acdh.oeaw.ac.at/siliana/">Siliana</ref> is
+                  completed, the wide parts of the governorate <ref target="https://tunocent.acdh.oeaw.ac.at/el-kef/">El Kef</ref> covered and even first sites
+                  in <ref target="https://tunocent.acdh.oeaw.ac.at/jendouba/">Jendouba</ref> opened up. Moreover, though working separately in different
+                  governorates, our researcher team manages to meet up in the capital for a joint lunch, strong hugs and to compare their notes and as their trip
+                  draws to its close.</p>
+
+
+
+               <p style="font-size: 12px;">* <hi rend="italics">ḥōš</hi>: depending on the Tunisian dialect variety, the word <hi rend="italics">ḥōš</hi>, also pronounced
+                  <hi rend="italics">ḥūš</hi>, can imply either the meaning “house” or – as in this case – “courtyard”, in which family members, neighbours and friends
+                  gather in summer nights. People tell stories and jokes and sometimes even sing songs during those late-night assemblies.</p>
+
+            </div>
+
+
+            <div xml:id="news-710">
+               <head>2019 |  June: Presentation of TUNOCENT at the 13th AIDA-Conference in Kutaisi, Georgia</head>
+               <div type="date"><p>Mon, 03 Jun 2019</p></div>
+
+               <p>Every two years, scholars from all over the world gather at the conference of the International Association of Arabic Dialectology
+                  (<hi rend="italics">Association Internationale de Dialectologie Arabe</hi>, AIDA – الرابطة الدولية لدراسة اللهجات العربية) for a mutual exchange about Arabic
+                  Dialectology’s different issues.</p>
+
+
+
+               <p>This year Veronika presents TUNOCENT! Explaining her project as a first attempt to linguistically illuminate a part of Tunisia, which has long remained
+                  understudied, she is bringing conference delegates up to speed with the investigation. As the field of Arabic Dialectology covers, amongst other things,
+                  the description of dialects, dialectal geography, specific aspects of phonology, morphology and syntax, code-switching, the lexicon of Arabic dialects
+                  as well as comparative and diachronic studies and sociolinguistics, the TUNOCENT project has plenty of areas to explore. The international community of
+                  scholars is listening to Veronika’s presentation attentively.</p>
+
+
+            </div>
+
+
+            <div xml:id="news-714">
+               <head>2019 | May*June: Updates and Paperwork</head>
+               <div type="date"><p>Wed, 01 May 2019</p></div>
+               <p>Two and half weeks later, the researchers are back. Healthy but exhausted, Aleks and Ilona share their completely contrastive experiences:
+                  while one scientist was suspected of being a spy, the other was overwhelmed by the locals’ helpfulness. Concerning the investigation itself,
+                  the first run entails a few changes to the questionnaires. Time to update the work material for the next fieldwork – and to archive the
+                  already collected data.</p>
+            </div>
+
+            <div xml:id="news-705">
+               <head>2019 |  April*May: The Investigation Begins</head><div type="date"><p>Sun, 07 Apr 2019</p>
+               </div>
+               <p>After a short period of discussing the questionnaires and formalities at the institute, the team is ready for the new challenge of fieldwork. As
+                  the best way to become familiar with the field research is conducting it in situ,
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/team/">Aleksandra and Ilona</ref> start with their first interviews in Tunisia. Heading for the northern
+                  governorates <ref target="https://tunocent.acdh.oeaw.ac.at/beja/">Beja</ref> and <ref target="https://tunocent.acdh.oeaw.ac.at/siliana/">Siliana</ref>,
+                  the investigation begins.</p>
+
+               <figure>
+                  <link target="aleks-und-ilona-1024x768.jpg"/>
+                  <graphic url="aleks-und-ilona-1024x768.jpg"/>
+                  <head type="imgCaption">Aleks (left), Ilona (right)</head>
+               </figure>
+               <p>Looking back on her first field trip, Ilona reports:</p>
+
+               <p class="has-text-color has-text-align-center has-very-dark-gray-color" style="font-size: 18px;">"Unfortunately I fell ill shortly before travelling to
+                  Tunis and spent the first days in bed. I called some friends and was invited to visit the aunt of my friend in
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/siliana/">Siliana</ref>, who welcomed me with open arms and a smiling face. <br />The next day I met my former
+                  linguistic professor, Mr. Grira and the mayor of Siliana who helped me getting started my fieldwork. Prof. Grira offered me to stay at his house and
+                  supported me a lot during my stay, for which I am very grateful. Then I visited the governor of Siliana and handled some required paper work.
+                  With the support of the local authorities, I eventually was brought to <ref target="https://tunocent.acdh.oeaw.ac.at/drija/">Drija</ref>, a marvelous little
+                  village in the middle of an agricultural area. It was April and the grass between the olive groves and fruit trees was covered with purple blooming
+                  <hi rend="italics">xubbīza</hi>*. I met many welcoming and friendly people who were ready to answer a lot of questions about their dialect. After Drija, my next stop
+                  was <ref target="https://tunocent.acdh.oeaw.ac.at/sidi-hmada/">Sidi Hmada</ref>. The village’s mayor took me to meet some members of the older generation who
+                  kindly told me their stories. <br />Then I went to visit my fellow student in <ref target="https://tunocent.acdh.oeaw.ac.at/el-garia-2/">Garia</ref>, a small
+                  village close to Kisra. Happy to see her and her family again, I conducted several interviews with her and her relatives as well as with some neighbors.
+                  <br />In addition to that, our cooperation partner Mr. Maataoui, invited Aleksandra and me to attend a meeting at the Department of German Philology,
+                  <ref target="http://www.uma.rnu.tn/index.php?code=5">University of Manouba</ref>, where we presented the
+                  <ref target="https://tunocent.acdh.oeaw.ac.at/about/">TUNOCENT project</ref> and explained our current fieldwork."</p>
+
+               <p class="has-text-color has-normal-font-size has-very-dark-gray-color"> *<hi rend="italics">xubbīza: </hi>Cheeseweed </p>
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

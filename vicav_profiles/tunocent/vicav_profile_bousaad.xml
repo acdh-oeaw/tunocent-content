@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_Bou_Saad_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of Bou Saad Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:FS">Franziska Schwemmer</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Bou Saad</name>
+                  <name xml:lang="aeb">Bū Saʕd</name>
+               </settlement>
+               <region>Gafsa</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.3768803,9.2150021</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2020-09-23T11:44:00Z" who="corpus:FS" type="major" n="0">created</change>
+         <change status="draft" when="2021-01-22T10:13:00Z" who="corpus:FS" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="BouSaad1.jpg"/>
+                  <head type="imgCaption">Rawaa Tlili</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">Bou Saad, Ouled Bou Saad</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">Bū Saʕd, Ūlǟd Bū Saʕd</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">بو سعد، أولاد بو سعد </name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>34.3768803,9.2150021</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › Southern Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">Bou Saad, also called Ouled Bou Saad, is an ancient Berber village situated in the Orbata Mountains (Žbǟl ʕUṛbāṭa) of the South Tunisian governorate of Gafsa. According to an article the Tunisian newspaper aš-Šurūq published in 2016, the region Ouled Bou Saad is also called is-Saket (is-Sǟkit), a toponym still used by people in their fifties instead of, or concomitant with its current toponym.</p>
+               <p>
+                  <figure>
+                     <link target="School.jpg"/>
+                     <graphic url="thumb/School.jpg"/>
+                     <head>School</head>
+                  </figure>
+                  <figure>
+                     <link target="School_(1).jpg"/>
+                     <graphic url="thumb/School_(1).jpg"/>
+                     <head>School</head>
+                  </figure>
+                  <figure>
+                     <link target="School_(2).jpg"/>
+                     <graphic url="thumb/School_(2).jpg"/>
+                     <head>School</head>
+                  </figure>
+               </p>
+               <p>Bou Saad is interbedded between 
+               <ref type="profile" target="profile_{Bou Omrane}_01">Bou Omrane</ref>, 
+               which is located to its west and Sened to its east. In the south, 
+               Bou Saad abuts on the villages of <ref type="profile" target="profile_{Bir Saad}_01">Bir Saad</ref> 
+               and Talah. 
+               The main road leading to the governorate’s capital Gafsa, divides the villages, 
+               with Bou Saad being to its north and Bir Saad as well as Talah being to its south. </p>
+               <p>
+                  <figure>
+                     <link target="Settlement_on_the_mountain.jpg"/>
+                     <graphic url="thumb/Settlement_on_the_mountain.jpg"/>
+                     <head>Settlement on the mountain</head>
+                  </figure>
+                  <figure>
+                     <link target="Settlement_on_the_mountain_(3).jpg"/>
+                     <graphic url="thumb/Settlement_on_the_mountain_(3).jpg"/>
+                     <head>Settlement on the mountain</head>
+                  </figure>
+                  <figure>
+                     <link target="Settlement_on_the_mountain_(1).jpg"/>
+                     <graphic url="thumb/Settlement_on_the_mountain_(1).jpg"/>
+                     <head>Settlement on the mountain</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">According to the aš-Šurūq article cited above, 
+               caves preserved in the Orbata Mountains (Žbǟl ʕUṛbāṭa) between 
+               the region Ouled Bou Saad and Tafertast (Ṭāfirṭāst) suggest that 
+               the presence of Berbers in this territory dates back to 15,000 years BC. 
+               Hence, the caves’ heritage is even older than the Capsian culture 
+               (between 7000 and 8000 years BC), for which the region of 
+               <ref type="profile" target="profile_{Gafsa}_01">Gafsa</ref> 
+               is known. Moreover, the region is rich of stone age landmarks.</p>
+               <p>
+                  <figure>
+                     <link target="Tomb_of_Sidi_Saleh_(1).jpg"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(1).jpg"/>
+                     <head>Tomb of Sidi Saleh (1)</head>
+                  </figure>
+                  <figure>
+                     <link target="Tomb_of_Sidi_Saleh_(2).jpg"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(2).jpg"/>
+                     <head>Tomb of Sidi Saleh (2)</head>
+                  </figure>
+                  <figure>
+                     <link target="Tomb_of_Sidi_Saleh_(3).jpg"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(3).jpg"/>
+                     <head>Tomb of Sidi Saleh (3)</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">In comparison to that, a tomb commemorating the medieval saint Sidi Saleh (Sīdi Ṣāliḥ) appears like recent history. Locals still maintain their Berber heritage. Berber women, for instance, still feature their traditional face and hand tatoos. </p>
+               <p>
+                  <figure>
+                     <link target="Berber_woman_with_traditional_tattoos.jpg"/>
+                     <graphic url="thumb/Berber_woman_with_traditional_tattoos.jpg"/>
+                     <head>Berber woman with traditional tattoos</head>
+                  </figure>
+                  <figure>
+                     <link target="Riding_equipment.jpg"/>
+                     <graphic url="thumb/Riding_equipment.jpg"/>
+                     <head>Riding equipment</head>
+                  </figure>
+                  <figure>
+                     <link target="Cleaning_tools.jpg"/>
+                     <graphic url="thumb/Cleaning_tools.jpg"/>
+                     <head>Cleaning tools</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Bou Saad, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_bousaad_01">BouSaad7/f/50</ref>
+                  <ref type="sample" target="vicav_sample_bousaad_02">BouSaad1/f/70</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_bousaad_03">BouSaad3/f/41</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

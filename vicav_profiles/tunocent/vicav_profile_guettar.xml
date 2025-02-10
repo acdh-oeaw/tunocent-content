@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_El_Guettar_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of El Guettar Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:FS">Franziska Schwemmer</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Guettar</name>
+                  <name xml:lang="aeb">l-Gṭāṛ</name>
+               </settlement>
+               <region>Gafsa</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.28949, 9.02349</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2019-12-05T12:00:00Z" who="corpus:FS" type="major" n="0">created</change>
+         <change status="draft" when="2019-12-11T08:38:00Z" who="corpus:FS" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="Guettar_title.jpg"/>
+                  <head type="imgCaption">Franziska Schwemmer</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">El Guettar</name>
+               <label>Name (Fuṣḥā, transcription)</label>
+               <name xml:lang="ara-x-DMG">al-Qaṭṭār</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">l-Gṭāṛ</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">القطار</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>34.28949, 9.02349</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › Southern Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="IMG_20190825_091549199-1-scaled.jpg"/>
+                     <graphic url="IMG_20190825_091549199-1-scaled.jpg"/>
+                     <head>View from the oldest mosque's tower</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190825_092317412-scaled.jpg"/>
+                     <graphic url="IMG_20190825_092317412-scaled.jpg"/>
+                     <head>Residents showing the oldest local mosque</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_103558119-1-scaled.jpg"/>
+                     <graphic url="IMG_20190824_103558119-1-scaled.jpg"/>
+                     <head>On a bike tour through the palmery next to the mountains</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_090315598-scaled.jpg"/>
+                     <graphic url="IMG_20190824_090315598-scaled.jpg"/>
+                     <head>Researcher Franzi riding on the remains of a tractor</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">El Guettar, located in the southwest Tunisian governorate of Gafsa, is famous for its former natural water sources (<hi xml:lang="aeb" rendition="#i">ʕyūn</hi>)<hi xml:lang="aeb" rendition="#i">. </hi>Though they have dried out decades ago, El Guettar’s residential quarters are named after the numerous former springs. </p>
+               <p>
+                  <figure>
+                     <link target="IMG_20190824_111649504-scaled.jpg"/>
+                     <graphic url="IMG_20190824_111649504-scaled.jpg"/>
+                     <head>Spring holes in the palmery</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_111816861-scaled.jpg"/>
+                     <graphic url="IMG_20190824_111816861-scaled.jpg"/>
+                     <head>Gathering around a former water source</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190829_090946792-scaled.jpg"/>
+                     <graphic url="IMG_20190829_090946792-scaled.jpg"/>
+                     <head>Dry riverbed</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">As the small town lies on the foot of a mountain range, its landscape's dry riverbeds are reminiscent of their water flows of former times. Even today, El Guettar is still a town with many green areas, such as palm forests, orchards and vast olive groves. Thus, olives – and its oil –, pistachios, dates, figs and cactus fruits are El Guettar’s most important agricultural products. </p>
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="IMG_20190824_101914929-scaled.jpg"/>
+                     <graphic url="IMG_20190824_101914929-scaled.jpg"/>
+                     <head>Impression of the diverse landscape</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_121522323-scaled.jpg"/>
+                     <graphic url="IMG_20190824_121522323-scaled.jpg"/>
+                     <head>Palm fronds with fruits</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_082147426-scaled.jpg"/>
+                     <graphic url="IMG_20190824_082147426-scaled.jpg"/>
+                     <head>Dates hanging on a palmtree</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_102036342-scaled.jpg"/>
+                     <graphic url="IMG_20190824_102036342-scaled.jpg"/>
+                     <head>Fresh cropped pistachios</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_101906894-scaled.jpg"/>
+                     <graphic url="IMG_20190824_101906894-scaled.jpg"/>
+                     <head>Cactus plant with Indian figs</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190826_105126837-scaled.jpg"/>
+                     <graphic url="IMG_20190826_105126837-scaled.jpg"/>
+                     <head>Tasty fresh fig</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190826_104835123-scaled.jpg"/>
+                     <graphic url="IMG_20190826_104835123-scaled.jpg"/>
+                     <head>Fig tree with fruits</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_102058123-scaled.jpg"/>
+                     <graphic url="IMG_20190824_102058123-scaled.jpg"/>
+                     <head>Olive tree with fruits</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_191856077-scaled.jpg"/>
+                     <graphic url="IMG_20190824_191856077-scaled.jpg"/>
+                     <head>Olive grove</head>
+                  </figure>
+               </p>
+               <p>Since people produce their foodstuff mainly by themselves using traditional techniques, they also manufacture tools like millstones (<hi xml:lang="aeb" rendition="#i">rḥā</hi>). </p>
+               <p>
+                  <figure>
+                     <link target="IMG_20190828_100041164-scaled.jpg"/>
+                     <graphic url="IMG_20190828_100041164-scaled.jpg"/>
+                     <head>El Guettar. Millstone manufacturer</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190828_100331624-scaled.jpg"/>
+                     <graphic url="IMG_20190828_100331624-scaled.jpg"/>
+                     <head>Millstone</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">For many residents of El Guettar, agriculture and livestock breeding form their livelihood. In addition to that, the local phosphate industry as well as the governorate’s capital Gafsa, which is just at a 20 km distance from El Guettar, provide jobs.</p>
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="Guettar-dough.jpg"/>
+                     <graphic url="Guettar-dough.jpg"/>
+                     <head>Preparing the bread dough</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-prepare.jpg"/>
+                     <graphic url="Guettar-prepare.jpg"/>
+                     <head>Baking bread</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-leaves.jpg"/>
+                     <graphic url="Guettar-leaves.jpg"/>
+                     <head>Preparing food picking leaves</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-couscous.jpg"/>
+                     <graphic url="Guettar-couscous.jpg"/>
+                     <head>Couscous with leaves</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-mtabga.jpg"/>
+                     <graphic url="Guettar-mtabga.jpg"/>
+                     <head>Preparing Mtabga (home-made Tunisian pizza)</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-mtabga2.jpg"/>
+                     <graphic url="Guettar-mtabga2.jpg"/>
+                     <head>Preparing Mtabga (home-made Tunisian pizza)</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-mtabga3.jpg"/>
+                     <graphic url="Guettar-mtabga3.jpg"/>
+                     <head>Home-made pizza Mtabga</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-couscous2.jpg"/>
+                     <graphic url="Guettar-couscous2.jpg"/>
+                     <head>Couscous with local vegetables and Harrisa</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-palm.jpg"/>
+                     <graphic url="Guettar-palm.jpg"/>
+                     <head>Local working on a date palm</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">One of the town’s tourist attractions is a hill called <hi xml:lang="aeb" rendition="#i">il-</hi><hi xml:lang="aeb" rendition="#i">galʕa</hi> (the actual meaning of this word is “fort“) that offers a panoramic view from its top. People attribute special importance to it: Locals but also pilgrims from other parts of Tunisia head for the hill’s caves to celebrate ceremonies with animal sacrifices there.</p>
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="IMG_20190824_120404363-1-scaled.jpg"/>
+                     <graphic url="IMG_20190824_120404363-1-scaled.jpg"/>
+                     <head>Mountain hill called Galea with sourroundings</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190828_190449485-scaled.jpg"/>
+                     <graphic url="IMG_20190828_190449485-scaled.jpg"/>
+                     <head>Caves on the mountain hill Galea</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_195910713-scaled.jpg"/>
+                     <graphic url="IMG_20190824_195910713-scaled.jpg"/>
+                     <head>A look into a cave on the Galea hill</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_195806482-scaled.jpg"/>
+                     <graphic url="IMG_20190824_195806482-scaled.jpg"/>
+                     <head>Bone remains on the Galea hill</head>
+                  </figure>
+                  <figure>
+                     <link target="IMG_20190824_120746569-scaled.jpg"/>
+                     <graphic url="IMG_20190824_120746569-scaled.jpg"/>
+                     <head>The galea sourrounded by trees in front of mountain hills</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">Additionally, some local saints and their shrines are located in the small town.</p>
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="Guettar-shrine.jpg"/>
+                     <graphic url="Guettar-shrine.jpg"/>
+                     <head>Building of a local shrine</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-roof.jpg"/>
+                     <graphic url="Guettar-roof.jpg"/>
+                     <head>Roof embellishment inside the shrine building</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-shrine-desc.jpg"/>
+                     <graphic url="Guettar-shrine-desc.jpg"/>
+                     <head>Local saint's shrine with description I</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-shrine-desc2.jpg"/>
+                     <graphic url="Guettar-shrine-desc2.jpg"/>
+                     <head>Local saint's shrine with description II</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-shrine-desc3.jpg"/>
+                     <graphic url="Guettar-shrine-desc3.jpg"/>
+                     <head>Table bearing an inscription</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-golden-plaque.jpg"/>
+                     <graphic url="Guettar-golden-plaque.jpg"/>
+                     <head>Golden plaque next to the shrine</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-flags.jpg"/>
+                     <graphic url="Guettar-flags.jpg"/>
+                     <head>Colurful flags around the shrine</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-carpets.jpg"/>
+                     <graphic url="Guettar-carpets.jpg"/>
+                     <head>Carpets inside the shrine building</head>
+                  </figure>
+                  <figure>
+                     <link target="Guettar-shrine-yard.jpg"/>
+                     <graphic url="Guettar-shrine-yard.jpg"/>
+                     <head>Yard inside the shrine building</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of El Guettar, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_guettar_02">Guettar7/f/20</ref>
+                  <ref type="sample" target="vicav_sample_guettar_01">Guettar3/m/65</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_guettar_01">Guettar3/m/65</ref>
+                  <ref type="feature" target="vicav_lingfeatures_guettar_02">Guettar4/m/54</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

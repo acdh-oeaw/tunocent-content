@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exported from Zotero</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2024-10-10 11:08:52</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <biblStruct type="presentation"
+                        xml:id="Ritt-Benmimoun2024"
+                        corresp="http://zotero.org/groups/2165756/items/KZ8WZ5ER"
+                        n="Ritt-Benmimoun2024b">
+               <monogr>
+                  <title level="m">Intra-Bedouin Isoglosses in Tunisia: old ones revisited and new ones proposed</title>
+                  <respStmt>
+                     <resp>presenter</resp>
+                     <persName>
+                        <forename>Veronika</forename>
+                        <surname>Ritt-Benmimoun</surname>
+                     </persName>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Valetta, Malta</pubPlace>
+                     <date>2024</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="abdelfattah_Ritt_2022_1812"
+                        corresp="http://zotero.org/groups/2165756/items/EY56FXZI"
+                        n="Abdelfattah2022">
+               <analytic>
+                  <title level="a">Language attitudes in Northwestern Tunisia and their implication for speech patterns</title>
+                  <author>
+                     <forename>Ilona</forename>
+                     <surname>Abdelfattah</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">International Journal of the Sociology of Language</title>
+                  <imprint>
+                     <biblScope unit="volume">278</biblScope>
+                     <biblScope unit="page">259-283</biblScope>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="benkato_ritt-benmimoun_2023_7629"
+                        corresp="http://zotero.org/groups/2165756/items/D4EDST67"
+                        n="Benkato2023b">
+               <analytic>
+                  <title level="a">Voice archives in Arabic dialectology: the case of the southern Tunisian recordings in the Berliner Lautarchiv</title>
+                  <title type="short">Voice archives in Arabic dialectology</title>
+                  <author>
+                     <forename>Adam</forename>
+                     <surname>Benkato</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The journal of North African studies</title>
+                  <idno type="ISSN">1362-9387</idno>
+                  <imprint>
+                     <biblScope unit="volume">28</biblScope>
+                     <biblScope unit="issue">5</biblScope>
+                     <biblScope unit="page">1142-1162</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="thesis"
+                        xml:id="naddari_2023_2742"
+                        corresp="http://zotero.org/groups/2165756/items/ERM2XT6C"
+                        n="Aleksandra_Naddari2023">
+               <monogr>
+                  <title level="m">“The Arabic Variety of Nefza (Northwest Tunisia):  Phonology, Morphology and Texts”</title>
+                  <author>
+                     <name>Aleksandra Naddari</name>
+                  </author>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="naddari_2024_2985"
+                        corresp="http://zotero.org/groups/2165756/items/R32S6HU7"
+                        n="Naddari2024">
+               <analytic>
+                  <title level="a">Pronominal Suffix Variation in Nefza Arabic (Northwest Tunisia)</title>
+                  <author>
+                     <forename>Aleksandra</forename>
+                     <surname>Naddari</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">AIDA Granada: A pomegranate of Arabic varieties</title>
+                  <editor>
+                     <forename>Carmen</forename>
+                     <surname>Berlinches Ramos</surname>
+                  </editor>
+                  <editor>
+                     <forename>Jairo</forename>
+                     <surname>Guerrero</surname>
+                  </editor>
+                  <editor>
+                     <forename>Montserrat</forename>
+                     <surname>Benítez Fernández</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Zaragoza</pubPlace>
+                     <biblScope unit="page">335-346</biblScope>
+                     <publisher>Prensas de la Universidad de Zaragoza</publisher>
+                     <date>2024</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_2021_2993"
+                        corresp="http://zotero.org/groups/2165756/items/9C39H9AK"
+                        n="Ritt-Benmimoun2021">
+               <analytic>
+                  <title level="a">First new data fromTunisia's dialectal terra incognita: A preliminary report</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue de Linguistique Tunisienne</title>
+                  <imprint>
+                     <biblScope unit="volume">6</biblScope>
+                     <biblScope unit="page">29-59</biblScope>
+                     <date>2021</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt-benmimoun_2022_1834"
+                        corresp="http://zotero.org/groups/2165756/items/JR9RHV84"
+                        n="Ritt-Benmimoun2020c">
+               <analytic>
+                  <title level="a">Tunisia's linguistic terra incognita: An investigation into the Arabic varieties of northwestern and central Tunisia (Tunocent)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Studies on Arabic dialectology and sociolinguistics: Proceedings of the 13th International Conference of AIDA held in Kutaisi in June 10-13, 2019</title>
+                  <idno type="ISBN">978-9941-453-88-5</idno>
+                  <editor>
+                     <forename>Guram</forename>
+                     <surname>Chikovani</surname>
+                  </editor>
+                  <editor>
+                     <forename>Zviad</forename>
+                     <surname>Tskhvediani</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Kutaisi</pubPlace>
+                     <biblScope unit="page">256-264</biblScope>
+                     <publisher>Akaki Tsereteli State University</publisher>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt-benmimoun_2022_2434"
+                        corresp="http://zotero.org/groups/2165756/items/5TEEAD39"
+                        n="Ritt-Benmimoun_Veronika2022">
+               <analytic>
+                  <title level="a">Traditional Recipes from il-Kǟf (Northwestern Tunisia)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Semitic dialects and dialectology : fieldwork - community - change</title>
+                  <idno type="ISBN">978-3-96822-095-6 / Druck:  9783968220963</idno>
+                  <editor>
+                     <forename>Maciej</forename>
+                     <surname>Klimiuk</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Heidelberg</pubPlace>
+                     <biblScope unit="page">331-343</biblScope>
+                     <publisher>Heidelberg University Publishing</publisher>
+                     <date>2022</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_2023_3821"
+                        corresp="http://zotero.org/groups/2165756/items/PTZMM3AP"
+                        n="Ritt-Benmimoun2023">
+               <analytic>
+                  <title level="a">Interrogatives in Tunisia with a focus on the Arabic varieties spoken in North-western, Central and Southern Tunisia</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Zeitschrift für Arabische Linguistik</title>
+                  <imprint>
+                     <biblScope unit="volume">77</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="page">52-71</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="journalArticle"
+                        xml:id="ritt-benmimoun_et_al_2021_5678"
+                        corresp="http://zotero.org/groups/2165756/items/9T4CCL5C"
+                        n="Mattiello2021">
+               <analytic>
+                  <title level="a">Asymmetric use of diminutives and hypocoristics to pet animals in Italian, German, English, and Arabic</title>
+                  <idno type="DOI">10.1016/j.langcom.2020.11.004</idno>
+                  <author>
+                     <forename>Elisa</forename>
+                     <surname>Mattiello</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+                  <author>
+                     <forename>Wolfgang U.</forename>
+                     <surname>Dressler</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Language &amp; Communication</title>
+                  <idno type="ISSN">02715309</idno>
+                  <imprint>
+                     <biblScope unit="volume">76</biblScope>
+                     <biblScope unit="page">136-153</biblScope>
+                     <date>2021</date>
+                     <note type="accessed">2024-09-30T10:30:42Z</note>
+                     <note type="url">https://linkinghub.elsevier.com/retrieve/pii/S0271530920301063</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="bookSection"
+                        xml:id="ritt_benmimoun_2023_2345"
+                        corresp="http://zotero.org/groups/2165756/items/2KL83TEJ"
+                        n="Dressler2023">
+               <analytic>
+                  <title level="a">Morphological richness and priority of pragmatics over semantics in Italian, Arabic, German and English diminutives</title>
+                  <author>
+                     <forename>Wolfgang U.</forename>
+                     <surname>Dressler</surname>
+                  </author>
+                  <author>
+                     <forename>Elsa</forename>
+                     <surname>Matiello</surname>
+                  </author>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Diminutives Across Languages, Theoretical Frameworks and Linguistic Domains</title>
+                  <idno type="ISBN">978-3-11-079283-6</idno>
+                  <imprint>
+                     <biblScope unit="volume">380</biblScope>
+                     <biblScope unit="page">335-362</biblScope>
+                     <date>2023</date>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+               </note>
+            </biblStruct>
+            <biblStruct type="thesis"
+                        xml:id="zarb_2023_0602"
+                        corresp="http://zotero.org/groups/2165756/items/X25QQG3S"
+                        n="Zarb2023">
+               <monogr>
+                  <title level="m">The Arabic Dialect of Testour (Northwestern Tunisia): A phonological and morphological analysis</title>
+                  <author>
+                     <forename>Maria Rebecca</forename>
+                     <surname>Zarb</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Vienna</pubPlace>
+                     <date>2023</date>
+                     <note type="thesisType">MA thesis</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">prj:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+            </biblStruct>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

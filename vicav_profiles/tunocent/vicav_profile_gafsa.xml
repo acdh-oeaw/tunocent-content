@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="profile_Gafsa_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A profile of Gafsa Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:FS">Franziska Schwemmer</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an original digital text</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.pp"/>
+         </textClass>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Gafsa</name>
+                  <name xml:lang="aeb">Gafṣa</name>
+               </settlement>
+               <region>Gafsa</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.425, 8.78417</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <encodingDesc>
+         <tagsDecl partial="true">
+            <rendition xml:id="i" scheme="css">font-style:italics;</rendition>
+            <rendition xml:id="u" scheme="css">text-decoration:underline;</rendition>
+            <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change status="created" when="2019-12-05T11:19:00Z" who="corpus:FS" type="major" n="0">created</change>
+         <change status="draft" when="2020-02-03T12:49:00Z" who="corpus:FS" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <figure>
+                  <graphic url="Gafsa1.jpg"/>
+                  <head type="imgCaption">Franziska Schwemmer</head>
+               </figure>
+               <label>Name (English)</label>
+               <name xml:lang="eng">Gafsa</name>
+               <label>Name (Fuṣḥā, transcription)</label>
+               <name xml:lang="ara-x-DMG">Qafṣa</name>
+               <label>Name in local variety (in transcription)</label>
+               <name xml:lang="aeb-Latn" type="latLoc">Gafṣa</name>
+               <label>Name (Fuṣḥā, Arabic)</label>
+               <name xml:lang="ara">قفصة</name>
+            </head>
+            <div type="positioning">
+               <head>Geo location</head>
+               <p>
+                  <geo>34.425, 8.78417</geo>
+               </p>
+            </div>
+            <div type="typology">
+               <head>Typology (Local)</head>
+               <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › Southern Tunisia</p>
+               <p>Bedouin-type dialect</p>
+            </div>
+            <div type="general">
+               <p xml:space="preserve">Gafsa (Latin: Capsa) is the capital of the southwest Tunisian governorate Gafsa. It abuts on a forest area (<hi xml:lang="aeb" rendition="#i">ž</hi><hi xml:lang="aeb" rendition="#i">arr</hi>) to its south, which has nearly the size of the town itself and provides a habitat for the local flora and fauna</p>
+               <p>
+                  <figure>
+                     <link target="Gafsa-cat.jpg"/>
+                     <graphic url="Gafsa-cat.jpg"/>
+                     <head type="imgCaption">A cute cat in the forest</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-tree.jpg"/>
+                     <graphic url="Gafsa-tree.jpg"/>
+                     <head type="imgCaption">Path through the forest</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-horse.jpg"/>
+                     <graphic url="Gafsa-horse.jpg"/>
+                     <head type="imgCaption">Researcher Franzi getting a hug from a photogenic horse</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">Just one street separates this woodland from the Great Mosque and the Roman baths, two of Gafsa’s main architectural attractions.</p>
+               <p rendition="#slideshow">
+                  <figure>
+                     <link target="Gafsa-street-bath.jpg"/>
+                     <graphic url="Gafsa-street-bath.jpg"/>
+                     <head type="imgCaption">Street between the woodland and the Roman baths</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-bath.jpg"/>
+                     <graphic url="Gafsa-bath.jpg"/>
+                     <head type="imgCaption">Inside the baths building</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-bath2.jpg"/>
+                     <graphic url="Gafsa-bath2.jpg"/>
+                     <head type="imgCaption">Franzi exploring the baths</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-mosque-sign.jpg"/>
+                     <graphic url="Gafsa-mosque-sign.jpg"/>
+                     <head type="imgCaption">Great mosque of Gafsa</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-mosque.jpg"/>
+                     <graphic url="Gafsa-mosque.jpg"/>
+                     <head type="imgCaption">At the yard of the mosque</head>
+                  </figure>
+                  <figure>
+                     <link target="Gafsa-mosque-spring.jpg"/>
+                     <graphic url="Gafsa-mosque-spring.jpg"/>
+                     <head type="imgCaption">Spring in the mosque's yard</head>
+                  </figure>
+               </p>
+               <p xml:space="preserve">As the area of the town and its surroundings was in prehistoric times settled by the Mesolithic Capsian civilisation, a series of archaeological excavations and their findings bear witness to this early culture. Today, however, the governorate of Gafsa is famous for its phosphate mining which emerged at the end of the 19th century. The mining causes serious health problems and pollution in the whole region. Still, the town attracts many people from the adjacent governorates searching for work. Therefore, the dialect spoken in Gafsa as well as the speakers themselves are very heterogeneous.</p>
+            </div>
+            <div type="gallery">
+               <link target="Gafsa-roundabout.jpg">
+                  <graphic url="Gafsa-roundabout.jpg"/>
+                  <head>Roundabout in the city centre</head>
+               </link>
+               <link target="Gafsa-house.jpg">
+                  <graphic url="Gafsa-house.jpg"/>
+                  <head>Traditional Arabic house with blue windows and doors</head>
+               </link>
+               <link target="Gafsa-local.jpg">
+                  <graphic url="Gafsa-local.jpg"/>
+                  <head>Researcher Franzi with her interviewee</head>
+               </link>
+               <link target="Gafsa-street.jpg">
+                  <graphic url="Gafsa-street.jpg"/>
+                  <head>On a walk through Gafsa</head>
+               </link>
+            </div>
+            <div type="researchHistory">
+               <p xml:space="preserve">With the exception of two texts in the Arabic dialect of Gafsan Jews (Singer 1980, 272-276) hitherto no data is published on the dialect of Gafsa, however this dialect is linguistically investigated within the TUNOCENT project.</p>
+            </div>
+            <div type="bibliography">
+               <head>Bibliography</head>
+               <p xml:space="preserve"/>
+            </div>
+            <div type="sampleText">
+               <head>Sample text</head>
+               <p>
+                  <ref type="sample" target="vicav_sample_gafsa_03">Gafsa8/m/48</ref>
+                  <ref type="sample" target="vicav_sample_gafsa_02">Gafsa4/f/48</ref>
+                  <ref type="sample" target="vicav_sample_gafsa_01">Gafsa2/m/31</ref>
+               </p>
+            </div>
+            <div type="lingFeatures">
+               <head>Linguistic features</head>
+               <p>
+                  <ref type="feature" target="vicav_lingfeatures_gafsa_01">Gafsa4/f/48</ref>
+                  <ref type="feature" target="vicav_lingfeatures_gafsa_02">Gafsa8/m/48</ref>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

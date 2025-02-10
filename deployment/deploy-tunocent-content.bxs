@@ -1,0 +1,20 @@
+<commands>
+        <set option='CHOP'>false</set>
+        <set option='textindex'>true</set>
+        <set option='textinclude'>*:person,*:region,*:country,*:name,*:idno</set>
+        <create-db name='vicav_corpus'>../tunocent-content/vicav_corpus</create-db>
+        <add>../tunocent-content/corpus.xml</add>
+        <optimize-all/>
+        <create-db name='vicav_projects'>../tunocent-content/vicav_projects</create-db>
+        <create-db name='vicav_profiles'>../tunocent-content/vicav_profiles</create-db>
+        <create-db name='vicav_texts'>../tunocent-content/vicav_texts</create-db>
+        <create-db name='vicav_biblio'>../tunocent-content/vicav_biblio</create-db>
+        <set option='ftindex'>true</set>
+        <set option='attrinclude'>age,sex</set>
+        <set option='textinclude'>*:person,*:region,*:country,*:name,*:idno</set>
+        <set option='ftinclude'>*:w,*:phr,*:f</set>
+        <create-db name='vicav_lingfeatures'>../tunocent-content/vicav_lingfeatures</create-db>
+        <create-db name='vicav_samples'>../tunocent-content/vicav_samples</create-db>
+        <run file="remove-docs-from-irrelevant-regions.xquery"/>
+        <optimize-all/>
+</commands>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vicav Contributors</title>
+         </titleStmt>
+         <publicationStmt>
+            <p xml:space="preserve">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p xml:space="preserve">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+          <projectDesc>
+              <ab>The links for the profiles were assembled by scriptor.exe--&lt;createListOfVICAVProfiles</ab>
+          </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div xml:id="tunocent_about">
+		<head>
+			TUNOCENT
+		</head>
+
+		<p xml:space="preserve">(April 2019 → September 2024)</p>
+		<p xml:space="preserve">
+			funded by
+			<ref target="https://www.fwf.ac.at/en/">
+				The Austrian Science Fund
+			</ref> (FWF)
+		</p>
+		<p xml:space="preserve">The project “<hi rendition="#b">Tu</hi>nisia’s Linguistic <hi rendition="#i">terra incognita</hi>: An
+			Investigation into the Arabic Varieties of <hi rendition="#b">No</hi>rthwestern and
+				<hi rendition="#b">Cent</hi>ral Tunisia (TUNOCENT)” aims at the collection, documentation
+			and analysis of dialectal varieties in the northwestern and central Tunisian
+			governorates:</p>
+			
+		<p xml:space="preserve">Under the leadership of <ref target="mailto:tunocent@oeaw.ac.at">Veronika Ritt-Benmimoun</ref>
+			from the Department of Oriental Studies, <ref target="https://orientalistik.univie.ac.at/en/">University of Vienna</ref> and in
+			cooperation with the national research partner Karlheinz Mörth from the <ref target="https://www.oeaw.ac.at/acdh//">Centre for Digital Humanities
+				and Cultural Heritage of the Austrian Academy of Sciences</ref>, a <ref target="https://tunocent.acdh.oeaw.ac.at/team/">team of three field researchers
+			</ref>from the University of Vienna contributes to the TUNOCENT project. <ref target="https://www.fwf.ac.at/en/">The Austrian Science Fund</ref> (FWF) finances the
+			investigation, for which a period of four years was determined, starting in April 2019.
+			For latest information about our research status as well as current developments, check the
+				<ref target="https://tunocent.acdh.oeaw.ac.at/category/news/">News</ref> section.</p>
+		<div xml:id="background">
+				<head>
+					The Background
+				</head>
+				<p xml:space="preserve"><hi rendition="#b"> – What is the deeper motive of this research? – </hi><lb/>In 1950,
+					the famous French dialectologist William Marçais affixed the term “terra
+					incognita” to Tunisian Bedouin-type dialects, differentiating them into what he
+					called the H- (Hilal) and S- (Sulaym) dialects. His judgement that further
+					research into these almost completely unknown varieties is urgently needed still
+					holds true now, almost 70 years later. Therefore, this project is the first
+					attempt to linguistically illuminate a part of Tunisia which has long remained
+					understudied, in contrast to some dialects spoken along the coast.</p>
+				<p xml:space="preserve"><!--EndFragment--></p>
+				<p xml:space="preserve"><hi rendition="#b"> – And what should be the outcome? – </hi>
+					<lb/>Our project promises to be a giant stride in our knowledge of Tunisia’s
+					linguistic landscape, and will be of great importance for an understanding of
+					the complex relationship between the Tunisian dialects and those spoken in
+					adjacent areas of Algeria and Libya. It will also provide new insights into the
+					diachronic and synchronic linguistic situation in the central Maghreb.</p>
+		</div>
+		<div>
+		<head>
+			The Approach
+		</head>
+		<p xml:space="preserve"><hi rendition="#b">– How do we work? – </hi>
+			<lb/><hi rendition="#b">The first phase </hi>of the project will involve the recording and
+			collecting of linguistic data through fieldwork using mainly qualitative methods,
+			considering the relevant diatopic and diastratic parameters. <lb/><hi rendition="#b">In the second
+				phase, </hi>selected dialects will be categorised and two varieties representing
+			the main dialectal areas described in detail. Intra-dialectal comparison will reveal the
+			common traits and differences of Tunisian Bedouin-type dialects and should enable a
+			detailed classification of them, something which has hitherto never been undertaken. The
+			shared history of (semi)nomadism and the current social reality of settlement will allow
+			us to consider how “Bedouin” these dialects are and whether some of them have gone
+			through a process of urbanization.<lb/><hi rendition="#b">Ultimately</hi> a digital and fully
+			searchable corpus of transcribed and translated narrative and ethnographic texts and
+			conversations will be built. This corpus and the gathered data will be hosted at the <ref target="https://www.oeaw.ac.at/acdh/">Austrian Centre for Digital Humanities and
+				Cultural Heritage (Austrian Academy of Sciences).</ref> This will ensure both open
+			access and long-term preservation of our data.</p>
+		</div>
+		<div>
+		<head>Cooperations</head>
+		<p xml:space="preserve">Through cooperation agreements we profit from the scientific experience, knowledge and
+			contacts of our national and international partners:</p>
+		<list>
+			<item xml:space="preserve"><hi rendition="#b"><ref target="https://www.unica.it/unica/it/ateneo_s07_ss01.page?contentId=SHD160628"
+						>Giuliano Mion</ref> (Italy)</hi>: expert in Tunisian Arabic, <ref target="https://www.unica.it/unica/en/homepage.page">University of Cagliari
+					(UniCa)</ref></item>
+			<item xml:space="preserve"><hi rendition="#b"><ref target="http://www.inalco.fr/enseignant-chercheur/christophe-pereira"
+						>Christophe Pereira</ref> (France)</hi>: specialist in the Arabic of
+				Tripoli in Libya</item>
+			<item xml:space="preserve"><hi rendition="#b">Dominique Caubet (France): </hi>leading expert on Maghrebi-Arabic, <ref target="https://www.inalco.fr/en">Institut National des
+					Langues et Civilisations Orientales (INALCO)</ref></item>
+			<item xml:space="preserve"><hi rendition="#b">Lameen Souag (France):</hi> director of <ref target="https://lacito.cnrs.fr/en/directory/lameen-souag/">LACITO (CNRS)</ref> and
+				specialist in Algerian Arabic</item>
+			<item xml:space="preserve"><hi rendition="#b">Hager Ben Ammar (Tunisia): </hi>Standard and Tunisian Arabic teacher;
+				member of the <hi rendition="#i">Association Derja</hi>; publisher of several books written in
+				Tunisian Arabic and a textbook on Tunisian Arabic (<hi rendition="#i">Parler tunisien fissa! Une
+					méthode originale pour apprendre l’arabe tunisien en 6 mois</hi> with co-author
+				Valérie Vacchiani, 2016)</item>
+			<item xml:space="preserve"><hi rendition="#b">Moez Maataoui (Tunisia): </hi>senior assistant at the Department of
+				Linguistics (Faculté des Lettres, des Arts et des Humanités) at the <ref target="http://www.uma.tn/">University of Manouba</ref></item>
+			<item xml:space="preserve"><hi rendition="#b">Stephan Procházka (Austria): </hi>internationally renowned expert on
+				Arabic dialects, professor of Arabic Studies at the <ref target="https://orientalistik.univie.ac.at/en/">Department of Near Eastern Studies of
+					the University of Vienna</ref>, and highly experienced with third-funded projects,
+				e.g. as project leader of <ref target="https://tunico.acdh.oeaw.ac.at">TUNICO <hi rendition="#i">–
+						Linguistic dynamics in the Greater Tunis Area</hi></ref></item>
+		</list>
+		</div>
+	<!-- .entry-content -->
+</div>
+</body>
+</text>
+</TEI>

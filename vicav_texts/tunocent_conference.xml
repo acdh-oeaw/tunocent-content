@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TUNOCENT Conference</title>
+         </titleStmt>
+         <publicationStmt>
+            <p xml:space="preserve">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p xml:space="preserve">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <ab></ab>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="tunocent_conference">
+            <head>Conference Organisation 2022</head>
+            <div>
+
+               <head>Revisiting traditional isoglosses in the Maghreb:
+                  Methodology | Terminology | Classification; Algeria | Tunisia |
+                  Libya</head>
+               <p>Online conference organised by</p>
+
+               <p><hi rendition="#i">Veronika Ritt-Benmimoun</hi>
+               <lb/><hi rendition="#i">Karlheinz Mörth</hi>
+                  <lb/><hi rendition="#i">Aleksandra Naddari</hi>
+                  <lb/><hi rendition="#i">Ghaith Naddari</hi></p>
+
+               <p> 2nd and 3rd June 2022</p>
+               
+               <figure>
+                  <link target="Sbiba1.jpg"/>
+                  <graphic url="Sbiba1.jpg"/>
+                                 </figure>
+            </div>
+            
+            <div>
+               <head>Invitation to the Conference</head>
+               <p>In April 2019 we started our FWF-funded project titled Tunisia’s Linguistic terra
+                  incognita: An Investigation into the Arabic Varieties of Northwestern and Central
+                  Tunisia (TUNOCENT) in cooperation with the Austrian Academy of Sciences (ÖAW). In
+                  this project we want to provide up-to-date linguistic data for the hitherto almost
+                  unknown Arabic varieties spoken in the region approximating the seven Tunisian
+                  governorates of Jendouba, Beja, Kef, Siliana, Kasserine, Sidi Bouzid, and Gafsa. This
+                  region can be viewed as a unit because of its shared socio-linguistic (Bedouin-type
+                  dialects), socio-historical (semi-nomadism and sedentarization), socio-economic (weak
+                  economy, high unemployment, emigration), and topographical (mainly mountainous)
+                  character.</p>
+               <p>In 1950 the famous French dialectologist William Marçais affixed the term terra
+                  incognita - W. Marçais (1950:212) used the term 'ignota' instead (W. Marçais. 1950. “Les parlers arabes.” In: A. Basset (ed.) Initiation
+                  à la Tunisie. Paris, 195-219) - to Tunisian Bedouin-type dialects, differentiating them into what he called
+                  the H- (Hilāl) and S- (Sulaym) dialects. His judgement that further research into these
+                  almost completely unknown varieties is urgently needed still holds true now, almost
+                  70 years later - G. Mion (2015: 270)writes of “En absence complète d’analyses sur la région intérieure du pays …” (G. Mion. 2015.
+                  “Réflexions sur la catégorie des «parlers villageois» en arabe tunisien.” Romano-Arabica XV, 269-277). Therefore, this project is the first attempt to linguistically illuminate a
+                  part of Tunisia which has long remained under-studied.</p>
+               
+               <p>Now after almost three years of our project we want to look back to the first phases of
+                  our work that involved the recording and collecting of the linguistic data, as well as the
+                  transcription of certain questionnaires. Before starting the intensive task of describing,
+                  comparing and classifying these dialects, a discussion with experts on various fields of
+                  Maghrebi dialectology should enable a fruitful future work in this project.</p>
+               
+               <p>This discussion should take place in the realm of an online-symposion organised by the
+                  Department of Near Eastern Studies of the University of Vienna in cooperation with
+                  the Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH) of the
+                  Austrian Academy of Sciences. It will feature two (or probably three) days of
+                  presentations and discussions (2nd and 3rd of June 2022) and will take place online with
+                  the conference tool Zoom. Since you are one of the specialists in this particular field of
+                  Arabic dialectology we would like to invite you to participate in this conference.</p>
+               
+               <p>For many regions of the Maghreb we still rely on classifications and categorizations
+                  that are almost hundred years old (e.g. those of William Marçais and Jean Cantineau).
+                  In the realm of our symposion we want to challenge the isoglosses that were mainly of
+                  phonological and morphological nature and investigate their significance in the
+                  modern linguistic landscape. As is well known, syntax has often been neglected in
+                  dialect studies and not been considered for isoglosses as it demands large corpora that
+                  are often not available to researchers. Our conference should stress the importance of
+                  (morpho-)syntactic phenomena for classifying dialects. To mention only a few, the role
+                  that agreement patterns, the use of the genitive marker and the dual, progressive markers, auxiliary verbs, subordinate clauses play in individual dialects and as possible
+                  isoglosses should be investigated.</p>
+               
+               <p>The conference should improve our understanding of the complex relationship
+                  between the Tunisian dialects and those spoken in adjacent areas of Algeria and Libya.
+                  It should also provide new insights into the diachronic and synchronic linguistic
+                  situation in the central Maghreb.</p>
+               
+               
+               <p>Papers can touch on all fields of Arabic dialectology concerned with Tunisia, Algeria
+                  and Libya, and also relevant aspects dealing with digital approaches to Arabic
+                  dialectology:
+                  <lb/>- Questioning of traditional isoglosses, traditional terminology and traditional
+                  dialectal classifications
+                  <lb/>- Syntactic characteristics as isoglosses
+                  <lb/>- Phonological, morphological and syntactic aspects of Tunisian, Algerian and
+                  Libyan Arabic dialects
+                  <lb/>- Diachronic and synchronic aspects of various Tunisian, Algerian and Libyan
+                  dialects
+                  <lb/>- Descriptions of hitherto little or non-investigated Tunisian, Algerian and Libyan
+                  dialects
+                  <lb/>- Bedouin and sedentary dialects in comparison
+                  <lb/>- Youth language versus dialects of the older generations and other sociolinguistic
+                  aspects
+                  <lb/>- Dialect geography
+                  <lb/>- Methodological questions
+                  <lb/>- Development of koiné languages and prestige dialects
+                  <lb/>- Lexicon of Tunisian, Algerian and Libyan dialects
+                  <lb/>- Tunisian, Algerian, and Libyan dialects in their broader Maghrebinian context
+                  <lb/>- Digital humanities and Arabic dialects</p>
+               
+               <!--  <p><ref target="https://gitlab.oeaw.ac.at/acdh-ch/tunocent/tunocent-content/vicav_texts/TUNOCENT-Symposion_Programme.pdf">Programme</ref></p>-->
+               
+            </div>
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../082_scripts_xsl/tei_2_html__shawi.xsl"?>
+<?xslt inPathSegment="\010_manannot\" outPathSegment="\106_html\"?>
+<?processor name="saxon" removePreserveFromXML="true" removePreserveFromXSLT="true"?>
+<?snippets fn="snippets_shawi_001.xml" path="{filePath}/../880_conf/"?>
+<?standoff fn="shawi_standoff.xml" path=""?>
+<?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
+<?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:32.627857+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:magsamtrab1_f_72_e2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A Story About Thieves</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:VB">Veronika Ritt-Benmimoun</persName>
+               <resp>principal</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VR"/>
+               <resp>transcription</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VE"/>
+               <resp>transfer to ELAN</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VR"/>
+               <resp>recording</resp>
+            </respStmt>
+            <funder>Funded by the <orgName ref="https://ror.org/013tf3c58">FWF Austrian Science Fund</orgName> under the number <idno type="projectNumber">P 31647</idno>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <date when="2025-02-01">February 2025</date>
+            <address>
+               <addrLine>Bäckersterstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+               <addrLine>Austria</addrLine>
+            </address>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+            <availability status="restricted"
+                          xml:id="magsamtrab1_f_72_e2-restricted"
+                          default="false"
+                          corresp="#magsamtrab1_f_72_e2-master">
+               <p>Audio recording is restricted.</p>
+            </availability>
+            <idno type="TUNOCENTCorpusID">magsamtrab1_f_72_e2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt xml:id="magsamtrab1_f_72_e2_recordingStmt">
+               <recording dur-iso="PT263.0S" type="audio">
+                  <date when="2010-02-10"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:VR"/>
+                  </respStmt>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2.wav"
+                         mimeType="audio/wav"
+                         type="master"
+                         xml:id="magsamtrab1_f_72_e2-master"
+                         decls="#magsamtrab1_f_72_e2-restricted">
+                     <desc>The informant has not explicitly agreed to the publication of the audio recording. Thus, the audio recording is available only to the research project itself.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+            <biblStruct type="journalArticle"
+                        corresp="http://zotero.org/groups/2165756/items/NHWEI74A"
+                        n="Ritt-Benmimoun2024">
+               <analytic>
+                  <title level="a">The Arabic dialect spoken in Southeastern Kasserine (Central Tunisia): Texts and Linguistic pecularities</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Wiener Zeitschrift für die Kunde des Morgenlandes</title>
+                  <imprint>
+                     <biblScope unit="volume">114</biblScope>
+                     <biblScope unit="page">73-103</biblScope>
+                     <date>2024</date>
+                     <note type="url">https://phaidra.univie.ac.at/o:2114353</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+                  <note type="tag">vt:grammar</note>
+                  <note type="tag">vt:transcribed texts</note>
+               </note>
+               <note type="abstract">In this contribution seven texts from a 72-year-old female speaker from the village Magsam Trab in the Kasserine Governorate of Central Tunisia are transcribed and translated. Based on these texts, important phonological, morphological, syntactic and lexical features of this dialect are described and provided with examples. As hitherto no texts have been published from this region, this contribution aims to broaden our knowledge of Central Tunisian Bedouin-type dialects.</note>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef ident="geo"
+                       matchPattern="(.+)"
+                       replacementPattern="../../102_derived_tei/places.xml$1"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1"
+                       ident="semlib"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1"
+                       ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <head>Informants in <title>MagsamTrab1/f/72 E 2</title>
+               </head>
+               <person sameAs="corpus:MagsamTrab1" sex="f" age="72">
+                  <idno>MagsamTrab1/f/72</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place sameAs="geo:MagsamTrab">
+               <settlement>
+                  <name xml:lang="en">Magsam Trab</name>
+                  <name xml:lang="aeb"/>
+               </settlement>
+               <region>Kasserine</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.96831, 9.01408</geo>
+               </location>
+            </place>
+         </settingDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.ums"/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <timeline unit="ms">
+         <when xml:id="T0"/>
+         <when interval="475" since="#T0" xml:id="T1"/>
+         <when interval="16276" since="#T0" xml:id="T2"/>
+         <when interval="18120" since="#T0" xml:id="T3"/>
+         <when interval="26735" since="#T0" xml:id="T4"/>
+         <when interval="28460" since="#T0" xml:id="T5"/>
+         <when interval="35890" since="#T0" xml:id="T6"/>
+         <when interval="36090" since="#T0" xml:id="T7"/>
+         <when interval="42810" since="#T0" xml:id="T8"/>
+         <when interval="43350" since="#T0" xml:id="T9"/>
+         <when interval="49970" since="#T0" xml:id="T10"/>
+         <when interval="50400" since="#T0" xml:id="T11"/>
+         <when interval="54290" since="#T0" xml:id="T12"/>
+         <when interval="54330" since="#T0" xml:id="T13"/>
+         <when interval="62110" since="#T0" xml:id="T14"/>
+         <when interval="62303" since="#T0" xml:id="T15"/>
+         <when interval="71690" since="#T0" xml:id="T16"/>
+         <when interval="72270" since="#T0" xml:id="T17"/>
+         <when interval="81410" since="#T0" xml:id="T18"/>
+         <when interval="81540" since="#T0" xml:id="T19"/>
+         <when interval="95698" since="#T0" xml:id="T20"/>
+         <when interval="95813" since="#T0" xml:id="T21"/>
+         <when interval="104620" since="#T0" xml:id="T22"/>
+      </timeline>
+      <body>
+         <div subtype="d0" type="Situation">
+            <head>
+               <note type="start">#T0</note>
+               <note type="end">#T22</note>
+            </head>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a1"
+                  who="corpus:MagsamTrab1"
+                  end="#T2"
+                  start="#T1">
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000001">willa</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000002">ḥatta</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000003"
+                     rend="withDash">tā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000005"
+                     rend="withDash">nḥaddiṯ</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000007">ha</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000008">ʕlā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000009"
+                     rend="withDash">l</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000011">xiyyǟn</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000012">taww</w>
+                  <pc xml:id="xTok_000013">.</pc>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000014">ah</w>
+                  <pc xml:id="xTok_000015">?</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000016"
+                     rend="withDash">ḥāžt</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000018">ik</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000019"
+                     rend="withDash">bǟ</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000021">ha</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000022"
+                     rend="withDash">l</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000024">xiyyǟn</w>
+                  <pc join="right" xml:id="xTok_000025">?</pc>
+                  <gap/>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000026">xannǟb</w>
+                  <pc xml:id="xTok_000027">,</pc>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000028">yaxnib</w>
+                  <pc join="right" xml:id="xTok_000029">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a1.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a2"
+                  who="corpus:MagsamTrab1"
+                  end="#T4"
+                  start="#T3">
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000030">ṯamm</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000031">šǟyib</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000032">ḥaṭṭ</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000033"
+                     rend="withDash">aḥḏǟ</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000035">na</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000036">ṯammkīya</w>
+                  <pc xml:id="xTok_000037">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000038"
+                     rend="withDash">yžū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000040">h</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000041"
+                     rend="withDash">l</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000043"
+                     rend="withDash">iš</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000045">šwīhǟt</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000046"
+                     rend="withDash">hazzū</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000048"
+                     rend="withDash">hum</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000050">lu</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000051">žimla</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000052"
+                     rend="withDash">fu</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000054">kaṛⁱhba</w>
+                  <pc join="right" xml:id="xTok_000055">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a2.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a3"
+                  who="corpus:MagsamTrab1"
+                  end="#T6"
+                  start="#T5">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000056"
+                     rend="withDash">saʕt</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000058">il</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000059"
+                     rend="withDash">hazzū</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000061"
+                     rend="withDash">hum</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000063">lu</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000064">žimla</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000065"
+                     rend="withDash">fi</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000067">kaṛⁱhba</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000068">tnaṭṭir</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000069">hūw</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000070">žā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000071"
+                     rend="withDash">fi</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000073">galb</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000074"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000076" join="right">ġalam</w>
+                  <pc xml:id="xTok_000077">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000078"
+                     rend="withDash">w</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000080">gʕad</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000081">ṯamm</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000082"
+                     rend="withDash">ⁱsmǟ</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000084" join="right">h</w>
+                  <pc xml:id="xTok_000085">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000086"
+                     rend="withDash">w</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000088">mšaʔ</w>
+                  <pc join="right" xml:id="xTok_000089">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a3.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a4"
+                  who="corpus:MagsamTrab1"
+                  end="#T8"
+                  start="#T7">
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000090">mšū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000091">sāgu</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000092"
+                     rend="withDash">bwī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000094">h</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000095"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000097" join="right">kaṛⁱhba</w>
+                  <pc xml:id="xTok_000098">,</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000099">sāgu</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000100"
+                     rend="withDash">bwī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000102">h</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000103">hūw</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000104"
+                     rend="withDash">sāgū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000106" join="right">h</w>
+                  <pc xml:id="xTok_000107">,</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000108"
+                     rend="withDash">w</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000110">xlaṭ</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000111"
+                     rend="withDash">li</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000113">galb</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000114"
+                     rend="withDash">is</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000116">sūg</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000117">gidd</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000118">gidd</w>
+                  <pc join="right" xml:id="xTok_000119">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a4.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a5"
+                  who="corpus:MagsamTrab1"
+                  end="#T10"
+                  start="#T9">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000120"
+                     rend="withDash">w</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000122">yiddu</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000123"
+                     rend="withDash">fī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000125" join="right">h</w>
+                  <pc xml:id="xTok_000126">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000127"
+                     rend="withDash">mā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000129">ṯamm</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000130">ḥadd</w>
+                  <pc xml:id="xTok_000131">.</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000132">hūw</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000133">xlaṭ</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000134">ṯammkīya</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000135"
+                     rend="withDash">w</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000137">hūw</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000138">ʕād</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000139">yindib</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000140">ak</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000141"
+                     rend="withDash">iš</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000143" join="right">šǟyib</w>
+                  <pc xml:id="xTok_000144">:</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000145">hā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000146"
+                     rend="withDash">šūm</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000148">i</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000149">hā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000150"
+                     rend="withDash">gill</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000152">i</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000153">hā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000154"
+                     rend="withDash">šūm</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000156">i</w>
+                  <pc join="right" xml:id="xTok_000157">!</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a5.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a6"
+                  who="corpus:MagsamTrab1"
+                  end="#T12"
+                  start="#T11">
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000158">wǟš</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000159"
+                     rend="withDash">bī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000161" join="right">k</w>
+                  <pc xml:id="xTok_000162">,</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000163">wǟš</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000164"
+                     rend="withDash">bī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000166" join="right">k</w>
+                  <pc xml:id="xTok_000167">?</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000168"
+                     rend="withDash">žū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000170">h</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000171"
+                     rend="withDash">žū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000173">h</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000174"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000176" join="right">ḥaraṣ</w>
+                  <pc xml:id="xTok_000177">:</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000178">wǟš</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000179"
+                     rend="withDash">bī</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000181" join="right">k</w>
+                  <pc xml:id="xTok_000182">,</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000183">wǟš</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000184"
+                     rend="withDash">bī</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000186">k</w>
+                  <pc join="right" xml:id="xTok_000187">?</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a6.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a7"
+                  who="corpus:MagsamTrab1"
+                  end="#T14"
+                  start="#T13">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000188"
+                     rend="withDash">gal</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000190" join="right">lhum</w>
+                  <pc xml:id="xTok_000191">:</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000192"
+                     rend="withDash">ā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000194">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000195"
+                     rend="withDash">ġalm</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000197">i</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000198">āḏi</w>
+                  <pc xml:id="xTok_000199">,</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000200"
+                     rend="withDash">rā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000202">y</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000203"
+                     rend="withDash">ġalm</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000205">i</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000206">nā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000207"
+                     rend="withDash">hazzō</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000209">ha</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000210">ġīr</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000211">nā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000212">tnaṭṭirt</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000213"
+                     rend="withDash">id</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000215">dinya</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000216">ḏ̣aḷma</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000217">tnaṭṭirt</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000218"
+                     rend="withDash">wṛā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000220">hum</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000221"
+                     rend="withDash">hā</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000223">m</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000224"
+                     rend="withDash">mā</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000226"
+                     rend="withDash">yšūfu</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000228"
+                     rend="withDash">nī</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000230">š</w>
+                  <pc join="right" xml:id="xTok_000231">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a7.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a8"
+                  who="corpus:MagsamTrab1"
+                  end="#T16"
+                  start="#T15">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000232"
+                     rend="withDash">hazz</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000234"
+                     rend="withDash">lū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000236">hum</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000237"
+                     rend="withDash">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000239"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000241">ġalam</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000242"
+                     rend="withDash">ṛaddō</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000244">ha</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000245"
+                     rend="withDash">b</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000247"
+                     rend="withDash">kaṛahbit</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000249">ha</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000250">ġǟdi</w>
+                  <pc xml:id="xTok_000251">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000252"
+                     rend="withDash">w</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000254">hūma</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000255"
+                     rend="withDash">šaddū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000257">hum</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000258"
+                     rend="withDash">ṛabṭū</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000260">hum</w>
+                  <pc join="right" xml:id="xTok_000261">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a8.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a9"
+                  who="corpus:MagsamTrab1"
+                  end="#T18"
+                  start="#T17">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000262"
+                     rend="withDash">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000264"
+                     rend="withDash">waṣṣlū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000266">hum</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000267"
+                     rend="withDash">gal</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000269">lhum</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000270">ġǟdi</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000271">ṯammkīya</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000272"
+                     rend="withDash">b</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000274"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000276">kaṛⁱhba</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000277"
+                     rend="withDash">mtāʕit</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000279">hum</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000280">hūma</w>
+                  <pc xml:id="xTok_000281">,</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000282"
+                     rend="withDash">b</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000284"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000286">kaṛⁱhba</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000287"
+                     rend="withDash">mtāʕit</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000289">hum</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000290">hūma</w>
+                  <pc join="right" xml:id="xTok_000291">.</pc>
+                  <gap/>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a9.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a10"
+                  who="corpus:MagsamTrab1"
+                  end="#T20"
+                  start="#T19">
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000292">ṣaddu</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000293">ʕād</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000294">hūma</w>
+                  <pc xml:id="xTok_000295">.</pc>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000296">taww</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000297">kī</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000298"
+                     rend="withDash">waṣṣlū</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000300"
+                     rend="withDash">l</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000302">hum</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000303"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000305">ġalam</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000306">ṯammkīya</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000307">ṣaddu</w>
+                  <pc join="right" xml:id="xTok_000308">.</pc>
+                  <gap/>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000309"
+                     rend="withDash">hāka</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000311">hūw</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000312"
+                     rend="withDash">waṣṣlū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000314">h</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000315">ṯammkīya</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000316"
+                     rend="withDash">l</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000318"
+                     rend="withDash">il</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000320" join="right">ġalam</w>
+                  <pc xml:id="xTok_000321">,</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000322"
+                     rend="withDash">waṣṣlū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000324">h</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000325">ṯammkīya</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000326"
+                     rend="withDash">l</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000328"
+                     rend="withDash">ḥūš</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000330">hum</w>
+                  <pc join="right" xml:id="xTok_000331">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a10.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="magsamtrab1_f_72_e2_a11"
+                  who="corpus:MagsamTrab1"
+                  end="#T22"
+                  start="#T21">
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000332"
+                     rend="withDash">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000334"
+                     rend="withDash">ṛaddū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000336" join="right">hum</w>
+                  <pc xml:id="xTok_000337">.</pc>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000338"
+                     rend="withDash">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000340"
+                     rend="withDash">ṛaddū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000342">h</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000343">ṯammkīya</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000344"
+                     rend="withDash">w</w>
+                  <w join="right"
+                     xml:id="magsamtrab1_f_72_e2_xTok_000346"
+                     rend="withDash">waṣṣlū</w>
+                  <w xml:id="magsamtrab1_f_72_e2_xTok_000348">h</w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e2_xTok_000349">ṯammkīya</w>
+                  <pc join="right" xml:id="xTok_000350">.</pc>
+                  <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e2/magsamtrab1_f_72_e2_a11.wav"
+                         decls="#magsamtrab1_f_72_e2-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+            </annotationBlock>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,3019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:gargara2_m_68_fl" xml:id="vicav_lingfeatures_gargara_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Linguistic features of Gargara Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:MM">May Marzouki</persName>
+               <resp>author</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:IB">Ilona Abdelfattah</persName>
+               <resp>author</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VR">Veronika Ritt-Benmimoun</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt sameAs="corpus:gargara2_m_68_fl_recordingStmt">
+               <recording dur-iso="PT264.0S" type="audio">
+                  <date when="2020-07-17"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:MM"/>
+                  </respStmt>
+                  <media url="arche:Kasserine/Gargara/FL/gargara2_m_68_fl.m4a" mimeType="audio/m4a" type="master" xml:id="gargara2_m_68_fl-master" decls="corpus:gargara2_m_68_fl-restricted">
+                     <desc>The informant has agreed to the publication of the audio recording. Due to potentially sensitive data, the audio file is still available only on request.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.vicav.fl"/>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <head>Informants</head>
+               <person sex="m" age="68" sameAs="corpus:Gargara2">
+                  <idno>Gargara2</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Gargara</name>
+                  <name xml:lang="aeb">il-Gaṛgāṛa</name>
+               </settlement>
+               <region>Kasserine</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>35.5518016, 8.5525723</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change status="created" when="2020-08-25T09:33:00Z" who="corpus:MM" type="major" n="0">created</change>
+         <change status="draft" when="2020-08-28T09:50:00Z" who="corpus:MM" type="major" n="1">last modified (revision 1)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">removed those @ana from w elements which do not correspond to @ana on the ancestor cit</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">replacing identifier (string) from informant list entries with reference to corpus document</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">adding references to audio sources (addAudioSourcesToProcessedTEIs.xsl)</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div type="featureGroup">
+               <head>Interrogatives</head>
+               <cit type="featureSample" ana="semlib:who" xml:id="vicav_lingfeatures_gargara_01_who_001">
+                  <lbl>who?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Who is this man?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_who_001_001" ana="semlib:who">
+                        <fs>
+                           <f name="wordform">škūnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ā</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛāžil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من هذا الرجل؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:whose" xml:id="vicav_lingfeatures_gargara_01_whose_001">
+                  <lbl>whose?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Whose car is that?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛhibt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_whose_001_001" ana="semlib:whose">
+                        <fs>
+                           <f name="wordform">škūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">hāḏīka</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هذه سيارة من؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:what" xml:id="vicav_lingfeatures_gargara_01_what_001">
+                  <lbl>what?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you (pl.) doing? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:what">
+                        <w>
+                           <fs>
+                              <f name="wordform">f</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">ǟš</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w>
+                        <fs>
+                           <f name="wordform">taʕmlu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">يا فاطمة، ماذا تفعلين الآن؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:what" xml:id="vicav_lingfeatures_gargara_01_what_002">
+                  <lbl>what?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you (m.) doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_what_002_001" ana="semlib:what">
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar"/>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:what" xml:id="vicav_lingfeatures_gargara_01_what_003">
+                  <lbl>what?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you taking with you?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_what_003_001" ana="semlib:what">
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_take_001_001">
+                        <fs>
+                           <f name="wordform">hǟzz</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ⁱmʕāk</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا أخذت (معك)؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:what" xml:id="vicav_lingfeatures_gargara_01_what_004">
+                  <lbl>what?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are these women doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">hak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_women_001_001">
+                        <fs>
+                           <f name="wordform">nsāwīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_what_004_001" ana="semlib:what">
+                        <fs>
+                           <f name="wordform">wuš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_do_004_001" join="right">
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا تفعل أولئك النساء؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:why" xml:id="vicav_lingfeatures_gargara_01_why_001">
+                  <lbl>why?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Why did you come? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_why_001_001" ana="semlib:why">
+                        <fs>
+                           <f name="wordform">waʕlǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žīt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">لماذا لم يأتِ؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:where" xml:id="vicav_lingfeatures_gargara_01_where_001">
+                  <lbl>where?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where is my mobile (phone)?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tǟlīfōni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_where_001_001" ana="semlib:where" join="right">
+                        <fs>
+                           <f name="wordform">wīnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين جوّالي (هاتفي النقال)؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:where" xml:id="vicav_lingfeatures_gargara_01_where_002">
+                  <lbl>where?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where is my car?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛhibtᶴi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_where_002_001" ana="semlib:where" join="right">
+                        <fs>
+                           <f name="wordform">wīni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين السيارة؟! </quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:where_to" xml:id="vicav_lingfeatures_gargara_01_where_to_001">
+                  <lbl>where to?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where are you (m.) going? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_where_to_001_001" ana="semlib:where_to">
+                        <fs>
+                           <f name="wordform">wīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">mǟši</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">إلى أين تذهب؟ - تذهبين؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:where_from" xml:id="vicav_lingfeatures_gargara_01_where_from_001">
+                  <lbl>where from?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where did you come from?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_where_from_001_001" ana="semlib:where_from">
+                        <fs>
+                           <f name="wordform">mnīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žīt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من أين أنتَ – أنتِ؟ - أنتم؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:where_from" xml:id="vicav_lingfeatures_gargara_01_where_from_002">
+                  <lbl>where from?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where are you (f.) from? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">inti</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_where_from_002_001" ana="semlib:where_from" join="right">
+                        <fs>
+                           <f name="wordform">mnīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar"/>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:how" xml:id="vicav_lingfeatures_gargara_01_how_001">
+                  <lbl>how?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">How is that thing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_how_001_001" ana="semlib:how">
+                        <fs>
+                           <f name="wordform">kīfǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥāža</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">كيف الأكل؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:how_much" xml:id="vicav_lingfeatures_gargara_01_how_much_001">
+                  <lbl>how much?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">How much is that (thing)? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:how_much">
+                        <w>
+                           <fs>
+                              <f name="wordform">b</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">giddǟš</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w>
+                        <fs>
+                           <f name="wordform">hāḏǟka</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">hū</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">بكم نصف كيلو من الليمون؟ </quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:how_many" xml:id="vicav_lingfeatures_gargara_01_how_many_001">
+                  <lbl>how many?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">How many children do you (f.) have?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_how_many_001_001" ana="semlib:how_many">
+                        <fs>
+                           <f name="wordform">giddǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_have_001_001">
+                        <fs>
+                           <f name="wordform">ʕandik</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṣġāṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">كم ولدا عندكِ؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:which" xml:id="vicav_lingfeatures_gargara_01_which_001">
+                  <lbl>which?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">In which neighbourhood do you (pl.) live?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">l</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">hāḏǟka</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">,</pc>
+                     <w xml:id="vicav_lingfeatures_gargara_01_which_001_001" ana="semlib:which">
+                        <fs>
+                           <f name="wordform">ǟna</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tusknu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">fīh</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">في أي حي تسكنون؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Demonstratives</head>
+               <cit type="featureSample" ana="fvlib:dm_sg_prox" xml:id="vicav_lingfeatures_gargara_01_dm_sg_prox_001">
+                  <lbl>this</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Who is this man?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">škūnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_dm_sg_prox_001_001" ana="fvlib:dm_sg_prox">
+                        <fs>
+                           <f name="wordform">ā</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛāžil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من هذا الرجل؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Pronouns</head>
+               <cit type="featureSample" ana="fvlib:pron_sg_p1" xml:id="vicav_lingfeatures_gargara_01_pron_sg_p1_001">
+                  <lbl>I</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">I</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_pron_sg_p1_001_001" ana="fvlib:pron_sg_p1">
+                        <fs>
+                           <f name="wordform">nǟ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أنا معلم.</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Adverbs</head>
+               <cit type="featureSample" ana="semlib:here" xml:id="vicav_lingfeatures_gargara_01_here_001">
+                  <lbl>here</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">here </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_here_001_001" ana="semlib:here">
+                        <fs>
+                           <f name="wordform">hnǟ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">نحن هنا منذ 8 سنوات.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:now" xml:id="vicav_lingfeatures_gargara_01_now_001">
+                  <lbl>now</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">It’s 11 o’clock now.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_now_001_001" ana="semlib:now">
+                        <fs>
+                           <f name="wordform">tawwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">l</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ⁱḥdǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">الساعة 11.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:today" xml:id="vicav_lingfeatures_gargara_01_today_001">
+                  <lbl>today</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">It’s very hot today.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:today">
+                        <w>
+                           <fs>
+                              <f name="wordform">il</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">yūm</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">nhāṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">sxūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">الطقس حار جدا اليوم.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:yesterday" xml:id="vicav_lingfeatures_gargara_01_yesterday_001">
+                  <lbl>yesterday</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Yesterday it was very hot.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_yesterday_001_001" ana="semlib:yesterday">
+                        <fs>
+                           <f name="wordform">ǟmⁱs</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">sxūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أمس كان  يهطل المطر.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:tomorrow" xml:id="vicav_lingfeatures_gargara_01_tomorrow_001">
+                  <lbl>tomorrow</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Tomorrow it will be very hot.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_tomorrow_001_001" ana="semlib:tomorrow">
+                        <fs>
+                           <f name="wordform">ġudwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">sxūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">يا شباب، غدا عليكم أن تدرسوا.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:last_year" xml:id="vicav_lingfeatures_gargara_01_last_year_001">
+                  <lbl>last year</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">last year</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <choice>
+                        <seg>
+                           <phr ana="semlib:last_year">
+                              <w>
+                                 <fs>
+                                    <f name="wordform">ʕām</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                              <pc force="weak">-</pc>
+                              <w>
+                                 <fs>
+                                    <f name="wordform">n</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                              <pc force="weak">-</pc>
+                              <w>
+                                 <fs>
+                                    <f name="wordform">ǟwil</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                           </phr>
+                        </seg>
+                        <seg>
+                           <phr ana="semlib:last_year">
+                              <w>
+                                 <fs>
+                                    <f name="wordform">il</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                              <pc force="weak">-</pc>
+                              <w>
+                                 <fs>
+                                    <f name="wordform">ʕām</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                              <w>
+                                 <fs>
+                                    <f name="wordform">illi</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                              <w>
+                                 <fs>
+                                    <f name="wordform">fǟt</f>
+                                    <f name="pos"/>
+                                    <f name="lemma"/>
+                                    <f name="translation"/>
+                                    <f name="other"/>
+                                 </fs>
+                              </w>
+                           </phr>
+                        </seg>
+                     </choice>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">السنة الماضية كان عندنا مشاكل كثيرة.</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Numerals</head>
+               <cit type="featureSample" ana="semlib:two" xml:id="vicav_lingfeatures_gargara_01_two_001">
+                  <lbl>two</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">two</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_two_001_001" ana="semlib:two">
+                        <fs>
+                           <f name="wordform">zūz</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">قطتاي )الاثنتان( تأكلان الفئرين.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:eleven" xml:id="vicav_lingfeatures_gargara_01_eleven_001">
+                  <lbl>eleven</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">It’s 11 o’clock now.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">tawwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">l</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w xml:id="vicav_lingfeatures_gargara_01_eleven_001_001" ana="semlib:eleven">
+                        <fs>
+                           <f name="wordform">ⁱḥdǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">الساعة 11.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:twelve" xml:id="vicav_lingfeatures_gargara_01_twelve_001">
+                  <lbl>twelve</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">12</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_twelve_001_001" ana="semlib:twelve">
+                        <fs>
+                           <f name="wordform">ⁱṯnāš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">عندهم 12 ماعزة وبقرتان.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:eighteen" xml:id="vicav_lingfeatures_gargara_01_eighteen_001">
+                  <lbl>eighteen</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">18 goats</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:eighteen">
+                        <w>
+                           <fs>
+                              <f name="wordform">ṯamanṭāš</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">in</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w>
+                        <fs>
+                           <f name="wordform">miʕza</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">في صفّنا 18 طالبا جديدا.</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Adjectives</head>
+            </div>
+            <div type="featureGroup">
+               <head>Colours</head>
+               <cit type="featureSample" ana="semlib:white" xml:id="vicav_lingfeatures_gargara_01_white_001">
+                  <lbl>white</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">He is wearing a white scarf.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">lǟbis</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">laḥfa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_white_001_001" ana="semlib:white">
+                        <fs>
+                           <f name="wordform">bēḏ̣a</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">يلبس زوجي قميصا أبيض.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:white" xml:id="vicav_lingfeatures_gargara_01_white_002">
+                  <lbl>white</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">white pants</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">sirwǟl</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_white_002_001" ana="semlib:white">
+                        <fs>
+                           <f name="wordform">abyiḏ̣</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">لدينا سيارة بيضاء.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:black" xml:id="vicav_lingfeatures_gargara_01_black_001">
+                  <lbl>black</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">black pants</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">sirwǟl</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_black_001_001" ana="semlib:black">
+                        <fs>
+                           <f name="wordform">akḥal</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">لا يعجبني هذا القميص الأسود.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:pink" xml:id="vicav_lingfeatures_gargara_01_pink_001">
+                  <lbl>pink</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">pink</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_pink_001_001" ana="semlib:pink">
+                        <fs>
+                           <f name="wordform">waṛdi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">وردي.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:grey" xml:id="vicav_lingfeatures_gargara_01_grey_001">
+                  <lbl>grey</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">grey</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_grey_001_001" ana="semlib:grey">
+                        <fs>
+                           <f name="wordform">rmǟdi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هي ترتدي سروالاً رمادياً .</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:orange" xml:id="vicav_lingfeatures_gargara_01_orange_001">
+                  <lbl>orange</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">orange</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_orange_001_001" ana="semlib:orange">
+                        <fs>
+                           <f name="wordform">burdᵘgǟni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">يعجبني هذا القميص البرتقالي.</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Prepositions</head>
+               <cit type="featureSample" ana="semlib:fi_vs_bi" xml:id="vicav_lingfeatures_gargara_01_fi_vs_bi_001">
+                  <lbl>
+                     <hi>fi</hi> vs. <hi>bi</hi>
+                  </lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">In which neighbourhood do you (pl.) live?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟna</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tusknu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_fi_vs_bi_001_001" ana="semlib:fi_vs_bi" join="right">
+                        <fs>
+                           <f name="wordform">fīh</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">في أي حي تسكنون؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Important verbs</head>
+               <cit type="featureSample" ana="semlib:to_do" xml:id="vicav_lingfeatures_gargara_01_to_do_001">
+                  <lbl>to do</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you (pl.) doing? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">f</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_do_001_001" ana="semlib:to_do" join="right">
+                        <fs>
+                           <f name="wordform">taʕmlu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">يا فاطمة، ماذا تفعلين الآن؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_do" xml:id="vicav_lingfeatures_gargara_01_to_do_002">
+                  <lbl>to do</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you (m.) doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_do_002_001" ana="semlib:to_do" join="right">
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar"/>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_do" xml:id="vicav_lingfeatures_gargara_01_to_do_003">
+                  <lbl>to do</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you (m.) going to do?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">mǟši</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_do_003_001" ana="semlib:to_do" join="right">
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar"/>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_do" xml:id="vicav_lingfeatures_gargara_01_to_do_004">
+                  <lbl>to do</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are these women doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">hak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_women_001_001">
+                        <fs>
+                           <f name="wordform">nsāwīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_what_004_001">
+                        <fs>
+                           <f name="wordform">wuš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_do_004_001" ana="semlib:to_do" join="right">
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا تفعل أولئك النساء؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_stay" xml:id="vicav_lingfeatures_gargara_01_to_stay_001">
+                  <lbl>to stay</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Stay a bit!</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_stay_001_001" ana="semlib:to_stay">
+                        <fs>
+                           <f name="wordform">ugʕud</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_a_little_001_001" join="right">
+                        <fs>
+                           <f name="wordform">šwayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">!</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ابقَ هنا قليلا!</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_speak" xml:id="vicav_lingfeatures_gargara_01_to_speak_001">
+                  <lbl>to speak</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Are you talking?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">gāʕd</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_speak_001_001" ana="semlib:to_speak">
+                        <fs>
+                           <f name="wordform">titkallim</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">inta</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل تتكلم العربية؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_close" xml:id="vicav_lingfeatures_gargara_01_to_close_001">
+                  <lbl>to close</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Close the door!</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_close_001_001" ana="semlib:to_close">
+                        <fs>
+                           <f name="wordform">sakkir</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">bǟb</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">!</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أغلق الأبواب!</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_take" xml:id="vicav_lingfeatures_gargara_01_to_take_001">
+                  <lbl>to take</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are you taking with you?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w sameAs="#vicav_lingfeatures_gargara_01_what_003_001">
+                        <fs>
+                           <f name="wordform">ǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_take_001_001" ana="semlib:to_take">
+                        <fs>
+                           <f name="wordform">hǟzz</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ⁱmʕāk</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا أخذت (معك)؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_give" xml:id="vicav_lingfeatures_gargara_01_to_give_001">
+                  <lbl>to give</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Did you give that thing to someone?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_give_001_001" ana="semlib:to_give">
+                        <fs>
+                           <f name="wordform">ʕṭīt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥāža</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">l</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">fūlǟn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل أعطيت أحمد الرسالة؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_give" xml:id="vicav_lingfeatures_gargara_01_to_give_002">
+                  <lbl>to give</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">I can’t give you (the money).</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:being_unable">
+                        <w>
+                           <fs>
+                              <f name="wordform">mā</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">ngidd</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">ⁱš</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_give_002_001" ana="semlib:to_give" join="right">
+                        <fs>
+                           <f name="wordform">naʕṭīk</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">لا نستطيع أن ندفع الإيجار.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_want" xml:id="vicav_lingfeatures_gargara_01_to_want_001">
+                  <lbl>to want</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Do you (f.) want to drink coffee?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <choice>
+                        <seg>
+                           <w xml:id="vicav_lingfeatures_gargara_01_to_want_001_001" ana="semlib:to_want">
+                              <fs>
+                                 <f name="wordform">tḥibbi</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                        <seg>
+                           <w xml:id="vicav_lingfeatures_gargara_01_to_want_001_002" ana="semlib:to_want">
+                              <fs>
+                                 <f name="wordform">ddawwri</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                     </choice>
+                     <w>
+                        <fs>
+                           <f name="wordform">tušᵘṛbi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">qahwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل تريدين أن تشربي قهوة أم شاياً؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_bring" xml:id="vicav_lingfeatures_gargara_01_to_bring_001">
+                  <lbl>to bring</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Bring me coffe!</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_bring_001_001" ana="semlib:to_bring" join="right">
+                        <fs>
+                           <f name="wordform">žīb</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">li</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">qahwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">!</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من فضلك، اجلب لي الزجاجة الكبيرة.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_have" xml:id="vicav_lingfeatures_gargara_01_to_have_001">
+                  <lbl>to have</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">How many children do you (f.) have?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w sameAs="#vicav_lingfeatures_gargara_01_how_many_001_001">
+                        <fs>
+                           <f name="wordform">giddǟš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_have_001_001" ana="semlib:to_have">
+                        <fs>
+                           <f name="wordform">ʕandik</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṣġāṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">كم ولدا عندكِ؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:to_have" xml:id="vicav_lingfeatures_gargara_01_to_have_002">
+                  <lbl>to have</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Those people have many animals.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">hak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">nǟs</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_to_have_002_001" ana="semlib:to_have">
+                        <fs>
+                           <f name="wordform">ʕandhum</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_very_a_lot_001_001">
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥaywānǟt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">عندهم الكثير من النقود.</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Phrasemes</head>
+               <cit type="featureSample" ana="semlib:i_m_fine" xml:id="vicav_lingfeatures_gargara_01_i_m_fine_001">
+                  <lbl>I’m fine.</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">I’m fine.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">lǟ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">bǟs</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">,</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥamdu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">li</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">llǟh</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar"/>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Nouns</head>
+               <cit type="featureSample" ana="semlib:women" xml:id="vicav_lingfeatures_gargara_01_women_001">
+                  <lbl>women</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are these women doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">hak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w xml:id="vicav_lingfeatures_gargara_01_women_001_001" ana="semlib:women">
+                        <fs>
+                           <f name="wordform">nsāwīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_what_004_001">
+                        <fs>
+                           <f name="wordform">wuš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_do_004_001" join="right">
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا تفعل أولئك النساء؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Neologisms</head>
+               <cit type="featureSample" ana="semlib:mobile_vs_cellphone" xml:id="vicav_lingfeatures_gargara_01_mobile_vs_cellphone_001">
+                  <lbl>mobile vs. cellphone</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where is my mobile (phone)? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_mobile_vs_cellphone_001_001" ana="semlib:mobile_vs_cellphone">
+                        <fs>
+                           <f name="wordform">tǟlīfōni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">wīnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين جوّالي (هاتفي النقال)؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Modality</head>
+               <cit type="featureSample" ana="semlib:being_unable" xml:id="vicav_lingfeatures_gargara_01_being_unable_001">
+                  <lbl>being unable</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">I can’t give you (the money).</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:being_unable">
+                        <w>
+                           <fs>
+                              <f name="wordform">mā</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">ngidd</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w>
+                           <fs>
+                              <f name="wordform">ⁱš</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_give_002_001" join="right">
+                        <fs>
+                           <f name="wordform">naʕṭīk</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">لا نستطيع أن ندفع الإيجار.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:subc.abil" xml:id="vicav_lingfeatures_gargara_01_subc.abil_001">
+                  <lbl>ability</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">I can drive the tractor.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_subc.abil_001_001" ana="fvlib:subc.abil">
+                        <fs>
+                           <f name="wordform">naʕrif</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">nsūg</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">id</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">dṛaktūr</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل تلعبُ الشطرنج؟ - الدومينو</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:subc.posbl" xml:id="vicav_lingfeatures_gargara_01_subc.posbl_001">
+                  <lbl>possibility</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Can you come tomorrow?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_subc.posbl_001_001" ana="fvlib:subc.posbl">
+                        <fs>
+                           <f name="wordform">ⁱtnažžim</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ⁱdžī</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل يمكنك أن تأتي غدأ؟</quote>
+                  </cit>
+               </cit>
+            </div>
+            <div type="featureGroup">
+               <head>Other items</head>
+               <cit type="featureSample" ana="semlib:a_little" xml:id="vicav_lingfeatures_gargara_01_a_little_001">
+                  <lbl>a little</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Stay a bit!</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_stay_001_001">
+                        <fs>
+                           <f name="wordform">ugʕud</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_a_little_001_001" ana="semlib:a_little" join="right">
+                        <fs>
+                           <f name="wordform">šwayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">!</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ابقَ هنا قليلا!</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:a_little" xml:id="vicav_lingfeatures_gargara_01_a_little_002">
+                  <lbl>a little</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Stay a bit!</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ugʕud</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_a_little_002_001" ana="semlib:a_little" join="right">
+                        <fs>
+                           <f name="wordform">šwayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">!</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ابقَ هنا قليلا!</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:very_a_lot" xml:id="vicav_lingfeatures_gargara_01_very_a_lot_001">
+                  <lbl>very, a lot</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Those people have many animals.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">hak</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">nǟs</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w sameAs="#vicav_lingfeatures_gargara_01_to_have_002_001">
+                        <fs>
+                           <f name="wordform">ʕandhum</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_very_a_lot_001_001" ana="semlib:very_a_lot">
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥaywānǟt</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">عندهم الكثير من النقود.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:very_a_lot" xml:id="vicav_lingfeatures_gargara_01_very_a_lot_002">
+                  <lbl>very, a lot</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">It’s very hot today.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">yūm</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">nhāṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">sxūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_very_a_lot_002_001" ana="semlib:very_a_lot" join="right">
+                        <fs>
+                           <f name="wordform">baṛša</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">الطقس حار جدا اليوم.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:polar_question_marker" xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_001">
+                  <lbl>Polar question marker</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where is my mobile? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_001_001" ana="semlib:polar_question_marker">
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tǟlīfōni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">wīnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين جوّالي (هاتفي النقال)؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:polar_question_marker" xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_002">
+                  <lbl>Polar question marker</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Are you talking?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_002_001" ana="semlib:polar_question_marker">
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">gāʕd</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">titkallim</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">inta</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هل تتكلم العربية؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:polar_question_marker" xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_003">
+                  <lbl>Polar question marker</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">In which neighbourhood do you (pl.) live?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w xml:id="vicav_lingfeatures_gargara_01_polar_question_marker_003_001" ana="semlib:polar_question_marker">
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">l</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">hāḏǟka</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">,</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟna</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ḥayy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tusknu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">fīh</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">في أي حي تسكنون؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:subc.exist" xml:id="vicav_lingfeatures_gargara_01_subc.exist_001">
+                  <lbl>existential (there is, there are)</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Take care (pl.), there is a thief walking around around outside.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛuddu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">bǟlkum</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛāw</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w xml:id="vicav_lingfeatures_gargara_01_subc.exist_001_001" ana="fvlib:subc.exist">
+                        <fs>
+                           <f name="wordform">ṯamma</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">sǟriq</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ydūṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">ⁱl</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">baṛṛa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">الأطفال رأوا شحّاذا وراء بيتنا.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:subc.genexp" xml:id="vicav_lingfeatures_gargara_01_subc.genexp_001">
+                  <lbl>Genitive explicative</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Where is my mobile? </quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟxi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">tǟlīfōni</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">wīnu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين جوّالي (هاتفي النقال)؟</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:faaliil_vs_faalil" xml:id="vicav_lingfeatures_gargara_01_faaliil_vs_faalil_001">
+                  <lbl>fʕālīl vs. fʕālil</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">What are these women doing?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">ǟk</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">in</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w xml:id="vicav_lingfeatures_gargara_01_faaliil_vs_faalil_001_001" ana="semlib:faaliil_vs_faalil">
+                        <fs>
+                           <f name="wordform">nsāwīn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">wuš</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">taʕmil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">ماذا تفعل أولئك النساء؟</quote>
+                  </cit>
+               </cit>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

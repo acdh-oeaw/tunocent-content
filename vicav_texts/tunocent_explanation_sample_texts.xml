@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sample Texts (Explanation)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div xml:id="tunocentExplanationSampleTexts">
+              <head>Sample Texts (Explanation)</head>
+              
+              <p xml:space="preserve">The sample texts are translations of the same source text. Of course, these translations vary (slightly) 
+                  depending on the differences between the various Tunisian Arabic varieties. Thus, they provide an easy way to compare the 
+                  numerous linguistic phenomena contained in the texts. The use of the same source text as in the general VICAV site, allows 
+                  for optimal comparisons not only between the varieties recorded within TUNOCENT but also with the wider range of Arabic 
+                  varieties recorded in <ref target="https://vicav.acdh.oeaw.ac.at">VICAV</ref>.</p>
+              <p xml:space="preserve">The sample text is composed of seven sentences or units which provide details on everyday activities 
+                  and duties, and as such contain important basic vocabulary: shopping in the market, different fruits and vegetables, returning 
+                  home, having lunch with the family, asking the children about their plans for the rest of the day and for future activities.</p>
+               <p xml:space="preserve">Words highlighted in yellow inform the user about various details:
+<list> <item>1) that the highlighted word or construction is a non-dialectal form, i.e. either a loan from Standard Arabic, from the prestigious variety spoken in the capital of Tunis or a mixed form.</item> 
+<item>2) that it is a French word.</item>
+<item>3) that the highlighted word or construction was spoken by a speaker different from the identifier(s) given in the beginning of the text. </item>
+<item>4) it can inform about a sociolinguistic value given by the respective speaker: ‘OLD’ would mean that the highlighted form is primarily used by old 
+    people or that it used to be common before and that it has fallen out of use. ‘YOUNG’, on the contrary, provides the information that a given form is 
+    preferentially used by young speakers. Characterising a form with the label ‘RURAL’ means that it is primarily found in the speech of rural speakers, i.e. 
+    those who live in the countryside in small villages, but that urban speakers residing in towns would prefer a different form.</item>
+</list>
+Two words in brackets separated by a slash, like  (ā-hāw / hā-hāw), are variants provided by the speaker during the interview.
+</p>
+              <p xml:space="preserve">This section includes several functions to search and display the sample texts in different ways. They can be displayed both
+                  as a list sorted by their governorate, and on the map according to their location. Additionally, in the function <hi rendition="#i">Search and compare sample texts</hi> 
+                  the data can be filtered by a number of categories, such as place, sentence number, and speaker to provide the user with the opportunity to search 
+                  for specific sets of data. Moreover, by clicking on a word the user is provided with an inventory of all sample texts that contain this particular word. </p>
+              <p xml:space="preserve">The website contains 185 sample texts: 26 for locations within the governorate of Beja, 11 for Jendouba, 20 for Siliana, 34 for Kef, 
+                  17 for Sidi Bouzid, 4 for Kairouan, 37 for Kasserine and 36 for Gafsa. This means that for obtaining the feature lists at least 195 different speakers were interviewed. 
+                  To some sample texts more than just one speaker contributed, which makes the number of speakers rise to some 200.</p>
+              <p xml:space="preserve">For 18 <!-- CHECK THIS NUMBER --> sample texts audio recordings are available on this website <!-- LINK -->.</p>
+              <p>The source text from which the sample texts were translated is:</p>
+              <p>Modern Standard Arabic: <quote>يوم الاثنين بعد الفجر ذهبتُ إلى السوق لأشتري بيضا وخضروات مثل الباذنجان والثوم.
+واشتريت أيضا 2 كيلو برتقال بـ [مبلغ مناسب في العملة المحلية] ولكن لم آخذ طماطم لأنه كان غاليا جدا.
+مررت بأخي الكبير وبعدها ركبتُ تاكسي وعُدت إلى البيت قبل الظهر.
+بعد قليل جاء الأولاد من المدرسة وأكلنا [أكلة تونسية].
+بعد الغداء سألتهم قائلة: ماذا تفعلون المساء.
+قالوا لي: اليوم نبقى في البيت ولكن غدا نريد أن نرى أصدقاءنا وسنذهب معهم إلى ابن خالتنا الذي يسكن في حي [اسم أي حي في المدينة أو القرية] وهناك سوف نشرب قهوة ونتحادث إن شاء الله.
+!قلت لهم: طيب، ولكن لا تنسوا أن تأخذوا معكم هواتفكم وأخبِروني إن تأخرتم
+</quote></p>
+<p>English: <quote>On Monday after dawn I went to the market to buy eggs and vegetables such as aubergines and garlic. 
+I also bought 2 kilograms of oranges for (price in local currency).
+I didn’t take tomatoes because they were very expensive.
+I passed by my elder brother, then I took a taxi and came back home before noon.
+A little later the kids returned from school and we ate (local meal).
+After lunch I asked them, “What will you do this evening?”
+They said to me, “Today we’ll stay at home but tomorrow we want to meet our friends.
+We’ll go with them to our cousin, who lives in the … neighbourhood.
+There, God willing, we’ll drink coffee and talk a little.”
+I said to them, “Okay, but don’t forget to take your mobile phones with you and call me if you come back late”.
+
+</quote></p>
+          </div>
+      </body>
+  </text>
+</TEI>

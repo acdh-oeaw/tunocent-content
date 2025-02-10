@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Feature Lists (Explanation)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div xml:id="tunocentExplanationFeatures" xml:space="preserve">
+              <head>Feature Lists (Explanation)</head>
+              
+              <p xml:space="preserve">The feature list is a standardised questionnaire that focuses on grammatical and lexical variation. 
+                  It consists of linguistic features in lists of sentence pairs in English and Arabic that are meant to exemplify selected 
+                  salient linguistic features of the particular varieties. Generally, the feature lists allow the website users to get a 
+                  quick impression of a particular variety. The usage of the same sentences/features as in the general VICAV site, allows 
+                  for optimal comparisons not only between the varieties recorded within TUNOCENT but also with the wider range of Arabic 
+                  varieties recorded in <ref target="https://vicav.acdh.oeaw.ac.at">VICAV</ref>. 
+                  The categories contained in the feature lists include phonological, morphological 
+                  and lexical features, which are <hi rendition="#i">Interrogatives, Pronouns, Presentatives, Adverbs, Numerals, Adjectives, Colours, Prepositions, 
+                  Important Verbs, Nouns, Neologisms, Modality,</hi> and <hi rendition="#i">Other Items</hi>. The respective feature is marked in red. </p>
+              
+              <p xml:space="preserve">Words highlighted in yellow inform the user about various details:
+<list> <item>1) that the highlighted word or construction is a non-dialectal form, i.e. either a loan from Standard Arabic, from the prestigious variety spoken in the capital of Tunis or a mixed form.</item> 
+<item>2) that it is a French word.</item>
+<item>3) that the highlighted word or construction was spoken by a speaker different from the identifier(s) given in the beginning of the text. </item>
+<item>4) it can inform about a sociolinguistic value given by the respective speaker: ‘OLD’ would mean that the highlighted form is primarily used by old 
+    people or that it used to be common before and that it has fallen out of use. ‘YOUNG’, on the contrary, provides the information that a given form is 
+    preferentially used by young speakers. Characterising a form with the label ‘RURAL’ means that it is primarily found in the speech of rural speakers, i.e. 
+    those who live in the countryside in small villages, but that urban speakers residing in towns would prefer a different form.</item>
+</list>
+Two words in brackets separated by a slash, like  (ā-hāw / hā-hāw), are variants provided by the speaker during the interview.
+</p>
+              
+              <p xml:space="preserve">This section includes several functions to search and display the feature lists in different ways. The feature lists can be 
+                  displayed both as a list sorted by their governorate, and on the map according to their location. Additionally, in the function <hi rendition="#i">Search and compare feature 
+                  lists</hi> the data can be filtered by a number of categories, such as place, feature, and speaker, to provide the user with the opportunity to search for specific 
+                  sets of data. Moreover, by clicking on a word the user is provided with an inventory of all feature lists that contain this particular word. </p>
+              
+              <p xml:space="preserve">The website contains 195 features lists: 31 for locations within the governorate of Beja, 14 for Jendouba, 16 for Siliana, 36 for Kef, 19 for Sidi Bouzid, 
+                  4 for Kairouan, 40 for Kasserine and 35 for Gafsa. This means, that for obtaining the feature lists at least 195 different speakers were interviewed. To some feature lists 
+                  more than just one speaker contributed, which makes the number of speakers rise to some 220.</p>
+              
+          </div>
+          
+      </body>
+  </text>
+</TEI>

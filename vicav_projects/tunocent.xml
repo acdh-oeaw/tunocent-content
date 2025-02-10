@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectConfig id="vicav_config_tunocent">
+   <title>TUNOCENT - Tunisia’s Linguistic terra incognita: An Investigation into the Arabic Varieties of Northwestern and Central Tunisia</title>
+   <logo>tunocent</logo>
+   <icon>/tunocent/marker-icon.png</icon>
+   <editors>
+      <editor>
+      <given>Veronika</given>
+      <family>Ritt-Benmimoun</family>
+      </editor>
+   </editors>
+   <pubDate>
+      <year>2025</year>
+      <month>2</month>
+      <day>1</day>
+   </pubDate>
+   <funder>
+      <logoID>FWF</logoID>
+      <text>This research was funded in whole or in part by the Austrian Science Fund (FWF) 10.55776/P31647</text>
+      <funderLink>https://doi.org/10.55776/P31647</funderLink>
+   </funder>
+   <partner>
+     <logoID>UniVie</logoID>
+     <text>Institut für Orientalistik der Universität Wien</text>
+     <partnerLink>https://ucrisportal.univie.ac.at/de/projects/tunesiens-linguistische-terra-incognita</partnerLink>
+   </partner>
+   <map>
+      <zoom>7</zoom>
+      <center><lat>35</lat><lng>9</lng></center>
+   </map>
+   <frontpage>
+      <item xml:id="tunocentWelcome" target="tunocentOpeningPage" targetType="Text">Welcome to TUNOCENT</item>
+   </frontpage>
+   <menu>
+      <main>
+         <dropdown xml:id="dropdown01" title="About">
+            <item
+               xml:id="tunocentAbout" target="tunocent_about" type="vicavTexts"
+               >About</item>
+            <item xml:id="tunocentTeam" target="tunocent_team" targetType="Text">Team</item>
+            <item xml:id="tunocentNews" target="tunocent_news" targetType="Text">News</item>
+            <item xml:id="researchBibliographyTunocent" target="research_bibliography_tunocent" targetType="Text">Publications</item>
+         </dropdown>
+         <dropdown xml:id="dropdown02" title="Profiles">
+            <item xml:id="liProfilesExplanation" target="tunocentExplanationProfiles" type="vicavTexts">Explanation</item>
+            <separator/>
+            <item xml:id="liProfilesList" targetType="DataList" target="vicav_profiles">
+               List all entries
+               <params>
+                  <dataTypes>
+                     <_>Profile</_>
+                  </dataTypes>
+               </params>
+            </item>
+            <item xml:id="navProfilesGeoRegMarkers">Show profiles on map</item>
+         </dropdown>
+         <dropdown xml:id="dropdown03" title="Feature Lists">
+            <item xml:id="liFeaturesExplanation" target="tunocentExplanationFeatures" type="vicavTexts">Explanation</item>
+            <separator></separator>
+            <item xml:id="liFeaturesList" type="DataList" target="vicav_lingfeatures">
+               List all feature lists
+               <params>
+                  <dataTypes><_>Feature</_></dataTypes>
+               </params>
+            </item>
+            <item xml:id="navFeaturesGeoRegMarkers">Show feature lists on map</item>
+            <item xml:id="liVicavCrossFeatureQuery" targetType="ExploreSamplesForm">
+               Search and compare feature lists
+               <params>
+                  <dataTypes><_>Feature</_></dataTypes>
+               </params>
+            </item>
+         </dropdown>
+         <dropdown xml:id="dropdown04" title="Sample Texts">
+            <item xml:id="liSamplesExplanation" target="tunocentExplanationSampleTexts" type="vicavTexts">Explanation</item>
+            <separator></separator>
+            <item xml:id="liSamplesList" type="DataList" target="vicav_samples">
+               List all sample texts
+               <params>
+                  <dataTypes><_>SampleText</_></dataTypes>
+               </params>
+            </item>
+            <item xml:id="navSamplesGeoRegMarkers">Show sample texts on map</item>
+            <item xml:id="liExploreSamples" targetType="ExploreSamplesForm">
+               Search and compare sample texts
+               <params>
+                  <dataTypes><_>SampleText</_></dataTypes>
+               </params>
+            </item>
+         </dropdown>
+         <dropdown xml:id="dropdown05" title="Corpus Texts">
+            <item xml:id="liCorpusExplanation" target="tunocentExplanationCorpus" type="vicavTexts">Explanation</item>
+            <separator></separator>
+            <item xml:id="allCorpusTexts" type="DataList" target="vicav_corpus">
+               List all transcribed entries
+               <params>
+                  <dataTypes><_>CorpusText</_></dataTypes>
+                  <filterListBy>
+                     <key>@hasTEIw</key>
+                     <value>true</value>
+                  </filterListBy>
+               </params>
+            </item>
+            <item xml:id="corpusQuery" type="CorpusQuery">Search the corpus</item>
+         </dropdown>
+         <dropdown xml:id="dropdown06" title="Browse data">
+            <item xml:id="liDataTypesExplanation" target="tunocentExplanationDataTypes" type="vicavTexts">Explanation Data Types</item>
+            <separator></separator>
+            <item xml:id="dataListAll" targetType="DataTable" target="dataListAll">
+               List all data recordings
+               <params>
+                  <dataTypes>
+                     <_>CorpusText</_>
+                  </dataTypes>
+               </params>
+            </item>
+            <item xml:id="navDataGeoRegMarkers"
+               >Show all locations
+               <params>
+                  <endpoint>data_markers</endpoint>
+                  <queryString type="string"></queryString>
+                  <scope></scope>
+               </params>
+            </item>
+         </dropdown>
+         <dropdown xml:id="dropdown07" title="Research">
+            <item xml:id="bibliographyTunocentOutput" target="bibliography_tunocent_output" targetType="Text">Publications</item>
+            <item xml:id="bibliographyTunocentPresentations" target="bibliography_tunocent_presentations" targetType="Text">Presentations</item>
+            <item xml:id="tunocentConference" target="tunocent_conference" targetType="Text">Conference</item>
+
+         </dropdown>
+      </main>
+      <subnav>
+         <item xml:id="subNavProfilesGeoRegMarkers">Profiles</item>
+         <item xml:id="subNavFeaturesGeoRegMarkers">Features</item>
+         <item xml:id="subNavSamplesGeoRegMarkers">Samples</item>
+         <item xml:id="subNavCorpusTextsGeoRegMarkers">Corpus Texts</item>
+      </subnav>
+   </menu>
+   <colors>
+      <navbar>#7C633F</navbar>
+   </colors>
+   <styleSettings>
+      <colors>
+         <nav>#7C633F</nav>
+         <subNav>#B2A865</subNav>
+         <primary>hsla(35, 33%, 37%, 1)</primary>
+         <secondary>hsla(39, 100%, 50%, 1)</secondary>
+      </colors>
+   </styleSettings>
+   <style>
+      .navbar, .main-footer {
+      background-color: #7C633F;
+      }
+      .sub-nav, .panel-chrome, .footer-imprint-bar {
+      background-color: #B2A865;
+      }
+
+      .sub-nav, span.hover {
+
+      }
+
+      .main-footer a {
+      color: gold;
+      }
+
+      a.navbar-brand {
+      font-size: 2.5em;
+      font-family: Times, serif;
+      font-style: italic;
+      line-height: 1;
+      margin-top: -10px;
+      }
+
+      body .navbar ul.navbar-nav {
+      border-left: none;
+      }
+
+      .h3Profile {
+      border-bottom: #B2A865;
+      }
+
+      h3::after, h4::after {
+      border-top: solid 4px #B2A865;
+      }
+
+      .tdFeaturesHead, .tdFeaturesHeadRight, .tdHead, .aVicText:hover, .aTEIButton:hover, .dropdown-item:active, .dvStats {
+      background: #B2A865;
+      }
+
+      .dvAuthor {
+      border-top: 0.5px dotted #B2A865;
+      }
+
+      .tdFeaturesLeft, .tdProfileTableRight, .aVicText, .aTEIButton {
+      color: #7C633F !important;
+      }
+
+      .tdFeaturesHead, .tdFeaturesHeadRight, .tdFeaturesRightSource, .tdFeaturesLeft, .tdFeaturesRightTarget, .dvStats {
+      border: solid 1px #B2A865;
+      }
+
+      .tdFeaturesRightTarget {
+      font-style: inherit;
+      }
+
+      .tdProfileTableRight {
+      border-bottom: solid 1px #B2A865;
+      }
+
+      .aTEIButton {
+      border: solid 1px #7C633F;
+      }
+
+      a:hover { color: #7C633F }
+
+      .word-search [data-toggle="tooltip"] {
+      background-color: rgba(255,255,0,0.3);
+      }
+
+      [data-toggle = "tooltip"].sample-text-variant {
+      background-color: #B2A865;
+      color: white;
+      padding: 0 2px;
+      }
+
+      .aligncenter {
+      margin: 0 auto;
+      text-align: center;
+      }
+      .alignright {
+      float: right;
+      }
+      .alignleft {
+      float: left;
+      }
+      .has-background-dim {
+      background-color: #eee;
+      display: flex;
+      }
+      wp-block-image {
+      max-width: 100%;
+      margin-bottom: 1em;
+      margin-left: 0;
+      margin-right: 0;
+
+      }
+      .wp-block-cover {
+      position: relative;
+      min-height: 430px;
+      width: 100%;
+      margin: 0 0 1.5em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      }
+      .wp-block-cover.has-background-dim::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background-color: inherit;
+      opacity: .5;
+      z-index: 1;
+      }
+
+      .wp-block-cover .wp-block-cover__inner-container {
+      width: calc(100% - 70px);
+      z-index: 1;
+      color: #f8f9f9;
+      }
+      .wp-block-columns { display: flex; }
+
+      .has-2-columns .wp-block-column { flex-basis: 50% }
+
+      figure, img {
+      height: auto;
+      }
+
+   </style>
+   <staticData>
+      <table>
+         <insert_vicav_lingfeatures/>
+         <insert_vicav_samples/>
+         <insert_vicav_profiles/>
+         <insert_vicav_corpus/>
+      </table>
+   </staticData>
+   <noskeHost>https://tunocent-9beb0531-2df9-4ed6-aabb-cb012544c9dc.acdh-ch-dev.oeaw.ac.at</noskeHost>
+   <specialCharacters>
+      <char><value>ā</value></char>
+      <char><value>ǟ</value></char>
+      <char><value>ᵃ</value></char>
+      <char><value>ᵉ</value></char>
+      <char><value>ⁱ</value></char>
+      <char><value>ᵒ</value></char>
+      <char><value>ᵘ</value></char>
+      <char><value>ᵊ</value></char>
+      <char><value>ʷ</value></char>
+      <char><value>ʷ</value></char>
+      <char><value>ʸ</value></char>
+      <char>
+         <text>&lt;sup>š&lt;/sup></text>
+         <value>ᶴ</value>
+      </char>
+      <char><value>ḅ</value></char>
+      <char><value>ḏ</value></char>
+      <char><value>ḏ̣</value></char>
+      <char><value>ē</value></char>
+      <char><value>ǧ</value></char>
+      <char><value>ġ</value></char>
+      <char><value>ḥ</value></char>
+      <char><value>ī</value></char>
+      <char><value>ṃ</value></char>
+      <char><value>ō</value></char>
+      <char><value>ū</value></char>
+      <char><value>ṛ</value></char>
+      <char><value>ṣ</value></char>
+      <char><value>š</value></char>
+      <char><value>ṭ</value></char>
+      <char><text>&lt;sup>q&lt;/sup></text><value>Q</value></char>
+      <char><value>ṯ</value></char>
+      <char><value>ẓ</value></char>
+      <char><value>ž</value></char>
+      <char><value>ʕ</value></char>
+      <char><value>ʔ</value></char>
+   </specialCharacters>
+</projectConfig>

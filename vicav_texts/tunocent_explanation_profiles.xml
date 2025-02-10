@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Profiles (Explanation)</title>
+                <title type="shortTitle">PROFILES</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+      <encodingDesc>
+          <projectDesc>
+              <ab>The links for the profiles were assembled by scriptor.exe--&lt;createListOfVICAVProfiles</ab>
+          </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="tunocentExplanationProfiles" n="PROFILE">
+                <head>Profiles</head>
+                <p xml:space="preserve">In our endeavour to collect and document information about Tunisian Arabic varieties, 
+                    it was important to us to also collect information about the places where we conducted our field research and obtained language recordings. 
+                    This is because the geographic, demographic, historic and economic circumstances of an interviewee’s places of birth and residence can be 
+                    important factors for the analysis of their speech. In order to make this information available to the users of our website, we created a 
+                    <hi rendition="#i"> profile </hi> for most of the locations where we recorded our data. These profiles contain concise general portrayals of each place, often describing 
+                    briefly its geography and history and most notable sights, demographics, and the inhabitants’ prevalent way of life and main means of income. 
+                    Furthermore, information on tribal subgroups as well as local saints are found in the profiles, as they are important pillars for the people’s identity. 
+                    The pictures included in the profiles - all of them taken by the project’s field researchers - show the landscape and the villages of Northwestern 
+                    and Central Tunisia and give insight into the way people live. As such, they are valuable ethnographic witnesses of the people’s traditional 
+                    activities which the interviewees also describe in the recorded texts. </p>
+                <p xml:space="preserve">In addition, each profile offers a brief insight into the research history of the Arabic variety that is spoken in the place it describes. 
+                    Links to the sample texts and the feature lists lead the website users on to speech samples of the respective location. Thus, the profiles provide the reader with a
+                    well-rounded impression of each place and serve not only as a way to present valuable sociolinguistic data, but also as a way for the website user to dive into Tunisia’s diverse culture.</p>
+                <p xml:space="preserve">The website contains 71 profiles: 11 in the governorate of Beja, 7 in Jendouba, 7 in Siliana, 10 in Kef, 11 in Sidi Bouzid, 2 in Kairouan, 
+                    14 in Kasserine and 9 in Gafsa. They can be displayed either as a list sorted by their governorate or on the map.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+

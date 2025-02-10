@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:jwaammar1_f_90_efl" xml:id="vicav_lingfeatures_jwaammar_01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A machine-readable list of linguistic features of Jwa Ammar Arabic</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:NA">Nidhal Aloui</persName>
+               <resp>author</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:AN">Aleksandra Naddari</persName>
+               <resp>author</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VR">Veronika Ritt-Benmimoun</persName>
+               <resp>author</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025-02-01">February 2025</date>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt sameAs="corpus:jwaammar1_f_90_efl_recordingStmt">
+               <recording dur-iso="PT1820.0S" type="audio">
+                  <date when="2020-09-29"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:NA "/>
+                  </respStmt>
+                  <media url="arche:Sidi_Bouzid/Jwa_Ammar/FL/jwaammar1_f_90_efl.mp3" mimeType="audio/mp3" type="master" xml:id="jwaammar1_f_90_efl-master" decls="corpus:jwaammar1_f_90_efl-restricted">
+                     <desc>The informant has agreed to the publication of the audio recording. Due to potentially sensitive data, the audio file is still available only on request.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus" matchPattern="^(.+)$" replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche" matchPattern="^(.+)$" replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets" matchPattern="^(.+)$" replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl" matchPattern="^(.+)$" replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st" matchPattern="^(.+)$" replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums" matchPattern="^(.+)$" replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp" matchPattern="^(.+)$" replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1" ident="semlib"/>
+            <prefixDef matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1" ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.vicav.fl"/>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <head>Informants</head>
+               <person sex="f" age="90" sameAs="corpus:JwaAmmar1">
+                  <idno>JwaAmmar1</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>
+                  <name xml:lang="en">Jwa Ammar</name>
+                  <name xml:lang="aeb">Žwā ʕAmmāṛ</name>
+               </settlement>
+               <region>Sidi Bouzid</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>34.71, 9.32</geo>
+               </location>
+            </place>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change status="created" when="2020-11-17T11:17:00Z" who="corpus:NA" type="major" n="0">created</change>
+         <change status="draft" when="2022-02-20T11:29:36Z" who="corpus:NA" type="major" n="2">last modified (revision 2)</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">removed those @ana from w elements which do not correspond to @ana on the ancestor cit</change>
+         <change status="draft" who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">merged multiple revisionDesc elements into one</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">replacing identifier (string) from informant list entries with reference to corpus document</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">splitting comma-separated list of author names into separate respStmt elements.</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">adding references to audio sources (addAudioSourcesToProcessedTEIs.xsl)</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
+         <change who="corpus:DS" when="2025-01-09T01:00:00Z" type="minor">updating listPrefixDef</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div type="featureGroup">
+               <head>Various</head>
+               <cit type="featureSample" ana="semlib:who" xml:id="vicav_lingfeatures_jwaammar_01_who_001">
+                  <lbl>who?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Who is he? Whose son? Who is this man that is coming? Who?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <phr ana="semlib:who">
+                        <w>
+                           <fs>
+                              <f name="wordform">man</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <w join="right">
+                           <fs>
+                              <f name="wordform">hūwa</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">wild</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <!--I was unable to identify the primary annotated token in a cit[@ana="semlib:whose"], so I kepp @ana on this token.-->
+                     <w ana="semlib:whose" join="right">
+                        <fs>
+                           <f name="wordform">min</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">hā</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛāžil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žǟyya</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <phr ana="semlib:who">
+                        <w>
+                           <fs>
+                              <f name="wordform">li</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w join="right">
+                           <fs>
+                              <f name="wordform">minhu</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <pc force="strong" join="left">?</pc>
+                     <w xml:id="vicav_lingfeatures_jwaammar_01_who_001_001" ana="semlib:who" join="right">
+                        <fs>
+                           <f name="wordform">škūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من هذا الرجل؟هو صديقي.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="semlib:whose" xml:id="vicav_lingfeatures_jwaammar_01_whose_001">
+                  <lbl>whose?</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Whose car is it? The car that has come to us, who is its owner? – It is mine.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛⁱhba</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <phr ana="semlib:whose">
+                        <w>
+                           <fs>
+                              <f name="wordform">li</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                        <pc force="weak">-</pc>
+                        <w join="right">
+                           <fs>
+                              <f name="wordform">minhi</f>
+                              <f name="pos"/>
+                              <f name="lemma"/>
+                              <f name="translation"/>
+                              <f name="other"/>
+                           </fs>
+                        </w>
+                     </phr>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">taww</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛⁱhba</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žitna</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">,</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">mūlǟha</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <!--I was unable to identify the primary annotated token in a cit[@ana="semlib:who"], so I kepp @ana on this token.-->
+                     <w ana="semlib:who" join="right">
+                        <fs>
+                           <f name="wordform">minhu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <pc force="strong" join="left">–</pc>
+                     <choice>
+                        <seg>
+                           <w>
+                              <fs>
+                                 <f name="wordform">mtǟʕti</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                        <seg>
+                           <w>
+                              <fs>
+                                 <f name="wordform">layya</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                     </choice>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">هذه سيارة من؟هذه سيارتنا. هي صغيرة ولكنها جيدة.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:dm_sg_prox" xml:id="vicav_lingfeatures_jwaammar_01_dm_sg_prox_001">
+                  <lbl>this</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Who is he? Whose son? Who is this man that is coming? Who?</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">man</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">hūwa</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">wild</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">min</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <w xml:id="vicav_lingfeatures_jwaammar_01_dm_sg_prox_001_001" ana="fvlib:dm_sg_prox">
+                        <fs>
+                           <f name="wordform">hā</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛ</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">ṛāžil</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žǟy</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">li</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">minhu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">škūn</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">من هذا الرجل؟هو صديقي.</quote>
+                  </cit>
+               </cit>
+               <cit type="featureSample" ana="fvlib:subc.genexp" xml:id="vicav_lingfeatures_jwaammar_01_subc.genexp_001">
+                  <lbl>Genitive explicative</lbl>
+                  <cit type="translation">
+                     <quote xml:lang="en">Whose car is it? The car that has come to us, who is its owner? – It is mine.</quote>
+                  </cit>
+                  <quote xml:lang="aeb">
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛⁱhba</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">li</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">minhi</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">taww</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="weak">-</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">kaṛⁱhba</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">il</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">žitna</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">,</pc>
+                     <w>
+                        <fs>
+                           <f name="wordform">mūlǟha</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <w>
+                        <fs>
+                           <f name="wordform">minhu</f>
+                           <f name="pos"/>
+                           <f name="lemma"/>
+                           <f name="translation"/>
+                           <f name="other"/>
+                        </fs>
+                     </w>
+                     <pc force="strong" join="left">?</pc>
+                     <pc force="strong" join="left">–</pc>
+                     <choice>
+                        <seg>
+                           <w xml:id="vicav_lingfeatures_jwaammar_01_subc.genexp_001_001" ana="fvlib:subc.genexp">
+                              <fs>
+                                 <f name="wordform">mtǟʕti</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                        <seg>
+                           <w>
+                              <fs>
+                                 <f name="wordform">layya</f>
+                                 <f name="pos"/>
+                                 <f name="lemma"/>
+                                 <f name="translation"/>
+                                 <f name="other"/>
+                              </fs>
+                           </w>
+                        </seg>
+                     </choice>
+                     <pc force="strong" join="left">.</pc>
+                  </quote>
+                  <cit type="translation">
+                     <quote xml:lang="ar">أين جوّالي (هاتفي النقال)؟ههنا!</quote>
+                  </cit>
+               </cit>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

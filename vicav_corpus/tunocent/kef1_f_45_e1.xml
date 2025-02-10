@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../082_scripts_xsl/tei_2_html__shawi.xsl"?>
+<?xslt inPathSegment="\010_manannot\" outPathSegment="\106_html\"?>
+<?processor name="saxon" removePreserveFromXML="true" removePreserveFromXSLT="true"?>
+<?snippets fn="snippets_shawi_001.xml" path="{filePath}/../880_conf/"?>
+<?standoff fn="shawi_standoff.xml" path=""?>
+<?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
+<?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:25.961819+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:kef1_f_45_e1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">The Dish Burzgǟn</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:VB">Veronika Ritt-Benmimoun</persName>
+               <resp>principal</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VR"/>
+               <resp>transcription</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:VE"/>
+               <resp>transfer to ELAN</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:FS"/>
+               <resp>recording</resp>
+            </respStmt>
+            <funder>Funded by the <orgName ref="https://ror.org/013tf3c58">FWF Austrian Science Fund</orgName> under the number <idno type="projectNumber">P 31647</idno>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <date when="2025-02-01">February 2025</date>
+            <address>
+               <addrLine>Bäckersterstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+               <addrLine>Austria</addrLine>
+            </address>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+            <availability status="restricted"
+                          xml:id="kef1_f_45_e1-restricted"
+                          default="false"
+                          corresp="#kef1_f_45_e1-master">
+               <p>Audio recording is restricted.</p>
+            </availability>
+            <idno type="TUNOCENTCorpusID">kef1_f_45_e1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt xml:id="kef1_f_45_e1_recordingStmt">
+               <recording dur-iso="PT333.0S" type="audio">
+                  <date when="2019-07-15"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:FS"/>
+                  </respStmt>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1.WAV"
+                         mimeType="audio/wav"
+                         type="master"
+                         xml:id="kef1_f_45_e1-master"
+                         decls="#kef1_f_45_e1-restricted">
+                     <desc>The informant has not explicitly agreed to the publication of the audio recording. Thus, the audio recording is available only to the research project itself.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+            <biblStruct type="bookSection"
+                        corresp="http://zotero.org/groups/2165756/items/5TEEAD39"
+                        n="Ritt-Benmimoun_Veronika2022">
+               <analytic>
+                  <title level="a">Traditional Recipes from il-Kǟf (Northwestern Tunisia)</title>
+                  <author>
+                     <forename>Veronika</forename>
+                     <surname>Ritt-Benmimoun</surname>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="m">Semitic dialects and dialectology : fieldwork - community - change</title>
+                  <idno type="ISBN">978-3-96822-095-6 / Druck:  9783968220963</idno>
+                  <editor>
+                     <forename>Maciej</forename>
+                     <surname>Klimiuk</surname>
+                  </editor>
+                  <imprint>
+                     <pubPlace>Heidelberg</pubPlace>
+                     <biblScope unit="page">331-343</biblScope>
+                     <publisher>Heidelberg University Publishing</publisher>
+                     <date>2022</date>
+                     <note type="url">. https://doi.org/10.17885/heiup.859.c13972  https://heiup.uni-heidelberg.de/catalog/book/859/chapter/13972</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="tag">out:TUNOCENT</note>
+               </note>
+               <note type="abstract">My paper presents the transcription and translation of two texts in the dialect of the northwestern Tunisian town of il-Kǟf (el Kef ). The texts were recorded during fieldwork carried out for the TUNOCENT project. The speaker gives the recipes for traditional dishes and the various kinds of bread typical of the il-Kǟf region. Linguistic notes are given in section 3 to show the local linguistic peculiarities of the dialect. Some final remarks will summarise the differences and similarities in linguistics between the featured texts and other Bedouin-type dialects in Tunisia.Keywords Arabic dialectology, Tunisian dialects, Bedouin dialects, areal linguistics, material culture, field research</note>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef ident="geo"
+                       matchPattern="(.+)"
+                       replacementPattern="../../102_derived_tei/places.xml$1"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1"
+                       ident="semlib"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1"
+                       ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <head>Informants in <title>Kef1/f/45 E 1</title>
+               </head>
+               <person sameAs="corpus:Kef1" sex="f" age="45">
+                  <idno>Kef1/f/45</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place sameAs="geo:Kef">
+               <settlement>
+                  <name xml:lang="en">Kef</name>
+                  <name xml:lang="aeb">il-Kǟf</name>
+               </settlement>
+               <region>Kef</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>36.17424, 8.70486</geo>
+               </location>
+            </place>
+         </settingDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.ums"/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <timeline unit="ms">
+         <when xml:id="T0"/>
+         <when interval="12880" since="#T0" xml:id="T1"/>
+         <when interval="31920" since="#T0" xml:id="T2"/>
+         <when interval="32323" since="#T0" xml:id="T3"/>
+         <when interval="49810" since="#T0" xml:id="T4"/>
+         <when interval="52980" since="#T0" xml:id="T5"/>
+         <when interval="62679" since="#T0" xml:id="T6"/>
+         <when interval="63377" since="#T0" xml:id="T7"/>
+         <when interval="75358" since="#T0" xml:id="T8"/>
+         <when interval="76060" since="#T0" xml:id="T9"/>
+         <when interval="92760" since="#T0" xml:id="T10"/>
+         <when interval="92914" since="#T0" xml:id="T11"/>
+         <when interval="114340" since="#T0" xml:id="T12"/>
+         <when interval="115770" since="#T0" xml:id="T13"/>
+         <when interval="133650" since="#T0" xml:id="T14"/>
+         <when interval="133661" since="#T0" xml:id="T15"/>
+         <when interval="142960" since="#T0" xml:id="T16"/>
+         <when interval="145940" since="#T0" xml:id="T17"/>
+         <when interval="160890" since="#T0" xml:id="T18"/>
+         <when interval="161972" since="#T0" xml:id="T19"/>
+         <when interval="171689" since="#T0" xml:id="T20"/>
+         <when interval="172062" since="#T0" xml:id="T21"/>
+         <when interval="178987" since="#T0" xml:id="T22"/>
+         <when interval="179623" since="#T0" xml:id="T23"/>
+         <when interval="190380" since="#T0" xml:id="T24"/>
+         <when interval="190567" since="#T0" xml:id="T25"/>
+         <when interval="202185" since="#T0" xml:id="T26"/>
+         <when interval="202823" since="#T0" xml:id="T27"/>
+         <when interval="214254" since="#T0" xml:id="T28"/>
+         <when interval="214567" since="#T0" xml:id="T29"/>
+         <when interval="227075" since="#T0" xml:id="T30"/>
+         <when interval="227415" since="#T0" xml:id="T31"/>
+         <when interval="238377" since="#T0" xml:id="T32"/>
+         <when interval="238675" since="#T0" xml:id="T33"/>
+         <when interval="249083" since="#T0" xml:id="T34"/>
+         <when interval="249403" since="#T0" xml:id="T35"/>
+         <when interval="256590" since="#T0" xml:id="T36"/>
+         <when interval="256795" since="#T0" xml:id="T37"/>
+         <when interval="262955" since="#T0" xml:id="T38"/>
+         <when interval="263150" since="#T0" xml:id="T39"/>
+         <when interval="270260" since="#T0" xml:id="T40"/>
+         <when interval="290210" since="#T0" xml:id="T41"/>
+         <when interval="291900" since="#T0" xml:id="T42"/>
+         <when interval="292050" since="#T0" xml:id="T43"/>
+         <when interval="305480" since="#T0" xml:id="T44"/>
+         <when interval="305890" since="#T0" xml:id="T45"/>
+         <when interval="312930" since="#T0" xml:id="T46"/>
+         <when interval="313030" since="#T0" xml:id="T47"/>
+         <when interval="320520" since="#T0" xml:id="T48"/>
+      </timeline>
+      <body>
+         <div subtype="d0" type="Situation">
+            <head>
+               <note type="start">#T0</note>
+               <note type="end">#T48</note>
+            </head>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a1"
+                  who="corpus:Kef1"
+                  end="#T2"
+                  start="#T1">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000001" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000003">mǟkla</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000004" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000006">mašhūra</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000007" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000009" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000011">kǟf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000012">ʕanna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000013" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000015" join="right">burzgǟn</w>
+                  <pc xml:id="xTok_000016">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000017">yittaʕmal</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000018" join="right" rend="withDash">fi</w>
+                  <pc xml:id="xTok_000020">…</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000021">nṭayybū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000022" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000024">šhaṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000025">mǟy</w>
+                  <pc xml:id="xTok_000026">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000027" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000029">masṭāž</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000030">mǟy</w>
+                  <pc xml:id="xTok_000031">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000032" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000034" rend="withDash">ⁱngūlū</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000036">lu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000037">ʕēd</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000038">mayyu</w>
+                  <pc join="right" xml:id="xTok_000039">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a1.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a1" xml:id="a49">The famous food of il-Kǟf is called burzgǟn. It is made in… we cook it in the month of May, on the fifteenth of May. We call it “the feast of May”.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a2"
+                  who="corpus:Kef1"
+                  end="#T4"
+                  start="#T3">
+                  <w xml:id="kef1_f_45_e1_xTok_000040">waqtha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000041">yukṯuṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000042" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000044" join="right">xass</w>
+                  <pc xml:id="xTok_000045">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000046" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000048" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000050">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000051" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000053">waqt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000054" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000056" join="right">kǟfīya</w>
+                  <pc xml:id="xTok_000057">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000058" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000060">wilǟyǟt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000061" rend="withDash">ⁱl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000063">kullha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000064">taʕrif</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000065">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000066">kī</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000067">ngūlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000068">burzgǟn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000069">burzgǟn</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000070">kǟfi</w>
+                  <pc xml:id="xTok_000071">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000072" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000074">yitkíl</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000075" rend="withDash">fi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000077">mǟy</w>
+                  <pc join="right" xml:id="xTok_000078">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a2.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a2" xml:id="a50">At that time we have a lot of green salad. At the same time the people of il-Kǟf, (the people of) all the (other) governorates know that, whenever we say burzgǟn, (we mean) the Kefi burzgǟn. It is eaten in May.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a3"
+                  who="corpus:Kef1"
+                  end="#T6"
+                  start="#T5">
+                  <w xml:id="kef1_f_45_e1_xTok_000079">biš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000080">nḥaḏ̣ḏ̣ṛu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000081" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000083">burzgǟn</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000084" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000086">nṭayybū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000087" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000089" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000091">kǟf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000092">nišru</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000093" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000095">fǟkya</w>
+                  <pc join="right" xml:id="xTok_000096">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a3.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a3" xml:id="a51">In order to prepare and cook burzgǟn in il-Kǟf, we buy dried fruits,</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a4"
+                  who="corpus:Kef1"
+                  end="#T8"
+                  start="#T7">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000097" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000099">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000100">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000101">hīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000102">lōz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000103" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000105">bunduq</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000106" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000108">zōz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000109" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000111">bū</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000112">frīwa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000113" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000115">dagla</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000116" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000118">nišru</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000119" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000121" join="right">lḥam</w>
+                  <pc xml:id="xTok_000122">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000123">ʕallūš</w>
+                  <pc join="right" xml:id="xTok_000124">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a4.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a4" xml:id="a52">dry fruits which are almonds, pine nuts, walnuts, hazelnuts and dagla dates. And we buy lamb meat.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a5"
+                  who="corpus:Kef1"
+                  end="#T10"
+                  start="#T9">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000125" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000127" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000129" rend="withDash">iṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000131">ṭbīʕa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000132" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000134">kull</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000135" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000137">kǟfīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000138">ʕandha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000139">kusksi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000140" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000142" rend="withDash">id</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000144" join="right">dāṛ</w>
+                  <pc xml:id="xTok_000145">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000146" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000148" join="right">ʕōla</w>
+                  <pc xml:id="xTok_000149">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000150" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000152">ᵃḥlīb</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000153" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000155" join="right">zibda</w>
+                  <pc xml:id="xTok_000156">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000157" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000159">sukkuṛ</w>
+                  <pc join="right" xml:id="xTok_000160">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a5.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a5" xml:id="a53">Of course, all the Kefan people have couscous at home and everything that is needed to cook it, and milk and butter.[...] And sugar.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a6"
+                  who="corpus:Kef1"
+                  end="#T12"
+                  start="#T11">
+                  <w xml:id="kef1_f_45_e1_xTok_000161">biš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000162">nḥaḏ̣ḏ̣ṛu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000163">burzgǟn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000164">niglu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000165" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000167">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000168">nʕarržōha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000169" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000171">nguṣṣu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000172" rend="withDash">d</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000174">dagla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000175">ʕlā</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000176">aṛbʕa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000177" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000179">nfayyḏ̣u</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000180" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000182">ᵃḥlīb</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000183" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000185">ⁱnḏawwbu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000186" rend="withDash">z</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000188">zibda</w>
+                  <pc join="right" xml:id="xTok_000189">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a6.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a6" xml:id="a54">In order to prepare the dish burzgǟn we fry the dried fruits, we roast them. We cut the dagla dates into four, boil the milk, and let the butter melt.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a7"
+                  who="corpus:Kef1"
+                  end="#T14"
+                  start="#T13">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000190" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000192">nfawwṛu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000193" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000195">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000196">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000197">hūwa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000198">šamsi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000199">nfawwṛūh</w>
+                  <pc xml:id="xTok_000200">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000201" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000203" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000205">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000206" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000208">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000209">nḥuṭṭu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000210" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000212">lḥam</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000213">illi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000214" rend="withDash">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000216">ma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000217">naġslūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000218">nfawwḥū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000219" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000221">ṭaṛif</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000222">milᵃḥ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000223" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000225" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000227">klīl</w>
+                  <pc join="right" xml:id="xTok_000228">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a7.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a7" xml:id="a55">We let the sun-dried couscous steam. At the same time we place the meat that, after washing, we have spiced with a pinch of salt and rosemary.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a8"
+                  who="corpus:Kef1"
+                  end="#T16"
+                  start="#T15">
+                  <w xml:id="kef1_f_45_e1_xTok_000229">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000230">klīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000231">axḏ̣aṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000232" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000234" rend="withDash">iž</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000236">žbal</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000237">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000238">fīh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000239">rīḥa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000240">fǟyḥa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000241" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000243">nḥuṭṭūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000244">nfawwṛūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000245">nsammūh</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000246">knǟf</w>
+                  <pc join="right" xml:id="xTok_000247">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a8.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a8" xml:id="a56">It is green rosemary that (grows) in the mountains and sends forth a nice aroma. We place it (i.e. the meat), let it steam, and we call it knǟf.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a9"
+                  who="corpus:Kef1"
+                  end="#T18"
+                  start="#T17">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000248">biš</w>
+                  <gap/>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000249" rend="withDash">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000251">ma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000252">fawwirna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000253" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000255">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000256">nḥillū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000257" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000259" rend="withDash">iš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000261">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000262">nfarrqū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000263" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000265">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000266">zibda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000267" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000269">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000270">couche</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000271">kusksi</w>
+                  <pc join="right" xml:id="xTok_000272">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a9.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a9" xml:id="a57">After we have let the couscous steam, we open (the couscous chunk) slowly and dissipate it with some butter. We make a layer of couscous.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a10"
+                  who="corpus:Kef1"
+                  end="#T20"
+                  start="#T19">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000273" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000275">nzayynu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000276" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000278">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000279">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000280">ʕarražnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000281">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000282">hīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000283" rend="withDash">m</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000285" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000287" join="right">lōz</w>
+                  <pc xml:id="xTok_000288">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000289" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000291" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000293">bū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000294">frīwa</w>
+                  <pc xml:id="xTok_000295">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000296" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000298" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000300" join="right">bunduq</w>
+                  <pc xml:id="xTok_000301">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000302" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000304" rend="withDash">iz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000306">zōz</w>
+                  <pc join="right" xml:id="xTok_000307">,</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a10.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a10" xml:id="a58">We garnish (it with) the dried fruits that we have roasted, which are the almonds, the hazelnuts, the pine nuts, and the walnuts;</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a11"
+                  who="corpus:Kef1"
+                  end="#T22"
+                  start="#T21">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000308" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000310">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000311" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000313">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000314">kaʕbǟt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000315" rend="withDash">id</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000317">dagla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000318">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000319">maʕnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000320">naḏ̣ḏ̣afnǟha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000321" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000323">gaṣṣīnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000324">ʕlā</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000325">aṛbʕa</w>
+                  <pc join="right" xml:id="xTok_000326">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a11.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a11" xml:id="a59">and at the same time the pieces of dagla dates that we have cleaned and quartered.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a12"
+                  who="corpus:Kef1"
+                  end="#T24"
+                  start="#T23">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000327" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000329">nzayynu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000330">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000331" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000333">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000334">byūt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000335">byūt</w>
+                  <pc xml:id="xTok_000336">:</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000337">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000338">hāka</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000339">lōz</w>
+                  <pc xml:id="xTok_000340">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000341">zōz</w>
+                  <pc xml:id="xTok_000342">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000343">bū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000344">frīwa</w>
+                  <pc xml:id="xTok_000345">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000346">bunduq</w>
+                  <pc xml:id="xTok_000347">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000348">dagla</w>
+                  <pc join="right" xml:id="xTok_000349">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a12.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a12" xml:id="a60">We arrange it as decoration in (different) sections: A field like this with almonds, (another with) walnuts, (another with) hazelnuts, (one) with pine nuts, and (one) with dagla dates.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a13"
+                  who="corpus:Kef1"
+                  end="#T26"
+                  start="#T25">
+                  <w xml:id="kef1_f_45_e1_xTok_000350">hāka</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000351">tabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000352">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000353" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000355">façon</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000356">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000357" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000359" join="right">waṛda</w>
+                  <pc xml:id="xTok_000360">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000361">nzīdu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000362">naʕmlu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000363">kusksi</w>
+                  <pc xml:id="xTok_000364">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000365">couche</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000366">uxṛa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000367">kusksi</w>
+                  <pc xml:id="xTok_000368">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000369">mxallaṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000370" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000372" rend="withDash">is</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000374">sukkuṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000375" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000377" rend="withDash">iz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000379">zibda</w>
+                  <pc join="right" xml:id="xTok_000380">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a13.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a13" xml:id="a61">Like this it shapes a rose. We continue with the couscous. We make one more layer of couscous mixed with sugar and butter.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a14"
+                  who="corpus:Kef1"
+                  end="#T28"
+                  start="#T27">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000381" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000383">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000384">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000385">ixxir</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000386" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000388">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000389">ntāʕ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000390" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000392">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000393">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000394">illa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000395">byūt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000396">byūt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000397" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000399">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000400" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000402">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000403">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000404">ʕarražnǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000405" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000407">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000408">ʕmannǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000409" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000411">couche</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000412" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000414">ūlǟnīya</w>
+                  <pc join="right" xml:id="xTok_000415">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a14.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a14" xml:id="a62">After that we make the last (thing), the decoration of the couscous. We make different sections with those dried fruits that we have roasted and with which we made the first layer.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a15"
+                  who="corpus:Kef1"
+                  end="#T30"
+                  start="#T29">
+                  <w xml:id="kef1_f_45_e1_xTok_000416">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000417">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000418">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000419">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000420">fǟkya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000421" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000423" join="right">dagla</w>
+                  <pc xml:id="xTok_000424">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000425" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000427">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000428" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000430">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000431">ʕanna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000432" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000434">ᵃḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000435">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000436">hūwa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000437">sxun</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000438" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000440">ʕanna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000441">ṭaṛⁱf</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000442" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000444">zibda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000445">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000446">ḥaṭṭīnǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000447" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000449">kasaṛūna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000450">ḏǟbit</w>
+                  <pc join="right" xml:id="xTok_000451">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a15.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a15" xml:id="a63">Different sections of dried fruits and dagla dates. At the same time we have the milk that has become hot, and we have the piece of butter that we put in a pan and that has melted.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a16"
+                  who="corpus:Kef1"
+                  end="#T32"
+                  start="#T31">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000452" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000454" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000456">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000457" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000459">waqt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000460">ʕanna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000461" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000463">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000464">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000465">hūma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000466">gāʕdīn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000467">yitsammu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000468">knǟf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000469">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000470">gāʕdīn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000471">yfūṛu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000472">ʕlā</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000473" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000475">kaskǟs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000476" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000478">rīḥit</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000479" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000481">ⁱklīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000482">tabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000483">rīḥitha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000484">fǟyḥa</w>
+                  <pc join="right" xml:id="xTok_000485">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a16.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a16" xml:id="a64">At the same time we have the pieces of meat that are called knǟf, that are steaming in the couscous steamer with the smell of rosemary, the smell of which spreads fragrance.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a17"
+                  who="corpus:Kef1"
+                  end="#T34"
+                  start="#T33">
+                  <w xml:id="kef1_f_45_e1_xTok_000486">nṣubbu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000487">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000488" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000490" join="right">ᵃḥlīb</w>
+                  <pc xml:id="xTok_000491">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000492">nṣubbu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000493">couche</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000494">zibda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000495" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000497">mbaʕdha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000498">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000499">ᵃḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000500">muš</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000501">baṛša</w>
+                  <pc join="right" xml:id="xTok_000502">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a17.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a17" xml:id="a65">We pour that milk, we pour a layer of butter and then a bit of milk, not too much.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a18"
+                  who="corpus:Kef1"
+                  end="#T36"
+                  start="#T35">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000503" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000505">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000506">nḥuṭṭu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000507">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000508" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000510">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000511">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000512">ṭābu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000513">yabdu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000514">ṭāybīn</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000515" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000517" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000519">gdǟ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000520">nḥuṭṭu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000521">laḥma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000522">ḥḏǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000523">laḥma</w>
+                  <pc join="right" xml:id="xTok_000524">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a18.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a18" xml:id="a66">And then we place those pieces of meat that are cooked, they are cooked very well. We put one piece of meat next to the other.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a19"
+                  who="corpus:Kef1"
+                  end="#T38"
+                  start="#T37">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000525" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000527">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000528" rend="withDash">z</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000530">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000531">ntǟḥḥa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000532">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000533">maʕnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000534">šakl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000535">waṛda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000536" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000538">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000539">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000540">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000541" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000543">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000544" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000546">fǟkya</w>
+                  <pc join="right" xml:id="xTok_000547">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a19.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a19" xml:id="a67">Its beauty lies in its form (which is like) a rose and (in its arrangement) in (various) sections with those dried fruits.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a20"
+                  who="corpus:Kef1"
+                  end="#T40"
+                  start="#T39">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000548" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000550">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000551" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000553">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000554">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000555">ṭābu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000556" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000558" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000560">ⁱklīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000561">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000562">hūma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000563">yitsammu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000564">knǟf</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000565" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000567">hāḏēka</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000568" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000570">ʔukla</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000571" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000573">kǟfīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000574" rend="withDash">il</w>
+                  <pc join="right" xml:id="xTok_000576">[</pc>
+                  <pc join="right" xml:id="xTok_000577">…</pc>
+                  <pc join="right" xml:id="xTok_000578">]</pc>
+                  <pc join="right" xml:id="xTok_000579">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a20.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a20" xml:id="a68">And in those pieces of meat that were cooked with rosemary and called knǟf. That is the dish of il-Kǟf […]</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a21"
+                  who="corpus:Kef1"
+                  end="#T42"
+                  start="#T41">
+                  <w xml:id="kef1_f_45_e1_xTok_000580">kūli</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000581" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000583" rend="withDash">iš</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000585">šfǟ</w>
+                  <pc join="right" xml:id="xTok_000586">!</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a21.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a21" xml:id="a69">Eat (it) and bon appétit!</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a22"
+                  who="corpus:Kef1"
+                  end="#T44"
+                  start="#T43">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000587" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000589" rend="withDash">iṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000591">ṭbīʕa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000592">fōg</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000593" rend="withDash">iṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000595">ṭāwla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000596">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000597">maḥṭūṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000598">xass</w>
+                  <pc xml:id="xTok_000599">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000600">maḥṭūṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000601">ṛāyib</w>
+                  <pc xml:id="xTok_000602">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000603">ḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000604">ṛāyib</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000605" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000607">maḥṭūṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000608">tibsi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000609">xāṭir</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000610">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000611">kī</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000612">nḥuṭṭūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000613">nḥuṭṭu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000614" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000616">burzgǟn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000617">nḥuṭṭūh</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000618" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000620" rend="withDash">it</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000622">tibsi</w>
+                  <pc join="right" xml:id="xTok_000623">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a22.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a22" xml:id="a70">Of course there is green salad on the table; there is sour milk; there is an earthen plate, because when we serve the burzgǟn we put it on an earthen plate.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a23"
+                  who="corpus:Kef1"
+                  end="#T46"
+                  start="#T45">
+                  <w xml:id="kef1_f_45_e1_xTok_000624">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000625">façon</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000626">ntāʕ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000627">tibsi</w>
+                  <pc xml:id="xTok_000628">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000629">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000630">mzayyin</w>
+                  <pc xml:id="xTok_000631">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000632">hāḏīka</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000633">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000634">yitsamma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000635">ukla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000636">kǟfīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000637">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000638">hīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000639" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000641">burzgǟn</w>
+                  <pc join="right" xml:id="xTok_000642">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a23.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a23" xml:id="a71">It has the form of a decorated earthen plate. That can be called a Kefan dish, the burzgǟn.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="kef1_f_45_e1_a24"
+                  who="corpus:Kef1"
+                  end="#T48"
+                  start="#T47">
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000643" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000645">titkíl</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000646" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000648">šhaṛ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000649">mayyu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000650" rend="withDash">mil</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000652">le</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000653">quinze</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000654">mǟy</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000655" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000657">aḥtifǟl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000658">kbīr</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000659">baṛša</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000660" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000662">wilǟyit</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000663" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000665">kǟf</w>
+                  <pc join="right" xml:id="xTok_000666">.</pc>
+                  <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a24.wav"
+                         decls="#kef1_f_45_e1-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Translation-cp">
+                  <span xml:lang="en" target="#kef1_f_45_e1_a24" xml:id="a72">It is eaten in the month of May, beginning with the fifteenth of May. It is a big celebration in the governorate of il-Kǟf.</span>
+               </spanGrp>
+            </annotationBlock>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../082_scripts_xsl/tei_2_html__shawi.xsl"?>
+<?xslt inPathSegment="\010_manannot\" outPathSegment="\106_html\"?>
+<?processor name="saxon" removePreserveFromXML="true" removePreserveFromXSLT="true"?>
+<?snippets fn="snippets_shawi_001.xml" path="{filePath}/../880_conf/"?>
+<?standoff fn="shawi_standoff.xml" path=""?>
+<?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
+<?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:55.934497+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:testour11_m_55_e">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A Conversation at the Market</title>
+            <title level="s">TUNOCENT Dataset</title>
+            <respStmt>
+               <persName ref="corpus:VB">Veronika Ritt-Benmimoun</persName>
+               <resp>principal</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:MRZ"/>
+               <resp>transcription</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:MRZ"/>
+               <resp>transfer to ELAN</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="corpus:AN"/>
+               <resp>recording</resp>
+            </respStmt>
+            <funder>Funded by the <orgName ref="https://ror.org/013tf3c58">FWF Austrian Science Fund</orgName> under the number <idno type="projectNumber">P 31647</idno>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+            <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+            <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+            <date when="2025-02-01">February 2025</date>
+            <address>
+               <addrLine>Bäckersterstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+               <addrLine>Austria</addrLine>
+            </address>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+            <availability status="restricted"
+                          xml:id="testour11_m_55_e-restricted"
+                          default="false"
+                          corresp="#testour11_m_55_e-master">
+               <p>Audio recording is restricted.</p>
+            </availability>
+            <idno type="TUNOCENTCorpusID">testour11_m_55_e</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <recordingStmt xml:id="testour11_m_55_e_recordingStmt">
+               <recording dur-iso="PT218.0S" type="audio">
+                  <date when="2019-05-01"/>
+                  <respStmt>
+                     <resp>recording</resp>
+                     <persName ref="corpus:AN"/>
+                  </respStmt>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e.WAV"
+                         mimeType="audio/wav"
+                         type="master"
+                         xml:id="testour11_m_55_e-master"
+                         decls="#testour11_m_55_e-restricted">
+                     <desc>The informant has not explicitly agreed to the publication of the audio recording. Thus, the audio recording is available only to the research project itself.</desc>
+                  </media>
+               </recording>
+            </recordingStmt>
+            <biblStruct type="thesis"
+                        corresp="http://zotero.org/groups/2165756/items/X25QQG3S"
+                        n="Zarb2023">
+               <monogr>
+                  <title level="m">The Arabic Dialect of Testour (Northwestern Tunisia): A phonological and morphological analysis</title>
+                  <author>
+                     <forename>Maria Rebecca</forename>
+                     <surname>Zarb</surname>
+                  </author>
+                  <imprint>
+                     <pubPlace>Vienna</pubPlace>
+                     <date>2023</date>
+                     <note type="url">. https://utheses.univie.ac.at/detail/65808</note>
+                     <note type="thesisType">MA thesis</note>
+                  </imprint>
+               </monogr>
+               <note type="tags">
+                  <note type="dataCollection">
+                     <date type="dataCollection"
+                           cert="unknown"
+                           notBefore-iso="2020-01-01"
+                           notAfter-iso="2029-12-31">2020s</date>
+                  </note>
+                  <note type="tag">out:TUNOCENT</note>
+                  <note type="tag">
+                     <name type="reg">Maghreb</name>
+                     <geo>27.750000 9.300000</geo>
+                  </note>
+                  <note type="tag">
+                     <name type="reg">Tunisia</name>
+                     <geo>34.000000 9.000000</geo>
+                  </note>
+               </note>
+               <note type="abstract">The town of Testour lies close to the Medjerda river in northwestern Tunisia and it was founded in the 17th century by the Muslim Moriscan community who was exiled from Spain, after the Reconquista led to a rise in Christian zeal in the Iberian peninsula. By making North Africa their new home, the Moriscos introduced their customs, agriculture, architecture, food and dress amongst many other things, to these new towns and to the locals. The inhabitants of Testour today claim that they are the descendants of the Moriscos, and as such as keen to practice typical Moriscan trades, such as producing the chéchia hat and celebrating the Maʔlūf music. This master’s thesis aims at documenting some of the phonological and morphological features of the Arabic dialect of the present community of Testour, on which to my knowledge, no such linguistic works currently exists. The recordings on which this thesis is based have been collected during the framework of the TUNOCENT project hosted by the University of Vienna, which strives to collect and document the dialects of certain towns in northwestern and central Tunisia. The outcome of this thesis is to put Testour on the linguistic map of Tunisia, a country on which relatively very little has been done in this regard, as well as to hopefully contribute a better insight on the ambiguous dialectal classifications in Tunisia.</note>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="corpus"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../corpus.xml#$1">
+               <p>Private URIs using the <code>teiCorpusHeader</code> prefix are pointers to any element in the <ref target="corpus.xml">TUNOCENT teiCorpus document</ref>.</p>
+            </prefixDef>
+            <prefixDef ident="arche"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://id.acdh.oeaw.ac.at/tunocent/$1">
+               <p>Private URIs using the <code>arche</code> prefix are pointers to resources archived in the long-term repository ARCHE.</p>
+            </prefixDef>
+            <prefixDef ident="assets"
+                       matchPattern="^(.+)$"
+                       replacementPattern="https://tunocent-assets.acdh-dev.oeaw.ac.at/$1">
+               <p>Private URIs using the <code>assets</code> prefix are pointers to assets used by the TUNOCENT web application.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.fl"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_lingfeatures/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.vicav.fl</code> prefix are pointers to feature lists.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.vicav.st"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_samples/tunocent/vicav_sample_text_003.xml#$1">
+               <p>Private URIs using the <code>datatypes.vicav.st</code> prefix are pointers to VICAV sample texts.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.ums"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_corpus/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.ums</code> prefix are pointers to transcribed texts of unmonitored speech.</p>
+            </prefixDef>
+            <prefixDef ident="datatypes.tunocent.pp"
+                       matchPattern="^(.+)$"
+                       replacementPattern="../../vicav_profiles/tunocent/$1.xml">
+               <p>Private URIs using the <code>datatypes.tunocent.pp</code> prefix are pointers to TUNOCENT place profiles.</p>
+            </prefixDef>
+            <prefixDef ident="geo"
+                       matchPattern="(.+)"
+                       replacementPattern="../../102_derived_tei/places.xml$1"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#$1"
+                       ident="semlib"/>
+            <prefixDef matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/acdh-oeaw/vicav-content/refs/heads/master/vocabs/fLib.xml#$1"
+                       ident="fvlib"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <head>Informants in <title>Testour11/m/55 E</title>
+               </head>
+               <person sameAs="corpus:Testour11" sex="m" age="55">
+                  <idno>Testour11/m/55</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place sameAs="geo:Testour">
+               <settlement>
+                  <name xml:lang="en">Testour</name>
+                  <name xml:lang="aeb">Tastūr</name>
+               </settlement>
+               <region>Beja</region>
+               <country>Tunisia</country>
+               <location>
+                  <geo>36.55, 9.44</geo>
+               </location>
+            </place>
+         </settingDesc>
+         <textClass>
+            <catRef target="corpus:datatypes.tunocent.ums"/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <timeline unit="ms">
+         <when xml:id="T0"/>
+         <when interval="1310" since="#T0" xml:id="T68"/>
+         <when interval="2100" since="#T0" xml:id="T1"/>
+         <when interval="5300" since="#T0" xml:id="T2"/>
+         <when interval="6224" since="#T0" xml:id="T69"/>
+         <when interval="6400" since="#T0" xml:id="T70"/>
+         <when interval="6700" since="#T0" xml:id="T3"/>
+         <when interval="7130" since="#T0" xml:id="T4"/>
+         <when interval="7702" since="#T0" xml:id="T71"/>
+         <when interval="12463" since="#T0" xml:id="T72"/>
+         <when interval="12579" since="#T0" xml:id="T5"/>
+         <when interval="14292" since="#T0" xml:id="T73"/>
+         <when interval="14681" since="#T0" xml:id="T78"/>
+         <when interval="15739" since="#T0" xml:id="T6"/>
+         <when interval="16196" since="#T0" xml:id="T79"/>
+         <when interval="25384" since="#T0" xml:id="T7"/>
+         <when interval="25464" since="#T0" xml:id="T8"/>
+         <when interval="34891" since="#T0" xml:id="T9"/>
+         <when interval="35028" since="#T0" xml:id="T10"/>
+         <when interval="39594" since="#T0" xml:id="T11"/>
+         <when interval="39766" since="#T0" xml:id="T12"/>
+         <when interval="43885" since="#T0" xml:id="T13"/>
+         <when interval="43999" since="#T0" xml:id="T14"/>
+         <when interval="52521" since="#T0" xml:id="T15"/>
+         <when interval="63314" since="#T0" xml:id="T16"/>
+         <when interval="63520" since="#T0" xml:id="T17"/>
+         <when interval="69661" since="#T0" xml:id="T18"/>
+         <when interval="69764" since="#T0" xml:id="T19"/>
+         <when interval="77327" since="#T0" xml:id="T20"/>
+         <when interval="77621" since="#T0" xml:id="T21"/>
+         <when interval="82260" since="#T0" xml:id="T74"/>
+         <when interval="83260" since="#T0" xml:id="T75"/>
+         <when interval="84678" since="#T0" xml:id="T22"/>
+         <when interval="85066" since="#T0" xml:id="T23"/>
+         <when interval="91436" since="#T0" xml:id="T24"/>
+         <when interval="91648" since="#T0" xml:id="T25"/>
+         <when interval="98132" since="#T0" xml:id="T26"/>
+         <when interval="98974" since="#T0" xml:id="T27"/>
+         <when interval="101455" since="#T0" xml:id="T28"/>
+         <when interval="101962" since="#T0" xml:id="T29"/>
+         <when interval="103815" since="#T0" xml:id="T30"/>
+         <when interval="104434" since="#T0" xml:id="T31"/>
+         <when interval="108434" since="#T0" xml:id="T32"/>
+         <when interval="108781" since="#T0" xml:id="T33"/>
+         <when interval="113347" since="#T0" xml:id="T34"/>
+         <when interval="113495" since="#T0" xml:id="T35"/>
+         <when interval="119628" since="#T0" xml:id="T36"/>
+         <when interval="125384" since="#T0" xml:id="T80"/>
+         <when interval="128347" since="#T0" xml:id="T37"/>
+         <when interval="128565" since="#T0" xml:id="T81"/>
+         <when interval="132536" since="#T0" xml:id="T38"/>
+         <when interval="132608" since="#T0" xml:id="T39"/>
+         <when interval="135449" since="#T0" xml:id="T40"/>
+         <when interval="143202" since="#T0" xml:id="T41"/>
+         <when interval="151231" since="#T0" xml:id="T42"/>
+         <when interval="151362" since="#T0" xml:id="T43"/>
+         <when interval="156357" since="#T0" xml:id="T44"/>
+         <when interval="157126" since="#T0" xml:id="T45"/>
+         <when interval="158311" since="#T0" xml:id="T46"/>
+         <when interval="158481" since="#T0" xml:id="T47"/>
+         <when interval="164173" since="#T0" xml:id="T48"/>
+         <when interval="167637" since="#T0" xml:id="T49"/>
+         <when interval="167781" since="#T0" xml:id="T50"/>
+         <when interval="174434" since="#T0" xml:id="T51"/>
+         <when interval="177323" since="#T0" xml:id="T52"/>
+         <when interval="181807" since="#T0" xml:id="T53"/>
+         <when interval="181956" since="#T0" xml:id="T54"/>
+         <when interval="185952" since="#T0" xml:id="T55"/>
+         <when interval="186104" since="#T0" xml:id="T56"/>
+         <when interval="189914" since="#T0" xml:id="T57"/>
+         <when interval="190425" since="#T0" xml:id="T58"/>
+         <when interval="192583" since="#T0" xml:id="T59"/>
+         <when interval="192742" since="#T0" xml:id="T60"/>
+         <when interval="194972" since="#T0" xml:id="T61"/>
+         <when interval="195101" since="#T0" xml:id="T62"/>
+         <when interval="204347" since="#T0" xml:id="T63"/>
+         <when interval="204981" since="#T0" xml:id="T64"/>
+         <when interval="210296" since="#T0" xml:id="T65"/>
+         <when interval="211449" since="#T0" xml:id="T66"/>
+         <when interval="213057" since="#T0" xml:id="T67"/>
+         <when interval="215994" since="#T0" xml:id="T76"/>
+         <when interval="218234" since="#T0" xml:id="T77"/>
+      </timeline>
+      <body>
+         <div subtype="d0" type="Situation">
+            <head>
+               <note type="start">#T0</note>
+               <note type="end">#T77</note>
+            </head>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a5"
+                  who="corpus:Testour11"
+                  end="#T1"
+                  start="#T0">
+                  <w xml:id="testour11_m_55_e_xTok_000001">šnuwwa</w>
+                  <w xml:id="testour11_m_55_e_xTok_000002">illi</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000003">tḥibb</w>
+                  <pc join="right" xml:id="xTok_000004">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a5.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a5" xml:id="a52">What does she want?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a1"
+                  end="#T69"
+                  start="#T68">
+                  <w xml:id="testour11_m_55_e_xTok_000005">iḥki</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000006" rend="withDash">ʕa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000008" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000010" join="right">maṛši</w>
+                  <pc xml:id="xTok_000011">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000012">iḥki</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000013" rend="withDash">ʕ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000015" rend="withDash">al</w>
+                  <pc join="right" xml:id="xTok_000017">.</pc>
+                  <pc join="right" xml:id="xTok_000018">.</pc>
+                  <pc xml:id="xTok_000019">.</pc>
+                  <pc xml:id="xTok_000020">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000021">hīya</w>
+                  <pc join="right" xml:id="xTok_000022">(</pc>
+                  <pc join="right" xml:id="xTok_000023">.</pc>
+                  <pc join="right" xml:id="xTok_000024">.</pc>
+                  <pc xml:id="xTok_000025">.</pc>
+                  <pc xml:id="xTok_000026">)</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000027" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000029" join="right">lahža</w>
+                  <pc xml:id="xTok_000030">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000031" rend="withDash">aʕṭī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000033">ha</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000034" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000036">langue</w>
+                  <pc join="right" xml:id="xTok_000037">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a1.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="UNKNOWN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a1" xml:id="a47">Speak about the market. She (...), the dialect, give her information about the language.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a7"
+                  who="corpus:Testour11"
+                  end="#T3"
+                  start="#T2">
+                  <w xml:id="testour11_m_55_e_xTok_000038">ā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000039" rend="withDash">ʕa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000041" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000043">lahža</w>
+                  <pc join="right" xml:id="xTok_000044">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a7.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a7" xml:id="a53">About the dialect?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a3"
+                  end="#T71"
+                  start="#T70">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000045" rend="withDash">al</w>
+                  <w xml:id="testour11_m_55_e_xTok_000047">langue</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000048">ay</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a3.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="UNKNOWN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a3" xml:id="a48">The language, yes.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a20"
+                  who="corpus:Testour11"
+                  end="#T5"
+                  start="#T4">
+                  <w xml:id="testour11_m_55_e_xTok_000049">haḏāya</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000050" rend="withDash">ism</w>
+                  <w xml:id="testour11_m_55_e_xTok_000052">u</w>
+                  <w xml:id="testour11_m_55_e_xTok_000053">sūq</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000054" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000056" join="right">žumla</w>
+                  <pc xml:id="xTok_000057">.</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000058">mbīʕu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000059" rend="withDash">is</w>
+                  <w xml:id="testour11_m_55_e_xTok_000061" join="right">silʕa</w>
+                  <pc xml:id="xTok_000062">;</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000063" rend="withDash">nkallm</w>
+                  <w xml:id="testour11_m_55_e_xTok_000065">ik</w>
+                  <w xml:id="testour11_m_55_e_xTok_000066">dīma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000067" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000069" rend="withDash">il</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000071">ʕaṛbi</w>
+                  <pc join="right" xml:id="xTok_000072">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a20.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a20" xml:id="a54">This is the wholesale market. We sell the merchandise; Should I always speak in Arabic to you?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a4"
+                  end="#T73"
+                  start="#T72">
+                  <w xml:id="testour11_m_55_e_xTok_000073">lǟ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000074">hīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000075">tifhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000076" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000078" rend="withDash">il</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000080">ʕaṛbi</w>
+                  <pc join="right" xml:id="xTok_000081">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a4.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="UNKNOWN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a4" xml:id="a49">She understands Arabic.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a17"
+                  who="corpus:AN"
+                  end="#T79"
+                  start="#T78">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000082" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000084" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000086">lahža</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000087" rend="withDash">t</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000089">tastūrīya</w>
+                  <pc join="right" xml:id="xTok_000090">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a17.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="AN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a17" xml:id="a88">With the Testouri dialect.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a8"
+                  who="corpus:Testour11"
+                  end="#T7"
+                  start="#T6">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000091" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000093" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000095">lahža</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000096" rend="withDash">t</w>
+                  <w xml:id="testour11_m_55_e_xTok_000098" join="right">tastūrīya</w>
+                  <pc xml:id="xTok_000099">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000100" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000102">lahža</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000103" rend="withDash">t</w>
+                  <w xml:id="testour11_m_55_e_xTok_000105">tastūrīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000106">ay</w>
+                  <w xml:id="testour11_m_55_e_xTok_000107">tifham</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000108" rend="withDash">fī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000110" join="right">ya</w>
+                  <pc xml:id="xTok_000111">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000112" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000114">ªhnǟ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000115" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000117" join="right">fallǟḥ</w>
+                  <pc xml:id="xTok_000118">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000119">haḏāya</w>
+                  <pc xml:id="xTok_000120">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000121">haḏāya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000122">mḥall</w>
+                  <w xml:id="testour11_m_55_e_xTok_000123">ⁱkbīr</w>
+                  <w xml:id="testour11_m_55_e_xTok_000124">fhimt</w>
+                  <w xml:id="testour11_m_55_e_xTok_000125">tawwa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000126" rend="withDash">taʕml</w>
+                  <w xml:id="testour11_m_55_e_xTok_000128">u</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000129" rend="withDash">id</w>
+                  <w xml:id="testour11_m_55_e_xTok_000131">dawla</w>
+                  <w xml:id="testour11_m_55_e_xTok_000132">yitsamma</w>
+                  <w xml:id="testour11_m_55_e_xTok_000133">sūq</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000134" rend="withDash">il</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000136">žumla</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a8.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a8" xml:id="a55">With the Testouri dialect, the Testouri dialect, do you understand me? Here, the farmer, this is a big shop. The government sets it up now, it is called the wholesale market.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a9"
+                  who="corpus:Testour11"
+                  end="#T9"
+                  start="#T8">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000137" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000139" join="right">fallǟḥ</w>
+                  <pc xml:id="xTok_000140">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000141">yuntuž</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000142" rend="withDash">s</w>
+                  <w xml:id="testour11_m_55_e_xTok_000144">silʕa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000145" rend="withDash">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000147">u</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000148" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000150" rend="withDash">yžīb</w>
+                  <w xml:id="testour11_m_55_e_xTok_000152">ha</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000153" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000155" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000157">maṛši</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000158" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000160" join="right">ªhnǟ</w>
+                  <pc xml:id="xTok_000161">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000162">aḥna</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000163" rend="withDash">nbīʕū</w>
+                  <w xml:id="testour11_m_55_e_xTok_000165">ha</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000166" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000168" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000170">xaḏ̣ḏ̣āṛ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000171">illi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000172">hūwa</w>
+                  <w xml:id="testour11_m_55_e_xTok_000173">ybīʕ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000174" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000176" rend="withDash">it</w>
+                  <w xml:id="testour11_m_55_e_xTok_000178" join="right">tafṣīl</w>
+                  <pc xml:id="xTok_000179">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000180">tifham</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000181" rend="withDash">fī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000183">ya</w>
+                  <pc join="right" xml:id="xTok_000184">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a9.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a9" xml:id="a56">The farmer grows his produce and brings it here to the market. We sell it to the greengrocer who sells it in small quantities, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a10"
+                  who="corpus:Testour11"
+                  end="#T11"
+                  start="#T10">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000185" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000187" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000189">na</w>
+                  <w xml:id="testour11_m_55_e_xTok_000190">adayāt</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000191" rend="withDash">nǟxḏū</w>
+                  <w xml:id="testour11_m_55_e_xTok_000193">ha</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000194" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000196">naʕṭu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000197" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000199">flūs</w>
+                  <w xml:id="testour11_m_55_e_xTok_000200">mtāʕ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000201" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000203" join="right">fallǟḥ</w>
+                  <pc xml:id="xTok_000204">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000205" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000207">ni</w>
+                  <pc join="right" xml:id="xTok_000208">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a10.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a10" xml:id="a57">And we take our share and we pass on the money which belongs to the farmer.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a11"
+                  who="corpus:Testour11"
+                  end="#T13"
+                  start="#T12">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000209" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000211">tastūr</w>
+                  <w xml:id="testour11_m_55_e_xTok_000212">blǟd</w>
+                  <w xml:id="testour11_m_55_e_xTok_000213">andalusīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000214">tḥabb</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000215" rend="withDash">naḥkī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000217">k</w>
+                  <w xml:id="testour11_m_55_e_xTok_000218">ʕala</w>
+                  <w xml:id="testour11_m_55_e_xTok_000219">tastūr</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000220">šwayya</w>
+                  <pc xml:id="xTok_000221">?</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000222">blǟd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000223">andalusīya</w>
+                  <pc join="right" xml:id="xTok_000224">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a11.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a11" xml:id="a58">And Testour is an Andalusian town. Do you want me to tell you a bit about Testour? It is an Andalusian town.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a12"
+                  who="corpus:Testour11"
+                  end="#T15"
+                  start="#T14">
+                  <w xml:id="testour11_m_55_e_xTok_000225">aġlabīyat</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000226" rend="withDash">al</w>
+                  <w xml:id="testour11_m_55_e_xTok_000228">andalus</w>
+                  <w xml:id="testour11_m_55_e_xTok_000229">žǟw</w>
+                  <w xml:id="testour11_m_55_e_xTok_000230">min</w>
+                  <w xml:id="testour11_m_55_e_xTok_000231">ʕām</w>
+                  <w xml:id="testour11_m_55_e_xTok_000232">alf</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000233" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000235">sitta</w>
+                  <w xml:id="testour11_m_55_e_xTok_000236">mīya</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000237" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000239">ʕašra</w>
+                  <w xml:id="testour11_m_55_e_xTok_000240">ḥāža</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000241" rend="withDash">kīm</w>
+                  <w xml:id="testour11_m_55_e_xTok_000243">akka</w>
+                  <w xml:id="testour11_m_55_e_xTok_000244">žǟw</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000245" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000247" join="right">tastūr</w>
+                  <pc xml:id="xTok_000248">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000249" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000251">ni</w>
+                  <pc join="right" xml:id="xTok_000252">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a12.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a12" xml:id="a59">Most of the Andalusians came from 1610, something like that. They came to Testour. Do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a13"
+                  who="corpus:Testour11"
+                  end="#T16"
+                  start="#T15">
+                  <w xml:id="testour11_m_55_e_xTok_000253">yitsammǟw</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000254" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000256">muriskīyīn</w>
+                  <w xml:id="testour11_m_55_e_xTok_000257">hūma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000258">andalus</w>
+                  <pc xml:id="xTok_000259">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000260">bon</w>
+                  <pc xml:id="xTok_000261">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000262">mhǟžrīn</w>
+                  <w xml:id="testour11_m_55_e_xTok_000263">žǟw</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000264">mhǟžrīn</w>
+                  <pc xml:id="xTok_000265">,</pc>
+                  <pc join="right" xml:id="xTok_000266">(</pc>
+                  <pc join="right" xml:id="xTok_000267">.</pc>
+                  <pc join="right" xml:id="xTok_000268">.</pc>
+                  <pc xml:id="xTok_000269">.</pc>
+                  <pc xml:id="xTok_000270">)</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000271">mhǟžrīn</w>
+                  <w xml:id="testour11_m_55_e_xTok_000272">hakkahaw</w>
+                  <w xml:id="testour11_m_55_e_xTok_000273">žǟw</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000274" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000276" join="right">ⁱhnǟ</w>
+                  <pc xml:id="xTok_000277">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000278">ḥaṭṭu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000279" rend="withDash">f</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000281" rend="withDash">is</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000283">slīmǟn</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a13.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a13" xml:id="a60">They are called the Moriscos, they are Andalusians. They came as migrants, migrants, they came here as migrants. They settled in Soliman.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a14"
+                  who="corpus:Testour11"
+                  end="#T18"
+                  start="#T17">
+                  <w xml:id="testour11_m_55_e_xTok_000284">siknu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000285" rend="withDash">f</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000287" rend="withDash">is</w>
+                  <w xml:id="testour11_m_55_e_xTok_000289" join="right">slīmǟn</w>
+                  <pc xml:id="xTok_000290">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000291">blǟd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000292" rend="withDash">ism</w>
+                  <w xml:id="testour11_m_55_e_xTok_000294">ha</w>
+                  <w xml:id="testour11_m_55_e_xTok_000295">slīmǟn</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000296" rend="withDash">fi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000298" join="right">tūnis</w>
+                  <pc xml:id="xTok_000299">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000300" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000302">siknu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000303" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000305">ⁱhnǟ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000306" rend="withDash">fi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000308" join="right">tastūr</w>
+                  <pc xml:id="xTok_000309">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000310" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000312">ni</w>
+                  <pc join="right" xml:id="xTok_000313">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a14.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a14" xml:id="a61">They lived in Soliman, a town called Soliman in Tunisia, and they lived here in Testour, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a15"
+                  who="corpus:Testour11"
+                  end="#T20"
+                  start="#T19">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000314" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000316">žǟbu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000317" rend="withDash">mʕā</w>
+                  <w xml:id="testour11_m_55_e_xTok_000319">hum</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000320" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000322">ʕādǟt</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000323" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000325" rend="withDash">t</w>
+                  <w xml:id="testour11_m_55_e_xTok_000327">taqālīd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000328" rend="withDash">mtāḥ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000330">ḥum</w>
+                  <w xml:id="testour11_m_55_e_xTok_000331">illi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000332">hīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000333">baṛša</w>
+                  <w xml:id="testour11_m_55_e_xTok_000334">ġilǟl</w>
+                  <w xml:id="testour11_m_55_e_xTok_000335">taww</w>
+                  <w xml:id="testour11_m_55_e_xTok_000336">baṛša</w>
+                  <w xml:id="testour11_m_55_e_xTok_000337">ġilǟl</w>
+                  <w xml:id="testour11_m_55_e_xTok_000338">hīya</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000339">min</w>
+                  <pc xml:id="xTok_000340">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000341">min</w>
+                  <w xml:id="testour11_m_55_e_xTok_000342">žǟya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000343">min</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000344">isbānya</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a15.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a15" xml:id="a62">And they brought with them their customs and traditions, which were many fruits, now many fruits are from Spain</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a16"
+                  who="corpus:Testour11"
+                  end="#T22"
+                  start="#T21">
+                  <w xml:id="testour11_m_55_e_xTok_000345">kīma</w>
+                  <w xml:id="testour11_m_55_e_xTok_000346">ngūlu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000347" rend="withDash">iṛ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000349" join="right">ṛummǟn</w>
+                  <pc xml:id="xTok_000350">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000351" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000353">mišmǟš</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000354" rend="withDash">fhim</w>
+                  <w xml:id="testour11_m_55_e_xTok_000356" join="right">ni</w>
+                  <pc xml:id="xTok_000357">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000358" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000360">na</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000361" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000363" rend="withDash">in</w>
+                  <w xml:id="testour11_m_55_e_xTok_000365">nisba</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000366" rend="withDash">z</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000368">zaʕfṛān</w>
+                  <pc join="right" xml:id="xTok_000369">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a16.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a16" xml:id="a63">Such as pomegranates, apricots, do you understand me? We have, for example, saffron.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a18"
+                  end="#T75"
+                  start="#T74">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000370" rend="withDash">z</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000372">zaʕfṛān</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a18.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="UNKNOWN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a18" xml:id="a50">Saffron</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a21"
+                  who="corpus:Testour11"
+                  end="#T24"
+                  start="#T23">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000373" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000375" rend="withDash">in</w>
+                  <w xml:id="testour11_m_55_e_xTok_000377">nisba</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000378" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000380" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000382" join="right">ward</w>
+                  <pc xml:id="xTok_000383">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000384">žǟbu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000385" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000387" join="right">yāsmīn</w>
+                  <pc xml:id="xTok_000388">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000389">žǟbu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000390" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000392">fill</w>
+                  <w xml:id="testour11_m_55_e_xTok_000393">min</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000394">ġādīka</w>
+                  <pc xml:id="xTok_000395">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000396" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000398">ni</w>
+                  <pc join="right" xml:id="xTok_000399">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a21.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a21" xml:id="a64">And with regards to the flowers, they  brought the jasmine, they brought the Arabian jasmine from there, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a22"
+                  who="corpus:Testour11"
+                  end="#T26"
+                  start="#T25">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000400" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000402">žǟbu</w>
+                  <w xml:id="testour11_m_55_e_xTok_000403">anwāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000404">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000405">akⁱl</w>
+                  <w xml:id="testour11_m_55_e_xTok_000406">maʔākil</w>
+                  <w xml:id="testour11_m_55_e_xTok_000407">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000408">uklāt</w>
+                  <w xml:id="testour11_m_55_e_xTok_000409">tifham</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000410" rend="withDash">fī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000412" join="right">ya</w>
+                  <pc xml:id="xTok_000413">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000414">mitʕadda</w>
+                  <pc join="right" xml:id="xTok_000415">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a22.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a22" xml:id="a65">And they brought varieties of food, do you understand me? A lot of them.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a23"
+                  who="corpus:Testour11"
+                  end="#T28"
+                  start="#T27">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000416" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000418" rend="withDash">š</w>
+                  <w xml:id="testour11_m_55_e_xTok_000420">tḥibb</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000421" rend="withDash">naḥkī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000423" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000425">ik</w>
+                  <w xml:id="testour11_m_55_e_xTok_000426">āxar</w>
+                  <w xml:id="testour11_m_55_e_xTok_000427">ʕala</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000428">tastūr</w>
+                  <pc join="right" xml:id="xTok_000429">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a23.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a23" xml:id="a66">What else would you like me to tell you about Testour?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a24"
+                  who="corpus:Testour11"
+                  end="#T30"
+                  start="#T29">
+                  <w xml:id="testour11_m_55_e_xTok_000430">blǟd</w>
+                  <w xml:id="testour11_m_55_e_xTok_000431">ḏṛīfa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000432">hīya</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a24.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a24" xml:id="a67">It is a charming town</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a25"
+                  who="corpus:Testour11"
+                  end="#T32"
+                  start="#T31">
+                  <w xml:id="testour11_m_55_e_xTok_000433">flǟḥa</w>
+                  <w xml:id="testour11_m_55_e_xTok_000434">blǟd</w>
+                  <w xml:id="testour11_m_55_e_xTok_000435">flǟḥa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000436">hīya</w>
+                  <pc xml:id="xTok_000437">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000438" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000440" rend="withDash">fī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000442" rend="withDash">hǟ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000444" join="right">š</w>
+                  <pc xml:id="xTok_000445">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000446" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000448" rend="withDash">fī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000450" rend="withDash">hǟ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000452">š</w>
+                  <w xml:id="testour11_m_55_e_xTok_000453">manṭqa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000454">ṣināʕi</w>
+                  <pc join="right" xml:id="xTok_000455">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a25.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a25" xml:id="a68">An agricultural town, it is an agricultural town, it doesn’t have an industrial area.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a26"
+                  who="corpus:Testour11"
+                  end="#T34"
+                  start="#T33">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000456" rend="withDash">in</w>
+                  <w xml:id="testour11_m_55_e_xTok_000458">nǟs</w>
+                  <w xml:id="testour11_m_55_e_xTok_000459">ʕāyša</w>
+                  <w xml:id="testour11_m_55_e_xTok_000460">kǟn</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000461">min</w>
+                  <pc xml:id="xTok_000462">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000463" rend="withDash">aġlabīyit</w>
+                  <w xml:id="testour11_m_55_e_xTok_000465">ha</w>
+                  <w xml:id="testour11_m_55_e_xTok_000466">ʕāyša</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000467" rend="withDash">m</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000469" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000471" join="right">flǟḥa</w>
+                  <pc xml:id="xTok_000472">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000473">aġlabīya</w>
+                  <pc xml:id="xTok_000474">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000475" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000477">ni</w>
+                  <pc join="right" xml:id="xTok_000478">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a26.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a26" xml:id="a69">The people here live off, most people here live off agriculture, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a27"
+                  who="corpus:Testour11"
+                  end="#T36"
+                  start="#T35">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000479">bon</w>
+                  <pc xml:id="xTok_000480">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000481">blǟd</w>
+                  <w xml:id="testour11_m_55_e_xTok_000482">ḏʕ̣īfa</w>
+                  <w xml:id="testour11_m_55_e_xTok_000483">mutwaṣṣṭa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000484" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000486" join="right">hakkahaw</w>
+                  <pc xml:id="xTok_000487">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000488">blǟd</w>
+                  <w xml:id="testour11_m_55_e_xTok_000489">maqbūla</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000490" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000492" join="right">mutwaṣṣṭa</w>
+                  <pc xml:id="xTok_000493">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000494" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000496">ni</w>
+                  <pc join="right" xml:id="xTok_000497">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a27.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a27" xml:id="a70">Right, it is an unimportant and average town, a fine and average town, do you understand?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a46"
+                  who="corpus:AN"
+                  end="#T81"
+                  start="#T80">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000498" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000500" join="right">aʕyǟd</w>
+                  <pc xml:id="xTok_000501">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000502" rend="withDash">b</w>
+                  <w xml:id="testour11_m_55_e_xTok_000504">ǟš</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000505">taḥtaflu</w>
+                  <pc join="right" xml:id="xTok_000506">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a46.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="AN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a46" xml:id="a89">And the feasts, what do you celebrate?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a28"
+                  who="corpus:Testour11"
+                  end="#T38"
+                  start="#T37">
+                  <w xml:id="testour11_m_55_e_xTok_000507">naḥtaflu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000508" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000510" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000512" join="right">aʕyǟd</w>
+                  <pc xml:id="xTok_000513">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000514" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000516">aʕyǟd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000517" rend="withDash">id</w>
+                  <w xml:id="testour11_m_55_e_xTok_000519">dīnīya</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000520" rend="withDash">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000522">na</w>
+                  <w xml:id="testour11_m_55_e_xTok_000523">dīma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000524" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000526" join="right">akṯarīya</w>
+                  <pc xml:id="xTok_000527">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000528" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000530">aʕyǟd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000531" rend="withDash">id</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000533">dīnīya</w>
+                  <pc join="right" xml:id="xTok_000534">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a28.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a28" xml:id="a71">We celebrate the feasts, our religious feasts mostly. The religious feasts.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a29"
+                  who="corpus:Testour11"
+                  end="#T40"
+                  start="#T39">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000535" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000537">na</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000538" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000540">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000541" rend="withDash">iz</w>
+                  <w xml:id="testour11_m_55_e_xTok_000543">zġīr</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000544" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000546" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000548">na</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000549" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000551">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000552" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000554">ⁱkbīr</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a29.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a29" xml:id="a72">We have Eid al-Fitr (the small Eid) and the Eid al-Adha (the big Eid).</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a30"
+                  who="corpus:Testour11"
+                  end="#T41"
+                  start="#T40">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000555" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000557">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000558" rend="withDash">iz</w>
+                  <w xml:id="testour11_m_55_e_xTok_000560">zġīr</w>
+                  <w xml:id="testour11_m_55_e_xTok_000561">li</w>
+                  <w xml:id="testour11_m_55_e_xTok_000562">yittaʕmal</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000563" rend="withDash">fī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000565">h</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000566" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000568">ḥalawīyāt</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000569" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000571" join="right">ʕaṛabi</w>
+                  <pc xml:id="xTok_000572">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000573">famma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000574" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000576" join="right">ġṛayyba</w>
+                  <pc xml:id="xTok_000577">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000578">famma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000579" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000581">makrūḏ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000582">̣tifham</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000583" rend="withDash">fī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000585">ya</w>
+                  <pc join="right" xml:id="xTok_000586">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a30.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a30" xml:id="a73">Eid al-Fitr is the one in which traditional pastry is baked; there is the ġṛayyba, there is the makrouth, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a31"
+                  who="corpus:Testour11"
+                  end="#T42"
+                  start="#T41">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000587" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000589">famma</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000590" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000592">kaʕk</w>
+                  <w xml:id="testour11_m_55_e_xTok_000593">kull</w>
+                  <w xml:id="testour11_m_55_e_xTok_000594">wāḥid</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000595" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000597" rend="withDash">š</w>
+                  <w xml:id="testour11_m_55_e_xTok_000599" join="right">yaʕmil</w>
+                  <pc xml:id="xTok_000600">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000601" rend="withDash">fhim</w>
+                  <w xml:id="testour11_m_55_e_xTok_000603" join="right">ni</w>
+                  <pc xml:id="xTok_000604">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000605" rend="withDash">w</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000607" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000609">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000610" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000612" join="right">ⁱkbīr</w>
+                  <pc xml:id="xTok_000613">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000614">haḏāka</w>
+                  <w xml:id="testour11_m_55_e_xTok_000615">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000616" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000618">aḏ̣ḥa</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000619">maʕrūf</w>
+                  <pc xml:id="xTok_000620">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000621" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000623" join="right">ʕallūš</w>
+                  <pc xml:id="xTok_000624">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000625" rend="withDash">fhim</w>
+                  <w xml:id="testour11_m_55_e_xTok_000627" join="right">ni</w>
+                  <pc xml:id="xTok_000628">?</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000629">ʕayd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000630" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000632">aḏ̣ḥa</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a31.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a31" xml:id="a74">And there is the pastry rings. Every person bakes what he likes, do you understand me? The big feast is Eid al-Adha, it is well known for the lamb, do you understand? Eid al-Adha.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a32"
+                  who="corpus:Testour11"
+                  end="#T44"
+                  start="#T43">
+                  <w xml:id="testour11_m_55_e_xTok_000633">šniyya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000634">illi</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000635" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000637" join="right">na</w>
+                  <pc xml:id="xTok_000638">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000639" rend="withDash">ʕan</w>
+                  <w xml:id="testour11_m_55_e_xTok_000641">na</w>
+                  <w xml:id="testour11_m_55_e_xTok_000642">šahr</w>
+                  <w xml:id="testour11_m_55_e_xTok_000643">ramaḏ̣ān</w>
+                  <w xml:id="testour11_m_55_e_xTok_000644">naḥtaflu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000645" rend="withDash">bī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000647">h</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000648" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000650">muslimīn</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000651" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000653" join="right">kull</w>
+                  <pc xml:id="xTok_000654">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000655" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000657">ni</w>
+                  <pc join="right" xml:id="xTok_000658">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a32.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a32" xml:id="a75">What is it that we have? We have the month of Ramadan, all the Muslims celebrate it, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a33"
+                  who="corpus:Testour11"
+                  end="#T46"
+                  start="#T45">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000659" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000661">ni</w>
+                  <pc join="right" xml:id="xTok_000662">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a33.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a33" xml:id="a76">Do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a34"
+                  who="corpus:Testour11"
+                  end="#T48"
+                  start="#T47">
+                  <w xml:id="testour11_m_55_e_xTok_000663">lǟ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000664">lǟ</w>
+                  <pc xml:id="xTok_000665">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000666">ça</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000667">va</w>
+                  <pc xml:id="xTok_000668">.</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000669">naḥtaflu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000670" rend="withDash">bī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000672">h</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000673" rend="withDash">n</w>
+                  <w xml:id="testour11_m_55_e_xTok_000675">nǟs</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000676" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000678" join="right">kull</w>
+                  <pc xml:id="xTok_000679">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000680" rend="withDash">mā</w>
+                  <w xml:id="testour11_m_55_e_xTok_000682">k</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000683">taʕrif</w>
+                  <pc xml:id="xTok_000684">.</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000685">taʕrif</w>
+                  <w xml:id="testour11_m_55_e_xTok_000686">ramaḏ̣ān</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000687">inti</w>
+                  <pc xml:id="xTok_000688">?</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000689">tṣūm</w>
+                  <w xml:id="testour11_m_55_e_xTok_000690">walla</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000691" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000693" rend="withDash">tṣūm</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000695">š</w>
+                  <pc join="right" xml:id="xTok_000696">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a34.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a34" xml:id="a77">No, no, ça va. We all celebrate it, as you know. You know abour Ramadan, right? Do you fast or not?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a35"
+                  who="corpus:Testour11"
+                  end="#T49"
+                  start="#T48">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000697" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000699" rend="withDash">tṣūm</w>
+                  <w xml:id="testour11_m_55_e_xTok_000701" join="right">š</w>
+                  <pc xml:id="xTok_000702">.</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000703">inšālla</w>
+                  <w xml:id="testour11_m_55_e_xTok_000704">twalli</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000705">tṣūm</w>
+                  <pc xml:id="xTok_000706">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000707">inšālla</w>
+                  <pc xml:id="xTok_000708">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000709" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000711">ni</w>
+                  <pc join="right" xml:id="xTok_000712">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a35.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a35" xml:id="a78">You don’t fast. God willing you will start fasting, God willing, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a36"
+                  who="corpus:Testour11"
+                  end="#T51"
+                  start="#T50">
+                  <w xml:id="testour11_m_55_e_xTok_000713">taʕrif</w>
+                  <w xml:id="testour11_m_55_e_xTok_000714">waqt</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000715" rend="withDash">iṣ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000717">ṣiyǟm</w>
+                  <w xml:id="testour11_m_55_e_xTok_000718">min</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000719">waqtǟš</w>
+                  <pc xml:id="xTok_000720">?</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000721">min</w>
+                  <w xml:id="testour11_m_55_e_xTok_000722">šurūq</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000723" rend="withDash">iš</w>
+                  <w xml:id="testour11_m_55_e_xTok_000725">šams</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000726" rend="withDash">li</w>
+                  <w xml:id="testour11_m_55_e_xTok_000728">ġurūb</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000729" rend="withDash">iš</w>
+                  <w xml:id="testour11_m_55_e_xTok_000731" join="right">šams</w>
+                  <pc xml:id="xTok_000732">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000733" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000735">ni</w>
+                  <pc join="right" xml:id="xTok_000736">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a36.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a36" xml:id="a79">Do you know when the period of fasting is? From sunrise until sunset, do you understand?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a37"
+                  who="corpus:Testour11"
+                  end="#T53"
+                  start="#T52">
+                  <w xml:id="testour11_m_55_e_xTok_000737">haḏīka</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000738" rend="withDash">m</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000740" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000742">aʕyǟd</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000743" rend="withDash">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000745">na</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000746" rend="withDash">ir</w>
+                  <w xml:id="testour11_m_55_e_xTok_000748">rasmīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000749">famma</w>
+                  <w xml:id="testour11_m_55_e_xTok_000750">zǟda</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000751" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000753">mawlid</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000754" rend="withDash">in</w>
+                  <w xml:id="testour11_m_55_e_xTok_000756">nabawi</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000757" rend="withDash">iš</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000759">šarīf</w>
+                  <pc join="right" xml:id="xTok_000760">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a37.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a37" xml:id="a80">These are some of our official feasts. There is also the feast where we celebrate the birth of the prophet Mohammad.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a38"
+                  who="corpus:Testour11"
+                  end="#T55"
+                  start="#T54">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000761">Bon</w>
+                  <pc xml:id="xTok_000762">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000763" rend="withDash">fi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000765">tastūr</w>
+                  <w xml:id="testour11_m_55_e_xTok_000766">zǟda</w>
+                  <w xml:id="testour11_m_55_e_xTok_000767">naḥtaflu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000768" rend="withDash">bī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000770">h</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000771" rend="withDash">b</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000773" rend="withDash">il</w>
+                  <w xml:id="testour11_m_55_e_xTok_000775">gdǟ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000776">naʕmlu</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000777" rend="withDash">fī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000779">h</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000780" rend="withDash">l</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000782">ʕaṣīda</w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a38.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a38" xml:id="a81">Bon, in Testour, we also celebrate it greatly by making the ʕaṣīda</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a39"
+                  who="corpus:Testour11"
+                  end="#T57"
+                  start="#T56">
+                  <w xml:id="testour11_m_55_e_xTok_000783">anwāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000784">mtāʕ</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000785">ʕṣīda</w>
+                  <pc xml:id="xTok_000786">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000787">hī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000788" rend="withDash">aġlabīyit</w>
+                  <w xml:id="testour11_m_55_e_xTok_000790">ha</w>
+                  <w xml:id="testour11_m_55_e_xTok_000791">taʕmil</w>
+                  <w xml:id="testour11_m_55_e_xTok_000792">ʕaṣīdit</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000793" rend="withDash">iz</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000795">zgūgu</w>
+                  <pc join="right" xml:id="xTok_000796">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a39.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a39" xml:id="a82">There are different varieties of the ʕaṣīda, the majority would make it with pine nuts.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a40"
+                  who="corpus:Testour11"
+                  end="#T59"
+                  start="#T58">
+                  <w xml:id="testour11_m_55_e_xTok_000797">taʕrif</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000798" rend="withDash">iz</w>
+                  <w xml:id="testour11_m_55_e_xTok_000800" join="right">zgūgu</w>
+                  <pc xml:id="xTok_000801">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000802">taʕrif</w>
+                  <pc join="right" xml:id="xTok_000803">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a40.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a40" xml:id="a83">Do you know what pine nuts are?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a41"
+                  who="corpus:Testour11"
+                  end="#T61"
+                  start="#T60">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000804" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000806">aġlabīya</w>
+                  <w xml:id="testour11_m_55_e_xTok_000807">taʕmil</w>
+                  <w xml:id="testour11_m_55_e_xTok_000808">ʕaṣīdit</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000809" rend="withDash">iz</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000811">zgūgu</w>
+                  <pc join="right" xml:id="xTok_000812">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a41.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a41" xml:id="a84">The majority would make the ʕaṣīda with pine nuts.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a42"
+                  who="corpus:Testour11"
+                  end="#T63"
+                  start="#T62">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000813" rend="withDash">w</w>
+                  <w xml:id="testour11_m_55_e_xTok_000815">illi</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000816" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000818" rend="withDash">yaqdar</w>
+                  <w xml:id="testour11_m_55_e_xTok_000820">š</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000821" rend="withDash">ʕlī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000823">h</w>
+                  <w xml:id="testour11_m_55_e_xTok_000824">yaʕmil</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000825" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000827">ʕaṣīda</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000828" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000830">bīḏ̣a</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000831">haḏīka</w>
+                  <pc xml:id="xTok_000832">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000833">tifham</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000834" rend="withDash">fī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000836" join="right">ya</w>
+                  <pc xml:id="xTok_000837">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000838">mtāʕ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000839">fārīna</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000840" rend="withDash">fhim</w>
+                  <w xml:id="testour11_m_55_e_xTok_000842" join="right">ni</w>
+                  <pc xml:id="xTok_000843">?</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000844">khaw</w>
+                  <pc join="right" xml:id="xTok_000845">.</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a42.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a42" xml:id="a85">And those who cannot afford it, they would make the white ʕaṣīda, do you understand me? Out of flour, do you understand me? That’s it.</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a43"
+                  who="corpus:Testour11"
+                  end="#T65"
+                  start="#T64">
+                  <w xml:id="testour11_m_55_e_xTok_000846">marḥba</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000847" rend="withDash">bī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000849">k</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000850" rend="withDash">fi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000852" join="right">tastūr</w>
+                  <pc xml:id="xTok_000853">,</pc>
+                  <w xml:id="testour11_m_55_e_xTok_000854">marḥba</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000855" rend="withDash">bī</w>
+                  <w xml:id="testour11_m_55_e_xTok_000857" join="right">k</w>
+                  <pc xml:id="xTok_000858">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000859" rend="withDash">šarraft</w>
+                  <w xml:id="testour11_m_55_e_xTok_000861" join="right">na</w>
+                  <pc xml:id="xTok_000862">,</pc>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000863" rend="withDash">fhim</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000865">ni</w>
+                  <pc join="right" xml:id="xTok_000866">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a43.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a43" xml:id="a86">Welcome to Testour, welcome, pleased to meet you, do you understand me?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a44"
+                  who="corpus:Testour11"
+                  end="#T67"
+                  start="#T66">
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000867" rend="withDash">š</w>
+                  <w xml:id="testour11_m_55_e_xTok_000869">tḥabbi</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000870" rend="withDash">naḥkī</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000872" rend="withDash">l</w>
+                  <w xml:id="testour11_m_55_e_xTok_000874">ik</w>
+                  <w join="right" xml:id="testour11_m_55_e_xTok_000875">āxar</w>
+                  <pc join="right" xml:id="xTok_000876">?</pc>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a44.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="Testour11_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a44" xml:id="a87">What would you like me to tell you more about?</span>
+               </spanGrp>
+            </annotationBlock>
+            <annotationBlock>
+               <u xml:lang="ar-aeb"
+                  xml:id="testour11_m_55_e_a19"
+                  end="#T77"
+                  start="#T76">
+                  <w xml:id="testour11_m_55_e_xTok_000877">lǟ</w>
+                  <w xml:id="testour11_m_55_e_xTok_000878">yikfi</w>
+                  <w xml:id="testour11_m_55_e_xTok_000879">hīya</w>
+                  <w type="truncated">
+                     <w join="right" xml:id="testour11_m_55_e_xTok_000880">xḏǟt</w>
+                  </w>
+                  <media url="arche:Beja/Testour/UMS/testour11_m_55_e/testour11_m_55_e_a19.wav"
+                         decls="#testour11_m_55_e-restricted"
+                         mimeType="audio/wav"
+                         type="archivalCopy"/>
+               </u>
+               <spanGrp type="UNKNOWN_Translation">
+                  <span xml:lang="en" target="#testour11_m_55_e_a19" xml:id="a51">No, it is enough...</span>
+               </spanGrp>
+            </annotationBlock>
+         </div>
+      </body>
+   </text>
+</TEI>

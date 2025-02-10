@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corpus (Explanation)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div xml:id="tunocentExplanationCorpus" xml:space="preserve">
+              <head>Corpus (Explanation)</head>
+              
+              <p xml:space="preserve">The corpus texts, also called free speech texts or unmonitored speech, include narratives, ethnographic texts and conversations recorded 
+                  during the numerous fieldwork trips in the regions of northwestern and central Tunisia. In addition to the transcribed corpus texts on the TUNOCENT-webpage 
+                  which are extracts from already published research, about 60 to 70 hours of speech were transcribed in the course of the project but have not been published yet. 
+                  Together, these published and to-be-published corpus texts form the largest text collection in scientific transcription to exist for Tunisian dialects</p>
+              
+              <p xml:space="preserve">This section includes two main ways to display the corpus texts: Starting from the complete list of corpus texts which is arranged geographically 
+                  according to governorates, the respective texts can be chosen and are presented in transcription unit by unit. Some of the texts are accompanied by an audio file. 
+                  In the function “Search the corpus” the user can either search for specific words or make an advanced search. Moreover, by clicking on a word the user is provided with 
+                  an inventory of all units that contain this particular word. The respective words, which are presented within the context of the unit they occur in, are marked in bold.
+</p>
+              
+             <p xml:space="preserve">The website contains 24 corpus texts: 14 for locations within the governorate of Beja, 2 for the governorate of Kef, 7 for the governorate 
+                 of Kasserine and 1 for Sidi Bouzid.</p>
+          </div>
+          
+      </body>
+  </text>
+</TEI>
