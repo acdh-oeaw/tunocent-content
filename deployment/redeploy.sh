@@ -68,6 +68,7 @@ git -c advice.detachedHead=false checkout ${dataversion}
 who=$(git show -s --format='%cN')
 when=$(git show -s --format='%as')
 message=$(git show -s --format='%B')
+sourcebaseuri=$(git remote get-url origin | sed 's/.git$//')/blob/$(git rev-parse HEAD)/
 revisionDesc=$(sed ':a;N;$!ba;s/\n/\\n/g' <<EOF
 <revisionDesc>
   <change n="$dataversion" who="$who" when="$when">
@@ -82,12 +83,17 @@ for d in $(ls -d vicav_*)
 do echo "Directory $d:"
    cd "$d"
    mkdir -p $(dirname "" $(find . -type f -and \( -name '*.jpg' -or -name '*.JPG' -or -name '*.png' -or -name '*.PNG' -or -name '*.svg' \) -exec echo ${BUILD_DIR:-../../webapp/vicav-app}/images/{} \;))
-   find . -type f -and \( -name '*.jpg' -or -name '*.JPG' -or -name '*.png' -or -name '*.PNG' -or -name '*.svg' \) -exec mv -v {} ${BUILD_DIR:-../../webapp/vicav-app}/images/{} \;
-   if [ "$onlytags"x = 'truex' ]
-   then
-     find . -type f -and -name '*.xml' -exec sed -i "s~\(</teiHeader>\)~$revisionDesc\\n\1~g" {} \;
-   fi
+   find . -type f -and \( -name '*.jpg' -or -name '*.JPG' -or -name '*.png' -or -name '*.PNG' -or -name '*.svg' \) -exec mv -v {} ${BUILD_DIR:-../../webapp/vicav-app}/images/{} \;   
    cd ..
+   for filename in $(find "$d" -type f -and -name '*.xml')
+   do
+      publicationIdno=$(sed ':a;N;$!ba;s/\n/\\n/g' <<EOF
+<idno>$sourcebaseuri$filename</idno>
+EOF
+)
+     sed -i "s~\(</publicationStmt>\)~$publicationIdno\\n\1~g" $filename
+     sed -i "s~\(</teiHeader>\)~$revisionDesc\\n\1~g" $filename
+   done
 done
 if [ "$CI"x == "truex" ]; then echo "CI: removing .git"; rm -rf .git; fi
 versionInfo=$(sed ':a;N;$!ba;s/\n/\\n/g' <<EOF
