@@ -39,7 +39,7 @@
                >About</item>
             <item xml:id="tunocentTeam" target="tunocent_team" targetType="Text">Team</item>
             <item xml:id="tunocentNews" target="tunocent_news" targetType="Text">News</item>
-            <item xml:id="researchBibliographyTunocent" target="research_bibliography_tunocent" targetType="Text">Publications</item>
+            <!-- <item xml:id="researchBibliographyTunocent" target="research_bibliography_tunocent" targetType="Text">Publications</item> -->
          </dropdown>
          <dropdown xml:id="dropdown02" title="Profiles">
             <item xml:id="liProfilesExplanation" target="tunocentExplanationProfiles" type="vicavTexts">Explanation</item>
