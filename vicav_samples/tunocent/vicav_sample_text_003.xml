@@ -104640,7 +104640,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD </f>
+                                    <f name="comment">usage:old</f>
                                  </fs>
                               </w>
                               <w>
@@ -104650,7 +104650,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD </f>
+                                    <f name="comment">usage:old</f>
                                  </fs>
                               </w>
                               <pc force="weak">-</pc>
@@ -104661,7 +104661,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD </f>
+                                    <f name="comment">usage:old</f>
                                  </fs>
                               </w>
                            </phr>
@@ -136823,7 +136823,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD  „qbal“</f>
+                                    <f name="comment">usage:old „qbal“</f>
                                  </fs>
                               </w>
                               <pc force="weak">-</pc>
@@ -136834,7 +136834,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD  „qbal“</f>
+                                    <f name="comment">usage:old „qbal“</f>
                                  </fs>
                               </w>
                            </phr>
@@ -145613,7 +145613,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD (~ kunna ngūlōha, taww mā-ʕād-iš)</f>
+                                    <f name="comment">usage:old (~ kunna ngūlōha, taww mā-ʕād-iš)</f>
                                  </fs>
                               </w>
                               <pc force="weak">-</pc>
@@ -145624,7 +145624,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD (~ kunna ngūlōha, taww mā-ʕād-iš)</f>
+                                    <f name="comment">usage:old (~ kunna ngūlōha, taww mā-ʕād-iš)</f>
                                  </fs>
                               </w>
                            </phr>
@@ -199480,7 +199480,7 @@
                                  <f name="lemma"/>
                                  <f name="translation"/>
                                  <f name="other"/>
-                                 <f name="comment">OLD</f>
+                                 <f name="comment">usage:old</f>
                               </fs>
                            </w>
                         </seg>
@@ -200081,7 +200081,7 @@
                                     <f name="lemma"/>
                                     <f name="translation"/>
                                     <f name="other"/>
-                                    <f name="comment">OLD</f>
+                                    <f name="comment">usage:old</f>
                                  </fs>
                               </w>
                               <pc force="weak">-</pc>
