@@ -328,4 +328,13 @@
       <char><value>ʕ</value></char>
       <char><value>ʔ</value></char>
    </specialCharacters>
+   <commentOptions>
+      <char><text>Usage: old</text><value>Usage: old</value></char>
+      <char><text>Usage: young</text><value>Usage: young</value></char>
+      <char><text>Usage: rural</text><value>Usage: rural</value></char>
+      <char><text>Usage: urban</text><value>Usage: urban</value></char>
+      <char><text>non-dialectal form</text><value>Non-dialectal form</value></char>
+      <char><text>speech: omitted, inserted by editor</text><value>Omitted in speech, inserted by editor</value></char>
+   </commentOptions>
+   <sampleTextSentences>7</sampleTextSentences>
 </projectConfig>
