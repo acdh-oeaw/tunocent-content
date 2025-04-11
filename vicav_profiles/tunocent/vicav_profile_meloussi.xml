@@ -83,62 +83,197 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic001">
+            <name type="filename">Meloussi1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic002">
+            <name type="filename">Meloussi2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic003">
+            <name type="filename">Meloussi3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic004">
+            <name type="filename">Meloussi4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic005">
+            <name type="filename">Meloussi5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic006">
+            <name type="filename">Meloussi6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic007">
+            <name type="filename">Meloussi7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic008">
+            <name type="filename">Meloussi9.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic009">
+            <name type="filename">Meloussi10.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic010">
+            <name type="filename">Meloussi11.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic011">
+            <name type="filename">Meloussi12.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic012">
+            <name type="filename">Meloussi13.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Meloussi_01_graphic013">
+            <name type="filename">Meloussi14.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Meloussi1.jpg"/>
+                  <graphic url="Meloussi1.jpg" decls="#profile_Meloussi_01_graphic001"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi2.jpg"/>
+                  <graphic url="Meloussi2.jpg" decls="#profile_Meloussi_01_graphic002"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi3.jpg"/>
+                  <graphic url="Meloussi3.jpg" decls="#profile_Meloussi_01_graphic003"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi4.jpg"/>
+                  <graphic url="Meloussi4.jpg" decls="#profile_Meloussi_01_graphic004"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi5.jpg"/>
+                  <graphic url="Meloussi5.jpg" decls="#profile_Meloussi_01_graphic005"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi6.jpg"/>
+                  <graphic url="Meloussi6.jpg" decls="#profile_Meloussi_01_graphic006"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi7.jpg"/>
+                  <graphic url="Meloussi7.jpg" decls="#profile_Meloussi_01_graphic007"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi9.jpg"/>
+                  <graphic url="Meloussi9.jpg" decls="#profile_Meloussi_01_graphic008"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi10.jpg"/>
+                  <graphic url="Meloussi10.jpg" decls="#profile_Meloussi_01_graphic009"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi11.jpg"/>
+                  <graphic url="Meloussi11.jpg" decls="#profile_Meloussi_01_graphic010"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi12.jpg"/>
+                  <graphic url="Meloussi12.jpg" decls="#profile_Meloussi_01_graphic011"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi13.jpg"/>
+                  <graphic url="Meloussi13.jpg" decls="#profile_Meloussi_01_graphic012"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi14.jpg"/>
+                  <graphic url="Meloussi14.jpg" decls="#profile_Meloussi_01_graphic013"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>

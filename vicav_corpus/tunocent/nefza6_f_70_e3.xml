@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:48.332403+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:41.57023+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:nefza6_f_70_e3">
    <teiHeader>
       <fileDesc>
@@ -258,9 +258,8 @@
                   who="corpus:Nefza6"
                   end="#T4"
                   start="#T3">
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000012">qbal</w>
-                  </w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000012">qbal</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="nefza6_f_70_e3_xTok_000013">illi</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000014">ʕinda</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000015">talⁱfza</w>
@@ -348,9 +347,8 @@
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000075" rend="withDash">f</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000077" rend="withDash">il</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000079">ᵘʕṛūsǟt</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000080">talgǟha</w>
-                  </w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000080">talgǟha</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000081" rend="withDash">iž</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000083">žuṛṛ</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000084">kī</w>
@@ -390,8 +388,8 @@
                   <w xml:id="nefza6_f_70_e3_xTok_000111">ḏ̣aww</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000112">mtāʕ</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000113">taww</w>
-                  <pc join="right" xml:id="xTok_000114">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000114">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a6.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -405,9 +403,8 @@
                   end="#T14"
                   start="#T13">
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000115" rend="withDash">il</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000117">mǟ</w>
-                  </w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000117">mǟ</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="nefza6_f_70_e3_xTok_000118">ʕinna</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000119">ʕyūn</w>
                   <pc xml:id="xTok_000120">,</pc>
@@ -440,9 +437,8 @@
                   end="#T16"
                   start="#T15">
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000141" rend="withDash">w</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000143">nḏ̣īf</w>
-                  </w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000143">nḏ̣īf</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="nefza6_f_70_e3_xTok_000144">nhuzzu</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000145" rend="withDash">l</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000147">ⁱḥwǟyž</w>
@@ -477,9 +473,9 @@
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000169" rend="withDash">w</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000171">nšallⁱlu</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000172" rend="withDash">w</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000174">ninⁱšru</w>
-                  <pc join="right" xml:id="xTok_000175">.</pc>
-                  <gap/>
+                  <w xml:id="nefza6_f_70_e3_xTok_000174" join="right">ninⁱšru</w>
+                  <pc xml:id="xTok_000175">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a9.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -503,9 +499,8 @@
                   <w xml:id="nefza6_f_70_e3_xTok_000185">zīr</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000186" rend="withDash">il</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000188">ʕaṛbi</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000189">hakka</w>
-                  </w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000189">hakka</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="nefza6_f_70_e3_xTok_000190">nimšu</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000191">nžību</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000192" rend="withDash">l</w>
@@ -562,9 +557,9 @@
                   <w xml:id="nefza6_f_70_e3_xTok_000229">nimšu</w>
                   <w xml:id="nefza6_f_70_e3_xTok_000230">nžību</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000231" rend="withDash">l</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000233">mǟ</w>
-                  <pc join="right" xml:id="xTok_000234">.</pc>
-                  <gap/>
+                  <w xml:id="nefza6_f_70_e3_xTok_000233" join="right">mǟ</w>
+                  <pc xml:id="xTok_000234">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a12.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -633,29 +628,27 @@
                   <w xml:id="nefza6_f_70_e3_xTok_000273" join="right">ʕōla</w>
                   <pc xml:id="xTok_000274">,</pc>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000275" rend="withDash">w</w>
-                  <pc join="right" xml:id="xTok_000277">[</pc>
-                  <pc xml:id="xTok_000278">…</pc>
-                  <pc xml:id="xTok_000279">]</pc>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000280" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000282">ʕōla</w>
+                  <gap rendition="#ellipsis #inBrackets"/>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000277" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000279">ʕōla</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000280" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000282">nṣaffōha</w>
                   <w join="right" xml:id="nefza6_f_70_e3_xTok_000283" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000285">nṣaffōha</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000286" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000288">nḥuṭṭōha</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000289" rend="withDash">f</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000291" rend="withDash">il</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000293">xwǟbi</w>
-                  <pc join="right" xml:id="xTok_000294">.</pc>
-                  <gap/>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000295" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000297" join="right">ᵘglǟl</w>
-                  <pc xml:id="xTok_000298">,</pc>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000299" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000301">barrǟda</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000302">fuxxāṛ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000303">il</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000304">barrǟda</w>
-                  <pc join="right" xml:id="xTok_000305">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000285">nḥuṭṭōha</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000286" rend="withDash">f</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000288" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000290" join="right">xwǟbi</w>
+                  <pc xml:id="xTok_000291">.</pc>
+                  <gap rendition="#ellipsis #inBrackets"/>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000292" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000294" join="right">ᵘglǟl</w>
+                  <pc xml:id="xTok_000295">,</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000296" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000298">barrǟda</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000299">fuxxāṛ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000300" rend="withDash">il</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000302">barrǟda</w>
+                  <pc join="right" xml:id="xTok_000303">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a15.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -668,27 +661,27 @@
                   who="corpus:Nefza6"
                   end="#T32"
                   start="#T31">
-                  <w xml:id="nefza6_f_70_e3_xTok_000306">nḥuṭṭu</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000307">fīh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000308" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000310">mē</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000311" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000313">nḥuṭṭūh</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000314">ḥatta</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000315">sxūn</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000316">ⁱšwayy</w>
-                  <pc xml:id="xTok_000317">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000318">nžū</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000319">nalgūh</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000320">bǟrid</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000321">ⁱtbāṛik</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000322">aḷḷa</w>
-                  <pc xml:id="xTok_000323">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000324">bǟrid</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000325">kayyinni</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000326" rend="withDash">fi</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000328">frīžīdǟr</w>
-                  <pc join="right" xml:id="xTok_000329">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000304">nḥuṭṭu</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000305">fīh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000306" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000308">mē</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000309" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000311">nḥuṭṭūh</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000312">ḥatta</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000313">sxūn</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000314">ⁱšwayy</w>
+                  <pc xml:id="xTok_000315">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000316">nžū</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000317">nalgūh</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000318">bǟrid</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000319">ⁱtbāṛik</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000320">aḷḷa</w>
+                  <pc xml:id="xTok_000321">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000322">bǟrid</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000323">kayyinni</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000324" rend="withDash">fi</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000326">frīžīdǟr</w>
+                  <pc join="right" xml:id="xTok_000327">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a16.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -701,30 +694,30 @@
                   who="corpus:Nefza6"
                   end="#T34"
                   start="#T33">
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000330" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000332" join="right">bbayytūh</w>
-                  <pc xml:id="xTok_000333">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000334">nġaṭṭu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000335" rend="withDash">z</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000337">zīr</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000338">mtāʕ</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000339" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000341" join="right">mǟ</w>
-                  <pc xml:id="xTok_000342">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000343">nžību</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000344" rend="withDash">l</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000346">mǟ</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000347" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000349" join="right">nġaṭṭūh</w>
-                  <pc xml:id="xTok_000350">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000351">nbayytūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000352" rend="withDash">l</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000354">baṛṛa</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000355" rend="withDash">fi</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000357">waṣṭ</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000358" rend="withDash">id</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000360">dāṛ</w>
-                  <pc join="right" xml:id="xTok_000361">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000328" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000330" join="right">bbayytūh</w>
+                  <pc xml:id="xTok_000331">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000332">nġaṭṭu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000333" rend="withDash">z</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000335">zīr</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000336">mtāʕ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000337" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000339" join="right">mǟ</w>
+                  <pc xml:id="xTok_000340">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000341">nžību</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000342" rend="withDash">l</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000344">mǟ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000345" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000347" join="right">nġaṭṭūh</w>
+                  <pc xml:id="xTok_000348">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000349">nbayytūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000350" rend="withDash">l</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000352">baṛṛa</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000353" rend="withDash">fi</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000355">waṣṭ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000356" rend="withDash">id</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000358">dāṛ</w>
+                  <pc join="right" xml:id="xTok_000359">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a17.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -737,22 +730,22 @@
                   who="corpus:Nefza6"
                   end="#T36"
                   start="#T35">
-                  <w xml:id="nefza6_f_70_e3_xTok_000362">hakkǟy</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000363" rend="withDash">l</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000365" join="right">baṛṛa</w>
-                  <pc xml:id="xTok_000366">.</pc>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000367">mġaṭṭi</w>
-                  <pc xml:id="xTok_000368">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000369">nbayytūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000370" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000372">nṣubbu</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000373">minnah</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000374">kī</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000375">nabdu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000376" rend="withDash">miz</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000378">zilna</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000379">sāhrīn</w>
-                  <pc join="right" xml:id="xTok_000380">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000360">hakkǟy</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000361" rend="withDash">l</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000363" join="right">baṛṛa</w>
+                  <pc xml:id="xTok_000364">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000365">mġaṭṭi</w>
+                  <pc xml:id="xTok_000366">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000367">nbayytūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000368" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000370">nṣubbu</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000371">minnah</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000372">kī</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000373">nabdu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000374" rend="withDash">miz</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000376">zilna</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000377">sāhrīn</w>
+                  <pc join="right" xml:id="xTok_000378">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a18.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -765,26 +758,25 @@
                   who="corpus:Nefza6"
                   end="#T38"
                   start="#T37">
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000381">nṣubbu</w>
-                  <pc xml:id="xTok_000382">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000383">nalgūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000384">bǟrid</w>
-                  <pc xml:id="xTok_000385">.</pc>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000386" rend="withDash">w</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000388" rend="withDash">iṣ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000390">ṣbāḥ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000391">nalgūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000392" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000394">mǟ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000395">bǟrid</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000396">kayyinna</w>
-                  </w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000397">ʕibāṛa</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000398" rend="withDash">f</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000400" rend="withDash">il</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000402">frīžīdǟr</w>
-                  <pc join="right" xml:id="xTok_000403">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000379">nṣubbu</w>
+                  <pc xml:id="xTok_000380">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000381">nalgūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000382">bǟrid</w>
+                  <pc xml:id="xTok_000383">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000384" rend="withDash">w</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000386" rend="withDash">iṣ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000388">ṣbāḥ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000389">nalgūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000390" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000392">mǟ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000393">bǟrid</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000394">kayyinna</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="nefza6_f_70_e3_xTok_000395">ʕibāṛa</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000396" rend="withDash">f</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000398" rend="withDash">il</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000400">frīžīdǟr</w>
+                  <pc join="right" xml:id="xTok_000401">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a19.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -797,21 +789,20 @@
                   who="corpus:Nefza6"
                   end="#T40"
                   start="#T39">
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000404">bǟrid</w>
-                  </w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000405">nḥuṭṭu</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000406">mḥaṛma</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000407">biš</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000408">nṣaffu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000409" rend="withDash">l</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000411" join="right">mē</w>
-                  <pc xml:id="xTok_000412">,</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000413">nžību</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000414" rend="withDash">m</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000416" rend="withDash">il</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000418">ʕēn</w>
-                  <pc join="right" xml:id="xTok_000419">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000402">bǟrid</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="nefza6_f_70_e3_xTok_000403">nḥuṭṭu</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000404">mḥaṛma</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000405">biš</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000406">nṣaffu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000407" rend="withDash">l</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000409" join="right">mē</w>
+                  <pc xml:id="xTok_000410">,</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000411">nžību</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000412" rend="withDash">m</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000414" rend="withDash">il</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000416">ʕēn</w>
+                  <pc join="right" xml:id="xTok_000417">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a20.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -824,19 +815,18 @@
                   who="corpus:Nefza6"
                   end="#T42"
                   start="#T41">
-                  <w xml:id="nefza6_f_70_e3_xTok_000420">nḥuṭṭu</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000421">mḥaṛma</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000422">ʕlā</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000423">il</w>
-                  </w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000424">zīr</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000425">hakka</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000426" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000428">nṣaffu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000429" rend="withDash">l</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000431">mē</w>
-                  <pc join="right" xml:id="xTok_000432">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000418">nḥuṭṭu</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000419">mḥaṛma</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000420">ʕlā</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000421">il</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="nefza6_f_70_e3_xTok_000422">zīr</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000423">hakka</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000424" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000426">nṣaffu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000427" rend="withDash">l</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000429">mē</w>
+                  <pc join="right" xml:id="xTok_000430">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a21.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -849,24 +839,24 @@
                   who="corpus:Nefza6"
                   end="#T44"
                   start="#T43">
-                  <w xml:id="nefza6_f_70_e3_xTok_000433">bǟš</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000434">nṣaffu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000435" rend="withDash">mā</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000437" rend="withDash">yitʕaddǟ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000439">š</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000440">ǟk</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000441" rend="withDash">it</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000443">tfiš</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000444" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000446">ǟk</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000447" rend="withDash">il</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000449" join="right">wṣax</w>
-                  <pc xml:id="xTok_000450">.</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000451">ṣāfi</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000452">kī</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000453">hakkāka</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000454">nḥuṭṭūh</w>
-                  <pc join="right" xml:id="xTok_000455">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000431">bǟš</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000432">nṣaffu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000433" rend="withDash">mā</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000435" rend="withDash">yitʕaddǟ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000437">š</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000438">ǟk</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000439" rend="withDash">it</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000441">tfiš</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000442" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000444">ǟk</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000445" rend="withDash">il</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000447" join="right">wṣax</w>
+                  <pc xml:id="xTok_000448">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000449">ṣāfi</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000450">kī</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000451">hakkāka</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000452">nḥuṭṭūh</w>
+                  <pc join="right" xml:id="xTok_000453">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a22.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -879,14 +869,14 @@
                   who="corpus:Nefza6"
                   end="#T46"
                   start="#T45">
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000456" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000458">nbayytūh</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000459">nġaṭṭūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000460" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000462">nbayytūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000463" rend="withDash">l</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000465">baṛṛa</w>
-                  <pc join="right" xml:id="xTok_000466">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000454" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000456">nbayytūh</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000457">nġaṭṭūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000458" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000460">nbayytūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000461" rend="withDash">l</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000463">baṛṛa</w>
+                  <pc join="right" xml:id="xTok_000464">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a23.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -899,18 +889,18 @@
                   who="corpus:Nefza6"
                   end="#T48"
                   start="#T47">
-                  <w xml:id="nefza6_f_70_e3_xTok_000467">hānu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000468" rend="withDash">f</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000470" rend="withDash">iṣ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000472">ṣahrīya</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000473">nušᵘṛbu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000474" rend="withDash">w</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000476">bqīya</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000477">nʕabbūh</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000478">ⁱnbayytūh</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000479" rend="withDash">l</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000481">baṛṛa</w>
-                  <pc join="right" xml:id="xTok_000482">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000465">hānu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000466" rend="withDash">f</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000468" rend="withDash">iṣ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000470">ṣahrīya</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000471">nušᵘṛbu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000472" rend="withDash">w</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000474">bqīya</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000475">nʕabbūh</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000476">ⁱnbayytūh</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000477" rend="withDash">l</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000479">baṛṛa</w>
+                  <pc join="right" xml:id="xTok_000480">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a24.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"
@@ -923,24 +913,23 @@
                   who="corpus:Nefza6"
                   end="#T49"
                   start="#T48">
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000483" rend="withDash">w</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000485" rend="withDash">iṣ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000487">ṣbāḥ</w>
-                  <w type="truncated">
-                     <w xml:id="nefza6_f_70_e3_xTok_000488">hāna</w>
-                  </w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000489" rend="withDash">w</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000491" rend="withDash">iṣ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000493">ṣbāḥ</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000494">ndaxxlu</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000495">ṛṛawwḥu</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000496">bīh</w>
-                  <pc xml:id="xTok_000497">.</pc>
-                  <w xml:id="nefza6_f_70_e3_xTok_000498">yibqa</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000499">bǟrid</w>
-                  <w xml:id="nefza6_f_70_e3_xTok_000500">nhāṛ</w>
-                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000501">kǟmil</w>
-                  <pc join="right" xml:id="xTok_000502">.</pc>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000481" rend="withDash">w</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000483" rend="withDash">iṣ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000485">ṣbāḥ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000486">hāna</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000487" rend="withDash">w</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000489" rend="withDash">iṣ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000491">ṣbāḥ</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000492">ndaxxlu</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000493">ṛṛawwḥu</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000494">bīh</w>
+                  <pc xml:id="xTok_000495">.</pc>
+                  <w xml:id="nefza6_f_70_e3_xTok_000496">yibqa</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000497">bǟrid</w>
+                  <w xml:id="nefza6_f_70_e3_xTok_000498">nhāṛ</w>
+                  <w join="right" xml:id="nefza6_f_70_e3_xTok_000499">kǟmil</w>
+                  <pc join="right" xml:id="xTok_000500">.</pc>
                   <media url="arche:Beja/Nefza/UMS/nefza6_f_70_e3/nefza6_f_70_e3_a25.wav"
                          decls="#nefza6_f_70_e3-restricted"
                          mimeType="audio/wav"

@@ -83,14 +83,199 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic001">
+            <name type="filename">DAHMANI_title.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic002">
+            <name type="filename">DAHMANI_barcha-bisklet_Ali-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic003">
+            <name type="filename">DAHMANI_barcha-bisklet-1-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic004">
+            <name type="filename">DAHMANI_barcha-bisklet-5-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic005">
+            <name type="filename">DAHMANI_barcha-bisklet-7-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic006">
+            <name type="filename">DAHMANI_barcha-bisklet-8-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic007">
+            <name type="filename">DAHMANI_barcha-bisklet-9-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic008">
+            <name type="filename">DAHMANI_barcha-bisklet-10-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic009">
+            <name type="filename">DAHMANI_barcha-bisklet-11-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic010">
+            <name type="filename">DAHMANI_barcha-bisklet-12-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic011">
+            <name type="filename">DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic012">
+            <name type="filename">IMG_20190917_103739099.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic013">
+            <name type="filename">IMG_20190917_111937415_HDR.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic014">
+            <name type="filename">IMG_20190917_103054463.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic015">
+            <name type="filename">IMG_20190917_120339241.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic016">
+            <name type="filename">IMG_20190917_112116187.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic017">
+            <name type="filename">IMG_20190917_111110031.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Dahmani_01_graphic018">
+            <name type="filename">IMG_20190917_102745560.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="DAHMANI_title.jpg"/>
+                  <graphic url="DAHMANI_title.jpg" decls="#profile_Dahmani_01_graphic001"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -117,94 +302,94 @@
                <p xml:space="preserve">Dahmani is located in the south western part of the governorate El Kef. While people can reach Dahmani and its surrounding area by shared mini buses, within the small town itself, the number of motorized vehicles seems relatively limited. Instead, locals use an athletic alternative riding on their bicycles, thus making up for the limitations of the local infrastructure.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet_Ali-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet_Ali-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-1-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-1-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-1-scaled.jpg" decls="#profile_Dahmani_01_graphic003"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-1-scaled.jpg" decls="#profile_Dahmani_01_graphic003"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-5-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-5-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-5-scaled.jpg" decls="#profile_Dahmani_01_graphic004"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-5-scaled.jpg" decls="#profile_Dahmani_01_graphic004"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-7-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-7-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-7-scaled.jpg" decls="#profile_Dahmani_01_graphic005"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-7-scaled.jpg" decls="#profile_Dahmani_01_graphic005"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-8-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-8-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-8-scaled.jpg" decls="#profile_Dahmani_01_graphic006"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-8-scaled.jpg" decls="#profile_Dahmani_01_graphic006"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-9-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-9-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-9-scaled.jpg" decls="#profile_Dahmani_01_graphic007"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-9-scaled.jpg" decls="#profile_Dahmani_01_graphic007"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-10-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-10-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-10-scaled.jpg" decls="#profile_Dahmani_01_graphic008"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-10-scaled.jpg" decls="#profile_Dahmani_01_graphic008"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-11-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-11-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-11-scaled.jpg" decls="#profile_Dahmani_01_graphic009"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-11-scaled.jpg" decls="#profile_Dahmani_01_graphic009"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-12-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-12-scaled.jpg"/>
+                     <link target="DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                </p>
                <p xml:space="preserve">The mountains surrounding the town provide natural water sources and provide room for the region’s flora and fauna. Additionally, they accommodate ancient ruins which provide insights into regional history.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg"/>
-                     <graphic url="thumb/DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg"/>
+                     <link target="DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011"/>
+                     <graphic url="thumb/DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011"/>
                      <head>Natural water ressource</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_103739099.jpg"/>
-                     <graphic url="thumb/IMG_20190917_103739099.jpg"/>
+                     <link target="IMG_20190917_103739099.jpg" decls="#profile_Dahmani_01_graphic012"/>
+                     <graphic url="thumb/IMG_20190917_103739099.jpg" decls="#profile_Dahmani_01_graphic012"/>
                      <head>Flowers growing on the hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_111937415_HDR.jpg"/>
-                     <graphic url="thumb/IMG_20190917_111937415_HDR.jpg"/>
+                     <link target="IMG_20190917_111937415_HDR.jpg" decls="#profile_Dahmani_01_graphic013"/>
+                     <graphic url="thumb/IMG_20190917_111937415_HDR.jpg" decls="#profile_Dahmani_01_graphic013"/>
                      <head>Lizard hidden in a stone opening</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_103054463.jpg"/>
-                     <graphic url="thumb/IMG_20190917_103054463.jpg"/>
+                     <link target="IMG_20190917_103054463.jpg" decls="#profile_Dahmani_01_graphic014"/>
+                     <graphic url="thumb/IMG_20190917_103054463.jpg" decls="#profile_Dahmani_01_graphic014"/>
                      <head>Snail at the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_120339241.jpg"/>
-                     <graphic url="thumb/IMG_20190917_120339241.jpg"/>
+                     <link target="IMG_20190917_120339241.jpg" decls="#profile_Dahmani_01_graphic015"/>
+                     <graphic url="thumb/IMG_20190917_120339241.jpg" decls="#profile_Dahmani_01_graphic015"/>
                      <head>Mushrooms on the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_112116187.jpg"/>
-                     <graphic url="thumb/IMG_20190917_112116187.jpg"/>
+                     <link target="IMG_20190917_112116187.jpg" decls="#profile_Dahmani_01_graphic016"/>
+                     <graphic url="thumb/IMG_20190917_112116187.jpg" decls="#profile_Dahmani_01_graphic016"/>
                      <head>On top of the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_111110031.jpg"/>
-                     <graphic url="thumb/IMG_20190917_111110031.jpg"/>
+                     <link target="IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017"/>
+                     <graphic url="thumb/IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017"/>
                      <head>Ebba's ruins</head>
                   </figure>
                </p>
                <p> Enclosed between this mountain area called Ebba, which means “market” in the Phoenician language, and the Roman Ksour Hilla (Qṣūr Hilla), “castles of Hilla”, Dahmani used to be called Ebba Ksour in previous times. This name remained until 1973 when the town was renamed after the medieval local saint Sidi Dahmani (Sīdi id-Dahmǟni).</p>
                <p>
                   <figure rendition="#full-width">
-                     <link target="IMG_20190917_102745560.jpg"/>
-                     <graphic url="IMG_20190917_102745560.jpg"/>
+                     <link target="IMG_20190917_102745560.jpg" decls="#profile_Dahmani_01_graphic018"/>
+                     <graphic url="IMG_20190917_102745560.jpg" decls="#profile_Dahmani_01_graphic018"/>
                      <head>On top of the Ebba hill</head>
                   </figure>
                </p>

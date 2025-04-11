@@ -83,14 +83,70 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Sidi_Shil_01_graphic001">
+            <name type="filename">SidiShil1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sidi_Shil_01_graphic002">
+            <name type="filename">Impressions_of_Sidi_Shil_(4).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sidi_Shil_01_graphic003">
+            <name type="filename">Old_wall.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sidi_Shil_01_graphic004">
+            <name type="filename">Impressions_of_Sidi_Shil_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sidi_Shil_01_graphic005">
+            <name type="filename">Harmil.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="SidiShil1.jpg"/>
+                  <graphic url="SidiShil1.jpg" decls="#profile_Sidi_Shil_01_graphic001"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>
@@ -118,22 +174,26 @@
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Sidi Shil, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>
             <div type="gallery">
-               <link target="Impressions_of_Sidi_Shil_(4).jpg">
-                  <graphic url="Impressions_of_Sidi_Shil_(4).jpg"/>
-                  <head>Town flair</head>
-               </link>
-               <link target="Old_wall.jpg">
-                  <graphic url="Old_wall.jpg"/>
-                  <head>Old wall</head>
-               </link>
-               <link target="Impressions_of_Sidi_Shil_(3).jpg">
-                  <graphic url="Impressions_of_Sidi_Shil_(3).jpg"/>
-                  <head>On the way through Sidi Shil</head>
-               </link>
-               <link target="Harmil.jpg">
-                  <graphic url="Harmil.jpg"/>
-                  <head>Plant called harmil</head>
-               </link>
+               <figure>
+                  <link target="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002"/>
+                  <graphic url="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002"/>
+                  <head type="imgCaption">Town flair</head>
+               </figure>
+               <figure>
+                  <link target="Old_wall.jpg" decls="#profile_Sidi_Shil_01_graphic003"/>
+                  <graphic url="Old_wall.jpg" decls="#profile_Sidi_Shil_01_graphic003"/>
+                  <head type="imgCaption">Old wall</head>
+               </figure>
+               <figure>
+                  <link target="Impressions_of_Sidi_Shil_(3).jpg" decls="#profile_Sidi_Shil_01_graphic004"/>
+                  <graphic url="Impressions_of_Sidi_Shil_(3).jpg" decls="#profile_Sidi_Shil_01_graphic004"/>
+                  <head type="imgCaption">On the way through Sidi Shil</head>
+               </figure>
+               <figure>
+                  <link target="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005"/>
+                  <graphic url="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005"/>
+                  <head type="imgCaption">Plant called harmil</head>
+               </figure>
             </div>
             <div type="bibliography">
                <head>Bibliography</head>

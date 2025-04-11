@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:15.591095+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:56.918574+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:zaga2_m_40_e4">
    <teiHeader>
       <fileDesc>
@@ -212,22 +212,19 @@
                   end="#T2"
                   start="#T1">
                   <w xml:id="zaga2_m_40_e4_xTok_000001">qbal</w>
-                  <w type="truncated">
-                     <w xml:id="zaga2_m_40_e4_xTok_000002">ydǟwu</w>
-                  </w>
+                  <w join="right" xml:id="zaga2_m_40_e4_xTok_000002">ydǟwu</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="zaga2_m_40_e4_xTok_000003">ṯamma</w>
                   <w xml:id="zaga2_m_40_e4_xTok_000004">maṯalán</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="zaga2_m_40_e4_xTok_000005">nǟs</w>
-                  </w>
+                  <w join="right" xml:id="zaga2_m_40_e4_xTok_000005">nǟs</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <w xml:id="zaga2_m_40_e4_xTok_000006">talga</w>
                   <w xml:id="zaga2_m_40_e4_xTok_000007">ṛāžil</w>
                   <w xml:id="zaga2_m_40_e4_xTok_000008">kbīr</w>
                   <w xml:id="zaga2_m_40_e4_xTok_000009">ʕindah</w>
                   <w xml:id="zaga2_m_40_e4_xTok_000010">fikra</w>
-                  <w type="truncated">
-                     <w xml:id="zaga2_m_40_e4_xTok_000011">ʕlā</w>
-                  </w>
+                  <w join="right" xml:id="zaga2_m_40_e4_xTok_000011">ʕlā</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="zaga2_m_40_e4_xTok_000012">ydǟwu</w>
                   <w join="right" xml:id="zaga2_m_40_e4_xTok_000013" rend="withDash">b</w>
                   <w join="right" xml:id="zaga2_m_40_e4_xTok_000015" rend="withDash">il</w>

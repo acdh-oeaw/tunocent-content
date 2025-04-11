@@ -83,14 +83,50 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_medjez_01_graphic001">
+            <name type="filename">Medjez1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_medjez_01_graphic002">
+            <name type="filename">Medjez-Mosque.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_medjez_01_graphic003">
+            <name type="filename">Medjez-Ruins.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Medjez1.jpg"/>
+                  <graphic url="Medjez1.jpg" decls="#profile_medjez_01_graphic001"/>
                   <head type="imgCaption">Aleksandra Naddari</head>
                </figure>
                <label>Name (English)</label>
@@ -117,14 +153,16 @@
                <p xml:space="preserve">Medjez el Bab is a town in the North West Tunisian governorate of Béja, situated some 60 km away from the capital Tunis. It is located in the plain of the river Medjerda and was inhabited during the Roman era already, bearing the name Membressa. </p>
             </div>
             <div type="gallery">
-               <link target="Medjez-Mosque.jpg">
-                  <graphic url="Medjez-Mosque.jpg"/>
-                  <head>Mosque of Medjez</head>
-               </link>
-               <link target="Medjez-Ruins.jpg">
-                  <graphic url="Medjez-Ruins.jpg"/>
-                  <head>Ruins - the traces of the past</head>
-               </link>
+               <figure>
+                  <link target="Medjez-Mosque.jpg" decls="#profile_medjez_01_graphic002"/>
+                  <graphic url="Medjez-Mosque.jpg" decls="#profile_medjez_01_graphic002"/>
+                  <head type="imgCaption">Mosque of Medjez</head>
+               </figure>
+               <figure>
+                  <link target="Medjez-Ruins.jpg" decls="#profile_medjez_01_graphic003"/>
+                  <graphic url="Medjez-Ruins.jpg" decls="#profile_medjez_01_graphic003"/>
+                  <head type="imgCaption">Ruins - the traces of the past</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Medjez el Bab, however this dialect is linguistically investigated within the TUNOCENT project.</p>

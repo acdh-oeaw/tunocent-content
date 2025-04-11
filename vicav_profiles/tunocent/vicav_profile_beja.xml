@@ -83,14 +83,69 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_beja_01_graphic001">
+            <name type="filename">Beja1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_beja_01_graphic002">
+            <name type="filename">Béja_5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_beja_01_graphic003">
+            <name type="filename">Béja_6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_beja_01_graphic004">
+            <name type="filename">béja_.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_beja_01_graphic005">
+            <name type="filename">Béja_7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:AN">Naddari Aleksandra</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Beja1.jpg"/>
+                  <graphic url="Beja1.jpg" decls="#profile_beja_01_graphic001"/>
                   <head type="imgCaption">Aleksandra Naddari</head>
                </figure>
                <label>Name (English)</label>
@@ -118,25 +173,25 @@
                <p xml:space="preserve">The landmark of Béja is the white stork (called <hi xml:lang="aeb" rendition="#i">billǟriž</hi> in the local dialect). Furthermore, the region of Béja is famous for its fertile soil and thus agriculture as well as dairy products, e.g. the <hi xml:lang="aeb" rendition="#i">gūta</hi> (Ricotta) cheese.</p>
                <p>
                   <figure>
-                     <link target="Béja_5.jpg"/>
-                     <graphic url="thumb/Béja_5.jpg"/>
+                     <link target="Béja_5.jpg" decls="#profile_beja_01_graphic002"/>
+                     <graphic url="thumb/Béja_5.jpg" decls="#profile_beja_01_graphic002"/>
                      <head>Walking through Beja</head>
                   </figure>
                   <figure>
-                     <link target="Béja_6.jpg"/>
-                     <graphic url="thumb/Béja_6.jpg"/>
+                     <link target="Béja_6.jpg" decls="#profile_beja_01_graphic003"/>
+                     <graphic url="thumb/Béja_6.jpg" decls="#profile_beja_01_graphic003"/>
                      <head>Traditional house with blue painted windows and doors</head>
                   </figure>
                   <figure>
-                     <link target="béja_.jpg"/>
-                     <graphic url="thumb/béja_.jpg"/>
+                     <link target="béja_.jpg" decls="#profile_beja_01_graphic004"/>
+                     <graphic url="thumb/béja_.jpg" decls="#profile_beja_01_graphic004"/>
                      <head>Beautiful ornate old door</head>
                   </figure>
                </p>
                <p>
                   <figure rendition="#full-width">
-                     <link target="Béja_7.jpg"/>
-                     <graphic url="thumb/Béja_7.jpg"/>
+                     <link target="Béja_7.jpg" decls="#profile_beja_01_graphic005"/>
+                     <graphic url="thumb/Béja_7.jpg" decls="#profile_beja_01_graphic005"/>
                      <head>Streets of Beja</head>
                   </figure>
                </p>

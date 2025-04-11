@@ -83,14 +83,170 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic001">
+            <name type="filename">I-love-Sbiba.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:KHG">Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic002">
+            <name type="filename">The-Smile-of-Sbiba.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic003">
+            <name type="filename">Sbiba-arts-2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic004">
+            <name type="filename">Sbiba-arts-3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic005">
+            <name type="filename">Sbiba-arts-4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic006">
+            <name type="filename">Sbiba-arts-5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic007">
+            <name type="filename">Sbiba-arts-6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic008">
+            <name type="filename">Sbiba-arts.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic009">
+            <name type="filename">Sbiba's_roundabout_with_an_apple.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic010">
+            <name type="filename">Park_4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic011">
+            <name type="filename">Park_3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic012">
+            <name type="filename">Sbiba.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic013">
+            <name type="filename">I_love_Sbiba.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic014">
+            <name type="filename">Park.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sbiba_01_graphic015">
+            <name type="filename">Pool.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="I-love-Sbiba.jpg"/>
+                  <graphic url="I-love-Sbiba.jpg" decls="#profile_Sbiba_01_graphic001"/>
                   <head type="imgCaption">Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>
@@ -115,72 +271,79 @@
                <p xml:space="preserve">Sbiba is an old town in the northeast of the Tunisian governorate of Kasserine. Ruins in its Fath-district (Ḥayy l-Fatḥ) bear witness to the Roman founders of the town. Moreover, street art calls to remind people of the town’s history, but also shows contemporary motifs.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="The-Smile-of-Sbiba.jpg"/>
-                     <graphic url="thumb/The-Smile-of-Sbiba.jpg"/>
+                     <link target="The-Smile-of-Sbiba.jpg" decls="#profile_Sbiba_01_graphic002"/>
+                     <graphic url="thumb/The-Smile-of-Sbiba.jpg" decls="#profile_Sbiba_01_graphic002"/>
                      <head type="imgCaption">The smile of Sbiba</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-2.jpg"/>
-                     <graphic url="thumb/Sbiba-arts-2.jpg"/>
+                     <link target="Sbiba-arts-2.jpg" decls="#profile_Sbiba_01_graphic003"/>
+                     <graphic url="thumb/Sbiba-arts-2.jpg" decls="#profile_Sbiba_01_graphic003"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-3.jpg"/>
-                     <graphic url="thumb/Sbiba-arts-3.jpg"/>
+                     <link target="Sbiba-arts-3.jpg" decls="#profile_Sbiba_01_graphic004"/>
+                     <graphic url="thumb/Sbiba-arts-3.jpg" decls="#profile_Sbiba_01_graphic004"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-4.jpg"/>
-                     <graphic url="thumb/Sbiba-arts-4.jpg"/>
+                     <link target="Sbiba-arts-4.jpg" decls="#profile_Sbiba_01_graphic005"/>
+                     <graphic url="thumb/Sbiba-arts-4.jpg" decls="#profile_Sbiba_01_graphic005"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-5.jpg"/>
-                     <graphic url="thumb/Sbiba-arts-5.jpg"/>
+                     <link target="Sbiba-arts-5.jpg" decls="#profile_Sbiba_01_graphic006"/>
+                     <graphic url="thumb/Sbiba-arts-5.jpg" decls="#profile_Sbiba_01_graphic006"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-6.jpg"/>
-                     <graphic url="thumb/Sbiba-arts-6.jpg"/>
+                     <link target="Sbiba-arts-6.jpg" decls="#profile_Sbiba_01_graphic007"/>
+                     <graphic url="thumb/Sbiba-arts-6.jpg" decls="#profile_Sbiba_01_graphic007"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts.jpg"/>
-                     <graphic url="thumb/Sbiba-arts.jpg"/>
+                     <link target="Sbiba-arts.jpg" decls="#profile_Sbiba_01_graphic008"/>
+                     <graphic url="thumb/Sbiba-arts.jpg" decls="#profile_Sbiba_01_graphic008"/>
                      <head type="imgCaption">Modern arts</head>
                   </figure>
                </p>
                <p xml:space="preserve">Situated on the river valley Oued el Hateb (Wǟd il-Ḥaṭib), the fertile soil and peasant population characterize the region. Sbiba is famous for its apple plantations, but its inhabitants are by far not only specialised in the cultivation of apples. Interestingly, in Sbiba the farming activities are linked to the tribal background of the people. The tribal group of the Sbitat (is-Sbīṭāt), for instance, are specialized in the cultivation of apples, peaches, and apricots, as well as paprika and tomatoes. In contrast, the Smeta (is-Smǟta), another tribal group of Sbiba, cultivate only cereals like barley and wheat, while the tribal group of the Ouled Kholfa (Ūlǟd Xulfa) breed sheep.</p>
             </div>
             <div type="gallery">
-               <link target="Sbiba's_roundabout_with_an_apple.jpg">
-                  <graphic url="thumb/Sbiba's_roundabout_with_an_apple.jpg"/>
-                  <head>Sbiba's roundabout with an apple</head>
-               </link>
-               <link target="Park_4.jpg">
-                  <graphic url="thumb/Park_4.jpg"/>
-                  <head>Places to relax</head>
-               </link>
-               <link target="Park_3.jpg">
-                  <graphic url="thumb/Park_3.jpg"/>
-                  <head>Places to relax</head>
-               </link>
-               <link target="Sbiba.jpg">
-                  <graphic url="thumb/Sbiba.jpg"/>
-                  <head>The centre of Sbiba</head>
-               </link>
-               <link target="I_love_Sbiba.jpg">
-                  <graphic url="thumb/I_love_Sbiba.jpg"/>
-                  <head>I love Sbiba - park</head>
-               </link>
-               <link target="Park.jpg">
-                  <graphic url="thumb/Park.jpg"/>
-                  <head>Places to relax</head>
-               </link>
-               <link target="Pool.jpg">
-                  <graphic url="thumb/Pool.jpg"/>
-                  <head>Pool</head>
-               </link>
+               <figure>
+                  <link target="Sbiba's_roundabout_with_an_apple.jpg" decls="#profile_Sbiba_01_graphic009"/>
+                  <graphic url="thumb/Sbiba's_roundabout_with_an_apple.jpg" decls="#profile_Sbiba_01_graphic009"/>
+                  <head type="imgCaption">Sbiba's roundabout with an apple</head>
+               </figure>
+               <figure>
+                  <link target="Park_4.jpg" decls="#profile_Sbiba_01_graphic010"/>
+                  <graphic url="thumb/Park_4.jpg" decls="#profile_Sbiba_01_graphic010"/>
+                  <head type="imgCaption">Places to relax</head>
+               </figure>
+               <figure>
+                  <link target="Park_3.jpg" decls="#profile_Sbiba_01_graphic011"/>
+                  <graphic url="thumb/Park_3.jpg" decls="#profile_Sbiba_01_graphic011"/>
+                  <head type="imgCaption">Places to relax</head>
+               </figure>
+               <figure>
+                  <link target="Sbiba.jpg" decls="#profile_Sbiba_01_graphic012"/>
+                  <graphic url="thumb/Sbiba.jpg" decls="#profile_Sbiba_01_graphic012"/>
+                  <head type="imgCaption">The centre of Sbiba</head>
+               </figure>
+               <figure>
+                  <link target="I_love_Sbiba.jpg" decls="#profile_Sbiba_01_graphic013"/>
+                  <graphic url="thumb/I_love_Sbiba.jpg" decls="#profile_Sbiba_01_graphic013"/>
+                  <head type="imgCaption">I love Sbiba - park</head>
+               </figure>
+               <figure>
+                  <link target="Park.jpg" decls="#profile_Sbiba_01_graphic014"/>
+                  <graphic url="thumb/Park.jpg" decls="#profile_Sbiba_01_graphic014"/>
+                  <head type="imgCaption">Places to relax</head>
+               </figure>
+               <figure>
+                  <link target="Pool.jpg" decls="#profile_Sbiba_01_graphic015"/>
+                  <graphic url="thumb/Pool.jpg" decls="#profile_Sbiba_01_graphic015"/>
+                  <head type="imgCaption">Pool</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Sbiba, however this dialect is linguistically investigated within the TUNOCENT project.</p>

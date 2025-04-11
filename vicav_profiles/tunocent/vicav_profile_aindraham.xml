@@ -83,14 +83,69 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_aindraham_01_graphic001">
+            <name type="filename">AinDraham_title.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_aindraham_01_graphic002">
+            <name type="filename">AinDraham-Kroumir.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_aindraham_01_graphic003">
+            <name type="filename">AinDraham-Ilona-local.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_aindraham_01_graphic004">
+            <name type="filename">AinDraham-building.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_aindraham_01_graphic005">
+            <name type="filename">AinDraham-trees.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="AinDraham_title.jpg"/>
+                  <graphic url="AinDraham_title.jpg" decls="#profile_aindraham_01_graphic001"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -115,27 +170,27 @@
             </div>
             <div type="general">
                <figure rendition="#right">
-                  <link target="AinDraham-Kroumir.jpg"/>
-                  <graphic url="AinDraham-Kroumir.jpg"/>
+                  <link target="AinDraham-Kroumir.jpg" decls="#profile_aindraham_01_graphic002"/>
+                  <graphic url="AinDraham-Kroumir.jpg" decls="#profile_aindraham_01_graphic002"/>
                   <head>Region of the Kroumir mountains</head>
                </figure>
                <p xml:space="preserve">ʕĪn Drāham is a town in the Jendouba Governorate of North Western Tunisia, located 25 km south of Tabarka and only about 10 km to the Algerian border. At an altitude of 700 m it is situated in the undulating region of the Kroumir mountains. </p>
                <figure rendition="#left">
-                  <link target="AinDraham-Ilona-local.jpg"/>
-                  <graphic url="AinDraham-Ilona-local.jpg"/>
+                  <link target="AinDraham-Ilona-local.jpg" decls="#profile_aindraham_01_graphic003"/>
+                  <graphic url="AinDraham-Ilona-local.jpg" decls="#profile_aindraham_01_graphic003"/>
                   <head>Researcher Ilona with a local</head>
                </figure>
                <p xml:space="preserve">It is home to about 11,000 inhabitants. ʕĪn Drāham is famous for its sulphurous hot springs that were already used by the Romans. </p>
                <figure rendition="#right">
-                  <link target="AinDraham-building.jpg"/>
-                  <graphic url="AinDraham-building.jpg"/>
+                  <link target="AinDraham-building.jpg" decls="#profile_aindraham_01_graphic004"/>
+                  <graphic url="AinDraham-building.jpg" decls="#profile_aindraham_01_graphic004"/>
                   <head>Red-tile roofs — a colonial heritage</head>
                </figure>
                <p xml:space="preserve">
                Originally a French military base, it started to become an inner-Tunisian tourist destination in the 1930s, being known for its unique cold and humid climate and its colonial heritage (especially the red-tile roofs). </p>
                <figure rendition="#left">
-                  <link target="AinDraham-trees.jpg"/>
-                  <graphic url="AinDraham-trees.jpg"/>
+                  <link target="AinDraham-trees.jpg" decls="#profile_aindraham_01_graphic005"/>
+                  <graphic url="AinDraham-trees.jpg" decls="#profile_aindraham_01_graphic005"/>
                   <head>Seat under the trees giving a view of the mountains</head>
                </figure>
                <p xml:space="preserve">

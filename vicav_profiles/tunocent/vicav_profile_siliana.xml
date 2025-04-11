@@ -83,14 +83,90 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_siliana_01_graphic001">
+            <name type="filename">Siliana1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic002">
+            <name type="filename">IMG_4445-rotated.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic003">
+            <name type="filename">IMG_4446-2-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic004">
+            <name type="filename">Silyena-3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic005">
+            <name type="filename">Silyena-4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic006">
+            <name type="filename">Silyena-6-1_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_siliana_01_graphic007">
+            <name type="filename">Silyena-7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Siliana1.jpg"/>
+                  <graphic url="Siliana1.jpg" decls="#profile_siliana_01_graphic001"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -117,13 +193,13 @@
                <p xml:space="preserve">Silyǟna is a modern town with about 30,000 inhabitants and the capital of the Governorate Silyǟna. It was founded in 1905 and is located about 130 km to the southwest of the capital Tunis. </p>
                <p>
                   <figure>
-                     <link target="IMG_4445-rotated.jpg"/>
-                     <graphic url="IMG_4445-rotated.jpg"/>
+                     <link target="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002"/>
+                     <graphic url="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002"/>
                      <head type="imgCaption">Researcher Ilona with a local</head>
                   </figure>
                   <figure>
-                     <link target="IMG_4446-2-scaled.jpg"/>
-                     <graphic url="IMG_4446-2-scaled.jpg"/>
+                     <link target="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003"/>
+                     <graphic url="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003"/>
                      <head type="imgCaption">Siliana market</head>
                   </figure>
                </p>
@@ -131,19 +207,23 @@
             </div>
             <div type="gallery">
                <head>Impressions of Siliana</head>
-               <link target="Silyena-3.jpg">
-                  <graphic url="Silyena-3.jpg"/>
-                  <head>Figure One: The View from the Bridge</head>
-               </link>
-               <link target="Silyena-4.jpg">
-                  <graphic url="Silyena-4.jpg"/>
-               </link>
-               <link target="Silyena-6-1_(1).jpg">
-                  <graphic url="Silyena-6-1_(1).jpg"/>
-               </link>
-               <link target="Silyena-7.jpg">
-                  <graphic url="Silyena-7.jpg"/>
-               </link>
+               <figure>
+                  <link target="Silyena-3.jpg" decls="#profile_siliana_01_graphic004"/>
+                  <graphic url="Silyena-3.jpg" decls="#profile_siliana_01_graphic004"/>
+                  <head type="imgCaption">Figure One: The View from the Bridge</head>
+               </figure>
+               <figure>
+                  <link target="Silyena-4.jpg" decls="#profile_siliana_01_graphic005"/>
+                  <graphic url="Silyena-4.jpg" decls="#profile_siliana_01_graphic005"/>
+               </figure>
+               <figure>
+                  <link target="Silyena-6-1_(1).jpg" decls="#profile_siliana_01_graphic006"/>
+                  <graphic url="Silyena-6-1_(1).jpg" decls="#profile_siliana_01_graphic006"/>
+               </figure>
+               <figure>
+                  <link target="Silyena-7.jpg" decls="#profile_siliana_01_graphic007"/>
+                  <graphic url="Silyena-7.jpg" decls="#profile_siliana_01_graphic007"/>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">This dialect was linguistically investigated within the TUNOCENT project which resulted in the following publication: 

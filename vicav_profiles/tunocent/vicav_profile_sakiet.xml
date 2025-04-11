@@ -83,8 +83,173 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic001">
+            <name type="filename">Park_4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic002">
+            <name type="filename">Park.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic003">
+            <name type="filename">Park_3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic004">
+            <name type="filename">Mosque.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic005">
+            <name type="filename">Impressions_of_Saqiat_11.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic006">
+            <name type="filename">Impressions_of_Saqiat_7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic007">
+            <name type="filename">Impressions_of_Saqiat_10.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic008">
+            <name type="filename">Impressions_of_Saqiat_1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic009">
+            <name type="filename">In_the_woods_of_Saqiat.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic010">
+            <name type="filename">Pine_tree.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic011">
+            <name type="filename">Pine_cone.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic012">
+            <name type="filename">View_over_Segya_from_top.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic013">
+            <name type="filename">Roundabout.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic014">
+            <name type="filename">Location_on_the_border.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic015">
+            <name type="filename">Cemetry_of_Segya.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Sakiet_Sidi_Youssef_01_graphic016">
+            <name type="filename">7oumna.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
@@ -113,45 +278,45 @@
                <p xml:space="preserve">Sakiet Sidi Youssef is a small town in the northwestern part of the Tunisian governorate El Kef. Locals sometimes call it just “Segya”.</p>
                <p>
                   <figure>
-                     <link target="Park_4.jpg"/>
-                     <graphic url="thumb/Park_4.jpg"/>
+                     <link target="Park_4.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic001"/>
+                     <graphic url="thumb/Park_4.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic001"/>
                      <head>Park</head>
                   </figure>
                   <figure>
-                     <link target="Park.jpg"/>
-                     <graphic url="thumb/Park.jpg"/>
+                     <link target="Park.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic002"/>
+                     <graphic url="thumb/Park.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic002"/>
                      <head>Fountain</head>
                   </figure>
                   <figure>
-                     <link target="Park_3.jpg"/>
-                     <graphic url="thumb/Park_3.jpg"/>
+                     <link target="Park_3.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic003"/>
+                     <graphic url="thumb/Park_3.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic003"/>
                      <head>Park entrance</head>
                   </figure>
                   <figure>
-                     <link target="Mosque.jpg"/>
-                     <graphic url="thumb/Mosque.jpg"/>
+                     <link target="Mosque.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic004"/>
+                     <graphic url="thumb/Mosque.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic004"/>
                      <head>Mosque</head>
                   </figure>
                </p>
                <p>
                   <figure>
-                     <link target="Impressions_of_Saqiat_11.jpg"/>
-                     <graphic url="thumb/Impressions_of_Saqiat_11.jpg"/>
+                     <link target="Impressions_of_Saqiat_11.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic005"/>
+                     <graphic url="thumb/Impressions_of_Saqiat_11.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic005"/>
                      <head>Gate</head>
                   </figure>
                   <figure>
-                     <link target="Impressions_of_Saqiat_7.jpg"/>
-                     <graphic url="thumb/Impressions_of_Saqiat_7.jpg"/>
+                     <link target="Impressions_of_Saqiat_7.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic006"/>
+                     <graphic url="thumb/Impressions_of_Saqiat_7.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic006"/>
                      <head>Communication road to Algeria</head>
                   </figure>
                   <figure>
-                     <link target="Impressions_of_Saqiat_10.jpg"/>
-                     <graphic url="thumb/Impressions_of_Saqiat_10.jpg"/>
+                     <link target="Impressions_of_Saqiat_10.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic007"/>
+                     <graphic url="thumb/Impressions_of_Saqiat_10.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic007"/>
                      <head>Impressions of Segya 1</head>
                   </figure>
                   <figure>
-                     <link target="Impressions_of_Saqiat_1.jpg"/>
-                     <graphic url="thumb/Impressions_of_Saqiat_1.jpg"/>
+                     <link target="Impressions_of_Saqiat_1.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic008"/>
+                     <graphic url="thumb/Impressions_of_Saqiat_1.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic008"/>
                      <head>Impressions of Segya 2</head>
                   </figure>
                </p>
@@ -160,46 +325,46 @@
                </p>
                <p>
                   <figure>
-                     <link target="In_the_woods_of_Saqiat.jpg"/>
-                     <graphic url="thumb/In_the_woods_of_Saqiat.jpg"/>
+                     <link target="In_the_woods_of_Saqiat.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic009"/>
+                     <graphic url="thumb/In_the_woods_of_Saqiat.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic009"/>
                      <head>In the woods of Segya</head>
                   </figure>
                   <figure>
-                     <link target="Pine_tree.jpg"/>
-                     <graphic url="thumb/Pine_tree.jpg"/>
+                     <link target="Pine_tree.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic010"/>
+                     <graphic url="thumb/Pine_tree.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic010"/>
                      <head>Pine tree</head>
                   </figure>
                   <figure>
-                     <link target="Pine_cone.jpg"/>
-                     <graphic url="thumb/Pine_cone.jpg"/>
+                     <link target="Pine_cone.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic011"/>
+                     <graphic url="thumb/Pine_cone.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic011"/>
                      <head>Pine cone</head>
                   </figure>
                   <figure>
-                     <link target="View_over_Segya_from_top.jpg"/>
-                     <graphic url="thumb/View_over_Segya_from_top.jpg"/>
+                     <link target="View_over_Segya_from_top.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic012"/>
+                     <graphic url="thumb/View_over_Segya_from_top.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic012"/>
                      <head>View over Segya from top</head>
                   </figure>
                </p>
                <p xml:space="preserve"> The place is characterized by a hilly landscape with pine trees and quiet surroundings. However, Sakiet Sidi Youssef witnessed commotions in previous times. Located on the Algerian-Tunisian communication road, only a few kilometers from the border, the town in February 1958 sadly gained international attention. During the Algerian Revolution, the inhabitants of Sakiet Sidi Youssef had been supporting refugees fleeing from the adjoining Algerian village Souk Ahras. Subsequently, the French occupation forces retaliated against this assistance and bombarded the Tunisian town. This reprisal attack led to more than 60 dead and even more injured.</p>
                <p>
                   <figure>
-                     <link target="Roundabout.jpg"/>
-                     <graphic url="thumb/Roundabout.jpg"/>
+                     <link target="Roundabout.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic013"/>
+                     <graphic url="thumb/Roundabout.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic013"/>
                      <head>Roundabout</head>
                   </figure>
                   <figure>
-                     <link target="Location_on_the_border.jpg"/>
-                     <graphic url="thumb/Location_on_the_border.jpg"/>
+                     <link target="Location_on_the_border.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic014"/>
+                     <graphic url="thumb/Location_on_the_border.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic014"/>
                      <head>Location on the border</head>
                   </figure>
                   <figure>
-                     <link target="Cemetry_of_Segya.jpg"/>
-                     <graphic url="thumb/Cemetry_of_Segya.jpg"/>
+                     <link target="Cemetry_of_Segya.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic015"/>
+                     <graphic url="thumb/Cemetry_of_Segya.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic015"/>
                      <head>Cemetery of Segya</head>
                   </figure>
                   <figure>
-                     <link target="7oumna.jpg"/>
-                     <graphic url="thumb/7oumna.jpg"/>
+                     <link target="7oumna.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic016"/>
+                     <graphic url="thumb/7oumna.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic016"/>
                      <head>7oumna - "our neighbourhood"</head>
                   </figure>
                </p>

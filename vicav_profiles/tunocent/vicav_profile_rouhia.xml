@@ -83,14 +83,80 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_rouhia_01_graphic001">
+            <name type="filename">Rouhia1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_rouhia_01_graphic002">
+            <name type="filename">Rouhiya-building.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_rouhia_01_graphic003">
+            <name type="filename">Rouhiya-Ilona-mit-mann-1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_rouhia_01_graphic004">
+            <name type="filename">Rouhiya-Ilona-locals.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_rouhia_01_graphic005">
+            <name type="filename">Rouhiya-family.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_rouhia_01_graphic006">
+            <name type="filename">Rouhiya-donkey.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Rouhia1.jpg"/>
+                  <graphic url="Rouhia1.jpg" decls="#profile_rouhia_01_graphic001"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -116,31 +182,34 @@
             <div type="general">
                <p>
                   <figure rendition="#right">
-                     <link target="Rouhiya-building.jpg"/>
-                     <graphic url="Rouhiya-building.jpg"/>
+                     <link target="Rouhiya-building.jpg" decls="#profile_rouhia_01_graphic002"/>
+                     <graphic url="Rouhiya-building.jpg" decls="#profile_rouhia_01_graphic002"/>
                      <head type="imgCaption">Landscape with a building</head>
                   </figure>
                </p>
                <p xml:space="preserve">Ir-Rūḥīya is a small town (with about 4,000 inhabitants) and district capital (<hi xml:lang="aeb" rendition="#i">mu</hi><hi xml:lang="aeb" rendition="#i">ʕ</hi><hi xml:lang="aeb" rendition="#i">tamadīya</hi>) in the Silyǟna Governorate. According to local sources, its original population was formed by the Arabic tribes Ūlǟd Mǟžir and Ūlǟd ʕAyyāṛ. Due to its location in the transition area of three governorates, it belonged to il-Kǟf first, later became a part of il-Gaṣrīn and as Silyǟna became a governorate of its own, it became a part of Silyǟna. Within the municipality of ir-Rūḥīya the dialect of is-Skārna is famous for its unique lexical expressions. </p>
                <figure rendition="#left">
-                  <link target="Rouhiya-Ilona-mit-mann-1.jpg"/>
-                  <graphic url="Rouhiya-Ilona-mit-mann-1.jpg"/>
+                  <link target="Rouhiya-Ilona-mit-mann-1.jpg" decls="#profile_rouhia_01_graphic003"/>
+                  <graphic url="Rouhiya-Ilona-mit-mann-1.jpg" decls="#profile_rouhia_01_graphic003"/>
                   <head type="imgCaption">Researcher Ilona conducting an interview</head>
                </figure>
                <p xml:space="preserve">Folk etymology has it that the name of the town is derived from <hi xml:lang="aeb" rendition="#i">ir-rū</hi><hi xml:lang="aeb" rendition="#i">ḥ</hi> <hi xml:lang="aeb" rendition="#i">hīya</hi> “It is the spirit”. ir-Rūḥīya used to be a vivid center of spiritual life, famous for its <hi xml:lang="aeb" rendition="#i">zrid</hi>-ceremonies (singular <hi xml:lang="aeb" rendition="#i">zarda</hi> “feast celebrated in honour of a saint”), in the course of which the local population as well as people from other parts of Tunisia visited the saints’ tombs (e.g. Umm id-Dlǟl, Sīdi l-Hǟdi, Ḥmid Bū ʕĪn, Sīdi ʕAlī). After the revolution in 2011 these activities stopped and have shown a slow revival within the last years.</p>
             </div>
             <div type="gallery">
-               <link target="Rouhiya-Ilona-locals.jpg">
-                  <graphic url="Rouhiya-Ilona-locals.jpg"/>
-               </link>
-               <link target="Rouhiya-family.jpg">
-                  <graphic url="Rouhiya-family.jpg"/>
-                  <head>Ilona with her Rouhian family</head>
-               </link>
-               <link target="Rouhiya-donkey.jpg">
-                  <graphic url="Rouhiya-donkey.jpg"/>
-                  <head>The familys donkey</head>
-               </link>
+               <figure>
+                  <link target="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004"/>
+                  <graphic url="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004"/>
+               </figure>
+               <figure>
+                  <link target="Rouhiya-family.jpg" decls="#profile_rouhia_01_graphic005"/>
+                  <graphic url="Rouhiya-family.jpg" decls="#profile_rouhia_01_graphic005"/>
+                  <head type="imgCaption">Ilona with her Rouhian family</head>
+               </figure>
+               <figure>
+                  <link target="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006"/>
+                  <graphic url="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006"/>
+                  <head type="imgCaption">The familys donkey</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of ir-Rūḥīya, however this dialect is linguistically investigated within the TUNOCENT project.</p>

@@ -83,14 +83,439 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic001">
+            <name type="filename">Guettar_title.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic002">
+            <name type="filename">IMG_20190825_091549199-1-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic003">
+            <name type="filename">IMG_20190825_092317412-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic004">
+            <name type="filename">IMG_20190824_103558119-1-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic005">
+            <name type="filename">IMG_20190824_090315598-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic006">
+            <name type="filename">IMG_20190824_111649504-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic007">
+            <name type="filename">IMG_20190824_111816861-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic008">
+            <name type="filename">IMG_20190829_090946792-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic009">
+            <name type="filename">IMG_20190824_101914929-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic010">
+            <name type="filename">IMG_20190824_121522323-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic011">
+            <name type="filename">IMG_20190824_082147426-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic012">
+            <name type="filename">IMG_20190824_102036342-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic013">
+            <name type="filename">IMG_20190824_101906894-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic014">
+            <name type="filename">IMG_20190826_105126837-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic015">
+            <name type="filename">IMG_20190826_104835123-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic016">
+            <name type="filename">IMG_20190824_102058123-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic017">
+            <name type="filename">IMG_20190824_191856077-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic018">
+            <name type="filename">IMG_20190828_100041164-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic019">
+            <name type="filename">IMG_20190828_100331624-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic020">
+            <name type="filename">Guettar-dough.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic021">
+            <name type="filename">Guettar-prepare.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic022">
+            <name type="filename">Guettar-leaves.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic023">
+            <name type="filename">Guettar-couscous.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic024">
+            <name type="filename">Guettar-mtabga.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic025">
+            <name type="filename">Guettar-mtabga2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic026">
+            <name type="filename">Guettar-mtabga3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic027">
+            <name type="filename">Guettar-couscous2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic028">
+            <name type="filename">Guettar-palm.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic029">
+            <name type="filename">IMG_20190824_120404363-1-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic030">
+            <name type="filename">IMG_20190828_190449485-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic031">
+            <name type="filename">IMG_20190824_195910713-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic032">
+            <name type="filename">IMG_20190824_195806482-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic033">
+            <name type="filename">IMG_20190824_120746569-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic034">
+            <name type="filename">Guettar-shrine.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic035">
+            <name type="filename">Guettar-roof.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic036">
+            <name type="filename">Guettar-shrine-desc.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic037">
+            <name type="filename">Guettar-shrine-desc2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic038">
+            <name type="filename">Guettar-shrine-desc3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic039">
+            <name type="filename">Guettar-golden-plaque.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic040">
+            <name type="filename">Guettar-flags.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic041">
+            <name type="filename">Guettar-carpets.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_El_Guettar_01_graphic042">
+            <name type="filename">Guettar-shrine-yard.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Guettar_title.jpg"/>
+                  <graphic url="Guettar_title.jpg" decls="#profile_El_Guettar_01_graphic001"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -116,226 +541,226 @@
             <div type="general">
                <p rendition="#slideshow">
                   <figure>
-                     <link target="IMG_20190825_091549199-1-scaled.jpg"/>
-                     <graphic url="IMG_20190825_091549199-1-scaled.jpg"/>
+                     <link target="IMG_20190825_091549199-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic002"/>
+                     <graphic url="IMG_20190825_091549199-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic002"/>
                      <head>View from the oldest mosque's tower</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190825_092317412-scaled.jpg"/>
-                     <graphic url="IMG_20190825_092317412-scaled.jpg"/>
+                     <link target="IMG_20190825_092317412-scaled.jpg" decls="#profile_El_Guettar_01_graphic003"/>
+                     <graphic url="IMG_20190825_092317412-scaled.jpg" decls="#profile_El_Guettar_01_graphic003"/>
                      <head>Residents showing the oldest local mosque</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_103558119-1-scaled.jpg"/>
-                     <graphic url="IMG_20190824_103558119-1-scaled.jpg"/>
+                     <link target="IMG_20190824_103558119-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic004"/>
+                     <graphic url="IMG_20190824_103558119-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic004"/>
                      <head>On a bike tour through the palmery next to the mountains</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_090315598-scaled.jpg"/>
-                     <graphic url="IMG_20190824_090315598-scaled.jpg"/>
+                     <link target="IMG_20190824_090315598-scaled.jpg" decls="#profile_El_Guettar_01_graphic005"/>
+                     <graphic url="IMG_20190824_090315598-scaled.jpg" decls="#profile_El_Guettar_01_graphic005"/>
                      <head>Researcher Franzi riding on the remains of a tractor</head>
                   </figure>
                </p>
                <p xml:space="preserve">El Guettar, located in the southwest Tunisian governorate of Gafsa, is famous for its former natural water sources (<hi xml:lang="aeb" rendition="#i">ʕyūn</hi>)<hi xml:lang="aeb" rendition="#i">. </hi>Though they have dried out decades ago, El Guettar’s residential quarters are named after the numerous former springs. </p>
                <p>
                   <figure>
-                     <link target="IMG_20190824_111649504-scaled.jpg"/>
-                     <graphic url="IMG_20190824_111649504-scaled.jpg"/>
+                     <link target="IMG_20190824_111649504-scaled.jpg" decls="#profile_El_Guettar_01_graphic006"/>
+                     <graphic url="IMG_20190824_111649504-scaled.jpg" decls="#profile_El_Guettar_01_graphic006"/>
                      <head>Spring holes in the palmery</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_111816861-scaled.jpg"/>
-                     <graphic url="IMG_20190824_111816861-scaled.jpg"/>
+                     <link target="IMG_20190824_111816861-scaled.jpg" decls="#profile_El_Guettar_01_graphic007"/>
+                     <graphic url="IMG_20190824_111816861-scaled.jpg" decls="#profile_El_Guettar_01_graphic007"/>
                      <head>Gathering around a former water source</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190829_090946792-scaled.jpg"/>
-                     <graphic url="IMG_20190829_090946792-scaled.jpg"/>
+                     <link target="IMG_20190829_090946792-scaled.jpg" decls="#profile_El_Guettar_01_graphic008"/>
+                     <graphic url="IMG_20190829_090946792-scaled.jpg" decls="#profile_El_Guettar_01_graphic008"/>
                      <head>Dry riverbed</head>
                   </figure>
                </p>
                <p xml:space="preserve">As the small town lies on the foot of a mountain range, its landscape's dry riverbeds are reminiscent of their water flows of former times. Even today, El Guettar is still a town with many green areas, such as palm forests, orchards and vast olive groves. Thus, olives – and its oil –, pistachios, dates, figs and cactus fruits are El Guettar’s most important agricultural products. </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="IMG_20190824_101914929-scaled.jpg"/>
-                     <graphic url="IMG_20190824_101914929-scaled.jpg"/>
+                     <link target="IMG_20190824_101914929-scaled.jpg" decls="#profile_El_Guettar_01_graphic009"/>
+                     <graphic url="IMG_20190824_101914929-scaled.jpg" decls="#profile_El_Guettar_01_graphic009"/>
                      <head>Impression of the diverse landscape</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_121522323-scaled.jpg"/>
-                     <graphic url="IMG_20190824_121522323-scaled.jpg"/>
+                     <link target="IMG_20190824_121522323-scaled.jpg" decls="#profile_El_Guettar_01_graphic010"/>
+                     <graphic url="IMG_20190824_121522323-scaled.jpg" decls="#profile_El_Guettar_01_graphic010"/>
                      <head>Palm fronds with fruits</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_082147426-scaled.jpg"/>
-                     <graphic url="IMG_20190824_082147426-scaled.jpg"/>
+                     <link target="IMG_20190824_082147426-scaled.jpg" decls="#profile_El_Guettar_01_graphic011"/>
+                     <graphic url="IMG_20190824_082147426-scaled.jpg" decls="#profile_El_Guettar_01_graphic011"/>
                      <head>Dates hanging on a palmtree</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_102036342-scaled.jpg"/>
-                     <graphic url="IMG_20190824_102036342-scaled.jpg"/>
+                     <link target="IMG_20190824_102036342-scaled.jpg" decls="#profile_El_Guettar_01_graphic012"/>
+                     <graphic url="IMG_20190824_102036342-scaled.jpg" decls="#profile_El_Guettar_01_graphic012"/>
                      <head>Fresh cropped pistachios</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_101906894-scaled.jpg"/>
-                     <graphic url="IMG_20190824_101906894-scaled.jpg"/>
+                     <link target="IMG_20190824_101906894-scaled.jpg" decls="#profile_El_Guettar_01_graphic013"/>
+                     <graphic url="IMG_20190824_101906894-scaled.jpg" decls="#profile_El_Guettar_01_graphic013"/>
                      <head>Cactus plant with Indian figs</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190826_105126837-scaled.jpg"/>
-                     <graphic url="IMG_20190826_105126837-scaled.jpg"/>
+                     <link target="IMG_20190826_105126837-scaled.jpg" decls="#profile_El_Guettar_01_graphic014"/>
+                     <graphic url="IMG_20190826_105126837-scaled.jpg" decls="#profile_El_Guettar_01_graphic014"/>
                      <head>Tasty fresh fig</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190826_104835123-scaled.jpg"/>
-                     <graphic url="IMG_20190826_104835123-scaled.jpg"/>
+                     <link target="IMG_20190826_104835123-scaled.jpg" decls="#profile_El_Guettar_01_graphic015"/>
+                     <graphic url="IMG_20190826_104835123-scaled.jpg" decls="#profile_El_Guettar_01_graphic015"/>
                      <head>Fig tree with fruits</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_102058123-scaled.jpg"/>
-                     <graphic url="IMG_20190824_102058123-scaled.jpg"/>
+                     <link target="IMG_20190824_102058123-scaled.jpg" decls="#profile_El_Guettar_01_graphic016"/>
+                     <graphic url="IMG_20190824_102058123-scaled.jpg" decls="#profile_El_Guettar_01_graphic016"/>
                      <head>Olive tree with fruits</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_191856077-scaled.jpg"/>
-                     <graphic url="IMG_20190824_191856077-scaled.jpg"/>
+                     <link target="IMG_20190824_191856077-scaled.jpg" decls="#profile_El_Guettar_01_graphic017"/>
+                     <graphic url="IMG_20190824_191856077-scaled.jpg" decls="#profile_El_Guettar_01_graphic017"/>
                      <head>Olive grove</head>
                   </figure>
                </p>
                <p>Since people produce their foodstuff mainly by themselves using traditional techniques, they also manufacture tools like millstones (<hi xml:lang="aeb" rendition="#i">rḥā</hi>). </p>
                <p>
                   <figure>
-                     <link target="IMG_20190828_100041164-scaled.jpg"/>
-                     <graphic url="IMG_20190828_100041164-scaled.jpg"/>
+                     <link target="IMG_20190828_100041164-scaled.jpg" decls="#profile_El_Guettar_01_graphic018"/>
+                     <graphic url="IMG_20190828_100041164-scaled.jpg" decls="#profile_El_Guettar_01_graphic018"/>
                      <head>El Guettar. Millstone manufacturer</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190828_100331624-scaled.jpg"/>
-                     <graphic url="IMG_20190828_100331624-scaled.jpg"/>
+                     <link target="IMG_20190828_100331624-scaled.jpg" decls="#profile_El_Guettar_01_graphic019"/>
+                     <graphic url="IMG_20190828_100331624-scaled.jpg" decls="#profile_El_Guettar_01_graphic019"/>
                      <head>Millstone</head>
                   </figure>
                </p>
                <p xml:space="preserve">For many residents of El Guettar, agriculture and livestock breeding form their livelihood. In addition to that, the local phosphate industry as well as the governorate’s capital Gafsa, which is just at a 20 km distance from El Guettar, provide jobs.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Guettar-dough.jpg"/>
-                     <graphic url="Guettar-dough.jpg"/>
+                     <link target="Guettar-dough.jpg" decls="#profile_El_Guettar_01_graphic020"/>
+                     <graphic url="Guettar-dough.jpg" decls="#profile_El_Guettar_01_graphic020"/>
                      <head>Preparing the bread dough</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-prepare.jpg"/>
-                     <graphic url="Guettar-prepare.jpg"/>
+                     <link target="Guettar-prepare.jpg" decls="#profile_El_Guettar_01_graphic021"/>
+                     <graphic url="Guettar-prepare.jpg" decls="#profile_El_Guettar_01_graphic021"/>
                      <head>Baking bread</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-leaves.jpg"/>
-                     <graphic url="Guettar-leaves.jpg"/>
+                     <link target="Guettar-leaves.jpg" decls="#profile_El_Guettar_01_graphic022"/>
+                     <graphic url="Guettar-leaves.jpg" decls="#profile_El_Guettar_01_graphic022"/>
                      <head>Preparing food picking leaves</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-couscous.jpg"/>
-                     <graphic url="Guettar-couscous.jpg"/>
+                     <link target="Guettar-couscous.jpg" decls="#profile_El_Guettar_01_graphic023"/>
+                     <graphic url="Guettar-couscous.jpg" decls="#profile_El_Guettar_01_graphic023"/>
                      <head>Couscous with leaves</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-mtabga.jpg"/>
-                     <graphic url="Guettar-mtabga.jpg"/>
+                     <link target="Guettar-mtabga.jpg" decls="#profile_El_Guettar_01_graphic024"/>
+                     <graphic url="Guettar-mtabga.jpg" decls="#profile_El_Guettar_01_graphic024"/>
                      <head>Preparing Mtabga (home-made Tunisian pizza)</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-mtabga2.jpg"/>
-                     <graphic url="Guettar-mtabga2.jpg"/>
+                     <link target="Guettar-mtabga2.jpg" decls="#profile_El_Guettar_01_graphic025"/>
+                     <graphic url="Guettar-mtabga2.jpg" decls="#profile_El_Guettar_01_graphic025"/>
                      <head>Preparing Mtabga (home-made Tunisian pizza)</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-mtabga3.jpg"/>
-                     <graphic url="Guettar-mtabga3.jpg"/>
+                     <link target="Guettar-mtabga3.jpg" decls="#profile_El_Guettar_01_graphic026"/>
+                     <graphic url="Guettar-mtabga3.jpg" decls="#profile_El_Guettar_01_graphic026"/>
                      <head>Home-made pizza Mtabga</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-couscous2.jpg"/>
-                     <graphic url="Guettar-couscous2.jpg"/>
+                     <link target="Guettar-couscous2.jpg" decls="#profile_El_Guettar_01_graphic027"/>
+                     <graphic url="Guettar-couscous2.jpg" decls="#profile_El_Guettar_01_graphic027"/>
                      <head>Couscous with local vegetables and Harrisa</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-palm.jpg"/>
-                     <graphic url="Guettar-palm.jpg"/>
+                     <link target="Guettar-palm.jpg" decls="#profile_El_Guettar_01_graphic028"/>
+                     <graphic url="Guettar-palm.jpg" decls="#profile_El_Guettar_01_graphic028"/>
                      <head>Local working on a date palm</head>
                   </figure>
                </p>
                <p xml:space="preserve">One of the town’s tourist attractions is a hill called <hi xml:lang="aeb" rendition="#i">il-</hi><hi xml:lang="aeb" rendition="#i">galʕa</hi> (the actual meaning of this word is “fort“) that offers a panoramic view from its top. People attribute special importance to it: Locals but also pilgrims from other parts of Tunisia head for the hill’s caves to celebrate ceremonies with animal sacrifices there.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="IMG_20190824_120404363-1-scaled.jpg"/>
-                     <graphic url="IMG_20190824_120404363-1-scaled.jpg"/>
+                     <link target="IMG_20190824_120404363-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic029"/>
+                     <graphic url="IMG_20190824_120404363-1-scaled.jpg" decls="#profile_El_Guettar_01_graphic029"/>
                      <head>Mountain hill called Galea with sourroundings</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190828_190449485-scaled.jpg"/>
-                     <graphic url="IMG_20190828_190449485-scaled.jpg"/>
+                     <link target="IMG_20190828_190449485-scaled.jpg" decls="#profile_El_Guettar_01_graphic030"/>
+                     <graphic url="IMG_20190828_190449485-scaled.jpg" decls="#profile_El_Guettar_01_graphic030"/>
                      <head>Caves on the mountain hill Galea</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_195910713-scaled.jpg"/>
-                     <graphic url="IMG_20190824_195910713-scaled.jpg"/>
+                     <link target="IMG_20190824_195910713-scaled.jpg" decls="#profile_El_Guettar_01_graphic031"/>
+                     <graphic url="IMG_20190824_195910713-scaled.jpg" decls="#profile_El_Guettar_01_graphic031"/>
                      <head>A look into a cave on the Galea hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_195806482-scaled.jpg"/>
-                     <graphic url="IMG_20190824_195806482-scaled.jpg"/>
+                     <link target="IMG_20190824_195806482-scaled.jpg" decls="#profile_El_Guettar_01_graphic032"/>
+                     <graphic url="IMG_20190824_195806482-scaled.jpg" decls="#profile_El_Guettar_01_graphic032"/>
                      <head>Bone remains on the Galea hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190824_120746569-scaled.jpg"/>
-                     <graphic url="IMG_20190824_120746569-scaled.jpg"/>
+                     <link target="IMG_20190824_120746569-scaled.jpg" decls="#profile_El_Guettar_01_graphic033"/>
+                     <graphic url="IMG_20190824_120746569-scaled.jpg" decls="#profile_El_Guettar_01_graphic033"/>
                      <head>The galea sourrounded by trees in front of mountain hills</head>
                   </figure>
                </p>
                <p xml:space="preserve">Additionally, some local saints and their shrines are located in the small town.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Guettar-shrine.jpg"/>
-                     <graphic url="Guettar-shrine.jpg"/>
+                     <link target="Guettar-shrine.jpg" decls="#profile_El_Guettar_01_graphic034"/>
+                     <graphic url="Guettar-shrine.jpg" decls="#profile_El_Guettar_01_graphic034"/>
                      <head>Building of a local shrine</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-roof.jpg"/>
-                     <graphic url="Guettar-roof.jpg"/>
+                     <link target="Guettar-roof.jpg" decls="#profile_El_Guettar_01_graphic035"/>
+                     <graphic url="Guettar-roof.jpg" decls="#profile_El_Guettar_01_graphic035"/>
                      <head>Roof embellishment inside the shrine building</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-shrine-desc.jpg"/>
-                     <graphic url="Guettar-shrine-desc.jpg"/>
+                     <link target="Guettar-shrine-desc.jpg" decls="#profile_El_Guettar_01_graphic036"/>
+                     <graphic url="Guettar-shrine-desc.jpg" decls="#profile_El_Guettar_01_graphic036"/>
                      <head>Local saint's shrine with description I</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-shrine-desc2.jpg"/>
-                     <graphic url="Guettar-shrine-desc2.jpg"/>
+                     <link target="Guettar-shrine-desc2.jpg" decls="#profile_El_Guettar_01_graphic037"/>
+                     <graphic url="Guettar-shrine-desc2.jpg" decls="#profile_El_Guettar_01_graphic037"/>
                      <head>Local saint's shrine with description II</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-shrine-desc3.jpg"/>
-                     <graphic url="Guettar-shrine-desc3.jpg"/>
+                     <link target="Guettar-shrine-desc3.jpg" decls="#profile_El_Guettar_01_graphic038"/>
+                     <graphic url="Guettar-shrine-desc3.jpg" decls="#profile_El_Guettar_01_graphic038"/>
                      <head>Table bearing an inscription</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-golden-plaque.jpg"/>
-                     <graphic url="Guettar-golden-plaque.jpg"/>
+                     <link target="Guettar-golden-plaque.jpg" decls="#profile_El_Guettar_01_graphic039"/>
+                     <graphic url="Guettar-golden-plaque.jpg" decls="#profile_El_Guettar_01_graphic039"/>
                      <head>Golden plaque next to the shrine</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-flags.jpg"/>
-                     <graphic url="Guettar-flags.jpg"/>
+                     <link target="Guettar-flags.jpg" decls="#profile_El_Guettar_01_graphic040"/>
+                     <graphic url="Guettar-flags.jpg" decls="#profile_El_Guettar_01_graphic040"/>
                      <head>Colurful flags around the shrine</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-carpets.jpg"/>
-                     <graphic url="Guettar-carpets.jpg"/>
+                     <link target="Guettar-carpets.jpg" decls="#profile_El_Guettar_01_graphic041"/>
+                     <graphic url="Guettar-carpets.jpg" decls="#profile_El_Guettar_01_graphic041"/>
                      <head>Carpets inside the shrine building</head>
                   </figure>
                   <figure>
-                     <link target="Guettar-shrine-yard.jpg"/>
-                     <graphic url="Guettar-shrine-yard.jpg"/>
+                     <link target="Guettar-shrine-yard.jpg" decls="#profile_El_Guettar_01_graphic042"/>
+                     <graphic url="Guettar-shrine-yard.jpg" decls="#profile_El_Guettar_01_graphic042"/>
                      <head>Yard inside the shrine building</head>
                   </figure>
                </p>

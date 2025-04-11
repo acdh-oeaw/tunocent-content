@@ -83,66 +83,211 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic001">
+            <name type="filename">Ouled Said1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic002">
+            <name type="filename">Ouled Said2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic003">
+            <name type="filename">Ouled Said3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic004">
+            <name type="filename">Ouled Said4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic005">
+            <name type="filename">Ouled Said5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic006">
+            <name type="filename">Ouled Said6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic007">
+            <name type="filename">Ouled Said7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic008">
+            <name type="filename">Ouled Said8.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic009">
+            <name type="filename">Ouled Said9.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic010">
+            <name type="filename">Ouled Said10.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic011">
+            <name type="filename">Ouled Said11.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic012">
+            <name type="filename">Ouled Said12.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic013">
+            <name type="filename">Ouled Said13.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Ouled_Said_01_graphic014">
+            <name type="filename">Ouled Said14.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS KHG">Saybi Wissem Guesmi Khayri</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Ouled Said1.jpg"/>
+                  <graphic url="Ouled Said1.jpg" decls="#profile_Ouled_Said_01_graphic001"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said2.jpg"/>
+                  <graphic url="Ouled Said2.jpg" decls="#profile_Ouled_Said_01_graphic002"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said3.jpg"/>
+                  <graphic url="Ouled Said3.jpg" decls="#profile_Ouled_Said_01_graphic003"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said4.jpg"/>
+                  <graphic url="Ouled Said4.jpg" decls="#profile_Ouled_Said_01_graphic004"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said5.jpg"/>
+                  <graphic url="Ouled Said5.jpg" decls="#profile_Ouled_Said_01_graphic005"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said6.jpg"/>
+                  <graphic url="Ouled Said6.jpg" decls="#profile_Ouled_Said_01_graphic006"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said7.jpg"/>
+                  <graphic url="Ouled Said7.jpg" decls="#profile_Ouled_Said_01_graphic007"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said8.jpg"/>
+                  <graphic url="Ouled Said8.jpg" decls="#profile_Ouled_Said_01_graphic008"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said9.jpg"/>
+                  <graphic url="Ouled Said9.jpg" decls="#profile_Ouled_Said_01_graphic009"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said10.jpg"/>
+                  <graphic url="Ouled Said10.jpg" decls="#profile_Ouled_Said_01_graphic010"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said11.jpg"/>
+                  <graphic url="Ouled Said11.jpg" decls="#profile_Ouled_Said_01_graphic011"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said12.jpg"/>
+                  <graphic url="Ouled Said12.jpg" decls="#profile_Ouled_Said_01_graphic012"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said13.jpg"/>
+                  <graphic url="Ouled Said13.jpg" decls="#profile_Ouled_Said_01_graphic013"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said14.jpg"/>
+                  <graphic url="Ouled Said14.jpg" decls="#profile_Ouled_Said_01_graphic014"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>

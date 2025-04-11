@@ -83,14 +83,29 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_nefza_01_graphic001">
+            <name type="filename">Nefza1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName>Wikimedia user "Citizen59"</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/3.0/">CC BY SA 3.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Nefza1.jpg"/>
+                  <graphic url="Nefza1.jpg" decls="#profile_nefza_01_graphic001"/>
                   <head type="imgCaption">Wikimedia</head>
                </figure>
                <label>Name (English)</label>

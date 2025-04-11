@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:13.485087+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:55.668035+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:ummlabid3_m_51_e4">
    <teiHeader>
       <fileDesc>
@@ -341,9 +341,9 @@
                   <w xml:id="ummlabid3_m_51_e4_xTok_000051">xuḏ̣ṛa</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000052" rend="withDash">mā</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000054" rend="withDash">nišrūhǟ</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000056">š</w>
-                  <pc join="right" xml:id="xTok_000057">.</pc>
-                  <gap/>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000056" join="right">š</w>
+                  <pc xml:id="xTok_000057">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a3.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -529,9 +529,8 @@
                   end="#T8"
                   start="#T7">
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000147" rend="withDash">w</w>
-                  <w type="truncated">
-                     <w xml:id="ummlabid3_m_51_e4_xTok_000149">tušᵘṛbu</w>
-                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000149">tušᵘṛbu</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000150">intum</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000151">mnīn</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000152">tušᵘṛbu</w>
@@ -781,9 +780,8 @@
                   <w xml:id="ummlabid3_m_51_e4_xTok_000249">bīh</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000250" rend="withDash">l</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000252">ⁱġsīl</w>
-                  <w type="truncated">
-                     <w xml:id="ummlabid3_m_51_e4_xTok_000253">il</w>
-                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000253">il</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000254">wǟḥid</w>
                   <pc xml:id="xTok_000255">,</pc>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000256" rend="withDash">w</w>
@@ -868,9 +866,8 @@
                   <w xml:id="ummlabid3_m_51_e4_xTok_000295">xamsa</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000296" rend="withDash">w</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000298">ʕišrīn</w>
-                  <w type="truncated">
-                     <w xml:id="ummlabid3_m_51_e4_xTok_000299">snǟ</w>
-                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000299">snǟ</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000300">taww</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000301" rend="withDash">il</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000303">bāṛāž</w>
@@ -894,9 +891,8 @@
                   <w xml:id="ummlabid3_m_51_e4_xTok_000305">kī</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000306">žǟ</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000307" rend="withDash">l</w>
-                  <w type="truncated">
-                     <w xml:id="ummlabid3_m_51_e4_xTok_000309">bāṛāž</w>
-                  </w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000309">bāṛāž</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000310" rend="withDash">mā</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000312" rend="withDash">nikḏib</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000314">š</w>
@@ -957,10 +953,10 @@
                   <w xml:id="ummlabid3_m_51_e4_xTok_000342">myǟ</w>
                   <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000343" rend="withDash">w</w>
                   <w xml:id="ummlabid3_m_51_e4_xTok_000345">tizgi</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000346">gidd</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000347">ma</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000348">tḥibb</w>
-                  <pc join="right" xml:id="xTok_000349">?</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000346" rend="withDash">gidd</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000348">ma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000349">tḥibb</w>
+                  <pc join="right" xml:id="xTok_000350">?</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a35.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -977,18 +973,18 @@
                   who="corpus:UmmLabid3"
                   end="#T58"
                   start="#T57">
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000350">wǟš</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000351" rend="withDash">tā</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000353" join="right">tizgi</w>
-                  <pc xml:id="xTok_000354">?</pc>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000355">xi</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000356" rend="withDash">l</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000358">brīma</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000359" rend="withDash">mā</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000361" rend="withDash">ʕandū</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000363">š</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000364">ᵘgṭāṛ</w>
-                  <pc join="right" xml:id="xTok_000365">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000351">wǟš</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000352" rend="withDash">tā</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000354" join="right">tizgi</w>
+                  <pc xml:id="xTok_000355">?</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000356">xi</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000357" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000359">brīma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000360" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000362" rend="withDash">ʕandū</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000364">š</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000365">ᵘgṭāṛ</w>
+                  <pc join="right" xml:id="xTok_000366">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a22.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1005,15 +1001,15 @@
                   who="corpus:UmmLabid3"
                   end="#T60"
                   start="#T59">
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000366">taww</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000367">ⁱhnǟ</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000368" rend="withDash">l</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000370">brīma</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000371" rend="withDash">mā</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000373" rend="withDash">ʕandū</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000375">š</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000376">ᵘgṭāṛ</w>
-                  <pc join="right" xml:id="xTok_000377">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000367">taww</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000368">ⁱhnǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000369" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000371">brīma</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000372" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000374" rend="withDash">ʕandū</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000376">š</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000377">ᵘgṭāṛ</w>
+                  <pc join="right" xml:id="xTok_000378">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a23.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1030,24 +1026,24 @@
                   who="corpus:UmmLabid3"
                   end="#T62"
                   start="#T61">
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000378">aṛⁱḏ̣na</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000379" rend="withDash">ʕāṭīnhā</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000381">lna</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000382" rend="withDash">f</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000384" rend="withDash">is</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000386" join="right">Sxūwna</w>
-                  <pc xml:id="xTok_000387">,</pc>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000388" rend="withDash">f</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000390" rend="withDash">il</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000392" join="right">Munšāṛ</w>
-                  <pc xml:id="xTok_000393">,</pc>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000394" rend="withDash">fi</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000396" join="right">Bǟža</w>
-                  <pc xml:id="xTok_000397">,</pc>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000398" rend="withDash">f</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000400" rend="withDash">il</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000402">Maʕgūwla</w>
-                  <pc join="right" xml:id="xTok_000403">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000379">aṛⁱḏ̣na</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000380" rend="withDash">ʕāṭīnhā</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000382">lna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000383" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000385" rend="withDash">is</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000387" join="right">Sxūʷna</w>
+                  <pc xml:id="xTok_000388">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000389" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000391" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000393" join="right">Munšāṛ</w>
+                  <pc xml:id="xTok_000394">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000395" rend="withDash">fi</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000397" join="right">Bǟža</w>
+                  <pc xml:id="xTok_000398">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000399" rend="withDash">f</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000401" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000403">Maʕgūʷla</w>
+                  <pc join="right" xml:id="xTok_000404">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a24.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1064,22 +1060,21 @@
                   who="corpus:UmmLabid3"
                   end="#T64"
                   start="#T63">
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000404">ṯamma</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000405">nǟs</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000406">hižrit</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000407" rend="withDash">w</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000409" join="right">ṃǟtit</w>
-                  <pc xml:id="xTok_000410">,</pc>
-                  <w type="truncated">
-                     <w xml:id="ummlabid3_m_51_e4_xTok_000411">ḥassit</w>
-                  </w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000412" rend="withDash">m</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000414" rend="withDash">il</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000416">ihǟna</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000417" rend="withDash">w</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000419" rend="withDash">il</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000421">wāḥid</w>
-                  <pc join="right" xml:id="xTok_000422">.</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000405">ṯamma</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000406">nǟs</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000407">hižrit</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000408" rend="withDash">w</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000410" join="right">ṃǟtit</w>
+                  <pc xml:id="xTok_000411">,</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000412">ḥassit</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000413" rend="withDash">m</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000415" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000417">ihǟna</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000418" rend="withDash">w</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000420" rend="withDash">il</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000422">wāḥid</w>
+                  <pc join="right" xml:id="xTok_000423">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a25.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1096,14 +1091,14 @@
                   who="corpus:UmmLabid3"
                   end="#T66"
                   start="#T65">
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000423">waḷḷah</w>
-                  <pc xml:id="xTok_000424">!</pc>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000425" rend="withDash">l</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000427">ᵘkbāṛ</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000428" rend="withDash">il</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000430">kull</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000431">ḥassu</w>
-                  <pc join="right" xml:id="xTok_000432">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000424">waḷḷah</w>
+                  <pc xml:id="xTok_000425">!</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000426" rend="withDash">l</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000428">ᵘkbāṛ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000429" rend="withDash">il</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000431">kull</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000432">ḥassu</w>
+                  <pc join="right" xml:id="xTok_000433">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a26.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1120,9 +1115,9 @@
                   who="corpus:NA"
                   end="#T22"
                   start="#T21">
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000433" rend="withDash">iz</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000435">zaḥḥ</w>
-                  <pc join="right" xml:id="xTok_000436">!</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000434" rend="withDash">iz</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000436">zaḥḥ</w>
+                  <pc join="right" xml:id="xTok_000437">!</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a36.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1139,8 +1134,8 @@
                   who="corpus:UmmLabid3"
                   end="#T68"
                   start="#T67">
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000437">waḷḷah</w>
-                  <pc join="right" xml:id="xTok_000438">!</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000438">waḷḷah</w>
+                  <pc join="right" xml:id="xTok_000439">!</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a27.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1157,11 +1152,11 @@
                   who="corpus:NA"
                   end="#T24"
                   start="#T23">
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000439">maʕnǟha</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000440" rend="withDash">mā</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000442" rend="withDash">ḥmilhǟ</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000444">š</w>
-                  <pc join="right" xml:id="xTok_000445">?</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000440">maʕnǟha</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000441" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000443" rend="withDash">ḥmilhǟ</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000445">š</w>
+                  <pc join="right" xml:id="xTok_000446">?</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a37.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"
@@ -1178,13 +1173,13 @@
                   who="corpus:UmmLabid3"
                   end="#T70"
                   start="#T69">
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000446" rend="withDash">mā</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000448" rend="withDash">ḥmilhǟ</w>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000450" join="right">š</w>
-                  <pc xml:id="xTok_000451">,</pc>
-                  <w xml:id="ummlabid3_m_51_e4_xTok_000452">ṛāha</w>
-                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000453">ihǟna</w>
-                  <pc join="right" xml:id="xTok_000454">.</pc>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000447" rend="withDash">mā</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000449" rend="withDash">ḥmilhǟ</w>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000451" join="right">š</w>
+                  <pc xml:id="xTok_000452">,</pc>
+                  <w xml:id="ummlabid3_m_51_e4_xTok_000453">ṛāha</w>
+                  <w join="right" xml:id="ummlabid3_m_51_e4_xTok_000454">ihǟna</w>
+                  <pc join="right" xml:id="xTok_000455">.</pc>
                   <media url="assets:ummlabid3_m_51_e4/ummlabid3_m_51_e4_a28.mp3"
                          decls="#ummlabid3_m_51_e4-free"
                          mimeType="audio/mp3"

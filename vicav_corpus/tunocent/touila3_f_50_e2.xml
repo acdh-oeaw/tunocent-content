@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:09.348884+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:53.309306+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:touila3_f_50_e2">
    <teiHeader>
       <fileDesc>
@@ -218,10 +218,10 @@
                   end="#T2"
                   start="#T1">
                   <w xml:id="touila3_f_50_e2_xTok_000001">wǟš</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000002">naḥkī</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000003">lik</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000004">uxti</w>
-                  <pc join="right" xml:id="xTok_000005">?</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000002" rend="withDash">naḥkī</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000004">lik</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000005">uxti</w>
+                  <pc join="right" xml:id="xTok_000006">?</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a1.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -234,16 +234,16 @@
                   who="corpus:AN"
                   end="#T26"
                   start="#T25">
-                  <w xml:id="touila3_f_50_e2_xTok_000006">ʕan</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000007">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000008">ʕādǟt</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000009" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000011">taqālīd</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000012" rend="withDash">w</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000014" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000016">ʕṛūsāt</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000017">kīfǟš</w>
-                  <pc join="right" xml:id="xTok_000018">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000007">ʕan</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000008" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000010">ʕādǟt</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000011" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000013">taqālīd</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000014" rend="withDash">w</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000016" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000018">ʕṛūsāt</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000019">kīfǟš</w>
+                  <pc join="right" xml:id="xTok_000020">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a13.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -256,26 +256,25 @@
                   who="corpus:Touila3"
                   end="#T4"
                   start="#T3">
-                  <w xml:id="touila3_f_50_e2_xTok_000019">ʕlā</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000020">bikri</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000021">kī</w>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000022">kunna</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000023">kīfǟš</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000024">kunna</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000025">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000026">xidmit</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000027" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000029" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000030">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000031">kunna</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000032">nixⁱdmu</w>
-                  <pc xml:id="xTok_000033">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000034">kīfǟš</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000035" rend="withDash">iṭ</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000037">ṭābūna</w>
-                  <pc join="right" xml:id="xTok_000038">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000021">ʕlā</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000022">bikri</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000023">kī</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000024">kunna</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000025">kīfǟš</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000026">kunna</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000027">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000028">xidmit</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000029" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000031" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000032">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000033">kunna</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000034">nixⁱdmu</w>
+                  <pc xml:id="xTok_000035">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000036">kīfǟš</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000037" rend="withDash">iṭ</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000039">ṭābūna</w>
+                  <pc join="right" xml:id="xTok_000040">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a2.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -288,26 +287,25 @@
                   who="corpus:Touila3"
                   end="#T6"
                   start="#T5">
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000039">naʕⁱmlu</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000040">ǟk</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000041" rend="withDash">iṭ</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000043">ṭābūna</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000044">nmallsōha</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000045" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000047">naʕⁱmlu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000048">ž</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000049">žrǟdig</w>
-                  <pc xml:id="xTok_000050">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000051">naʕⁱmlu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000052">ṭ</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000053">ṭāžīn</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000054" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000056">nfaṭṭru</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000057" rend="withDash">l</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000059">ⁱfṭīr</w>
-                  <pc join="right" xml:id="xTok_000060">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000041">naʕⁱmlu</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000042">ǟk</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000043" rend="withDash">iṭ</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000045">ṭābūna</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000046">nmallsōha</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000047" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000049">naʕⁱmlu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000050" rend="withDash">ž</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000052" join="right">žrǟdig</w>
+                  <pc xml:id="xTok_000053">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000054">naʕⁱmlu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000055" rend="withDash">ṭ</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000057">ṭāžīn</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000058" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000060">nfaṭṭru</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000061" rend="withDash">l</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000063">ⁱfṭīr</w>
+                  <pc join="right" xml:id="xTok_000064">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a3.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -320,21 +318,19 @@
                   who="corpus:Touila3"
                   end="#T8"
                   start="#T7">
-                  <w xml:id="touila3_f_50_e2_xTok_000061">naʕⁱmlu</w>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000062">bikri</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000063">naḥⁱlbu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000064" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000066">bagṛa</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000067" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000069">ḥlīb</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000070" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000072">numᵘxḏ̣ūh</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000073">bikri</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="touila3_f_50_e2_xTok_000074">fi</w>
-                  </w>
+                  <w xml:id="touila3_f_50_e2_xTok_000065">naʕⁱmlu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000066">bikri</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000067">naḥⁱlbu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000068" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000070">bagṛa</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000071" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000073">ḥlīb</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000074" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000076">numᵘxḏ̣ūh</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000077">bikri</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000078">fi</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a4.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -347,29 +343,28 @@
                   who="corpus:Touila3"
                   end="#T10"
                   start="#T9">
-                  <w xml:id="touila3_f_50_e2_xTok_000075">naʕⁱmlu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000076">ǟk</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000077" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000079">mizwid</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000080">mtāʕ</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000081" rend="withDash">iš</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000083">šikwa</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000084">ǟḏīya</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000085" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000087" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000088">,</pc>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000089">nixⁱdmu</w>
-                  </w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000090">ṭṭayybu</w>
-                  <pc xml:id="xTok_000091">,</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000092">naʕⁱmlu</w>
-                  <pc xml:id="xTok_000093">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000094">nxaṛṛžu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000095">minha</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000096" rend="withDash">z</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000098">zibda</w>
-                  <pc join="right" xml:id="xTok_000099">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000079">naʕⁱmlu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000080">ǟk</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000081" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000083">mizwid</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000084">mtāʕ</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000085" rend="withDash">iš</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000087">šikwa</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000088">ǟḏīya</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000089" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000091" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000092">,</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000093">nixⁱdmu</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000094">ṭṭayybu</w>
+                  <pc xml:id="xTok_000095">,</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000096">naʕⁱmlu</w>
+                  <pc xml:id="xTok_000097">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000098">nxaṛṛžu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000099">minha</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000100" rend="withDash">z</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000102">zibda</w>
+                  <pc join="right" xml:id="xTok_000103">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a5.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -382,30 +377,28 @@
                   who="corpus:Touila3"
                   end="#T12"
                   start="#T11">
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000100">nmallsu</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000101">ṭīn</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000102" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000104" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000105">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000106">naʕⁱmlu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000107" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000109">kǟnūn</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000110" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000112">naʕⁱmlu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000113">bīh</w>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000114">biš</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000115">kǟnun</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000116">ⁱfḥim</w>
-                  <pc xml:id="xTok_000117">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000118">naʕⁱmlu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000119">fīh</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000120" rend="withDash">l</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000122">bxūwṛ</w>
-                  <pc join="right" xml:id="xTok_000123">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000104">nmallsu</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000105">ṭīn</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000106" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000108" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000109">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000110">naʕⁱmlu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000111" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000113">kǟnūn</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000114" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000116">naʕⁱmlu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000117">bīh</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000118">biš</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000119">kǟnun</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000120">ⁱfḥim</w>
+                  <pc xml:id="xTok_000121">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000122">naʕⁱmlu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000123">fīh</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000124" rend="withDash">l</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000126">bxūʷṛ</w>
+                  <pc join="right" xml:id="xTok_000127">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a6.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -418,15 +411,15 @@
                   who="corpus:Touila3"
                   end="#T14"
                   start="#T13">
-                  <w xml:id="touila3_f_50_e2_xTok_000124">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000125">baṛša</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000126">ḥāžǟt</w>
-                  <pc xml:id="xTok_000127">.</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000128" rend="withDash">it</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000130">tuṛāṯ</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000131">mtāʕna</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000132">ʕaṛbi</w>
-                  <pc join="right" xml:id="xTok_000133">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000128">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000129">baṛša</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000130">ḥāžǟt</w>
+                  <pc xml:id="xTok_000131">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000132" rend="withDash">it</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000134">tuṛāṯ</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000135">mtāʕna</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000136">ʕaṛbi</w>
+                  <pc join="right" xml:id="xTok_000137">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a7.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -439,12 +432,12 @@
                   who="corpus:AN"
                   end="#T28"
                   start="#T27">
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000134" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000136">kīfǟš</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000137" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000139">ḥayǟ</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000140">qbal</w>
-                  <pc join="right" xml:id="xTok_000141">?</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000138" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000140">kīfǟš</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000141" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000143">ḥayǟ</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000144">qbal</w>
+                  <pc join="right" xml:id="xTok_000145">?</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a14.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -457,29 +450,29 @@
                   who="corpus:Touila3"
                   end="#T16"
                   start="#T15">
-                  <w xml:id="touila3_f_50_e2_xTok_000142">ḥayǟt</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000143">ⁱqbal</w>
-                  <pc xml:id="xTok_000144">:</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000145">kunna</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000146">nixⁱdmu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000147" rend="withDash">b</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000149" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000151" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000152">.</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000153">naḥⁱṣdu</w>
-                  <pc xml:id="xTok_000154">,</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000155">nžanžu</w>
-                  <pc xml:id="xTok_000156">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000157">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000158">maʕnǟha</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000159">xidma</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000160">ʕaṛbi</w>
-                  <pc xml:id="xTok_000161">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000162">māhǟniš</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000163">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000164">kī</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000165">taww</w>
-                  <pc join="right" xml:id="xTok_000166">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000146">ḥayǟt</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000147">ⁱqbal</w>
+                  <pc xml:id="xTok_000148">:</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000149">kunna</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000150">nixⁱdmu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000151" rend="withDash">b</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000153" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000155" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000156">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000157">naḥⁱṣdu</w>
+                  <pc xml:id="xTok_000158">,</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000159">nžanžu</w>
+                  <pc xml:id="xTok_000160">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000161">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000162">maʕnǟha</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000163">xidma</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000164">ʕaṛbi</w>
+                  <pc xml:id="xTok_000165">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000166">māhǟniš</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000167">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000168">kī</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000169">taww</w>
+                  <pc join="right" xml:id="xTok_000170">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a8.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -492,38 +485,36 @@
                   who="corpus:Touila3"
                   end="#T18"
                   start="#T17">
-                  <w xml:id="touila3_f_50_e2_xTok_000167">nisⁱrḥu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000168" rend="withDash">b</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000170" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000172">ḥīwǟn</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000173" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000175">nimšu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000176">nžību</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000177">fōgna</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000178" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000180" join="right">ⁱḥṭab</w>
-                  <pc xml:id="xTok_000181">,</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000182" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000184">girba</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000185">hakka</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000186" rend="withDash">w</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000188">nṭayybu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000189">xubᵘz</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000190" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000192" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000193">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000194">niṛḥu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000195" rend="withDash">f</w>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000197">il</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000198">rḥē</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000199" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000201" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000202">.</pc>
-                  <w type="truncated">
-                     <w join="right" xml:id="touila3_f_50_e2_xTok_000203">mānīšna</w>
-                  </w>
+                  <w xml:id="touila3_f_50_e2_xTok_000171">nisⁱrḥu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000172" rend="withDash">b</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000174" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000176">ḥīwǟn</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000177" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000179">nimšu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000180">nžību</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000181">fōgna</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000182" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000184" join="right">ⁱḥṭab</w>
+                  <pc xml:id="xTok_000185">,</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000186" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000188">girba</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000189">hakka</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000190" rend="withDash">w</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000192">nṭayybu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000193">xubᵘz</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000194" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000196" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000197">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000198">niṛḥu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000199" rend="withDash">f</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000201">il</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000202">rḥē</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000203" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000205" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000206">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000207">mānīšna</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a9.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -536,23 +527,21 @@
                   who="corpus:Touila3"
                   end="#T20"
                   start="#T19">
-                  <w xml:id="touila3_f_50_e2_xTok_000204">taww</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000205">hāy</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000206">ṭṭawwrit</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000207" rend="withDash">id</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000209" join="right">dinya</w>
-                  <pc xml:id="xTok_000210">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000211">wallīna</w>
-                  <w type="truncated">
-                     <w xml:id="touila3_f_50_e2_xTok_000212">nixⁱdmu</w>
-                  </w>
-                  <w xml:id="touila3_f_50_e2_xTok_000213">nhizzu</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000214" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000216">gamⁱḥ</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000217" rend="withDash">l</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="touila3_f_50_e2_xTok_000219">il</w>
-                  </w>
+                  <w xml:id="touila3_f_50_e2_xTok_000208">taww</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000209">hāy</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000210">ṭṭawwrit</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000211" rend="withDash">id</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000213" join="right">dinya</w>
+                  <pc xml:id="xTok_000214">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000215">wallīna</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000216">nixⁱdmu</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="touila3_f_50_e2_xTok_000217">nhizzu</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000218" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000220">gamⁱḥ</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000221" rend="withDash">l</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000223">il</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a10.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -565,29 +554,29 @@
                   who="corpus:Touila3"
                   end="#T22"
                   start="#T21">
-                  <w xml:id="touila3_f_50_e2_xTok_000220">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000221">taww</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000222" rend="withDash">il</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000224" join="right">gamⁱḥ</w>
-                  <pc xml:id="xTok_000225">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000226">nhizzūh</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000227" rend="withDash">l</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000229" rend="withDash">iṭ</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000231" join="right">ṭāḥūna</w>
-                  <pc xml:id="xTok_000232">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000233">āma</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000234">bikri</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000235">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000236">kull</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000237">šayy</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000238">ʕaṛbi</w>
-                  <pc xml:id="xTok_000239">,</pc>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000240" rend="withDash">b</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000242" rend="withDash">ir</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000244">rḥē</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000245" rend="withDash">l</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000247">ʕaṛbi</w>
-                  <pc join="right" xml:id="xTok_000248">.</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000224">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000225">taww</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000226" rend="withDash">il</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000228" join="right">gamⁱḥ</w>
+                  <pc xml:id="xTok_000229">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000230">nhizzūh</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000231" rend="withDash">l</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000233" rend="withDash">iṭ</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000235" join="right">ṭāḥūna</w>
+                  <pc xml:id="xTok_000236">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000237">āma</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000238">bikri</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000239">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000240">kull</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000241">šayy</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000242">ʕaṛbi</w>
+                  <pc xml:id="xTok_000243">,</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000244" rend="withDash">b</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000246" rend="withDash">ir</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000248">rḥē</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000249" rend="withDash">l</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000251">ʕaṛbi</w>
+                  <pc join="right" xml:id="xTok_000252">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a11.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"
@@ -600,24 +589,24 @@
                   who="corpus:Touila3"
                   end="#T24"
                   start="#T23">
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000249" rend="withDash">lⁱ</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000251" join="right">ḥlīb</w>
-                  <pc xml:id="xTok_000252">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000253">numᵘxḏ̣u</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000254" rend="withDash">b</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000256" rend="withDash">iš</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000258">šikwa</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000259" rend="withDash">l</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000261" join="right">ʕaṛbi</w>
-                  <pc xml:id="xTok_000262">,</pc>
-                  <w xml:id="touila3_f_50_e2_xTok_000263">kull</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000264">šayy</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000265">nixⁱdmu</w>
-                  <w xml:id="touila3_f_50_e2_xTok_000266">fīh</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000267" rend="withDash">b</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000269" rend="withDash">il</w>
-                  <w join="right" xml:id="touila3_f_50_e2_xTok_000271">ʕaṛbi</w>
-                  <pc join="right" xml:id="xTok_000272">.</pc>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000253" rend="withDash">lⁱ</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000255" join="right">ḥlīb</w>
+                  <pc xml:id="xTok_000256">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000257">numᵘxḏ̣u</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000258" rend="withDash">b</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000260" rend="withDash">iš</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000262">šikwa</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000263" rend="withDash">l</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000265" join="right">ʕaṛbi</w>
+                  <pc xml:id="xTok_000266">,</pc>
+                  <w xml:id="touila3_f_50_e2_xTok_000267">kull</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000268">šayy</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000269">nixⁱdmu</w>
+                  <w xml:id="touila3_f_50_e2_xTok_000270">fīh</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000271" rend="withDash">b</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000273" rend="withDash">il</w>
+                  <w join="right" xml:id="touila3_f_50_e2_xTok_000275">ʕaṛbi</w>
+                  <pc join="right" xml:id="xTok_000276">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila3_f_50_e2/touila3_f_50_e2_a12.wav"
                          decls="#touila3_f_50_e2-restricted"
                          mimeType="audio/wav"

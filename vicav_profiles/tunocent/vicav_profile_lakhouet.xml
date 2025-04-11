@@ -83,14 +83,60 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_lakhouet_01_graphic001">
+            <name type="filename">Lakhouet1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_lakhouet_01_graphic002">
+            <name type="filename">Lakhwet_Bahnhof3-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_lakhouet_01_graphic003">
+            <name type="filename">Lakhwet_mitSafeYosra2-rotated.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_lakhouet_01_graphic004">
+            <name type="filename">Lakhwet_Kornspeicher-scaled.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Lakhouet1.jpg"/>
+                  <graphic url="Lakhouet1.jpg" decls="#profile_lakhouet_01_graphic001"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -115,22 +161,22 @@
             </div>
             <div type="general">
                <figure rendition="#right">
-                  <link target="Lakhwet_Bahnhof3-scaled.jpg"/>
-                  <graphic url="Lakhwet_Bahnhof3-150x150.jpg"/>
+                  <link target="Lakhwet_Bahnhof3-scaled.jpg" decls="#profile_lakhouet_01_graphic002"/>
+                  <graphic url="Lakhwet_Bahnhof3-150x150.jpg" decls="#profile_lakhouet_01_graphic002"/>
                   <head type="imgCaption">Train station</head>
                </figure>
                <p xml:space="preserve">   
                   l-Axwǟt is a small town in the north of the Governorate Silyǟna. Despite its smallness, it has some developed infrastructure and a direct train connection to the capital. 
                </p>
                <figure rendition="#left">
-                  <link target="Lakhwet_mitSafeYosra2-rotated.jpg"/>
-                  <graphic url="Lakhwet_mitSafeYosra2-150x150.jpg"/>
+                  <link target="Lakhwet_mitSafeYosra2-rotated.jpg" decls="#profile_lakhouet_01_graphic003"/>
+                  <graphic url="Lakhwet_mitSafeYosra2-150x150.jpg" decls="#profile_lakhouet_01_graphic003"/>
                   <head type="imgCaption">Researcher Ilona with locals</head>
                </figure>
                <p xml:space="preserve">Due to its closeness to Tunis, its fertile earth and natural resources it was of great interest for the French. l-Axwǟt is part of the district (<hi xml:lang="aeb" rendition="#i">muʕtamadīya</hi>) of Gaʕfūr that is inhabited mainly by the tribes of Ūlǟd Žwīn, il-Wislǟtīya, il-Kinǟzra and il-Brākta. </p>
                <figure rendition="#right">
-                  <link target="Lakhwet_Kornspeicher-scaled.jpg"/>
-                  <graphic url="Lakhwet_Kornspeicher-150x150.jpg"/>
+                  <link target="Lakhwet_Kornspeicher-scaled.jpg" decls="#profile_lakhouet_01_graphic004"/>
+                  <graphic url="Lakhwet_Kornspeicher-150x150.jpg" decls="#profile_lakhouet_01_graphic004"/>
                   <head type="imgCaption">Granary</head>
                </figure>
                <p xml:space="preserve">From 1952 until 1993, the main employer was a zinc- and lead-mine, attracting workers from all around Tunisia’s North Western and central regions and even from Libya. Therefore, many different dialects mingled in the region. After the mine had been closed, many became unemployed and left the town. Now the most important economic branch is agriculture.</p>

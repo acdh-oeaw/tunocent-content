@@ -83,14 +83,120 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Moulares_01_graphic001">
+            <name type="filename">Moulares_title.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic002">
+            <name type="filename">Moulares-Phosphate.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic003">
+            <name type="filename">Moulares-Phosphate_mining.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic004">
+            <name type="filename">Moulares-Hills_of_Moulares_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic005">
+            <name type="filename">Moulares-Hills_of_Moulares_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic006">
+            <name type="filename">Moulares-centre.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic007">
+            <name type="filename">Moulares-Impressions_of_Moulares_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic008">
+            <name type="filename">Moulares-Impressions_of_Moulares_(4).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic009">
+            <name type="filename">Moulares-Impressions_of_Moulares_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Moulares_01_graphic010">
+            <name type="filename">Moulares-Impressions_of_Moulares_(11).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Moulares_title.jpg"/>
+                  <graphic url="Moulares_title.jpg" decls="#profile_Moulares_01_graphic001"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -114,51 +220,59 @@
                <p>Bedouin-type dialect</p>
             </div>
             <div type="gallery">
-               <link target="Moulares-Phosphate.jpg">
-                  <graphic url="Moulares-Phosphate.jpg"/>
-                  <head>Phosphate</head>
-               </link>
-               <link target="Moulares-Phosphate_mining.jpg">
-                  <graphic url="Moulares-Phosphate_mining.jpg"/>
-                  <head>Phosphate mining</head>
-               </link>
-               <link target="Moulares-Hills_of_Moulares_(1).jpg">
-                  <graphic url="Moulares-Hills_of_Moulares_(1).jpg"/>
-                  <head>Hills of Moulares</head>
-               </link>
-               <link target="Moulares-Hills_of_Moulares_(2).jpg">
-                  <graphic url="Moulares-Hills_of_Moulares_(2).jpg"/>
-                  <head>Hills of Moulares</head>
-               </link>
+               <figure>
+                  <link target="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002"/>
+                  <graphic url="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002"/>
+                  <head type="imgCaption">Phosphate</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Phosphate_mining.jpg" decls="#profile_Moulares_01_graphic003"/>
+                  <graphic url="Moulares-Phosphate_mining.jpg" decls="#profile_Moulares_01_graphic003"/>
+                  <head type="imgCaption">Phosphate mining</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Hills_of_Moulares_(1).jpg" decls="#profile_Moulares_01_graphic004"/>
+                  <graphic url="Moulares-Hills_of_Moulares_(1).jpg" decls="#profile_Moulares_01_graphic004"/>
+                  <head type="imgCaption">Hills of Moulares</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005"/>
+                  <graphic url="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005"/>
+                  <head type="imgCaption">Hills of Moulares</head>
+               </figure>
             </div>
             <div type="general">
                <p xml:space="preserve">Moulares is a small town in the hilly landscape of the southwest Tunisian governorate of Gafsa. With its geographical closeness to Algeria and the jobs it offers in the phosphate mines the town of Moulares attracts people from various Tunisian regions. </p>
                <p>
                   <figure rendition="#full-width">
-                     <link target="Moulares-centre.jpg"/>
-                     <graphic url="Moulares-centre.jpg"/>
+                     <link target="Moulares-centre.jpg" decls="#profile_Moulares_01_graphic006"/>
+                     <graphic url="Moulares-centre.jpg" decls="#profile_Moulares_01_graphic006"/>
                      <head type="imgCaption">Center of Moulares</head>
                   </figure>
                </p>
                <p xml:space="preserve">Like the town of <ref type="profile" target="profile_{Redeyef}_01">Redeyef</ref>, Moulares is connected by a freight-railway-line to the coastal town of Sfax where the mined phosphate is transported to. A great part of the town’s residents belong to the Ūlǟd Nāṣir tribe, whose descendants have lived there for a long time.</p>
             </div>
             <div type="gallery">
-               <link target="Moulares-Impressions_of_Moulares_(3).jpg">
-                  <graphic url="Moulares-Impressions_of_Moulares_(3).jpg"/>
-                  <head>Mosque of Moulares</head>
-               </link>
-               <link target="Moulares-Impressions_of_Moulares_(4).jpg">
-                  <graphic url="Moulares-Impressions_of_Moulares_(4).jpg"/>
-                  <head>Impressions of Moulares</head>
-               </link>
-               <link target="Moulares-Impressions_of_Moulares_(2).jpg">
-                  <graphic url="Moulares-Impressions_of_Moulares_(2).jpg"/>
-                  <head>Impressions of Moulares</head>
-               </link>
-               <link target="Moulares-Impressions_of_Moulares_(11).jpg">
-                  <graphic url="Moulares-Impressions_of_Moulares_(11).jpg"/>
-                  <head>Impressions of Moulares</head>
-               </link>
+               <figure>
+                  <link target="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007"/>
+                  <head type="imgCaption">Mosque of Moulares</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Impressions_of_Moulares_(4).jpg" decls="#profile_Moulares_01_graphic008"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(4).jpg" decls="#profile_Moulares_01_graphic008"/>
+                  <head type="imgCaption">Impressions of Moulares</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Impressions_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic009"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic009"/>
+                  <head type="imgCaption">Impressions of Moulares</head>
+               </figure>
+               <figure>
+                  <link target="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010"/>
+                  <head type="imgCaption">Impressions of Moulares</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Moulares, however this dialect is linguistically investigated within the TUNOCENT project.</p>

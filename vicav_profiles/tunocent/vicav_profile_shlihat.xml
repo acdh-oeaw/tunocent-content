@@ -83,14 +83,90 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic001">
+            <name type="filename">Shlihat_almonds-cultivation.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic002">
+            <name type="filename">Harvesting_crops.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic003">
+            <name type="filename">Planted_salad.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic004">
+            <name type="filename">Grazing_sheep.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic005">
+            <name type="filename">Growing_tomatos.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic006">
+            <name type="filename">Organic_farming.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shlihat_01_graphic007">
+            <name type="filename">Cute_cat_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:WS">Saybi Wissem</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Shlihat_almonds-cultivation.jpg"/>
+                  <graphic url="Shlihat_almonds-cultivation.jpg" decls="#profile_Shlihat_01_graphic001"/>
                   <head type="imgCaption">Wissem Saybi</head>
                </figure>
                <label>Name (English)</label>
@@ -115,30 +191,36 @@
                <p xml:space="preserve">Shlihat is a rural place 15 km to the southwest of the governorate’s capital El Kef. According to the Tunisian historian Mohamed Tlili, the toponym harks back to a Berber tribal group, which allied with the great Houwara tribe Sharen (Šārin). Coming from the Kefian Mellegue hills, the Šlīḥ tribe settled the place from the 1970s on. A local calls himself a Shlihi (<hi xml:lang="aeb" rendition="#i">šlī</hi><hi xml:lang="aeb" rendition="#i">ḥi</hi>) or herself a Shlihiya (<hi xml:lang="aeb" rendition="#i">šlī</hi><hi xml:lang="aeb" rendition="#i">ḥ</hi><hi xml:lang="aeb" rendition="#i">īya</hi>). In this area of low population density, most residents run their own farms. Traditionally, olive trees were planted under the advantageous climatic conditions the place offers. Provided that there is an access to water sources, people nowadays cultivate a wealth of further vegetables and fruits.</p>
             </div>
             <div type="gallery">
-               <link target="Harvesting_crops.jpg">
-                  <graphic url="Harvesting_crops.jpg"/>
-                  <head>Harvesting crops</head>
-               </link>
-               <link target="Planted_salad.jpg">
-                  <graphic url="Planted_salad.jpg"/>
-                  <head>Planted salad</head>
-               </link>
-               <link target="Grazing_sheep.jpg">
-                  <graphic url="Grazing_sheep.jpg"/>
-                  <head>Grazing sheep</head>
-               </link>
-               <link target="Growing_tomatos.jpg">
-                  <graphic url="Growing_tomatos.jpg"/>
-                  <head>Growing tomatos</head>
-               </link>
-               <link target="Organic_farming.jpg">
-                  <graphic url="Organic_farming.jpg"/>
-                  <head>Organic farming</head>
-               </link>
-               <link target="Cute_cat_(1).jpg">
-                  <graphic url="Cute_cat_(1).jpg"/>
-                  <head>Cute cat</head>
-               </link>
+               <figure>
+                  <link target="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002"/>
+                  <graphic url="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002"/>
+                  <head type="imgCaption">Harvesting crops</head>
+               </figure>
+               <figure>
+                  <link target="Planted_salad.jpg" decls="#profile_Shlihat_01_graphic003"/>
+                  <graphic url="Planted_salad.jpg" decls="#profile_Shlihat_01_graphic003"/>
+                  <head type="imgCaption">Planted salad</head>
+               </figure>
+               <figure>
+                  <link target="Grazing_sheep.jpg" decls="#profile_Shlihat_01_graphic004"/>
+                  <graphic url="Grazing_sheep.jpg" decls="#profile_Shlihat_01_graphic004"/>
+                  <head type="imgCaption">Grazing sheep</head>
+               </figure>
+               <figure>
+                  <link target="Growing_tomatos.jpg" decls="#profile_Shlihat_01_graphic005"/>
+                  <graphic url="Growing_tomatos.jpg" decls="#profile_Shlihat_01_graphic005"/>
+                  <head type="imgCaption">Growing tomatos</head>
+               </figure>
+               <figure>
+                  <link target="Organic_farming.jpg" decls="#profile_Shlihat_01_graphic006"/>
+                  <graphic url="Organic_farming.jpg" decls="#profile_Shlihat_01_graphic006"/>
+                  <head type="imgCaption">Organic farming</head>
+               </figure>
+               <figure>
+                  <link target="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007"/>
+                  <graphic url="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007"/>
+                  <head type="imgCaption">Cute cat</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Shlihat, however this dialect is linguistically investigated within the TUNOCENT project.</p>

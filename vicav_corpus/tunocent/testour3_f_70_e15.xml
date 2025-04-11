@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:07.283519+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:50.791453+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:testour3_f_70_e15">
    <teiHeader>
       <fileDesc>
@@ -276,9 +276,8 @@
                   <w xml:id="testour3_f_70_e15_xTok_000018" join="right">žawwʔ</w>
                   <pc xml:id="xTok_000019">,</pc>
                   <w xml:id="testour3_f_70_e15_xTok_000020">famma</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="testour3_f_70_e15_xTok_000021">li</w>
-                  </w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000021">li</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a2.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"
@@ -404,9 +403,8 @@
                   <w join="right" xml:id="testour3_f_70_e15_xTok_000073">ⁱṣġīr</w>
                   <pc xml:id="xTok_000074">,</pc>
                   <w xml:id="testour3_f_70_e15_xTok_000075">kull</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="testour3_f_70_e15_xTok_000076">ʕāmīn</w>
-                  </w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000076">ʕāmīn</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a6.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"
@@ -509,9 +507,7 @@
                   <w join="right" xml:id="testour3_f_70_e15_xTok_000126" rend="withDash">bʕaḏ̣</w>
                   <w xml:id="testour3_f_70_e15_xTok_000128">hum</w>
                   <w join="right" xml:id="testour3_f_70_e15_xTok_000129" rend="withDash">w</w>
-                  <pc join="right" xml:id="xTok_000131">.</pc>
-                  <pc join="right" xml:id="xTok_000132">.</pc>
-                  <pc join="right" xml:id="xTok_000133">.</pc>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a10.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"
@@ -527,14 +523,14 @@
                   who="corpus:Testour3"
                   end="#T21"
                   start="#T20">
-                  <w xml:id="testour3_f_70_e15_xTok_000134">taww</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000135" rend="withDash">mā</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000137" rend="withDash">ʕād</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000139">š</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000140" rend="withDash">bnayyt</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000142">i</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000143">haḏāyʔ</w>
-                  <pc join="right" xml:id="xTok_000144">.</pc>
+                  <w xml:id="testour3_f_70_e15_xTok_000131">taww</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000132" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000134" rend="withDash">ʕād</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000136">š</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000137" rend="withDash">bnayyt</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000139">i</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000140">haḏāyʔ</w>
+                  <pc join="right" xml:id="xTok_000141">.</pc>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a11.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"
@@ -550,31 +546,30 @@
                   who="corpus:Testour3"
                   end="#T23"
                   start="#T22">
-                  <w xml:id="testour3_f_70_e15_xTok_000145">tawwa</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000146">lǟ</w>
-                  <pc xml:id="xTok_000147">,</pc>
-                  <w xml:id="testour3_f_70_e15_xTok_000148">kull</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000149">wāḥid</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000150" rend="withDash">w</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000152" rend="withDash">bīt</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000154" join="right">u</w>
-                  <pc xml:id="xTok_000155">,</pc>
-                  <w xml:id="testour3_f_70_e15_xTok_000156">kull</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000157">wāḥid</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000158" rend="withDash">w</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000160" rend="withDash">farš</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000162" join="right">u</w>
-                  <pc xml:id="xTok_000163">,</pc>
-                  <w xml:id="testour3_f_70_e15_xTok_000164">kull</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000165">wāḥid</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000166" rend="withDash">w</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000168" rend="withDash">ṣaḥn</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000170" join="right">u</w>
-                  <pc xml:id="xTok_000171">,</pc>
-                  <w xml:id="testour3_f_70_e15_xTok_000172">kull</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="testour3_f_70_e15_xTok_000173">wāḥid</w>
-                  </w>
+                  <w xml:id="testour3_f_70_e15_xTok_000142">tawwa</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000143">lǟ</w>
+                  <pc xml:id="xTok_000144">,</pc>
+                  <w xml:id="testour3_f_70_e15_xTok_000145">kull</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000146">wāḥid</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000147" rend="withDash">w</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000149" rend="withDash">bīt</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000151" join="right">u</w>
+                  <pc xml:id="xTok_000152">,</pc>
+                  <w xml:id="testour3_f_70_e15_xTok_000153">kull</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000154">wāḥid</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000155" rend="withDash">w</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000157" rend="withDash">farš</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000159" join="right">u</w>
+                  <pc xml:id="xTok_000160">,</pc>
+                  <w xml:id="testour3_f_70_e15_xTok_000161">kull</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000162">wāḥid</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000163" rend="withDash">w</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000165" rend="withDash">ṣaḥn</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000167" join="right">u</w>
+                  <pc xml:id="xTok_000168">,</pc>
+                  <w xml:id="testour3_f_70_e15_xTok_000169">kull</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000170">wāḥid</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a12.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"
@@ -590,25 +585,24 @@
                   who="corpus:Testour3"
                   end="#T25"
                   start="#T24">
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000174">hay</w>
-                  <pc xml:id="xTok_000175">.</pc>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000176" rend="withDash">mā</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000178" rend="withDash">ʕād</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000180">š</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000181">yḥibbu</w>
-                  <w xml:id="testour3_f_70_e15_xTok_000182">mʕa</w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000183" rend="withDash">bʕaḏ̣</w>
-                  <w type="truncated">
-                     <w xml:id="testour3_f_70_e15_xTok_000185">hum</w>
-                  </w>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000186">bǟhi</w>
-                  <pc xml:id="xTok_000187">,</pc>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000188">bǟhi</w>
-                  <pc xml:id="xTok_000189">,</pc>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000190">bǟhi</w>
-                  <pc xml:id="xTok_000191">,</pc>
-                  <w join="right" xml:id="testour3_f_70_e15_xTok_000192">ḥamdūḷḷa</w>
-                  <pc join="right" xml:id="xTok_000193">.</pc>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000171">hay</w>
+                  <pc xml:id="xTok_000172">.</pc>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000173" rend="withDash">mā</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000175" rend="withDash">ʕād</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000177">š</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000178">yḥibbu</w>
+                  <w xml:id="testour3_f_70_e15_xTok_000179">mʕa</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000180" rend="withDash">bʕaḏ̣</w>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000182">hum</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000183">bǟhi</w>
+                  <pc xml:id="xTok_000184">,</pc>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000185">bǟhi</w>
+                  <pc xml:id="xTok_000186">,</pc>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000187">bǟhi</w>
+                  <pc xml:id="xTok_000188">,</pc>
+                  <w join="right" xml:id="testour3_f_70_e15_xTok_000189">ḥamdūḷḷa</w>
+                  <pc join="right" xml:id="xTok_000190">.</pc>
                   <media url="arche:Beja/Testour/UMS/testour3_f_70_e15/testour3_f_70_e15_a13.wav"
                          decls="#testour3_f_70_e15-restricted"
                          mimeType="audio/wav"

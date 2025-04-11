@@ -6,12 +6,12 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:30.516393+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:32.042461+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:magsamtrab1_f_72_e1">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a">Harvest in the Past</title>
+            <title level="a">Harvesting in the Past</title>
             <title level="s">TUNOCENT Dataset</title>
             <respStmt>
                <persName ref="corpus:VB">Veronika Ritt-Benmimoun</persName>
@@ -235,7 +235,7 @@
                      rend="withDash">ʕan</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000012">na</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000013">milk</w>
-                  <w xml:id="magsamtrab1_f_72_e1_xTok_000014">ikbīr</w>
+                  <w xml:id="magsamtrab1_f_72_e1_xTok_000014">ⁱkbīr</w>
                   <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000015">naḥⁱsdu</w>
                   <pc xml:id="xTok_000016">.</pc>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000017">nugᵘʕdu</w>
@@ -249,8 +249,8 @@
                      rend="withDash">w</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000024">niḥna</w>
                   <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000025">naḥⁱsdu</w>
-                  <pc join="right" xml:id="xTok_000026">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000026">.</pc>
+                  <gap rendition="#ellipsis #inBrackets"/>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000027">naḥⁱsdu</w>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000028"
@@ -258,12 +258,12 @@
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000030"
                      rend="withDash">il</w>
-                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000032">minēžil</w>
-                  <pc join="right" xml:id="xTok_000033">.</pc>
-                  <gap/>
+                  <w xml:id="magsamtrab1_f_72_e1_xTok_000032" join="right">minēžil</w>
+                  <pc xml:id="xTok_000033">.</pc>
+                  <gap rendition="#ellipsis #inBrackets"/>
                   <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000034">minēžil</w>
-                  <pc join="right" xml:id="xTok_000035">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000035">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e1/magsamtrab1_f_72_e1_a1.wav"
                          decls="#magsamtrab1_f_72_e1-restricted"
                          mimeType="audio/wav"
@@ -301,8 +301,8 @@
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000054">nuṣṣ</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000055">yumkun</w>
                   <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000056">akkǟka</w>
-                  <pc join="right" xml:id="xTok_000057">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000057">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Kasserine/Magsam_Trab/UMS/magsamtrab1_f_72_e1/magsamtrab1_f_72_e1_a2.wav"
                          decls="#magsamtrab1_f_72_e1-restricted"
                          mimeType="audio/wav"
@@ -320,12 +320,10 @@
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000060"
                      rend="withDash">it</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000062">tṛak</w>
-                  </w>
-                  <w type="truncated">
-                     <w xml:id="magsamtrab1_f_72_e1_xTok_000063">ā</w>
-                  </w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000062">tṛak</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000063">ā</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000064"
                      rend="withDash">l</w>
@@ -335,9 +333,8 @@
                      rend="withDash">l</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000069">ūla</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000070">yaḥⁱṛṯu</w>
-                  <w type="truncated">
-                     <w xml:id="magsamtrab1_f_72_e1_xTok_000071">ʕlā</w>
-                  </w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000071">ʕlā</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000072"
                      rend="withDash">ʕa</w>
@@ -373,8 +370,8 @@
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000088">na</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000089">naḥⁱsdu</w>
                   <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000090">nḏ̣ālu</w>
-                  <pc join="right" xml:id="xTok_000091">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000091">.</pc>
+                  <gap rendition="#ellipsis #inBrackets"/>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000092">llaggṭu</w>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000093"
@@ -398,9 +395,8 @@
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000107"
                      rend="withDash">is</w>
-                  <w type="truncated">
-                     <w xml:id="magsamtrab1_f_72_e1_xTok_000109">sbūʕ</w>
-                  </w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000109">sbūʕ</w>
+                  <pause rendition="#ellipsis"/>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000110"
                      rend="withDash">f</w>
@@ -579,7 +575,7 @@
                   <pc xml:id="xTok_000223">.</pc>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000224"
-                     rend="withDash">šbīy</w>
+                     rend="withDash">šbīʸ</w>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000226" join="right">k</w>
                   <pc xml:id="xTok_000227">?</pc>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000228">danni</w>
@@ -600,9 +596,8 @@
                   who="corpus:MagsamTrab1"
                   end="#T16"
                   start="#T15">
-                  <w type="truncated">
-                     <w xml:id="magsamtrab1_f_72_e1_xTok_000233">imma</w>
-                  </w>
+                  <w join="right" xml:id="magsamtrab1_f_72_e1_xTok_000233">imma</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="magsamtrab1_f_72_e1_xTok_000234">ǟtu</w>
                   <w join="right"
                      xml:id="magsamtrab1_f_72_e1_xTok_000235"

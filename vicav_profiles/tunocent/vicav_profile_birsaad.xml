@@ -83,14 +83,229 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic001">
+            <name type="filename">BirSaad_title.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic002">
+            <name type="filename">Aslema_Bir_Saad.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic003">
+            <name type="filename">BirSaad_Bislema.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic004">
+            <name type="filename">School_built_in_1969_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic005">
+            <name type="filename">Market_place_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic006">
+            <name type="filename">Researcher_Rawaa_with_her_interviewee.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic007">
+            <name type="filename">Mosque.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic008">
+            <name type="filename">Ruins_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic009">
+            <name type="filename">Farming_tools_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic010">
+            <name type="filename">Saad's_well_giving_the_place_a_name.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic011">
+            <name type="filename">Majen_for_digging_rain_water_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic012">
+            <name type="filename">Majen_for_digging_rain_water_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic013">
+            <name type="filename">Bazin_dish.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic014">
+            <name type="filename">Local_eating_Bazin.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic015">
+            <name type="filename">How_people_live.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic016">
+            <name type="filename">Traditional_bridal_gown.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic017">
+            <name type="filename">Belt_for_the_bridal_gown.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic018">
+            <name type="filename">Bridal_pillow_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic019">
+            <name type="filename">Bridal_pillow_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic020">
+            <name type="filename">handbag_for_the_bride.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bir_Saad_01_graphic021">
+            <name type="filename">Carpet.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="BirSaad_title.jpg"/>
+                  <graphic url="BirSaad_title.jpg" decls="#profile_Bir_Saad_01_graphic001"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -116,110 +331,110 @@
                </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Aslema_Bir_Saad.jpg"/>
-                     <graphic url="Aslema_Bir_Saad.jpg"/>
+                     <link target="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002"/>
+                     <graphic url="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002"/>
                   </figure>
                   <figure>
-                     <link target="BirSaad_Bislema.jpg"/>
-                     <graphic url="BirSaad_Bislema.jpg"/>
+                     <link target="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003"/>
+                     <graphic url="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003"/>
                   </figure>
                </p>
                <p>Members of the Ouled Bou Saad tribe, however, constitute the large majority of Bir Saad’s population. According to locals, this tribe originally came from the small town of Sened situated about 30 km to the north of Bir Saad. The other two tribal groups, Ouled Zayd (Ūlǟd Zāyd) and il-Ayaysha (l-Aʕyǟyša) hail from the east. It is reported that the Ayaysha tribesmen came from the close Belkhir region, the Ouled Zayd tribe, however, from the direction of the coastal city of Sfax. Since there have been no family relations between the three tribes, people used to be wary of each other for a long time. Nowadays, however, the situation has changed. Even marriages go beyond the tribal borders.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="School_built_in_1969_(1).jpg"/>
-                     <graphic url="School_built_in_1969_(1).jpg"/>
+                     <link target="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004"/>
+                     <graphic url="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004"/>
                      <head>School built in 1969 (1)</head>
                   </figure>
                   <figure>
-                     <link target="Market_place_(3).jpg"/>
-                     <graphic url="Market_place_(3).jpg"/>
+                     <link target="Market_place_(3).jpg" decls="#profile_Bir_Saad_01_graphic005"/>
+                     <graphic url="Market_place_(3).jpg" decls="#profile_Bir_Saad_01_graphic005"/>
                      <head>Market place</head>
                   </figure>
                   <figure>
-                     <link target="Researcher_Rawaa_with_her_interviewee.jpg"/>
-                     <graphic url="Researcher_Rawaa_with_her_interviewee.jpg"/>
+                     <link target="Researcher_Rawaa_with_her_interviewee.jpg" decls="#profile_Bir_Saad_01_graphic006"/>
+                     <graphic url="Researcher_Rawaa_with_her_interviewee.jpg" decls="#profile_Bir_Saad_01_graphic006"/>
                      <head>Researcher Rawaa with her interviewee</head>
                   </figure>
                   <figure>
-                     <link target="Mosque.jpg"/>
-                     <graphic url="Mosque.jpg"/>
+                     <link target="Mosque.jpg" decls="#profile_Bir_Saad_01_graphic007"/>
+                     <graphic url="Mosque.jpg" decls="#profile_Bir_Saad_01_graphic007"/>
                      <head>Mosque</head>
                   </figure>
                   <figure>
-                     <link target="Ruins_(2).jpg"/>
-                     <graphic url="Ruins_(2).jpg"/>
+                     <link target="Ruins_(2).jpg" decls="#profile_Bir_Saad_01_graphic008"/>
+                     <graphic url="Ruins_(2).jpg" decls="#profile_Bir_Saad_01_graphic008"/>
                      <head>Ruins</head>
                   </figure>
                   <figure>
-                     <link target="Farming_tools_(3).jpg"/>
-                     <graphic url="Farming_tools_(3).jpg"/>
+                     <link target="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009"/>
+                     <graphic url="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009"/>
                      <head>Farming tools</head>
                   </figure>
                </p>
                <p xml:space="preserve">The place bears witness to its history while adapting to modern times. The toponym Bir Saad, meaning “Saad’s well”, perpetuates the builder’s memory. At the same time, the well itself is still in use. As people have no water pipes, each house is equipped with a dug underground water reservoir used as well and called majen (<hi xml:lang="aeb" rendition="#i">m</hi><hi xml:lang="aeb" rendition="#i">ǟ</hi><hi xml:lang="aeb" rendition="#i">žin</hi>). </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Saad's_well_giving_the_place_a_name.jpg"/>
-                     <graphic url="Saad's_well_giving_the_place_a_name.jpg"/>
+                     <link target="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010"/>
+                     <graphic url="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010"/>
                      <head>Saad's well giving the place a name</head>
                   </figure>
                   <figure>
-                     <link target="Majen_for_digging_rain_water_(3).jpg"/>
-                     <graphic url="Majen_for_digging_rain_water_(3).jpg"/>
+                     <link target="Majen_for_digging_rain_water_(3).jpg" decls="#profile_Bir_Saad_01_graphic011"/>
+                     <graphic url="Majen_for_digging_rain_water_(3).jpg" decls="#profile_Bir_Saad_01_graphic011"/>
                      <head>Majen for digging rain water</head>
                   </figure>
                   <figure>
-                     <link target="Majen_for_digging_rain_water_(2).jpg"/>
-                     <graphic url="Majen_for_digging_rain_water_(2).jpg"/>
+                     <link target="Majen_for_digging_rain_water_(2).jpg" decls="#profile_Bir_Saad_01_graphic012"/>
+                     <graphic url="Majen_for_digging_rain_water_(2).jpg" decls="#profile_Bir_Saad_01_graphic012"/>
                      <head>Majen for digging rain water</head>
                   </figure>
                   <figure>
-                     <link target="Bazin_dish.jpg"/>
-                     <graphic url="Bazin_dish.jpg"/>
+                     <link target="Bazin_dish.jpg" decls="#profile_Bir_Saad_01_graphic013"/>
+                     <graphic url="Bazin_dish.jpg" decls="#profile_Bir_Saad_01_graphic013"/>
                      <head>Bazin dish</head>
                   </figure>
                   <figure>
-                     <link target="Local_eating_Bazin.jpg"/>
-                     <graphic url="Local_eating_Bazin.jpg"/>
+                     <link target="Local_eating_Bazin.jpg" decls="#profile_Bir_Saad_01_graphic014"/>
+                     <graphic url="Local_eating_Bazin.jpg" decls="#profile_Bir_Saad_01_graphic014"/>
                      <head>Local eating Bazin</head>
                   </figure>
                   <figure>
-                     <link target="How_people_live.jpg"/>
-                     <graphic url="How_people_live.jpg"/>
+                     <link target="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015"/>
+                     <graphic url="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015"/>
                      <head>How people live</head>
                   </figure>
                </p>
                <p xml:space="preserve">In respect to food and clothes, Bir Saad’s inhabitants draw on traditions. For instance, Bazin (<hi xml:lang="aeb" rendition="#i">bāzīn</hi>), a very traditional dish based on barley, is cooked very often. Moreover, the garments for festivities are handcrafted. The bridal gown, called Bakhnoug (<hi xml:lang="aeb" rendition="#i">baxn</hi><hi xml:lang="aeb" rendition="#i">ūg</hi>), is made of a red wool fabric. </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Traditional_bridal_gown.jpg"/>
-                     <graphic url="Traditional_bridal_gown.jpg"/>
+                     <link target="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016"/>
+                     <graphic url="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016"/>
                      <head>Bridal gown</head>
                   </figure>
                   <figure>
-                     <link target="Belt_for_the_bridal_gown.jpg"/>
-                     <graphic url="Belt_for_the_bridal_gown.jpg"/>
+                     <link target="Belt_for_the_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic017"/>
+                     <graphic url="Belt_for_the_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic017"/>
                      <head>Belt for the bridal gown</head>
                   </figure>
                   <figure>
-                     <link target="Bridal_pillow_(1).jpg"/>
-                     <graphic url="Bridal_pillow_(1).jpg"/>
+                     <link target="Bridal_pillow_(1).jpg" decls="#profile_Bir_Saad_01_graphic018"/>
+                     <graphic url="Bridal_pillow_(1).jpg" decls="#profile_Bir_Saad_01_graphic018"/>
                      <head>Bridal pillow</head>
                   </figure>
                   <figure>
-                     <link target="Bridal_pillow_(3).jpg"/>
-                     <graphic url="Bridal_pillow_(3).jpg"/>
+                     <link target="Bridal_pillow_(3).jpg" decls="#profile_Bir_Saad_01_graphic019"/>
+                     <graphic url="Bridal_pillow_(3).jpg" decls="#profile_Bir_Saad_01_graphic019"/>
                      <head>Bridal pillow</head>
                   </figure>
                   <figure>
-                     <link target="handbag_for_the_bride.jpg"/>
-                     <graphic url="handbag_for_the_bride.jpg"/>
+                     <link target="handbag_for_the_bride.jpg" decls="#profile_Bir_Saad_01_graphic020"/>
+                     <graphic url="handbag_for_the_bride.jpg" decls="#profile_Bir_Saad_01_graphic020"/>
                      <head>Handbag for the bride</head>
                   </figure>
                   <figure>
-                     <link target="Carpet.jpg"/>
-                     <graphic url="Carpet.jpg"/>
+                     <link target="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021"/>
+                     <graphic url="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021"/>
                      <head>Carpet</head>
                   </figure>
                </p>

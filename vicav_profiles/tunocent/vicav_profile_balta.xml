@@ -83,14 +83,109 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_balta_01_graphic001">
+            <name type="filename">Balta1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic002">
+            <name type="filename">IMG_5100.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic003">
+            <name type="filename">HaneAbirMe.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic004">
+            <name type="filename">IMG_5667.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic005">
+            <name type="filename">IMG_5141.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic006">
+            <name type="filename">IMG_5130.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic007">
+            <name type="filename">IMG_E5125.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic008">
+            <name type="filename">IMG_5252.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_balta_01_graphic009">
+            <name type="filename">IMG_5224.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:IB">Abdelfattah Ilona</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Balta1.jpg"/>
+                  <graphic url="Balta1.jpg" decls="#profile_balta_01_graphic001"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -117,43 +212,43 @@
                <p xml:space="preserve">Balṭa is a village situated about 13 km north of the town of Bū Sǟlim in the Jendouba Governorate. Near the mountain called Ǧbal Bū Saʕīd, there is the tomb of the local saint Sīdi Ṣālaḥ il-Balṭi, on an elevation of 602 m. </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="IMG_5100.jpg"/>
-                     <graphic url="thumb/IMG_5100.jpg"/>
+                     <link target="IMG_5100.jpg" decls="#profile_balta_01_graphic002"/>
+                     <graphic url="thumb/IMG_5100.jpg" decls="#profile_balta_01_graphic002"/>
                      <head>Settlement near the mountains</head>
                   </figure>
                   <figure>
-                     <link target="HaneAbirMe.jpg"/>
-                     <graphic url="thumb/HaneAbirMe.jpg"/>
+                     <link target="HaneAbirMe.jpg" decls="#profile_balta_01_graphic003"/>
+                     <graphic url="thumb/HaneAbirMe.jpg" decls="#profile_balta_01_graphic003"/>
                      <head>Ilona with local friends</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5667.jpg"/>
-                     <graphic url="thumb/IMG_5667.jpg"/>
+                     <link target="IMG_5667.jpg" decls="#profile_balta_01_graphic004"/>
+                     <graphic url="thumb/IMG_5667.jpg" decls="#profile_balta_01_graphic004"/>
                      <head>Bench between two trees providing shadow</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5141.jpg"/>
-                     <graphic url="thumb/IMG_5141.jpg"/>
+                     <link target="IMG_5141.jpg" decls="#profile_balta_01_graphic005"/>
+                     <graphic url="thumb/IMG_5141.jpg" decls="#profile_balta_01_graphic005"/>
                      <head>Balta's Landscape</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5130.jpg"/>
-                     <graphic url="thumb/IMG_5130.jpg"/>
+                     <link target="IMG_5130.jpg" decls="#profile_balta_01_graphic006"/>
+                     <graphic url="thumb/IMG_5130.jpg" decls="#profile_balta_01_graphic006"/>
                      <head>Old stonewall with opening to a garden</head>
                   </figure>
                   <figure>
-                     <link target="IMG_E5125.jpg"/>
-                     <graphic url="thumb/IMG_E5125.jpg"/>
+                     <link target="IMG_E5125.jpg" decls="#profile_balta_01_graphic007"/>
+                     <graphic url="thumb/IMG_E5125.jpg" decls="#profile_balta_01_graphic007"/>
                      <head>Donkey with donkey child</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5252.jpg"/>
-                     <graphic url="thumb/IMG_5252.jpg"/>
+                     <link target="IMG_5252.jpg" decls="#profile_balta_01_graphic008"/>
+                     <graphic url="thumb/IMG_5252.jpg" decls="#profile_balta_01_graphic008"/>
                      <head>Researcher Ilona holding a small bird</head>
                   </figure>
                   <figure><!--@rendition="#full-width"-->
-                     <link target="IMG_5224.jpg"/>
-                     <graphic url="thumb/IMG_5224.jpg"/>
+                     <link target="IMG_5224.jpg" decls="#profile_balta_01_graphic009"/>
+                     <graphic url="thumb/IMG_5224.jpg" decls="#profile_balta_01_graphic009"/>
                      <head>Researcher Ilona with local women</head>
                   </figure>
                </p>

@@ -83,38 +83,113 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic001">
+            <name type="filename">Nadhour2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic002">
+            <name type="filename">Nadhour3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic003">
+            <name type="filename">Nadhour4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic004">
+            <name type="filename">Nadhour5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic005">
+            <name type="filename">Nadhour6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic006">
+            <name type="filename">Nadhour7.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Nadhour_01_graphic007">
+            <name type="filename">Nadhour8.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Nadhour2.jpg"/>
+                  <graphic url="Nadhour2.jpg" decls="#profile_Nadhour_01_graphic001"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour3.jpg"/>
+                  <graphic url="Nadhour3.jpg" decls="#profile_Nadhour_01_graphic002"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour4.jpg"/>
+                  <graphic url="Nadhour4.jpg" decls="#profile_Nadhour_01_graphic003"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour5.jpg"/>
+                  <graphic url="Nadhour5.jpg" decls="#profile_Nadhour_01_graphic004"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour6.jpg"/>
+                  <graphic url="Nadhour6.jpg" decls="#profile_Nadhour_01_graphic005"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour7.jpg"/>
+                  <graphic url="Nadhour7.jpg" decls="#profile_Nadhour_01_graphic006"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Nadhour8.jpg"/>
+                  <graphic url="Nadhour8.jpg" decls="#profile_Nadhour_01_graphic007"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>

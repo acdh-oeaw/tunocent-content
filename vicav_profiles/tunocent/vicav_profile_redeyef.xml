@@ -83,14 +83,180 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic001">
+            <name type="filename">Redeyef1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic002">
+            <name type="filename">Redeyef-map.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic003">
+            <name type="filename">Redeyef-color-train.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic004">
+            <name type="filename">Redeyef-landscape.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic005">
+            <name type="filename">Redeyef-Lampshades.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic006">
+            <name type="filename">Redeyef-roundabout.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic007">
+            <name type="filename">Redeyef-man.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic008">
+            <name type="filename">Redeyef-city-hall.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic009">
+            <name type="filename">Redeyef-bath.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic010">
+            <name type="filename">Redeyef-fight-club.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic011">
+            <name type="filename">Redeyef-bin.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic012">
+            <name type="filename">Redeyef-graffiti.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic013">
+            <name type="filename">Redeyef-sign.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic014">
+            <name type="filename">Redeyef-hand-drum.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic015">
+            <name type="filename">Redeyef-girls.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Redeyef_01_graphic016">
+            <name type="filename">Redeyef-bride.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Redeyef1.jpg"/>
+                  <graphic url="Redeyef1.jpg" decls="#profile_Redeyef_01_graphic001"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -117,76 +283,90 @@
                <p xml:space="preserve">Redeyef is a town in the very west of the Tunisian governorate of Gafsa, and was, according to local sources, called Xanfūsa l-Kaḥla in older days.</p>
                <p>
                   <figure>
-                     <link target="Redeyef-map.jpg"/>
-                     <graphic url="thumb/Redeyef-map.jpg"/>
+                     <link target="Redeyef-map.jpg" decls="#profile_Redeyef_01_graphic002"/>
+                     <graphic url="thumb/Redeyef-map.jpg" decls="#profile_Redeyef_01_graphic002"/>
                      <head type="imgCaption">Map of the governorate of Gafsa showing Redeyef in the very west</head>
                   </figure>
                </p>
                <p xml:space="preserve">It is famous for the railway-line that was established for the transport of phosphate between Redeyef and the Eastern coast. This is due to the fact, that the town and its surrounding mountainous area is best known for its high amount of phospahte resources. </p>
                <div type="gallery">
                   <head>Impressions of Redeyef</head>
-                  <link target="Redeyef-color-train.jpg">
-                     <graphic url="Redeyef-color-train.jpg"/>
-                     <head>Redeyef. Brightly coloured mini railway engine</head>
-                  </link>
-                  <link target="Redeyef-landscape.jpg">
-                     <graphic url="Redeyef-landscape.jpg"/>
-                     <head>Landscape</head>
-                  </link>
-                  <link target="Redeyef-Lampshades.jpg">
-                     <graphic url="Redeyef-Lampshades.jpg"/>
-                     <head>Lampshades on the marketplace</head>
-                  </link>
-                  <link target="Redeyef-roundabout.jpg">
-                     <graphic url="Redeyef-roundabout.jpg"/>
-                     <head>Mini roundabout in the city center</head>
-                  </link>
-                  <link target="Redeyef-man.jpg">
-                     <graphic url="Redeyef-man.jpg"/>
-                     <head>Man walking in the street</head>
-                  </link>
-                  <link target="Redeyef-city-hall.jpg">
-                     <graphic url="Redeyef-city-hall.jpg"/>
-                     <head>City hall entrance</head>
-                  </link>
-                  <link target="Redeyef-bath.jpg">
-                     <graphic url="Redeyef-bath.jpg"/>
-                     <head>Green puplic bath's door with beautiful ornaments</head>
-                  </link>
-                  <link target="Redeyef-fight-club.jpg">
-                     <graphic url="Redeyef-fight-club.jpg"/>
-                     <head>Church transformed into a fighting cub</head>
-                  </link>
-                  <link target="Redeyef-bin.jpg">
-                     <graphic url="Redeyef-bin.jpg"/>
-                     <head>Colorful painted garbage container</head>
-                  </link>
-                  <link target="Redeyef-graffiti.jpg">
-                     <graphic url="Redeyef-graffiti.jpg"/>
-                     <head>Graffiti arts in the schoolyard</head>
-                  </link>
-                  <link target="Redeyef-sign.jpg">
-                     <graphic url="Redeyef-sign.jpg"/>
-                     <head>Street sign</head>
-                  </link>
+                  <figure>
+                     <link target="Redeyef-color-train.jpg" decls="#profile_Redeyef_01_graphic003"/>
+                     <graphic url="Redeyef-color-train.jpg" decls="#profile_Redeyef_01_graphic003"/>
+                     <head type="imgCaption">Redeyef. Brightly coloured mini railway engine</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-landscape.jpg" decls="#profile_Redeyef_01_graphic004"/>
+                     <graphic url="Redeyef-landscape.jpg" decls="#profile_Redeyef_01_graphic004"/>
+                     <head type="imgCaption">Landscape</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-Lampshades.jpg" decls="#profile_Redeyef_01_graphic005"/>
+                     <graphic url="Redeyef-Lampshades.jpg" decls="#profile_Redeyef_01_graphic005"/>
+                     <head type="imgCaption">Lampshades on the marketplace</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-roundabout.jpg" decls="#profile_Redeyef_01_graphic006"/>
+                     <graphic url="Redeyef-roundabout.jpg" decls="#profile_Redeyef_01_graphic006"/>
+                     <head type="imgCaption">Mini roundabout in the city center</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-man.jpg" decls="#profile_Redeyef_01_graphic007"/>
+                     <graphic url="Redeyef-man.jpg" decls="#profile_Redeyef_01_graphic007"/>
+                     <head type="imgCaption">Man walking in the street</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-city-hall.jpg" decls="#profile_Redeyef_01_graphic008"/>
+                     <graphic url="Redeyef-city-hall.jpg" decls="#profile_Redeyef_01_graphic008"/>
+                     <head type="imgCaption">City hall entrance</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-bath.jpg" decls="#profile_Redeyef_01_graphic009"/>
+                     <graphic url="Redeyef-bath.jpg" decls="#profile_Redeyef_01_graphic009"/>
+                     <head type="imgCaption">Green puplic bath's door with beautiful ornaments</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-fight-club.jpg" decls="#profile_Redeyef_01_graphic010"/>
+                     <graphic url="Redeyef-fight-club.jpg" decls="#profile_Redeyef_01_graphic010"/>
+                     <head type="imgCaption">Church transformed into a fighting cub</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-bin.jpg" decls="#profile_Redeyef_01_graphic011"/>
+                     <graphic url="Redeyef-bin.jpg" decls="#profile_Redeyef_01_graphic011"/>
+                     <head type="imgCaption">Colorful painted garbage container</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-graffiti.jpg" decls="#profile_Redeyef_01_graphic012"/>
+                     <graphic url="Redeyef-graffiti.jpg" decls="#profile_Redeyef_01_graphic012"/>
+                     <head type="imgCaption">Graffiti arts in the schoolyard</head>
+                  </figure>
+                  <figure>
+                     <link target="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013"/>
+                     <graphic url="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013"/>
+                     <head type="imgCaption">Street sign</head>
+                  </figure>
                </div>
                <p xml:space="preserve">
                   Because of the available jobs in the mining industry and the town’s geographical closeness to the Algerian border and to the south Tunisian governorate of Tozeur, Redeyef’s population is very heterogeneous. As a result, the locals’ dialects differ strongly from each other. This is particularly true for people whose families might have lived in Redeyef for decades, but who grew up in different districts of the same town. According to local sources, the majority of the residents belong to the Awlǟd Yaḥya tribe. People are proud of their origin and uphold their traditions and customs. During wedding ceremonies, for instance, the music and the traditional dress demonstrate the families’ origins.
                </p>
             </div>
             <div type="gallery">
-               <link target="Redeyef-hand-drum.jpg">
-                  <graphic url="Redeyef-hand-drum.jpg"/>
+               <figure>
+                  <link target="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014"/>
+                  <graphic url="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014"/>
                   <head type="imgCaption">Hand drum</head>
-               </link>
-               <link target="Redeyef-girls.jpg">
-                  <graphic url="Redeyef-girls.jpg"/>
+               </figure>
+               <figure>
+                  <link target="Redeyef-girls.jpg" decls="#profile_Redeyef_01_graphic015"/>
+                  <graphic url="Redeyef-girls.jpg" decls="#profile_Redeyef_01_graphic015"/>
                   <head type="imgCaption">Celebrating girls accompaining a bride from the bath to her home</head>
-               </link>
-               <link target="Redeyef-bride.jpg">
-                  <graphic url="Redeyef-bride.jpg"/>
+               </figure>
+               <figure>
+                  <link target="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016"/>
+                  <graphic url="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016"/>
                   <head type="imgCaption">Dancing bride in traditional clothes of Algerian origin</head>
-               </link>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Redeyef, however this dialect is linguistically investigated within the TUNOCENT project.</p>

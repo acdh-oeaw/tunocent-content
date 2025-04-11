@@ -83,18 +83,43 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_kasserine_01_graphic001">
+            <name type="filename">Kasserine1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:GN">Naddari Ghofran</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_kasserine_01_graphic002">
+            <name type="filename">Kasserine2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:GN">Naddari Ghofran</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Kasserine1.jpg"/>
+                  <graphic url="Kasserine1.jpg" decls="#profile_kasserine_01_graphic001"/>
                   <head type="imgCaption">Ghofran Naddari</head>
                </figure>
                <figure>
-                  <graphic url="Kasserine2.jpg"/>
+                  <graphic url="Kasserine2.jpg" decls="#profile_kasserine_01_graphic002"/>
                   <head type="imgCaption">Ghofran Naddari</head>
                </figure>
                <label>Name (English)</label>

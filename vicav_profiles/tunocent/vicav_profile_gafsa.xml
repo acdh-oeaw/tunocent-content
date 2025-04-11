@@ -83,14 +83,160 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic001">
+            <name type="filename">Gafsa1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic002">
+            <name type="filename">Gafsa-cat.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic003">
+            <name type="filename">Gafsa-tree.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic004">
+            <name type="filename">Gafsa-horse.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic005">
+            <name type="filename">Gafsa-street-bath.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic006">
+            <name type="filename">Gafsa-bath.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic007">
+            <name type="filename">Gafsa-bath2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic008">
+            <name type="filename">Gafsa-mosque-sign.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic009">
+            <name type="filename">Gafsa-mosque.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic010">
+            <name type="filename">Gafsa-mosque-spring.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic011">
+            <name type="filename">Gafsa-roundabout.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic012">
+            <name type="filename">Gafsa-house.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic013">
+            <name type="filename">Gafsa-local.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gafsa_01_graphic014">
+            <name type="filename">Gafsa-street.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Gafsa1.jpg"/>
+                  <graphic url="Gafsa1.jpg" decls="#profile_Gafsa_01_graphic001"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -117,73 +263,77 @@
                <p xml:space="preserve">Gafsa (Latin: Capsa) is the capital of the southwest Tunisian governorate Gafsa. It abuts on a forest area (<hi xml:lang="aeb" rendition="#i">ž</hi><hi xml:lang="aeb" rendition="#i">arr</hi>) to its south, which has nearly the size of the town itself and provides a habitat for the local flora and fauna</p>
                <p>
                   <figure>
-                     <link target="Gafsa-cat.jpg"/>
-                     <graphic url="Gafsa-cat.jpg"/>
+                     <link target="Gafsa-cat.jpg" decls="#profile_Gafsa_01_graphic002"/>
+                     <graphic url="Gafsa-cat.jpg" decls="#profile_Gafsa_01_graphic002"/>
                      <head type="imgCaption">A cute cat in the forest</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-tree.jpg"/>
-                     <graphic url="Gafsa-tree.jpg"/>
+                     <link target="Gafsa-tree.jpg" decls="#profile_Gafsa_01_graphic003"/>
+                     <graphic url="Gafsa-tree.jpg" decls="#profile_Gafsa_01_graphic003"/>
                      <head type="imgCaption">Path through the forest</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-horse.jpg"/>
-                     <graphic url="Gafsa-horse.jpg"/>
+                     <link target="Gafsa-horse.jpg" decls="#profile_Gafsa_01_graphic004"/>
+                     <graphic url="Gafsa-horse.jpg" decls="#profile_Gafsa_01_graphic004"/>
                      <head type="imgCaption">Researcher Franzi getting a hug from a photogenic horse</head>
                   </figure>
                </p>
                <p xml:space="preserve">Just one street separates this woodland from the Great Mosque and the Roman baths, two of Gafsa’s main architectural attractions.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Gafsa-street-bath.jpg"/>
-                     <graphic url="Gafsa-street-bath.jpg"/>
+                     <link target="Gafsa-street-bath.jpg" decls="#profile_Gafsa_01_graphic005"/>
+                     <graphic url="Gafsa-street-bath.jpg" decls="#profile_Gafsa_01_graphic005"/>
                      <head type="imgCaption">Street between the woodland and the Roman baths</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-bath.jpg"/>
-                     <graphic url="Gafsa-bath.jpg"/>
+                     <link target="Gafsa-bath.jpg" decls="#profile_Gafsa_01_graphic006"/>
+                     <graphic url="Gafsa-bath.jpg" decls="#profile_Gafsa_01_graphic006"/>
                      <head type="imgCaption">Inside the baths building</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-bath2.jpg"/>
-                     <graphic url="Gafsa-bath2.jpg"/>
+                     <link target="Gafsa-bath2.jpg" decls="#profile_Gafsa_01_graphic007"/>
+                     <graphic url="Gafsa-bath2.jpg" decls="#profile_Gafsa_01_graphic007"/>
                      <head type="imgCaption">Franzi exploring the baths</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-mosque-sign.jpg"/>
-                     <graphic url="Gafsa-mosque-sign.jpg"/>
+                     <link target="Gafsa-mosque-sign.jpg" decls="#profile_Gafsa_01_graphic008"/>
+                     <graphic url="Gafsa-mosque-sign.jpg" decls="#profile_Gafsa_01_graphic008"/>
                      <head type="imgCaption">Great mosque of Gafsa</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-mosque.jpg"/>
-                     <graphic url="Gafsa-mosque.jpg"/>
+                     <link target="Gafsa-mosque.jpg" decls="#profile_Gafsa_01_graphic009"/>
+                     <graphic url="Gafsa-mosque.jpg" decls="#profile_Gafsa_01_graphic009"/>
                      <head type="imgCaption">At the yard of the mosque</head>
                   </figure>
                   <figure>
-                     <link target="Gafsa-mosque-spring.jpg"/>
-                     <graphic url="Gafsa-mosque-spring.jpg"/>
+                     <link target="Gafsa-mosque-spring.jpg" decls="#profile_Gafsa_01_graphic010"/>
+                     <graphic url="Gafsa-mosque-spring.jpg" decls="#profile_Gafsa_01_graphic010"/>
                      <head type="imgCaption">Spring in the mosque's yard</head>
                   </figure>
                </p>
                <p xml:space="preserve">As the area of the town and its surroundings was in prehistoric times settled by the Mesolithic Capsian civilisation, a series of archaeological excavations and their findings bear witness to this early culture. Today, however, the governorate of Gafsa is famous for its phosphate mining which emerged at the end of the 19th century. The mining causes serious health problems and pollution in the whole region. Still, the town attracts many people from the adjacent governorates searching for work. Therefore, the dialect spoken in Gafsa as well as the speakers themselves are very heterogeneous.</p>
             </div>
             <div type="gallery">
-               <link target="Gafsa-roundabout.jpg">
-                  <graphic url="Gafsa-roundabout.jpg"/>
-                  <head>Roundabout in the city centre</head>
-               </link>
-               <link target="Gafsa-house.jpg">
-                  <graphic url="Gafsa-house.jpg"/>
-                  <head>Traditional Arabic house with blue windows and doors</head>
-               </link>
-               <link target="Gafsa-local.jpg">
-                  <graphic url="Gafsa-local.jpg"/>
-                  <head>Researcher Franzi with her interviewee</head>
-               </link>
-               <link target="Gafsa-street.jpg">
-                  <graphic url="Gafsa-street.jpg"/>
-                  <head>On a walk through Gafsa</head>
-               </link>
+               <figure>
+                  <link target="Gafsa-roundabout.jpg" decls="#profile_Gafsa_01_graphic011"/>
+                  <graphic url="Gafsa-roundabout.jpg" decls="#profile_Gafsa_01_graphic011"/>
+                  <head type="imgCaption">Roundabout in the city centre</head>
+               </figure>
+               <figure>
+                  <link target="Gafsa-house.jpg" decls="#profile_Gafsa_01_graphic012"/>
+                  <graphic url="Gafsa-house.jpg" decls="#profile_Gafsa_01_graphic012"/>
+                  <head type="imgCaption">Traditional Arabic house with blue windows and doors</head>
+               </figure>
+               <figure>
+                  <link target="Gafsa-local.jpg" decls="#profile_Gafsa_01_graphic013"/>
+                  <graphic url="Gafsa-local.jpg" decls="#profile_Gafsa_01_graphic013"/>
+                  <head type="imgCaption">Researcher Franzi with her interviewee</head>
+               </figure>
+               <figure>
+                  <link target="Gafsa-street.jpg" decls="#profile_Gafsa_01_graphic014"/>
+                  <graphic url="Gafsa-street.jpg" decls="#profile_Gafsa_01_graphic014"/>
+                  <head type="imgCaption">On a walk through Gafsa</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">With the exception of two texts in the Arabic dialect of Gafsan Jews (Singer 1980, 272-276) hitherto no data is published on the dialect of Gafsa, however this dialect is linguistically investigated within the TUNOCENT project.</p>

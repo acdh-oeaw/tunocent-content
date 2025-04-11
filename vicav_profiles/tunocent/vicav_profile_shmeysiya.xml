@@ -83,14 +83,60 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Shmeysiya_01_graphic001">
+            <name type="filename">Animals-of-Shmaysiya-1-1024x827.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shmeysiya_01_graphic002">
+            <name type="filename">Animals_of_Shmaysiya_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shmeysiya_01_graphic003">
+            <name type="filename">Animals_of_Shmaysiya_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Shmeysiya_01_graphic004">
+            <name type="filename">Animals_of_Shmaysiya_(4).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:FS">Schwemmer Franziska</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Animals-of-Shmaysiya-1-1024x827.jpg"/>
+                  <graphic url="Animals-of-Shmaysiya-1-1024x827.jpg" decls="#profile_Shmeysiya_01_graphic001"/>
                   <head type="imgCaption">Franziska Schwemmer <!-- Check this--></head>
                </figure>
                <label>Name (English)</label>
@@ -121,18 +167,21 @@
                produce most of their groceries themselves. </p>
             </div>
             <div type="gallery">
-               <link target="Animals_of_Shmaysiya_(3).jpg">
-                  <graphic url="Animals_of_Shmaysiya_(3).jpg"/>
-                  <head>Welcoming dogs</head>
-               </link>
-               <link target="Animals_of_Shmaysiya_(2).jpg">
-                  <graphic url="Animals_of_Shmaysiya_(2).jpg"/>
-                  <head>Dogs in the field</head>
-               </link>
-               <link target="Animals_of_Shmaysiya_(4).jpg">
-                  <graphic url="Animals_of_Shmaysiya_(4).jpg"/>
-                  <head>Wild turkey walking around</head>
-               </link>
+               <figure>
+                  <link target="Animals_of_Shmaysiya_(3).jpg" decls="#profile_Shmeysiya_01_graphic002"/>
+                  <graphic url="Animals_of_Shmaysiya_(3).jpg" decls="#profile_Shmeysiya_01_graphic002"/>
+                  <head type="imgCaption">Welcoming dogs</head>
+               </figure>
+               <figure>
+                  <link target="Animals_of_Shmaysiya_(2).jpg" decls="#profile_Shmeysiya_01_graphic003"/>
+                  <graphic url="Animals_of_Shmaysiya_(2).jpg" decls="#profile_Shmeysiya_01_graphic003"/>
+                  <head type="imgCaption">Dogs in the field</head>
+               </figure>
+               <figure>
+                  <link target="Animals_of_Shmaysiya_(4).jpg" decls="#profile_Shmeysiya_01_graphic004"/>
+                  <graphic url="Animals_of_Shmaysiya_(4).jpg" decls="#profile_Shmeysiya_01_graphic004"/>
+                  <head type="imgCaption">Wild turkey walking around</head>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Shmeysiya, however this dialect is linguistically investigated within the TUNOCENT project.</p>

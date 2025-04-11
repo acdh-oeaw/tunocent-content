@@ -83,34 +83,99 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic001">
+            <name type="filename">Gobrar1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic002">
+            <name type="filename">Gobrar2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic003">
+            <name type="filename">Gobrar3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic004">
+            <name type="filename">Gobrar4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic005">
+            <name type="filename">Gobrar5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Gobrar_01_graphic006">
+            <name type="filename">Gobrar6.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="Gobrar1.jpg"/>
+                  <graphic url="Gobrar1.jpg" decls="#profile_Gobrar_01_graphic001"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gobrar2.jpg"/>
+                  <graphic url="Gobrar2.jpg" decls="#profile_Gobrar_01_graphic002"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gobrar3.jpg"/>
+                  <graphic url="Gobrar3.jpg" decls="#profile_Gobrar_01_graphic003"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gobrar4.jpg"/>
+                  <graphic url="Gobrar4.jpg" decls="#profile_Gobrar_01_graphic004"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gobrar5.jpg"/>
+                  <graphic url="Gobrar5.jpg" decls="#profile_Gobrar_01_graphic005"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gobrar6.jpg"/>
+                  <graphic url="Gobrar6.jpg" decls="#profile_Gobrar_01_graphic006"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>

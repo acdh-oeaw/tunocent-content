@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:24:11.403666+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:54.473619+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:touila4_f_60_e">
    <teiHeader>
       <fileDesc>
@@ -235,14 +235,12 @@
                   end="#T2"
                   start="#T1">
                   <w xml:id="touila4_f_60_e_xTok_000010">kī</w>
-                  <w type="truncated">
-                     <w xml:id="touila4_f_60_e_xTok_000011">ymūwt</w>
-                  </w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000011">ymūʷt</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="touila4_f_60_e_xTok_000012">kī</w>
                   <w xml:id="touila4_f_60_e_xTok_000013">ymūt</w>
-                  <w type="truncated">
-                     <w xml:id="touila4_f_60_e_xTok_000014">hānah</w>
-                  </w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000014">hānah</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="touila4_f_60_e_xTok_000015">ymūt</w>
                   <w xml:id="touila4_f_60_e_xTok_000016">hāna</w>
                   <w xml:id="touila4_f_60_e_xTok_000017">yibku</w>
@@ -250,7 +248,7 @@
                   <pc xml:id="xTok_000019">,</pc>
                   <w xml:id="touila4_f_60_e_xTok_000020">yibku</w>
                   <w xml:id="touila4_f_60_e_xTok_000021">ʕlīh</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000022">miskīyn</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000022">miskīʸn</w>
                   <pc join="right" xml:id="xTok_000023">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a2.wav"
                          decls="#touila4_f_60_e-restricted"
@@ -270,14 +268,12 @@
                   <w xml:id="touila4_f_60_e_xTok_000027">ysaxxif</w>
                   <w xml:id="touila4_f_60_e_xTok_000028">yugʕud</w>
                   <w xml:id="touila4_f_60_e_xTok_000029">āk</w>
-                  <w type="truncated">
-                     <w xml:id="touila4_f_60_e_xTok_000030">il</w>
-                  </w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000030">il</w>
+                  <pause rendition="#ellipsis"/>
                   <w xml:id="touila4_f_60_e_xTok_000031">ḥatta</w>
                   <w xml:id="touila4_f_60_e_xTok_000032">kī</w>
-                  <w type="truncated">
-                     <w join="right" xml:id="touila4_f_60_e_xTok_000033">ymūt</w>
-                  </w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000033">ymūt</w>
+                  <pause rendition="#ellipsis" join="right"/>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a3.wav"
                          decls="#touila4_f_60_e-restricted"
                          mimeType="audio/wav"
@@ -328,8 +324,8 @@
                   <w xml:id="touila4_f_60_e_xTok_000061">miskīn</w>
                   <w xml:id="touila4_f_60_e_xTok_000062">kī</w>
                   <w join="right" xml:id="touila4_f_60_e_xTok_000063">hakkāka</w>
-                  <pc join="right" xml:id="xTok_000064">.</pc>
-                  <gap/>
+                  <pc xml:id="xTok_000064">.</pc>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a5.wav"
                          decls="#touila4_f_60_e-restricted"
                          mimeType="audio/wav"
@@ -382,8 +378,8 @@
                   <w xml:id="touila4_f_60_e_xTok_000091">taww</w>
                   <w xml:id="touila4_f_60_e_xTok_000092">hūw</w>
                   <w xml:id="touila4_f_60_e_xTok_000093">ẓawwāḷi</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000094">ṛāhu</w>
-                  <gap/>
+                  <w xml:id="touila4_f_60_e_xTok_000094">ṛāhu</w>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
                   <pc join="right" xml:id="xTok_000095">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a7.wav"
                          decls="#touila4_f_60_e-restricted"
@@ -520,15 +516,15 @@
                   <w xml:id="touila4_f_60_e_xTok_000180" join="right">awlād</w>
                   <pc xml:id="xTok_000181">,</pc>
                   <w xml:id="touila4_f_60_e_xTok_000182">ōk</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000183" rend="withDash">il</w>
-                  <w xml:id="touila4_f_60_e_xTok_000185" join="right">žǟbhum</w>
-                  <pc xml:id="xTok_000186">,</pc>
-                  <w xml:id="touila4_f_60_e_xTok_000187">ōka</w>
-                  <w xml:id="touila4_f_60_e_xTok_000188">ydibbu</w>
-                  <w xml:id="touila4_f_60_e_xTok_000189">msǟkīn</w>
-                  <w xml:id="touila4_f_60_e_xTok_000190">ʕlā</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000191">ṛwāḥḥum</w>
-                  <pc join="right" xml:id="xTok_000192">.</pc>
+                  <w xml:id="touila4_f_60_e_xTok_000183">il</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000184">žǟbhum</w>
+                  <pc xml:id="xTok_000185">,</pc>
+                  <w xml:id="touila4_f_60_e_xTok_000186">ōka</w>
+                  <w xml:id="touila4_f_60_e_xTok_000187">ydibbu</w>
+                  <w xml:id="touila4_f_60_e_xTok_000188">msǟkīn</w>
+                  <w xml:id="touila4_f_60_e_xTok_000189">ʕlā</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000190">ṛwāḥḥum</w>
+                  <pc join="right" xml:id="xTok_000191">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a12.wav"
                          decls="#touila4_f_60_e-restricted"
                          mimeType="audio/wav"
@@ -541,19 +537,18 @@
                   who="corpus:Touila4"
                   end="#T24"
                   start="#T23">
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000193">yihⁱmlu</w>
-                  <pc xml:id="xTok_000194">,</pc>
-                  <w xml:id="touila4_f_60_e_xTok_000195">yimšu</w>
-                  <w type="truncated">
-                     <w xml:id="touila4_f_60_e_xTok_000196">msǟkīn</w>
-                  </w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000197" rend="withDash">mā</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000199" rend="withDash">tidrī</w>
-                  <w xml:id="touila4_f_60_e_xTok_000201">š</w>
-                  <w xml:id="touila4_f_60_e_xTok_000202">ʕlīhum</w>
-                  <w xml:id="touila4_f_60_e_xTok_000203">wēn</w>
-                  <w join="right" xml:id="touila4_f_60_e_xTok_000204">dabbu</w>
-                  <pc join="right" xml:id="xTok_000205">.</pc>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000192">yihⁱmlu</w>
+                  <pc xml:id="xTok_000193">,</pc>
+                  <w xml:id="touila4_f_60_e_xTok_000194">yimšu</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000195">msǟkīn</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000196" rend="withDash">mā</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000198" rend="withDash">tidrī</w>
+                  <w xml:id="touila4_f_60_e_xTok_000200">š</w>
+                  <w xml:id="touila4_f_60_e_xTok_000201">ʕlīhum</w>
+                  <w xml:id="touila4_f_60_e_xTok_000202">wēn</w>
+                  <w join="right" xml:id="touila4_f_60_e_xTok_000203">dabbu</w>
+                  <pc join="right" xml:id="xTok_000204">.</pc>
                   <media url="arche:Beja/Touila/UMS/touila4_f_60_e/touila4_f_60_e_a13.wav"
                          decls="#touila4_f_60_e-restricted"
                          mimeType="audio/wav"

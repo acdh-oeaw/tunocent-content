@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:50.556905+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:42.762481+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:ouledbouali2_f_70_e">
    <teiHeader>
       <fileDesc>
@@ -239,11 +239,13 @@
                   <pc xml:id="xTok_000018">.</pc>
                   <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000019">wišinhi</w>
                   <pc xml:id="xTok_000020">?</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000021">tā</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000022">ndanni</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000023">nawʕ</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000024">ōxuṛ</w>
-                  <pc join="right" xml:id="xTok_000025">?</pc>
+                  <w join="right"
+                     xml:id="ouledbouali2_f_70_e_xTok_000021"
+                     rend="withDash">tā</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000023">ndanni</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000024">nawʕ</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000025">ōxuṛ</w>
+                  <pc join="right" xml:id="xTok_000026">?</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a1.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -256,11 +258,11 @@
                   who="corpus:Nefza4"
                   end="#T4"
                   start="#T3">
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000026">kunti</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000027">tixⁱdmi</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000028">baṛša</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000029">qbal</w>
-                  <pc join="right" xml:id="xTok_000030">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000027">kunti</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000028">tixⁱdmi</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000029">baṛša</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000030">qbal</w>
+                  <pc join="right" xml:id="xTok_000031">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a8.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -273,25 +275,25 @@
                   who="corpus:OuledBouAli2"
                   end="#T8"
                   start="#T7">
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000031">nḥibb</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000032">naʕmil</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000033">ʕžīna</w>
-                  <pc xml:id="xTok_000034">,</pc>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000035">niʕžin</w>
-                  <pc xml:id="xTok_000036">,</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000037">ndanni</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000032">nḥibb</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000033">naʕmil</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000034">ʕžīna</w>
+                  <pc xml:id="xTok_000035">,</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000036">niʕžin</w>
+                  <pc xml:id="xTok_000037">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000038">ndanni</w>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000038"
+                     xml:id="ouledbouali2_f_70_e_xTok_000039"
                      rend="withDash">l</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000040" join="right">ⁱfṭīr</w>
-                  <pc xml:id="xTok_000041">,</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000042">nṭayyib</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000043">ⁱfṭīr</w>
-                  <pc xml:id="xTok_000044">,</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000045">rhayyif</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000046">fōg</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000047">baʕḏ̣ah</w>
-                  <pc join="right" xml:id="xTok_000048">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000041" join="right">ⁱfṭīr</w>
+                  <pc xml:id="xTok_000042">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000043">nṭayyib</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000044">ⁱfṭīr</w>
+                  <pc xml:id="xTok_000045">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000046">rhayyif</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000047">fōg</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000048">baʕḏ̣ah</w>
+                  <pc join="right" xml:id="xTok_000049">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a2.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -304,27 +306,27 @@
                   who="corpus:OuledBouAli2"
                   end="#T10"
                   start="#T9">
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000049">ndanni</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000050">ⁱmlǟwi</w>
-                  <pc xml:id="xTok_000051">,</pc>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000052">niṭwīhum</w>
-                  <pc xml:id="xTok_000053">,</pc>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000054">nṭabbighum</w>
-                  <pc xml:id="xTok_000055">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000050">ndanni</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000051">ⁱmlǟwi</w>
+                  <pc xml:id="xTok_000052">,</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000053">niṭwīhum</w>
+                  <pc xml:id="xTok_000054">,</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000055">nṭabbighum</w>
+                  <pc xml:id="xTok_000056">,</pc>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000056"
+                     xml:id="ouledbouali2_f_70_e_xTok_000057"
                      rend="withDash">w</w>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000058"
+                     xml:id="ouledbouali2_f_70_e_xTok_000059"
                      rend="withDash">ndannī</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000060">lha</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000061">zēt</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000062">bǟš</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000063">dzī</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000064">bǟhya</w>
-                  <pc xml:id="xTok_000065">,</pc>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000066">brīma</w>
-                  <pc join="right" xml:id="xTok_000067">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000061">lha</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000062">zēt</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000063">bǟš</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000064">dzī</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000065">bǟhya</w>
+                  <pc xml:id="xTok_000066">,</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000067">brīma</w>
+                  <pc join="right" xml:id="xTok_000068">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a3.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -338,24 +340,24 @@
                   end="#T12"
                   start="#T11">
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000068"
+                     xml:id="ouledbouali2_f_70_e_xTok_000069"
                      rend="withDash">w</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000070">baʕⁱd</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000071">naʕmil</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000071">baʕⁱd</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000072">naʕmil</w>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000072"
+                     xml:id="ouledbouali2_f_70_e_xTok_000073"
                      rend="withDash">b</w>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000074"
+                     xml:id="ouledbouali2_f_70_e_xTok_000075"
                      rend="withDash">il</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000076" join="right">xmīra</w>
-                  <pc xml:id="xTok_000077">.</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000078">taʕⁱrfi</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000077" join="right">xmīra</w>
+                  <pc xml:id="xTok_000078">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000079">taʕⁱrfi</w>
                   <w join="right"
-                     xml:id="ouledbouali2_f_70_e_xTok_000079"
+                     xml:id="ouledbouali2_f_70_e_xTok_000080"
                      rend="withDash">l</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000081">ⁱxmīra</w>
-                  <pc join="right" xml:id="xTok_000082">?</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000082">ⁱxmīra</w>
+                  <pc join="right" xml:id="xTok_000083">?</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a4.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -368,8 +370,8 @@
                   who="corpus:AN"
                   end="#T18"
                   start="#T17">
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000083">ǟy</w>
-                  <pc join="right" xml:id="xTok_000084">.</pc>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000084">ǟy</w>
+                  <pc join="right" xml:id="xTok_000085">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a9.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -382,18 +384,18 @@
                   who="corpus:OuledBouAli2"
                   end="#T14"
                   start="#T13">
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000085">ⁱnbillu</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000086">bǟha</w>
-                  <pc xml:id="xTok_000087">.</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000088">twalli</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000089">wēn</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000090">ⁱṭṭīb</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000091">ⁱdžī</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000092">mnaffža</w>
-                  <pc xml:id="xTok_000093">,</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000094">tbāṛik</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000095">aḷḷa</w>
-                  <pc join="right" xml:id="xTok_000096">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000086">ⁱnbillu</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000087">bǟha</w>
+                  <pc xml:id="xTok_000088">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000089">twalli</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000090">wēn</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000091">ⁱṭṭīb</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000092">ⁱdžī</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000093">mnaffža</w>
+                  <pc xml:id="xTok_000094">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000095">tbāṛik</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000096">aḷḷa</w>
+                  <pc join="right" xml:id="xTok_000097">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a5.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"
@@ -406,23 +408,25 @@
                   who="corpus:OuledBouAli2"
                   end="#T16"
                   start="#T15">
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000097">ndanni</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000098">kull</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000099">šayy</w>
-                  <pc xml:id="xTok_000100">,</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000101">nixdim</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000102">fīh</w>
-                  <pc xml:id="xTok_000103">.</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000104">mā</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000105">nxalli</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000106">mā</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000107">nṭayyib</w>
-                  <pc xml:id="xTok_000108">.</pc>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000109">nixdim</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000110">kull</w>
-                  <w xml:id="ouledbouali2_f_70_e_xTok_000111">ḥǟža</w>
-                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000112">nixdimha</w>
-                  <pc join="right" xml:id="xTok_000113">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000098">ndanni</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000099">kull</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000100">šayy</w>
+                  <pc xml:id="xTok_000101">,</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000102">nixdim</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000103">fīh</w>
+                  <pc xml:id="xTok_000104">.</pc>
+                  <w join="right"
+                     xml:id="ouledbouali2_f_70_e_xTok_000105"
+                     rend="withDash">mā</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000107">nxalli</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000108">mā</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000109">nṭayyib</w>
+                  <pc xml:id="xTok_000110">.</pc>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000111">nixdim</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000112">kull</w>
+                  <w xml:id="ouledbouali2_f_70_e_xTok_000113">ḥǟža</w>
+                  <w join="right" xml:id="ouledbouali2_f_70_e_xTok_000114">nixdimha</w>
+                  <pc join="right" xml:id="xTok_000115">.</pc>
                   <media url="arche:Beja/Ouled_Bou_Ali/UMS/ouledbouali2_f_70_e/ouledbouali2_f_70_e_a6.wav"
                          decls="#ouledbouali2_f_70_e-restricted"
                          mimeType="audio/wav"

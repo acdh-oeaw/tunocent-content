@@ -6,7 +6,7 @@
 <?standoff fn="shawi_standoff.xml" path=""?>
 <?attributeAssignments fn="shawi_attributes.xml" path="{filePath}/../880_conf/"?>
 <?shortCuts fn="shawi_shortCuts" path="{filePath}/../880_conf/"?>
-<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-02-09T22:23:25.961819+01:00-->
+<!--THIS FILE WAS PROGRAMMATICALLY CREATED by mergeHeaderAndTranscription.xsl on/at2025-04-11T02:04:29.360974+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="corpus:kef1_f_45_e1">
    <teiHeader>
       <fileDesc>
@@ -254,23 +254,23 @@
                   <w xml:id="kef1_f_45_e1_xTok_000015" join="right">burzgǟn</w>
                   <pc xml:id="xTok_000016">.</pc>
                   <w xml:id="kef1_f_45_e1_xTok_000017">yittaʕmal</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000018" join="right" rend="withDash">fi</w>
-                  <pc xml:id="xTok_000020">…</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000021">nṭayybū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000022" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000024">šhaṛ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000025">mǟy</w>
-                  <pc xml:id="xTok_000026">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000027" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000029">masṭāž</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000030">mǟy</w>
-                  <pc xml:id="xTok_000031">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000032" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000034" rend="withDash">ⁱngūlū</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000036">lu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000037">ʕēd</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000038">mayyu</w>
-                  <pc join="right" xml:id="xTok_000039">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000018" rend="withDash">fi</w>
+                  <pause rendition="#ellipsis"/>
+                  <w xml:id="kef1_f_45_e1_xTok_000020">nṭayybū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000021" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000023">šhaṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000024">mǟy</w>
+                  <pc xml:id="xTok_000025">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000026" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000028">masṭāž</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000029">mǟy</w>
+                  <pc xml:id="xTok_000030">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000031" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000033" rend="withDash">ⁱngūlū</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000035">lu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000036">ʕēd</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000037">mayyu</w>
+                  <pc join="right" xml:id="xTok_000038">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a1.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -286,36 +286,36 @@
                   who="corpus:Kef1"
                   end="#T4"
                   start="#T3">
-                  <w xml:id="kef1_f_45_e1_xTok_000040">waqtha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000041">yukṯuṛ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000042" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000044" join="right">xass</w>
-                  <pc xml:id="xTok_000045">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000046" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000048" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000050">nafs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000051" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000053">waqt</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000054" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000056" join="right">kǟfīya</w>
-                  <pc xml:id="xTok_000057">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000058" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000060">wilǟyǟt</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000061" rend="withDash">ⁱl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000063">kullha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000064">taʕrif</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000065">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000066">kī</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000067">ngūlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000039">waqtha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000040">yukṯuṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000041" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000043" join="right">xass</w>
+                  <pc xml:id="xTok_000044">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000045" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000047" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000049">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000050" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000052">waqt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000053" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000055" join="right">kǟfīya</w>
+                  <pc xml:id="xTok_000056">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000057" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000059">wilǟyǟt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000060" rend="withDash">ⁱl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000062">kullha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000063">taʕrif</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000064">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000065">kī</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000066">ngūlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000067">burzgǟn</w>
                   <w xml:id="kef1_f_45_e1_xTok_000068">burzgǟn</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000069">burzgǟn</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000070">kǟfi</w>
-                  <pc xml:id="xTok_000071">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000072" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000074">yitkíl</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000075" rend="withDash">fi</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000077">mǟy</w>
-                  <pc join="right" xml:id="xTok_000078">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000069">kǟfi</w>
+                  <pc xml:id="xTok_000070">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000071" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000073">yitkíl</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000074" rend="withDash">fi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000076">mǟy</w>
+                  <pc join="right" xml:id="xTok_000077">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a2.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -331,19 +331,19 @@
                   who="corpus:Kef1"
                   end="#T6"
                   start="#T5">
-                  <w xml:id="kef1_f_45_e1_xTok_000079">biš</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000080">nḥaḏ̣ḏ̣ṛu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000081" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000083">burzgǟn</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000084" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000086">nṭayybū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000087" rend="withDash">f</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000089" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000091">kǟf</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000092">nišru</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000093" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000095">fǟkya</w>
-                  <pc join="right" xml:id="xTok_000096">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000078">biš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000079">nḥaḏ̣ḏ̣ṛu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000080" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000082">burzgǟn</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000083" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000085">nṭayybū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000086" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000088" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000090">kǟf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000091">nišru</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000092" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000094">fǟkya</w>
+                  <pc join="right" xml:id="xTok_000095">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a3.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -359,27 +359,27 @@
                   who="corpus:Kef1"
                   end="#T8"
                   start="#T7">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000097" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000099">fǟkya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000100">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000101">hīya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000102">lōz</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000103" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000105">bunduq</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000106" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000108">zōz</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000109" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000111">bū</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000112">frīwa</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000113" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000115">dagla</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000116" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000118">nišru</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000119" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000121" join="right">lḥam</w>
-                  <pc xml:id="xTok_000122">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000123">ʕallūš</w>
-                  <pc join="right" xml:id="xTok_000124">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000096" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000098">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000099">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000100">hīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000101">lōz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000102" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000104">bunduq</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000105" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000107">zōz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000108" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000110">bū</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000111">frīwa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000112" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000114">dagla</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000115" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000117">nišru</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000118" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000120" join="right">lḥam</w>
+                  <pc xml:id="xTok_000121">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000122">ʕallūš</w>
+                  <pc join="right" xml:id="xTok_000123">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a4.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -395,31 +395,31 @@
                   who="corpus:Kef1"
                   end="#T10"
                   start="#T9">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000125" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000127" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000129" rend="withDash">iṭ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000131">ṭbīʕa</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000132" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000134">kull</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000135" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000137">kǟfīya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000138">ʕandha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000139">kusksi</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000140" rend="withDash">f</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000142" rend="withDash">id</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000144" join="right">dāṛ</w>
-                  <pc xml:id="xTok_000145">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000146" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000148" join="right">ʕōla</w>
-                  <pc xml:id="xTok_000149">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000150" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000152">ᵃḥlīb</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000153" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000155" join="right">zibda</w>
-                  <pc xml:id="xTok_000156">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000157" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000159">sukkuṛ</w>
-                  <pc join="right" xml:id="xTok_000160">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000124" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000126" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000128" rend="withDash">iṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000130">ṭbīʕa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000131" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000133">kull</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000134" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000136">kǟfīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000137">ʕandha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000138">kusksi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000139" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000141" rend="withDash">id</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000143" join="right">dāṛ</w>
+                  <pc xml:id="xTok_000144">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000145" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000147" join="right">ʕōla</w>
+                  <pc xml:id="xTok_000148">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000149" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000151">ᵃḥlīb</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000152" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000154" join="right">zibda</w>
+                  <pc xml:id="xTok_000155">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000156" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000158">sukkuṛ</w>
+                  <pc join="right" xml:id="xTok_000159">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a5.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -435,28 +435,28 @@
                   who="corpus:Kef1"
                   end="#T12"
                   start="#T11">
-                  <w xml:id="kef1_f_45_e1_xTok_000161">biš</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000162">nḥaḏ̣ḏ̣ṛu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000163">burzgǟn</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000164">niglu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000165" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000167">fǟkya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000168">nʕarržōha</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000169" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000171">nguṣṣu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000172" rend="withDash">d</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000174">dagla</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000175">ʕlā</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000176">aṛbʕa</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000177" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000179">nfayyḏ̣u</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000180" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000182">ᵃḥlīb</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000183" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000185">ⁱnḏawwbu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000186" rend="withDash">z</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000188">zibda</w>
-                  <pc join="right" xml:id="xTok_000189">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000160">biš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000161">nḥaḏ̣ḏ̣ṛu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000162">burzgǟn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000163">niglu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000164" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000166">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000167">nʕarržōha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000168" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000170">nguṣṣu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000171" rend="withDash">d</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000173">dagla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000174">ʕlā</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000175">aṛbʕa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000176" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000178">nfayyḏ̣u</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000179" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000181">ᵃḥlīb</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000182" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000184">ⁱnḏawwbu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000185" rend="withDash">z</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000187">zibda</w>
+                  <pc join="right" xml:id="xTok_000188">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a6.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -472,35 +472,35 @@
                   who="corpus:Kef1"
                   end="#T14"
                   start="#T13">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000190" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000192">nfawwṛu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000193" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000195">kusksi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000196">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000197">hūwa</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000198">šamsi</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000199">nfawwṛūh</w>
-                  <pc xml:id="xTok_000200">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000201" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000203" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000205">nafs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000206" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000208">waqⁱt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000209">nḥuṭṭu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000210" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000212">lḥam</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000213">illi</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000214" rend="withDash">baʕd</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000216">ma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000217">naġslūh</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000218">nfawwḥū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000219" rend="withDash">b</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000221">ṭaṛif</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000222">milᵃḥ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000223" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000225" rend="withDash">il</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000227">klīl</w>
-                  <pc join="right" xml:id="xTok_000228">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000189" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000191">nfawwṛu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000192" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000194">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000195">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000196">hūwa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000197">šamsi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000198">nfawwṛūh</w>
+                  <pc xml:id="xTok_000199">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000200" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000202" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000204">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000205" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000207">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000208">nḥuṭṭu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000209" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000211">lḥam</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000212">illi</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000213" rend="withDash">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000215">ma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000216">naġslūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000217">nfawwḥū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000218" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000220">ṭaṛⁱf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000221">milᵃḥ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000222" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000224" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000226">klīl</w>
+                  <pc join="right" xml:id="xTok_000227">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a7.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -516,22 +516,22 @@
                   who="corpus:Kef1"
                   end="#T16"
                   start="#T15">
-                  <w xml:id="kef1_f_45_e1_xTok_000229">yabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000230">klīl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000231">axḏ̣aṛ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000232" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000234" rend="withDash">iž</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000236">žbal</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000237">yabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000238">fīh</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000239">rīḥa</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000240">fǟyḥa</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000241" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000243">nḥuṭṭūh</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000244">nfawwṛūh</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000245">nsammūh</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000246">knǟf</w>
-                  <pc join="right" xml:id="xTok_000247">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000228">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000229">klīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000230">axḏ̣aṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000231" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000233" rend="withDash">iž</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000235">žbal</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000236">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000237">fīh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000238">rīḥa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000239">fǟyḥa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000240" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000242">nḥuṭṭūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000243">nfawwṛūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000244">nsammūh</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000245">knǟf</w>
+                  <pc join="right" xml:id="xTok_000246">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a8.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -547,26 +547,26 @@
                   who="corpus:Kef1"
                   end="#T18"
                   start="#T17">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000248">biš</w>
-                  <gap/>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000249" rend="withDash">baʕd</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000251">ma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000252">fawwirna</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000253" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000255">kusksi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000256">nḥillū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000257" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000259" rend="withDash">iš</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000261">šwayy</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000262">nfarrqū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000263" rend="withDash">b</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000265">šwayy</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000266">zibda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000267" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000269">naʕmlu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000270">couche</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000271">kusksi</w>
-                  <pc join="right" xml:id="xTok_000272">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000247">biš</w>
+                  <pause rendition="#ellipsis"/>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000248" rend="withDash">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000250">ma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000251">fawwirna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000252" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000254">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000255">nḥillū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000256" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000258" rend="withDash">iš</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000260">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000261">nfarrqū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000262" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000264">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000265">zibda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000266" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000268">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000269">couche</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000270">kusksi</w>
+                  <pc join="right" xml:id="xTok_000271">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a9.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -582,31 +582,31 @@
                   who="corpus:Kef1"
                   end="#T20"
                   start="#T19">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000273" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000275">nzayynu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000276" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000278">fǟkya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000279">lli</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000280">ʕarražnǟha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000281">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000282">hīya</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000283" rend="withDash">m</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000285" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000287" join="right">lōz</w>
-                  <pc xml:id="xTok_000288">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000289" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000291" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000293">bū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000294">frīwa</w>
-                  <pc xml:id="xTok_000295">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000296" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000298" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000300" join="right">bunduq</w>
-                  <pc xml:id="xTok_000301">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000302" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000304" rend="withDash">iz</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000306">zōz</w>
-                  <pc join="right" xml:id="xTok_000307">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000272" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000274">nzayynu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000275" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000277">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000278">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000279">ʕarražnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000280">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000281">hīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000282" rend="withDash">m</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000284" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000286" join="right">lōz</w>
+                  <pc xml:id="xTok_000287">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000288" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000290" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000292">bū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000293">frīwa</w>
+                  <pc xml:id="xTok_000294">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000295" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000297" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000299" join="right">bunduq</w>
+                  <pc xml:id="xTok_000300">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000301" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000303" rend="withDash">iz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000305">zōz</w>
+                  <pc join="right" xml:id="xTok_000306">,</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a10.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -622,21 +622,21 @@
                   who="corpus:Kef1"
                   end="#T22"
                   start="#T21">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000308" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000310">nafs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000311" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000313">waqⁱt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000314">kaʕbǟt</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000315" rend="withDash">id</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000317">dagla</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000318">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000319">maʕnǟha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000320">naḏ̣ḏ̣afnǟha</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000321" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000323">gaṣṣīnǟha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000324">ʕlā</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000325">aṛbʕa</w>
-                  <pc join="right" xml:id="xTok_000326">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000307" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000309">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000310" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000312">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000313">kaʕbǟt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000314" rend="withDash">id</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000316">dagla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000317">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000318">maʕnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000319">naḏ̣ḏ̣afnǟha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000320" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000322">gaṣṣīnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000323">ʕlā</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000324">aṛbʕa</w>
+                  <pc join="right" xml:id="xTok_000325">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a11.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -652,27 +652,27 @@
                   who="corpus:Kef1"
                   end="#T24"
                   start="#T23">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000327" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000329">nzayynu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000330">kīma</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000331" rend="withDash">iz</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000333">zīna</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000334">byūt</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000335">byūt</w>
-                  <pc xml:id="xTok_000336">:</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000337">bīt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000338">hāka</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000339">lōz</w>
-                  <pc xml:id="xTok_000340">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000341">zōz</w>
-                  <pc xml:id="xTok_000342">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000343">bū</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000344">frīwa</w>
-                  <pc xml:id="xTok_000345">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000346">bunduq</w>
-                  <pc xml:id="xTok_000347">,</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000348">dagla</w>
-                  <pc join="right" xml:id="xTok_000349">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000326" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000328">nzayynu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000329">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000330" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000332">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000333">byūt</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000334">byūt</w>
+                  <pc xml:id="xTok_000335">:</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000336">bīt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000337">hāka</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000338">lōz</w>
+                  <pc xml:id="xTok_000339">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000340">zōz</w>
+                  <pc xml:id="xTok_000341">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000342">bū</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000343">frīwa</w>
+                  <pc xml:id="xTok_000344">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000345">bunduq</w>
+                  <pc xml:id="xTok_000346">,</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000347">dagla</w>
+                  <pc join="right" xml:id="xTok_000348">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a12.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -688,31 +688,31 @@
                   who="corpus:Kef1"
                   end="#T26"
                   start="#T25">
-                  <w xml:id="kef1_f_45_e1_xTok_000350">hāka</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000351">tabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000352">kīma</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000353" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000355">façon</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000356">kīma</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000357" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000359" join="right">waṛda</w>
-                  <pc xml:id="xTok_000360">.</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000361">nzīdu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000362">naʕmlu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000363">kusksi</w>
-                  <pc xml:id="xTok_000364">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000365">couche</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000366">uxṛa</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000367">kusksi</w>
-                  <pc xml:id="xTok_000368">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000369">mxallaṭ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000370" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000372" rend="withDash">is</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000374">sukkuṛ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000375" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000377" rend="withDash">iz</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000379">zibda</w>
-                  <pc join="right" xml:id="xTok_000380">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000349">hāka</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000350">tabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000351">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000352" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000354">façon</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000355">kīma</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000356" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000358" join="right">waṛda</w>
+                  <pc xml:id="xTok_000359">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000360">nzīdu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000361">naʕmlu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000362">kusksi</w>
+                  <pc xml:id="xTok_000363">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000364">couche</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000365">uxṛa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000366">kusksi</w>
+                  <pc xml:id="xTok_000367">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000368">mxallaṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000369" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000371" rend="withDash">is</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000373">sukkuṛ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000374" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000376" rend="withDash">iz</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000378">zibda</w>
+                  <pc join="right" xml:id="xTok_000379">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a13.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -728,33 +728,33 @@
                   who="corpus:Kef1"
                   end="#T28"
                   start="#T27">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000381" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000383">baʕd</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000384">naʕmlu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000385">ixxir</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000386" rend="withDash">iz</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000388">zīna</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000389">ntāʕ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000390" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000392">kusksi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000393">naʕmlu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000394">illa</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000380" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000382">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000383">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000384">ixxir</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000385" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000387">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000388">ntāʕ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000389" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000391">kusksi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000392">naʕmlu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000393">illa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000394">byūt</w>
                   <w xml:id="kef1_f_45_e1_xTok_000395">byūt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000396">byūt</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000397" rend="withDash">b</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000399">āk</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000400" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000402">fǟkya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000403">lli</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000404">ʕarražnǟ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000405" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000407">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000408">ʕmannǟ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000409" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000411">couche</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000412" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000414">ūlǟnīya</w>
-                  <pc join="right" xml:id="xTok_000415">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000396" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000398">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000399" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000401">fǟkya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000402">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000403">ʕarražnǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000404" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000406">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000407">ʕmannǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000408" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000410">couche</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000411" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000413">ūlǟnīya</w>
+                  <pc join="right" xml:id="xTok_000414">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a14.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -770,35 +770,35 @@
                   who="corpus:Kef1"
                   end="#T30"
                   start="#T29">
+                  <w xml:id="kef1_f_45_e1_xTok_000415">bīt</w>
                   <w xml:id="kef1_f_45_e1_xTok_000416">bīt</w>
                   <w xml:id="kef1_f_45_e1_xTok_000417">bīt</w>
                   <w xml:id="kef1_f_45_e1_xTok_000418">bīt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000419">bīt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000420">fǟkya</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000421" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000423" join="right">dagla</w>
-                  <pc xml:id="xTok_000424">.</pc>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000425" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000427">nafs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000428" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000430">waqⁱt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000431">ʕanna</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000432" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000434">ᵃḥlīb</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000435">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000436">hūwa</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000437">sxun</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000438" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000440">ʕanna</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000441">ṭaṛⁱf</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000442" rend="withDash">iz</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000444">zibda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000445">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000446">ḥaṭṭīnǟ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000447" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000449">kasaṛūna</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000450">ḏǟbit</w>
-                  <pc join="right" xml:id="xTok_000451">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000419">fǟkya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000420" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000422" join="right">dagla</w>
+                  <pc xml:id="xTok_000423">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000424" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000426">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000427" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000429">waqⁱt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000430">ʕanna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000431" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000433">ᵃḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000434">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000435">hūwa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000436">sxun</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000437" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000439">ʕanna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000440">ṭaṛⁱf</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000441" rend="withDash">iz</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000443">zibda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000444">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000445">ḥaṭṭīnǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000446" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000448">kasaṛūna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000449">ḏǟbit</w>
+                  <pc join="right" xml:id="xTok_000450">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a15.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -814,33 +814,33 @@
                   who="corpus:Kef1"
                   end="#T32"
                   start="#T31">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000452" rend="withDash">w</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000454" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000456">nafs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000457" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000459">waqt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000460">ʕanna</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000461" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000463">laḥmǟt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000464">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000465">hūma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000466">gāʕdīn</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000467">yitsammu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000468">knǟf</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000469">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000470">gāʕdīn</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000471">yfūṛu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000472">ʕlā</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000473" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000475">kaskǟs</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000476" rend="withDash">b</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000478">rīḥit</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000479" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000481">ⁱklīl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000482">tabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000483">rīḥitha</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000484">fǟyḥa</w>
-                  <pc join="right" xml:id="xTok_000485">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000451" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000453" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000455">nafs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000456" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000458">waqt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000459">ʕanna</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000460" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000462">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000463">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000464">hūma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000465">gāʕdīn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000466">yitsammu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000467">knǟf</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000468">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000469">gāʕdīn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000470">yfūṛu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000471">ʕlā</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000472" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000474">kaskǟs</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000475" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000477">rīḥit</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000478" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000480">ⁱklīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000481">tabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000482">rīḥitha</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000483">fǟyḥa</w>
+                  <pc join="right" xml:id="xTok_000484">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a16.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -856,21 +856,21 @@
                   who="corpus:Kef1"
                   end="#T34"
                   start="#T33">
-                  <w xml:id="kef1_f_45_e1_xTok_000486">nṣubbu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000487">āk</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000488" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000490" join="right">ᵃḥlīb</w>
-                  <pc xml:id="xTok_000491">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000492">nṣubbu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000493">couche</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000494">zibda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000495" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000497">mbaʕdha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000498">šwayy</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000499">ᵃḥlīb</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000500">muš</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000501">baṛša</w>
-                  <pc join="right" xml:id="xTok_000502">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000485">nṣubbu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000486">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000487" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000489" join="right">ᵃḥlīb</w>
+                  <pc xml:id="xTok_000490">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000491">nṣubbu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000492">couche</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000493">zibda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000494" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000496">mbaʕdha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000497">šwayy</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000498">ᵃḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000499">muš</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000500">baṛša</w>
+                  <pc join="right" xml:id="xTok_000501">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a17.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -886,24 +886,24 @@
                   who="corpus:Kef1"
                   end="#T36"
                   start="#T35">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000503" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000505">baʕd</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000506">nḥuṭṭu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000507">āk</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000508" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000510">laḥmǟt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000511">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000512">ṭābu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000513">yabdu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000514">ṭāybīn</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000515" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000517" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000519">gdǟ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000520">nḥuṭṭu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000521">laḥma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000522">ḥḏǟ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000523">laḥma</w>
-                  <pc join="right" xml:id="xTok_000524">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000502" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000504">baʕd</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000505">nḥuṭṭu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000506">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000507" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000509">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000510">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000511">ṭābu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000512">yabdu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000513">ṭāybīn</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000514" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000516" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000518">gdǟ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000519">nḥuṭṭu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000520">laḥma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000521">ḥḏǟ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000522">laḥma</w>
+                  <pc join="right" xml:id="xTok_000523">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a18.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -919,24 +919,24 @@
                   who="corpus:Kef1"
                   end="#T38"
                   start="#T37">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000525" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000527">yabda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000528" rend="withDash">z</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000530">zīna</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000531">ntǟḥḥa</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000532">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000533">maʕnǟha</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000534">šakl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000535">waṛda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000536" rend="withDash">w</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000524" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000526">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000527" rend="withDash">z</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000529">zīna</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000530">ntǟḥḥa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000531">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000532">maʕnǟha</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000533">šakl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000534">waṛda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000535" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000537">bīt</w>
                   <w xml:id="kef1_f_45_e1_xTok_000538">bīt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000539">bīt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000540">yabda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000541" rend="withDash">b</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000543">āk</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000544" rend="withDash">il</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000546">fǟkya</w>
-                  <pc join="right" xml:id="xTok_000547">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000539">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000540" rend="withDash">b</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000542">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000543" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000545">fǟkya</w>
+                  <pc join="right" xml:id="xTok_000546">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a19.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -952,30 +952,28 @@
                   who="corpus:Kef1"
                   end="#T40"
                   start="#T39">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000548" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000550">āk</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000551" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000553">laḥmǟt</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000554">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000555">ṭābu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000556" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000558" rend="withDash">il</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000560">ⁱklīl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000561">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000562">hūma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000563">yitsammu</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000564">knǟf</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000565" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000567">hāḏēka</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000568" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000570">ʔukla</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000571" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000573">kǟfīya</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000574" rend="withDash">il</w>
-                  <pc join="right" xml:id="xTok_000576">[</pc>
-                  <pc join="right" xml:id="xTok_000577">…</pc>
-                  <pc join="right" xml:id="xTok_000578">]</pc>
-                  <pc join="right" xml:id="xTok_000579">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000547" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000549">āk</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000550" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000552">laḥmǟt</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000553">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000554">ṭābu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000555" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000557" rend="withDash">il</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000559">ⁱklīl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000560">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000561">hūma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000562">yitsammu</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000563">knǟf</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000564" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000566">hāḏēka</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000567" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000569">ʔukla</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000570" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000572">kǟfīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000573" rend="withDash">il</w>
+                  <gap rendition="#ellipsis #inBrackets" join="right"/>
+                  <pc join="right" xml:id="xTok_000575">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a20.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -991,11 +989,11 @@
                   who="corpus:Kef1"
                   end="#T42"
                   start="#T41">
-                  <w xml:id="kef1_f_45_e1_xTok_000580">kūli</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000581" rend="withDash">b</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000583" rend="withDash">iš</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000585">šfǟ</w>
-                  <pc join="right" xml:id="xTok_000586">!</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000576">kūli</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000577" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000579" rend="withDash">iš</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000581">šfǟ</w>
+                  <pc join="right" xml:id="xTok_000582">!</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a21.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -1011,36 +1009,36 @@
                   who="corpus:Kef1"
                   end="#T44"
                   start="#T43">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000587" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000583" rend="withDash">b</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000585" rend="withDash">iṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000587">ṭbīʕa</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000588">fōg</w>
                   <w join="right" xml:id="kef1_f_45_e1_xTok_000589" rend="withDash">iṭ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000591">ṭbīʕa</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000592">fōg</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000593" rend="withDash">iṭ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000595">ṭāwla</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000596">yabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000597">maḥṭūṭ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000598">xass</w>
-                  <pc xml:id="xTok_000599">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000600">maḥṭūṭ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000601">ṛāyib</w>
-                  <pc xml:id="xTok_000602">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000603">ḥlīb</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000604">ṛāyib</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000605" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000607">maḥṭūṭ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000608">tibsi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000609">xāṭir</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000610">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000611">kī</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000612">nḥuṭṭūh</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000613">nḥuṭṭu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000614" rend="withDash">l</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000616">burzgǟn</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000617">nḥuṭṭūh</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000618" rend="withDash">f</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000620" rend="withDash">it</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000622">tibsi</w>
-                  <pc join="right" xml:id="xTok_000623">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000591">ṭāwla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000592">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000593">maḥṭūṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000594">xass</w>
+                  <pc xml:id="xTok_000595">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000596">maḥṭūṭ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000597">ṛāyib</w>
+                  <pc xml:id="xTok_000598">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000599">ḥlīb</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000600">ṛāyib</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000601" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000603">maḥṭūṭ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000604">tibsi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000605">xāṭir</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000606">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000607">kī</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000608">nḥuṭṭūh</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000609">nḥuṭṭu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000610" rend="withDash">l</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000612">burzgǟn</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000613">nḥuṭṭūh</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000614" rend="withDash">f</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000616" rend="withDash">it</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000618">tibsi</w>
+                  <pc join="right" xml:id="xTok_000619">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a22.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -1056,24 +1054,24 @@
                   who="corpus:Kef1"
                   end="#T46"
                   start="#T45">
-                  <w xml:id="kef1_f_45_e1_xTok_000624">yabda</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000625">façon</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000626">ntāʕ</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000627">tibsi</w>
-                  <pc xml:id="xTok_000628">,</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000629">yabda</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000630">mzayyin</w>
-                  <pc xml:id="xTok_000631">.</pc>
-                  <w xml:id="kef1_f_45_e1_xTok_000632">hāḏīka</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000633">lli</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000634">yitsamma</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000635">ukla</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000636">kǟfīya</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000637">illi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000638">hīya</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000639" rend="withDash">l</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000641">burzgǟn</w>
-                  <pc join="right" xml:id="xTok_000642">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000620">yabda</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000621">façon</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000622">ntāʕ</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000623">tibsi</w>
+                  <pc xml:id="xTok_000624">,</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000625">yabda</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000626">mzayyin</w>
+                  <pc xml:id="xTok_000627">.</pc>
+                  <w xml:id="kef1_f_45_e1_xTok_000628">hāḏīka</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000629">lli</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000630">yitsamma</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000631">ukla</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000632">kǟfīya</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000633">illi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000634">hīya</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000635" rend="withDash">l</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000637">burzgǟn</w>
+                  <pc join="right" xml:id="xTok_000638">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a23.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"
@@ -1089,24 +1087,24 @@
                   who="corpus:Kef1"
                   end="#T48"
                   start="#T47">
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000643" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000645">titkíl</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000646" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000648">šhaṛ</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000649">mayyu</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000650" rend="withDash">mil</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000652">le</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000653">quinze</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000654">mǟy</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000655" rend="withDash">w</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000657">aḥtifǟl</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000658">kbīr</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000659">baṛša</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000660" rend="withDash">fi</w>
-                  <w xml:id="kef1_f_45_e1_xTok_000662">wilǟyit</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000663" rend="withDash">il</w>
-                  <w join="right" xml:id="kef1_f_45_e1_xTok_000665">kǟf</w>
-                  <pc join="right" xml:id="xTok_000666">.</pc>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000639" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000641">titkíl</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000642" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000644">šhaṛ</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000645">mayyu</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000646" rend="withDash">mil</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000648">le</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000649">quinze</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000650">mǟy</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000651" rend="withDash">w</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000653">aḥtifǟl</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000654">kbīr</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000655">baṛša</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000656" rend="withDash">fi</w>
+                  <w xml:id="kef1_f_45_e1_xTok_000658">wilǟyit</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000659" rend="withDash">il</w>
+                  <w join="right" xml:id="kef1_f_45_e1_xTok_000661">kǟf</w>
+                  <pc join="right" xml:id="xTok_000662">.</pc>
                   <media url="arche:Kef/Kef/UMS/kef1_f_45_e1/kef1_f_45_e1_a24.wav"
                          decls="#kef1_f_45_e1-restricted"
                          mimeType="audio/wav"

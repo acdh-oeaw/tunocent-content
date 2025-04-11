@@ -83,30 +83,85 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Farsh_el-Shih_01_graphic001">
+            <name type="filename">FarshShih1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Farsh_el-Shih_01_graphic002">
+            <name type="filename">FarshShih2.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Farsh_el-Shih_01_graphic003">
+            <name type="filename">FarshShih3.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Farsh_el-Shih_01_graphic004">
+            <name type="filename">FarshShih4.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Farsh_el-Shih_01_graphic005">
+            <name type="filename">FarshShih5.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:NA">Aloui Nidhal</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="FarshShih1.jpg"/>
+                  <graphic url="FarshShih1.jpg" decls="#profile_Farsh_el-Shih_01_graphic001"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="FarshShih2.jpg"/>
+                  <graphic url="FarshShih2.jpg" decls="#profile_Farsh_el-Shih_01_graphic002"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="FarshShih3.jpg"/>
+                  <graphic url="FarshShih3.jpg" decls="#profile_Farsh_el-Shih_01_graphic003"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="FarshShih4.jpg"/>
+                  <graphic url="FarshShih4.jpg" decls="#profile_Farsh_el-Shih_01_graphic004"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="FarshShih5.jpg"/>
+                  <graphic url="FarshShih5.jpg" decls="#profile_Farsh_el-Shih_01_graphic005"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>

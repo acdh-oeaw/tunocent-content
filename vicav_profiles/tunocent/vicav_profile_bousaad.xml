@@ -83,14 +83,149 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">fixing misplaced taxonomy elements and updating to new markup</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
+         <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
       </revisionDesc>
    </teiHeader>
+   <standOff>
+      <listBibl type="graphics">
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic001">
+            <name type="filename">BouSaad1.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic002">
+            <name type="filename">School.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic003">
+            <name type="filename">School_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic004">
+            <name type="filename">School_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic005">
+            <name type="filename">Settlement_on_the_mountain.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic006">
+            <name type="filename">Settlement_on_the_mountain_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic007">
+            <name type="filename">Settlement_on_the_mountain_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic008">
+            <name type="filename">Tomb_of_Sidi_Saleh_(1).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic009">
+            <name type="filename">Tomb_of_Sidi_Saleh_(2).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic010">
+            <name type="filename">Tomb_of_Sidi_Saleh_(3).jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic011">
+            <name type="filename">Berber_woman_with_traditional_tattoos.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic012">
+            <name type="filename">Riding_equipment.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+         <bibl type="image" xml:id="profile_Bou_Saad_01_graphic013">
+            <name type="filename">Cleaning_tools.jpg</name>
+            <respStmt>
+               <resp>creator</resp>
+               <persName ref="corpus:RT">Tlili Rawaa</persName>
+            </respStmt>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+         </bibl>
+      </listBibl>
+   </standOff>
    <text>
       <body>
          <div>
             <head>
                <figure>
-                  <graphic url="BouSaad1.jpg"/>
+                  <graphic url="BouSaad1.jpg" decls="#profile_Bou_Saad_01_graphic001"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -115,18 +250,18 @@
                <p xml:space="preserve">Bou Saad, also called Ouled Bou Saad, is an ancient Berber village situated in the Orbata Mountains (Žbǟl ʕUṛbāṭa) of the South Tunisian governorate of Gafsa. According to an article the Tunisian newspaper aš-Šurūq published in 2016, the region Ouled Bou Saad is also called is-Saket (is-Sǟkit), a toponym still used by people in their fifties instead of, or concomitant with its current toponym.</p>
                <p>
                   <figure>
-                     <link target="School.jpg"/>
-                     <graphic url="thumb/School.jpg"/>
+                     <link target="School.jpg" decls="#profile_Bou_Saad_01_graphic002"/>
+                     <graphic url="thumb/School.jpg" decls="#profile_Bou_Saad_01_graphic002"/>
                      <head>School</head>
                   </figure>
                   <figure>
-                     <link target="School_(1).jpg"/>
-                     <graphic url="thumb/School_(1).jpg"/>
+                     <link target="School_(1).jpg" decls="#profile_Bou_Saad_01_graphic003"/>
+                     <graphic url="thumb/School_(1).jpg" decls="#profile_Bou_Saad_01_graphic003"/>
                      <head>School</head>
                   </figure>
                   <figure>
-                     <link target="School_(2).jpg"/>
-                     <graphic url="thumb/School_(2).jpg"/>
+                     <link target="School_(2).jpg" decls="#profile_Bou_Saad_01_graphic004"/>
+                     <graphic url="thumb/School_(2).jpg" decls="#profile_Bou_Saad_01_graphic004"/>
                      <head>School</head>
                   </figure>
                </p>
@@ -139,18 +274,18 @@
                with Bou Saad being to its north and Bir Saad as well as Talah being to its south. </p>
                <p>
                   <figure>
-                     <link target="Settlement_on_the_mountain.jpg"/>
-                     <graphic url="thumb/Settlement_on_the_mountain.jpg"/>
+                     <link target="Settlement_on_the_mountain.jpg" decls="#profile_Bou_Saad_01_graphic005"/>
+                     <graphic url="thumb/Settlement_on_the_mountain.jpg" decls="#profile_Bou_Saad_01_graphic005"/>
                      <head>Settlement on the mountain</head>
                   </figure>
                   <figure>
-                     <link target="Settlement_on_the_mountain_(3).jpg"/>
-                     <graphic url="thumb/Settlement_on_the_mountain_(3).jpg"/>
+                     <link target="Settlement_on_the_mountain_(3).jpg" decls="#profile_Bou_Saad_01_graphic006"/>
+                     <graphic url="thumb/Settlement_on_the_mountain_(3).jpg" decls="#profile_Bou_Saad_01_graphic006"/>
                      <head>Settlement on the mountain</head>
                   </figure>
                   <figure>
-                     <link target="Settlement_on_the_mountain_(1).jpg"/>
-                     <graphic url="thumb/Settlement_on_the_mountain_(1).jpg"/>
+                     <link target="Settlement_on_the_mountain_(1).jpg" decls="#profile_Bou_Saad_01_graphic007"/>
+                     <graphic url="thumb/Settlement_on_the_mountain_(1).jpg" decls="#profile_Bou_Saad_01_graphic007"/>
                      <head>Settlement on the mountain</head>
                   </figure>
                </p>
@@ -164,36 +299,36 @@
                is known. Moreover, the region is rich of stone age landmarks.</p>
                <p>
                   <figure>
-                     <link target="Tomb_of_Sidi_Saleh_(1).jpg"/>
-                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(1).jpg"/>
+                     <link target="Tomb_of_Sidi_Saleh_(1).jpg" decls="#profile_Bou_Saad_01_graphic008"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(1).jpg" decls="#profile_Bou_Saad_01_graphic008"/>
                      <head>Tomb of Sidi Saleh (1)</head>
                   </figure>
                   <figure>
-                     <link target="Tomb_of_Sidi_Saleh_(2).jpg"/>
-                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(2).jpg"/>
+                     <link target="Tomb_of_Sidi_Saleh_(2).jpg" decls="#profile_Bou_Saad_01_graphic009"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(2).jpg" decls="#profile_Bou_Saad_01_graphic009"/>
                      <head>Tomb of Sidi Saleh (2)</head>
                   </figure>
                   <figure>
-                     <link target="Tomb_of_Sidi_Saleh_(3).jpg"/>
-                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(3).jpg"/>
+                     <link target="Tomb_of_Sidi_Saleh_(3).jpg" decls="#profile_Bou_Saad_01_graphic010"/>
+                     <graphic url="thumb/Tomb_of_Sidi_Saleh_(3).jpg" decls="#profile_Bou_Saad_01_graphic010"/>
                      <head>Tomb of Sidi Saleh (3)</head>
                   </figure>
                </p>
                <p xml:space="preserve">In comparison to that, a tomb commemorating the medieval saint Sidi Saleh (Sīdi Ṣāliḥ) appears like recent history. Locals still maintain their Berber heritage. Berber women, for instance, still feature their traditional face and hand tatoos. </p>
                <p>
                   <figure>
-                     <link target="Berber_woman_with_traditional_tattoos.jpg"/>
-                     <graphic url="thumb/Berber_woman_with_traditional_tattoos.jpg"/>
+                     <link target="Berber_woman_with_traditional_tattoos.jpg" decls="#profile_Bou_Saad_01_graphic011"/>
+                     <graphic url="thumb/Berber_woman_with_traditional_tattoos.jpg" decls="#profile_Bou_Saad_01_graphic011"/>
                      <head>Berber woman with traditional tattoos</head>
                   </figure>
                   <figure>
-                     <link target="Riding_equipment.jpg"/>
-                     <graphic url="thumb/Riding_equipment.jpg"/>
+                     <link target="Riding_equipment.jpg" decls="#profile_Bou_Saad_01_graphic012"/>
+                     <graphic url="thumb/Riding_equipment.jpg" decls="#profile_Bou_Saad_01_graphic012"/>
                      <head>Riding equipment</head>
                   </figure>
                   <figure>
-                     <link target="Cleaning_tools.jpg"/>
-                     <graphic url="thumb/Cleaning_tools.jpg"/>
+                     <link target="Cleaning_tools.jpg" decls="#profile_Bou_Saad_01_graphic013"/>
+                     <graphic url="thumb/Cleaning_tools.jpg" decls="#profile_Bou_Saad_01_graphic013"/>
                      <head>Cleaning tools</head>
                   </figure>
                </p>
