@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -225,55 +226,55 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Meloussi1.jpg" decls="#profile_Meloussi_01_graphic001"/>
+                  <graphic url="Meloussi1.jpg" decls="#profile_Meloussi_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi2.jpg" decls="#profile_Meloussi_01_graphic002"/>
+                  <graphic url="Meloussi2.jpg" decls="#profile_Meloussi_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi3.jpg" decls="#profile_Meloussi_01_graphic003"/>
+                  <graphic url="Meloussi3.jpg" decls="#profile_Meloussi_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi4.jpg" decls="#profile_Meloussi_01_graphic004"/>
+                  <graphic url="Meloussi4.jpg" decls="#profile_Meloussi_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi5.jpg" decls="#profile_Meloussi_01_graphic005"/>
+                  <graphic url="Meloussi5.jpg" decls="#profile_Meloussi_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi6.jpg" decls="#profile_Meloussi_01_graphic006"/>
+                  <graphic url="Meloussi6.jpg" decls="#profile_Meloussi_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi7.jpg" decls="#profile_Meloussi_01_graphic007"/>
+                  <graphic url="Meloussi7.jpg" decls="#profile_Meloussi_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi9.jpg" decls="#profile_Meloussi_01_graphic008"/>
+                  <graphic url="Meloussi9.jpg" decls="#profile_Meloussi_01_graphic008" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi10.jpg" decls="#profile_Meloussi_01_graphic009"/>
+                  <graphic url="Meloussi10.jpg" decls="#profile_Meloussi_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi11.jpg" decls="#profile_Meloussi_01_graphic010"/>
+                  <graphic url="Meloussi11.jpg" decls="#profile_Meloussi_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi12.jpg" decls="#profile_Meloussi_01_graphic011"/>
+                  <graphic url="Meloussi12.jpg" decls="#profile_Meloussi_01_graphic011" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi13.jpg" decls="#profile_Meloussi_01_graphic012"/>
+                  <graphic url="Meloussi13.jpg" decls="#profile_Meloussi_01_graphic012" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Meloussi14.jpg" decls="#profile_Meloussi_01_graphic013"/>
+                  <graphic url="Meloussi14.jpg" decls="#profile_Meloussi_01_graphic013" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>

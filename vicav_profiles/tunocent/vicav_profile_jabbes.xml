@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -185,7 +186,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Jabbes1.jpg" decls="#profile_Jabbes_01_graphic001"/>
+                  <graphic url="Jabbes1.jpg" decls="#profile_Jabbes_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>
@@ -212,46 +213,46 @@
                <p xml:space="preserve">Jabbes is located in the northeastern part of the Tunisian Kasserine Governorate. It is a very pastoral place with a cactus landscape situated on a mountain chain. There are many sacred sites up on those mountains. The tombs of the female saint Židda Žǟlīya as well as the male saints Židdi Sǟfi and Sīdi ʕAlī Šǟyib are located there. Moreover, a local centre is called after the saint ʕAlī b. Žbal, meaning “Ali, son of the mountain”. Sīdi ʕAbd il-Qādir is a further example of a saint after whom a part of Jabbes is named.</p>
                <p>
                   <figure rendition="#small">
-                     <link target="Cactuses_in_the_landscape_of_Jabbes.jpg" decls="#profile_Jabbes_01_graphic002"/>
-                     <graphic url="Cactuses_in_the_landscape_of_Jabbes.jpg" decls="#profile_Jabbes_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic002" url="Cactuses_in_the_landscape_of_Jabbes.jpg"/>
+                     <graphic url="Cactuses_in_the_landscape_of_Jabbes.jpg" decls="#profile_Jabbes_01_graphic002" type="thumbnail"/>
                      <head>Landscape of Jabbes</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Houses_5.jpg" decls="#profile_Jabbes_01_graphic003"/>
-                     <graphic url="Houses_5.jpg" decls="#profile_Jabbes_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic003" url="Houses_5.jpg"/>
+                     <graphic url="Houses_5.jpg" decls="#profile_Jabbes_01_graphic003" type="thumbnail"/>
                      <head>Houses</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Cactusus_and_mountains_(3).jpg" decls="#profile_Jabbes_01_graphic004"/>
-                     <graphic url="Cactusus_and_mountains_(3).jpg" decls="#profile_Jabbes_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic004" url="Cactusus_and_mountains_(3).jpg"/>
+                     <graphic url="Cactusus_and_mountains_(3).jpg" decls="#profile_Jabbes_01_graphic004" type="thumbnail"/>
                      <head>Cactuses and mountains</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="animals.jpg" decls="#profile_Jabbes_01_graphic005"/>
-                     <graphic url="animals.jpg" decls="#profile_Jabbes_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic005" url="animals.jpg"/>
+                     <graphic url="animals.jpg" decls="#profile_Jabbes_01_graphic005" type="thumbnail"/>
                      <head>Goats</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Cactuses,_trees_and_mountains.jpg" decls="#profile_Jabbes_01_graphic006"/>
-                     <graphic url="Cactuses,_trees_and_mountains.jpg" decls="#profile_Jabbes_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic006" url="Cactuses,_trees_and_mountains.jpg"/>
+                     <graphic url="Cactuses,_trees_and_mountains.jpg" decls="#profile_Jabbes_01_graphic006" type="thumbnail"/>
                      <head>Cactuses, trees and mountains</head>
                   </figure>
                </p>
                <p xml:space="preserve">Once a year, people make a pilgrimage to these cultural sites. The festivities in honour of a saint usually last two days. On the first day, people visit the place (<hi xml:lang="aeb" rendition="#i">zyāra</hi>), laying down money, frankincense (<hi xml:lang="aeb" rendition="#i">bxūr</hi>) or Jawi-incense (<hi xml:lang="aeb" rendition="#i">žāwi</hi>). On the second day, the celebration follows. People install stands to sell sweets, fruits or other things. Previously, this celebration was called <hi xml:lang="aeb" rendition="#i">zarda</hi>. Today, people in Jabbes, however, call it festival (<hi xml:lang="aeb" rendition="#i">mahr</hi><hi xml:lang="aeb" rendition="#i">a</hi><hi xml:lang="aeb" rendition="#i">žǟn</hi>) dedicating it to the respective saint. </p>
                <p>
                   <figure>
-                     <link target="Mountains_of_Jabbes_7.jpg" decls="#profile_Jabbes_01_graphic007"/>
-                     <graphic url="Mountains_of_Jabbes_7.jpg" decls="#profile_Jabbes_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic007" url="Mountains_of_Jabbes_7.jpg"/>
+                     <graphic url="Mountains_of_Jabbes_7.jpg" decls="#profile_Jabbes_01_graphic007" type="thumbnail"/>
                      <head>Mountains of Jabbes</head>
                   </figure>
                   <figure>
-                     <link target="Mountains_of_Jabbes_5.jpg" decls="#profile_Jabbes_01_graphic008"/>
-                     <graphic url="Mountains_of_Jabbes_5.jpg" decls="#profile_Jabbes_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic008" url="Mountains_of_Jabbes_5.jpg"/>
+                     <graphic url="Mountains_of_Jabbes_5.jpg" decls="#profile_Jabbes_01_graphic008" type="thumbnail"/>
                      <head>Mountains of Jabbes</head>
                   </figure>
                   <figure>
-                     <link target="Mountains_of_Jabbes_3.jpg" decls="#profile_Jabbes_01_graphic009"/>
-                     <graphic url="Mountains_of_Jabbes_3.jpg" decls="#profile_Jabbes_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_Jabbes_01_graphic009" url="Mountains_of_Jabbes_3.jpg"/>
+                     <graphic url="Mountains_of_Jabbes_3.jpg" decls="#profile_Jabbes_01_graphic009" type="thumbnail"/>
                      <head>Mountains of Jabbes</head>
                   </figure>
                </p>

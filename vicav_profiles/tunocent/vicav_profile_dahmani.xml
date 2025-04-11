@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -275,7 +276,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="DAHMANI_title.jpg" decls="#profile_Dahmani_01_graphic001"/>
+                  <graphic url="DAHMANI_title.jpg" decls="#profile_Dahmani_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -302,94 +303,94 @@
                <p xml:space="preserve">Dahmani is located in the south western part of the governorate El Kef. While people can reach Dahmani and its surrounding area by shared mini buses, within the small town itself, the number of motorized vehicles seems relatively limited. Instead, locals use an athletic alternative riding on their bicycles, thus making up for the limitations of the local infrastructure.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic002" url="DAHMANI_barcha-bisklet_Ali-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-1-scaled.jpg" decls="#profile_Dahmani_01_graphic003"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-1-scaled.jpg" decls="#profile_Dahmani_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic003" url="DAHMANI_barcha-bisklet-1-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-1-scaled.jpg" decls="#profile_Dahmani_01_graphic003" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-5-scaled.jpg" decls="#profile_Dahmani_01_graphic004"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-5-scaled.jpg" decls="#profile_Dahmani_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic004" url="DAHMANI_barcha-bisklet-5-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-5-scaled.jpg" decls="#profile_Dahmani_01_graphic004" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-7-scaled.jpg" decls="#profile_Dahmani_01_graphic005"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-7-scaled.jpg" decls="#profile_Dahmani_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic005" url="DAHMANI_barcha-bisklet-7-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-7-scaled.jpg" decls="#profile_Dahmani_01_graphic005" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-8-scaled.jpg" decls="#profile_Dahmani_01_graphic006"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-8-scaled.jpg" decls="#profile_Dahmani_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic006" url="DAHMANI_barcha-bisklet-8-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-8-scaled.jpg" decls="#profile_Dahmani_01_graphic006" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-9-scaled.jpg" decls="#profile_Dahmani_01_graphic007"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-9-scaled.jpg" decls="#profile_Dahmani_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic007" url="DAHMANI_barcha-bisklet-9-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-9-scaled.jpg" decls="#profile_Dahmani_01_graphic007" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-10-scaled.jpg" decls="#profile_Dahmani_01_graphic008"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-10-scaled.jpg" decls="#profile_Dahmani_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic008" url="DAHMANI_barcha-bisklet-10-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-10-scaled.jpg" decls="#profile_Dahmani_01_graphic008" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-11-scaled.jpg" decls="#profile_Dahmani_01_graphic009"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-11-scaled.jpg" decls="#profile_Dahmani_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic009" url="DAHMANI_barcha-bisklet-11-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-11-scaled.jpg" decls="#profile_Dahmani_01_graphic009" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                   <figure>
-                     <link target="DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010"/>
-                     <graphic url="thumb/DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic010" url="DAHMANI_barcha-bisklet-12-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
                </p>
                <p xml:space="preserve">The mountains surrounding the town provide natural water sources and provide room for the region’s flora and fauna. Additionally, they accommodate ancient ruins which provide insights into regional history.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011"/>
-                     <graphic url="thumb/DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic011" url="DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg"/>
+                     <graphic url="thumb/DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011" type="thumbnail"/>
                      <head>Natural water ressource</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_103739099.jpg" decls="#profile_Dahmani_01_graphic012"/>
-                     <graphic url="thumb/IMG_20190917_103739099.jpg" decls="#profile_Dahmani_01_graphic012"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic012" url="IMG_20190917_103739099.jpg"/>
+                     <graphic url="thumb/IMG_20190917_103739099.jpg" decls="#profile_Dahmani_01_graphic012" type="thumbnail"/>
                      <head>Flowers growing on the hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_111937415_HDR.jpg" decls="#profile_Dahmani_01_graphic013"/>
-                     <graphic url="thumb/IMG_20190917_111937415_HDR.jpg" decls="#profile_Dahmani_01_graphic013"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic013" url="IMG_20190917_111937415_HDR.jpg"/>
+                     <graphic url="thumb/IMG_20190917_111937415_HDR.jpg" decls="#profile_Dahmani_01_graphic013" type="thumbnail"/>
                      <head>Lizard hidden in a stone opening</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_103054463.jpg" decls="#profile_Dahmani_01_graphic014"/>
-                     <graphic url="thumb/IMG_20190917_103054463.jpg" decls="#profile_Dahmani_01_graphic014"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic014" url="IMG_20190917_103054463.jpg"/>
+                     <graphic url="thumb/IMG_20190917_103054463.jpg" decls="#profile_Dahmani_01_graphic014" type="thumbnail"/>
                      <head>Snail at the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_120339241.jpg" decls="#profile_Dahmani_01_graphic015"/>
-                     <graphic url="thumb/IMG_20190917_120339241.jpg" decls="#profile_Dahmani_01_graphic015"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic015" url="IMG_20190917_120339241.jpg"/>
+                     <graphic url="thumb/IMG_20190917_120339241.jpg" decls="#profile_Dahmani_01_graphic015" type="thumbnail"/>
                      <head>Mushrooms on the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_112116187.jpg" decls="#profile_Dahmani_01_graphic016"/>
-                     <graphic url="thumb/IMG_20190917_112116187.jpg" decls="#profile_Dahmani_01_graphic016"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic016" url="IMG_20190917_112116187.jpg"/>
+                     <graphic url="thumb/IMG_20190917_112116187.jpg" decls="#profile_Dahmani_01_graphic016" type="thumbnail"/>
                      <head>On top of the Ebba hill</head>
                   </figure>
                   <figure>
-                     <link target="IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017"/>
-                     <graphic url="thumb/IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic017" url="IMG_20190917_111110031.jpg"/>
+                     <graphic url="thumb/IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017" type="thumbnail"/>
                      <head>Ebba's ruins</head>
                   </figure>
                </p>
                <p> Enclosed between this mountain area called Ebba, which means “market” in the Phoenician language, and the Roman Ksour Hilla (Qṣūr Hilla), “castles of Hilla”, Dahmani used to be called Ebba Ksour in previous times. This name remained until 1973 when the town was renamed after the medieval local saint Sidi Dahmani (Sīdi id-Dahmǟni).</p>
                <p>
                   <figure rendition="#full-width">
-                     <link target="IMG_20190917_102745560.jpg" decls="#profile_Dahmani_01_graphic018"/>
-                     <graphic url="IMG_20190917_102745560.jpg" decls="#profile_Dahmani_01_graphic018"/>
+                     <graphic type="fullscale" decls="#profile_Dahmani_01_graphic018" url="IMG_20190917_102745560.jpg"/>
+                     <graphic url="IMG_20190917_102745560.jpg" decls="#profile_Dahmani_01_graphic018" type="thumbnail"/>
                      <head>On top of the Ebba hill</head>
                   </figure>
                </p>

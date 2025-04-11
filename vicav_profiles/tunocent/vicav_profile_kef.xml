@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -596,7 +597,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Kef1.jpg" decls="#profile_kef_01_graphic001"/>
+                  <graphic url="Kef1.jpg" decls="#profile_kef_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -622,83 +623,83 @@
             <div type="gallery">
                <head>Impressions of Kef</head>
                <figure>
-                  <link target="Kef-centre.jpg" decls="#profile_kef_01_graphic002"/>
-                  <graphic url="thumb/Kef-centre.jpg" decls="#profile_kef_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic002" url="Kef-centre.jpg"/>
+                  <graphic url="thumb/Kef-centre.jpg" decls="#profile_kef_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Municipality</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-2.jpg" decls="#profile_kef_01_graphic003"/>
-                  <graphic url="Kef-centre-2.jpg" decls="#profile_kef_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic003" url="Kef-centre-2.jpg"/>
+                  <graphic url="Kef-centre-2.jpg" decls="#profile_kef_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">View of the city</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-cafe.jpg" decls="#profile_kef_01_graphic004"/>
-                  <graphic url="Kef-centre-cafe.jpg" decls="#profile_kef_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic004" url="Kef-centre-cafe.jpg"/>
+                  <graphic url="Kef-centre-cafe.jpg" decls="#profile_kef_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Coffee Bou Makhlouf</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-wall.jpg" decls="#profile_kef_01_graphic005"/>
-                  <graphic url="Kef-centre-wall.jpg" decls="#profile_kef_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic005" url="Kef-centre-wall.jpg"/>
+                  <graphic url="Kef-centre-wall.jpg" decls="#profile_kef_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Part of the wall which surrounded the city in past times</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-flora.jpg" decls="#profile_kef_01_graphic006"/>
-                  <graphic url="Kef-centre-flora.jpg" decls="#profile_kef_01_graphic006"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic006" url="Kef-centre-flora.jpg"/>
+                  <graphic url="Kef-centre-flora.jpg" decls="#profile_kef_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Flora</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-themepark.jpg" decls="#profile_kef_01_graphic007"/>
-                  <graphic url="Kef-centre-themepark.jpg" decls="#profile_kef_01_graphic007"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic007" url="Kef-centre-themepark.jpg"/>
+                  <graphic url="Kef-centre-themepark.jpg" decls="#profile_kef_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Theme park</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-qadriyya.jpg" decls="#profile_kef_01_graphic008"/>
-                  <graphic url="Kef-centre-qadriyya.jpg" decls="#profile_kef_01_graphic008"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic008" url="Kef-centre-qadriyya.jpg"/>
+                  <graphic url="Kef-centre-qadriyya.jpg" decls="#profile_kef_01_graphic008" type="thumbnail"/>
                   <head type="imgCaption">Mosque El Qadriya</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-Ali-bin-Saleh.jpg" decls="#profile_kef_01_graphic009"/>
-                  <graphic url="Kef-centre-Ali-bin-Saleh.jpg" decls="#profile_kef_01_graphic009"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic009" url="Kef-centre-Ali-bin-Saleh.jpg"/>
+                  <graphic url="Kef-centre-Ali-bin-Saleh.jpg" decls="#profile_kef_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Mosque Ali bin Saleh</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-people-thursday.jpg" decls="#profile_kef_01_graphic010"/>
-                  <graphic url="Kef-centre-people-thursday.jpg" decls="#profile_kef_01_graphic010"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic010" url="Kef-centre-people-thursday.jpg"/>
+                  <graphic url="Kef-centre-people-thursday.jpg" decls="#profile_kef_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">People gather on Thursday's market</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-carpet.jpg" decls="#profile_kef_01_graphic011"/>
-                  <graphic url="Kef-centre-carpet.jpg" decls="#profile_kef_01_graphic011"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic011" url="Kef-centre-carpet.jpg"/>
+                  <graphic url="Kef-centre-carpet.jpg" decls="#profile_kef_01_graphic011" type="thumbnail"/>
                   <head type="imgCaption">Crafted cushions and carpets</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-pepper.jpg" decls="#profile_kef_01_graphic012"/>
-                  <graphic url="Kef-centre-pepper.jpg" decls="#profile_kef_01_graphic012"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic012" url="Kef-centre-pepper.jpg"/>
+                  <graphic url="Kef-centre-pepper.jpg" decls="#profile_kef_01_graphic012" type="thumbnail"/>
                   <head type="imgCaption">Grilling pepper</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-mlewi.jpg" decls="#profile_kef_01_graphic013"/>
-                  <graphic url="Kef-centre-mlewi.jpg" decls="#profile_kef_01_graphic013"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic013" url="Kef-centre-mlewi.jpg"/>
+                  <graphic url="Kef-centre-mlewi.jpg" decls="#profile_kef_01_graphic013" type="thumbnail"/>
                   <head type="imgCaption">Tunisian fast food Mlewi from the Thursday's market</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-museum.jpg" decls="#profile_kef_01_graphic014"/>
-                  <graphic url="Kef-centre-museum.jpg" decls="#profile_kef_01_graphic014"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic014" url="Kef-centre-museum.jpg"/>
+                  <graphic url="Kef-centre-museum.jpg" decls="#profile_kef_01_graphic014" type="thumbnail"/>
                   <head type="imgCaption">At the museum</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-museum2.jpg" decls="#profile_kef_01_graphic015"/>
-                  <graphic url="Kef-centre-museum2.jpg" decls="#profile_kef_01_graphic015"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic015" url="Kef-centre-museum2.jpg"/>
+                  <graphic url="Kef-centre-museum2.jpg" decls="#profile_kef_01_graphic015" type="thumbnail"/>
                   <head type="imgCaption">Researcher Franzi in the museum</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-clothes.jpg" decls="#profile_kef_01_graphic016"/>
-                  <graphic url="Kef-centre-clothes.jpg" decls="#profile_kef_01_graphic016"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic016" url="Kef-centre-clothes.jpg"/>
+                  <graphic url="Kef-centre-clothes.jpg" decls="#profile_kef_01_graphic016" type="thumbnail"/>
                   <head type="imgCaption">Traditional women clothes in the museum</head>
                </figure>
                <figure>
-                  <link target="Kef-centre-mathaf.jpg" decls="#profile_kef_01_graphic017"/>
-                  <graphic url="Kef-centre-mathaf.jpg" decls="#profile_kef_01_graphic017"/>
+                  <graphic type="fullscale" decls="#profile_kef_01_graphic017" url="Kef-centre-mathaf.jpg"/>
+                  <graphic url="Kef-centre-mathaf.jpg" decls="#profile_kef_01_graphic017" type="thumbnail"/>
                   <head type="imgCaption">Old working tools in the museum</head>
                </figure>
             </div>
@@ -706,183 +707,183 @@
                <p xml:space="preserve">El Kef is the capital of its eponymous Tunisian governorate. It is located in the northwestern part of the country in the Tunisian-Algerian border region. Though beyond Tunisia’s touristic regions, the small town provides interesting insights into Tunisia’s cultural and historical heritage. </p>
                <p>
                   <figure rendition="#small">
-                     <link target="Kef-roman-bath.jpg" decls="#profile_kef_01_graphic018"/>
-                     <graphic url="Kef-roman-bath.jpg" decls="#profile_kef_01_graphic018"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic018" url="Kef-roman-bath.jpg"/>
+                     <graphic url="Kef-roman-bath.jpg" decls="#profile_kef_01_graphic018" type="thumbnail"/>
                      <head>Roman bath</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-Franzi-bath.jpg" decls="#profile_kef_01_graphic019"/>
-                     <graphic url="Kef-Franzi-bath.jpg" decls="#profile_kef_01_graphic019"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic019" url="Kef-Franzi-bath.jpg"/>
+                     <graphic url="Kef-Franzi-bath.jpg" decls="#profile_kef_01_graphic019" type="thumbnail"/>
                      <head>Researcher Franzi in front the Roman baths ruins</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-flowers.jpg" decls="#profile_kef_01_graphic020"/>
-                     <graphic url="Kef-flowers.jpg" decls="#profile_kef_01_graphic020"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic020" url="Kef-flowers.jpg"/>
+                     <graphic url="Kef-flowers.jpg" decls="#profile_kef_01_graphic020" type="thumbnail"/>
                      <head>Flowers planted within the area of the Roman baths</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-baths-2.jpg" decls="#profile_kef_01_graphic021"/>
-                     <graphic url="Kef-baths-2.jpg" decls="#profile_kef_01_graphic021"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic021" url="Kef-baths-2.jpg"/>
+                     <graphic url="Kef-baths-2.jpg" decls="#profile_kef_01_graphic021" type="thumbnail"/>
                      <head>Roman bath</head>
                   </figure>
                </p>
                <p xml:space="preserve">Ruins of a Roman bath (<hi xml:lang="aeb" rendition="#i">ḥammām</hi>) evoke the country’s antique past, while the Kasbah (<hi xml:lang="aeb" rendition="#i">qaṣba</hi>), a fort with a view over the whole town, goes back to the time of Ottoman rule. </p>
                <p>
                   <figure rendition="#small">
-                     <link target="Kef-kasba.jpg" decls="#profile_kef_01_graphic022"/>
-                     <graphic url="Kef-kasba.jpg" decls="#profile_kef_01_graphic022"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic022" url="Kef-kasba.jpg"/>
+                     <graphic url="Kef-kasba.jpg" decls="#profile_kef_01_graphic022" type="thumbnail"/>
                      <head>Inside the Kasbah: beautiful stairs</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-kasba-guns.jpg" decls="#profile_kef_01_graphic023"/>
-                     <graphic url="Kef-kasba-guns.jpg" decls="#profile_kef_01_graphic023"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic023" url="Kef-kasba-guns.jpg"/>
+                     <graphic url="Kef-kasba-guns.jpg" decls="#profile_kef_01_graphic023" type="thumbnail"/>
                      <head>Guns of the Kasbah</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-kasba-entrance.jpg" decls="#profile_kef_01_graphic024"/>
-                     <graphic url="Kef-kasba-entrance.jpg" decls="#profile_kef_01_graphic024"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic024" url="Kef-kasba-entrance.jpg"/>
+                     <graphic url="Kef-kasba-entrance.jpg" decls="#profile_kef_01_graphic024" type="thumbnail"/>
                      <head>Entrance of the Kasbah</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-kasba-view.jpg" decls="#profile_kef_01_graphic025"/>
-                     <graphic url="Kef-kasba-view.jpg" decls="#profile_kef_01_graphic025"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic025" url="Kef-kasba-view.jpg"/>
+                     <graphic url="Kef-kasba-view.jpg" decls="#profile_kef_01_graphic025" type="thumbnail"/>
                      <head>View of the city from the the Kasbah</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-kasba-guns-view.jpg" decls="#profile_kef_01_graphic026"/>
-                     <graphic url="Kef-kasba-guns-view.jpg" decls="#profile_kef_01_graphic026"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic026" url="Kef-kasba-guns-view.jpg"/>
+                     <graphic url="Kef-kasba-guns-view.jpg" decls="#profile_kef_01_graphic026" type="thumbnail"/>
                      <head>Guns of and view from the Kasbah</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-kasba-night.jpg" decls="#profile_kef_01_graphic027"/>
-                     <graphic url="Kef-kasba-night.jpg" decls="#profile_kef_01_graphic027"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic027" url="Kef-kasba-night.jpg"/>
+                     <graphic url="Kef-kasba-night.jpg" decls="#profile_kef_01_graphic027" type="thumbnail"/>
                      <head>The Kasbah Illuminated at Night</head>
                   </figure>
                </p>
                <p xml:space="preserve">An old synagogue in the centre of El Kef as well as a Jewish and a Christian cemetery are indicators of the former times’ religious diversity.</p>
                <p>
                   <figure rendition="#small">
-                     <link target="Kef-synagogue-road.jpg" decls="#profile_kef_01_graphic028"/>
-                     <graphic url="Kef-synagogue-road.jpg" decls="#profile_kef_01_graphic028"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic028" url="Kef-synagogue-road.jpg"/>
+                     <graphic url="Kef-synagogue-road.jpg" decls="#profile_kef_01_graphic028" type="thumbnail"/>
                      <head>On the way to the Synagogue de la Ghriba</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-synagogue-entrance.jpg" decls="#profile_kef_01_graphic029"/>
-                     <graphic url="Kef-synagogue-entrance.jpg" decls="#profile_kef_01_graphic029"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic029" url="Kef-synagogue-entrance.jpg"/>
+                     <graphic url="Kef-synagogue-entrance.jpg" decls="#profile_kef_01_graphic029" type="thumbnail"/>
                      <head>Entrance of the Synagogue de la Ghriba</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-synagogue-yard.jpg" decls="#profile_kef_01_graphic030"/>
-                     <graphic url="Kef-synagogue-yard.jpg" decls="#profile_kef_01_graphic030"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic030" url="Kef-synagogue-yard.jpg"/>
+                     <graphic url="Kef-synagogue-yard.jpg" decls="#profile_kef_01_graphic030" type="thumbnail"/>
                      <head>Yard with Ruins of the Synagogue de la Ghriba</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-synagogue-inside.jpg" decls="#profile_kef_01_graphic031"/>
-                     <graphic url="Kef-synagogue-inside.jpg" decls="#profile_kef_01_graphic031"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic031" url="Kef-synagogue-inside.jpg"/>
+                     <graphic url="Kef-synagogue-inside.jpg" decls="#profile_kef_01_graphic031" type="thumbnail"/>
                      <head>Inside the Synagogue de la Ghriba</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-cemeteries.jpg" decls="#profile_kef_01_graphic032"/>
-                     <graphic url="Kef-cemeteries.jpg" decls="#profile_kef_01_graphic032"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic032" url="Kef-cemeteries.jpg"/>
+                     <graphic url="Kef-cemeteries.jpg" decls="#profile_kef_01_graphic032" type="thumbnail"/>
                      <head>Jewish and Christian cemeteries</head>
                   </figure>
                </p>
                <p xml:space="preserve">In addition to the mosque, the mausoleum of the local saint Sidi Bou Makhlouf (Sīdi Bū Maxlūf) is one of the holy places people visit to the present.</p>
                <p>
                   <figure rendition="#small">
-                     <link target="Kef-makhlouf-sign.jpg" decls="#profile_kef_01_graphic033"/>
-                     <graphic url="Kef-makhlouf-sign.jpg" decls="#profile_kef_01_graphic033"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic033" url="Kef-makhlouf-sign.jpg"/>
+                     <graphic url="Kef-makhlouf-sign.jpg" decls="#profile_kef_01_graphic033" type="thumbnail"/>
                      <head>Tombs of Bou Makhlouf </head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-makhlouf-door.jpg" decls="#profile_kef_01_graphic034"/>
-                     <graphic url="Kef-makhlouf-door.jpg" decls="#profile_kef_01_graphic034"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic034" url="Kef-makhlouf-door.jpg"/>
+                     <graphic url="Kef-makhlouf-door.jpg" decls="#profile_kef_01_graphic034" type="thumbnail"/>
                      <head>Tombs of Bou Makhlouf</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-makhlouf-tomb.jpg" decls="#profile_kef_01_graphic035"/>
-                     <graphic url="Kef-makhlouf-tomb.jpg" decls="#profile_kef_01_graphic035"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic035" url="Kef-makhlouf-tomb.jpg"/>
+                     <graphic url="Kef-makhlouf-tomb.jpg" decls="#profile_kef_01_graphic035" type="thumbnail"/>
                      <head>Tombs of Bou Makhlouf </head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-makhlouf-tomb-2.jpg" decls="#profile_kef_01_graphic036"/>
-                     <graphic url="Kef-makhlouf-tomb-2.jpg" decls="#profile_kef_01_graphic036"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic036" url="Kef-makhlouf-tomb-2.jpg"/>
+                     <graphic url="Kef-makhlouf-tomb-2.jpg" decls="#profile_kef_01_graphic036" type="thumbnail"/>
                      <head>Tombs of Bou Makhlouf</head>
                   </figure>
                </p>
                <p xml:space="preserve">While historical traces are omnipresent, professional graffiti arts embellish roads, paths and public places showing the modern side of El Kef. </p>
                <p rendition="#slideshow">
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-makhlouf.jpg" decls="#profile_kef_01_graphic037"/>
-                     <graphic url="Kef-graffiti-makhlouf.jpg" decls="#profile_kef_01_graphic037"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic037" url="Kef-graffiti-makhlouf.jpg"/>
+                     <graphic url="Kef-graffiti-makhlouf.jpg" decls="#profile_kef_01_graphic037" type="thumbnail"/>
                      <head>Graffiti of Bou Makhlouf</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-bird.jpg" decls="#profile_kef_01_graphic038"/>
-                     <graphic url="Kef-graffiti-bird.jpg" decls="#profile_kef_01_graphic038"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic038" url="Kef-graffiti-bird.jpg"/>
+                     <graphic url="Kef-graffiti-bird.jpg" decls="#profile_kef_01_graphic038" type="thumbnail"/>
                      <head>Graffiti of a dove by Wiss</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-calligraphy.jpg" decls="#profile_kef_01_graphic039"/>
-                     <graphic url="Kef-graffiti-calligraphy.jpg" decls="#profile_kef_01_graphic039"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic039" url="Kef-graffiti-calligraphy.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy.jpg" decls="#profile_kef_01_graphic039" type="thumbnail"/>
                      <head>Graffiti calligraphy I</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-calligraphy-2.jpg" decls="#profile_kef_01_graphic040"/>
-                     <graphic url="Kef-graffiti-calligraphy-2.jpg" decls="#profile_kef_01_graphic040"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic040" url="Kef-graffiti-calligraphy-2.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-2.jpg" decls="#profile_kef_01_graphic040" type="thumbnail"/>
                      <head>Graffiti calligraphy II</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-calligraphy-3.jpg" decls="#profile_kef_01_graphic041"/>
-                     <graphic url="Kef-graffiti-calligraphy-3.jpg" decls="#profile_kef_01_graphic041"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic041" url="Kef-graffiti-calligraphy-3.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-3.jpg" decls="#profile_kef_01_graphic041" type="thumbnail"/>
                      <head>Graffiti calligraphy III</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-old-man.jpg" decls="#profile_kef_01_graphic042"/>
-                     <graphic url="Kef-graffiti-old-man.jpg" decls="#profile_kef_01_graphic042"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic042" url="Kef-graffiti-old-man.jpg"/>
+                     <graphic url="Kef-graffiti-old-man.jpg" decls="#profile_kef_01_graphic042" type="thumbnail"/>
                      <head>Graffiti of an old man</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-berber.jpg" decls="#profile_kef_01_graphic043"/>
-                     <graphic url="Kef-graffiti-berber.jpg" decls="#profile_kef_01_graphic043"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic043" url="Kef-graffiti-berber.jpg"/>
+                     <graphic url="Kef-graffiti-berber.jpg" decls="#profile_kef_01_graphic043" type="thumbnail"/>
                      <head>Graffiti of an Berber woman</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-calligraphy-4.jpg" decls="#profile_kef_01_graphic044"/>
-                     <graphic url="Kef-graffiti-calligraphy-4.jpg" decls="#profile_kef_01_graphic044"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic044" url="Kef-graffiti-calligraphy-4.jpg"/>
+                     <graphic url="Kef-graffiti-calligraphy-4.jpg" decls="#profile_kef_01_graphic044" type="thumbnail"/>
                      <head>Kefian proverb</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-park.jpg" decls="#profile_kef_01_graphic045"/>
-                     <graphic url="Kef-graffiti-park.jpg" decls="#profile_kef_01_graphic045"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic045" url="Kef-graffiti-park.jpg"/>
+                     <graphic url="Kef-graffiti-park.jpg" decls="#profile_kef_01_graphic045" type="thumbnail"/>
                      <head>Graffiti on a park entrance</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-basketball.jpg" decls="#profile_kef_01_graphic046"/>
-                     <graphic url="Kef-graffiti-basketball.jpg" decls="#profile_kef_01_graphic046"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic046" url="Kef-graffiti-basketball.jpg"/>
+                     <graphic url="Kef-graffiti-basketball.jpg" decls="#profile_kef_01_graphic046" type="thumbnail"/>
                      <head>Graffiti of old men playing basketball</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-vase.jpg" decls="#profile_kef_01_graphic047"/>
-                     <graphic url="Kef-vase.jpg" decls="#profile_kef_01_graphic047"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic047" url="Kef-vase.jpg"/>
+                     <graphic url="Kef-vase.jpg" decls="#profile_kef_01_graphic047" type="thumbnail"/>
                      <head>Ornated vase</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Kef-graffiti-wiss.jpg" decls="#profile_kef_01_graphic048"/>
-                     <graphic url="Kef-graffiti-wiss.jpg" decls="#profile_kef_01_graphic048"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic048" url="Kef-graffiti-wiss.jpg"/>
+                     <graphic url="Kef-graffiti-wiss.jpg" decls="#profile_kef_01_graphic048" type="thumbnail"/>
                      <head>Artist Wiss in front of his graffiti of an eye</head>
                   </figure>
                </p>
                <p xml:space="preserve">Some Kefian artists even integrate the town’s past into their work, using El Kef’s former Latin name Sicca Veneria as a graffiti motif. </p>
                <p rendition="#full-width">
                   <figure>
-                     <link target="Kef-graffiti-1.jpg" decls="#profile_kef_01_graphic049"/>
-                     <graphic url="Kef-graffiti-1.jpg" decls="#profile_kef_01_graphic049"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic049" url="Kef-graffiti-1.jpg"/>
+                     <graphic url="Kef-graffiti-1.jpg" decls="#profile_kef_01_graphic049" type="thumbnail"/>
                      <head>Graffiti SICCA</head>
                   </figure>
                   <figure>
-                     <link target="Kef-graffiti-2.jpg" decls="#profile_kef_01_graphic050"/>
-                     <graphic url="Kef-graffiti-2.jpg" decls="#profile_kef_01_graphic050"/>
+                     <graphic type="fullscale" decls="#profile_kef_01_graphic050" url="Kef-graffiti-2.jpg"/>
+                     <graphic url="Kef-graffiti-2.jpg" decls="#profile_kef_01_graphic050" type="thumbnail"/>
                      <head>Graffiti VENERIA</head>
                   </figure>
                </p>

@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -185,7 +186,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Balta1.jpg" decls="#profile_balta_01_graphic001"/>
+                  <graphic url="Balta1.jpg" decls="#profile_balta_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -212,43 +213,43 @@
                <p xml:space="preserve">Balṭa is a village situated about 13 km north of the town of Bū Sǟlim in the Jendouba Governorate. Near the mountain called Ǧbal Bū Saʕīd, there is the tomb of the local saint Sīdi Ṣālaḥ il-Balṭi, on an elevation of 602 m. </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="IMG_5100.jpg" decls="#profile_balta_01_graphic002"/>
-                     <graphic url="thumb/IMG_5100.jpg" decls="#profile_balta_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic002" url="IMG_5100.jpg"/>
+                     <graphic url="thumb/IMG_5100.jpg" decls="#profile_balta_01_graphic002" type="thumbnail"/>
                      <head>Settlement near the mountains</head>
                   </figure>
                   <figure>
-                     <link target="HaneAbirMe.jpg" decls="#profile_balta_01_graphic003"/>
-                     <graphic url="thumb/HaneAbirMe.jpg" decls="#profile_balta_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic003" url="HaneAbirMe.jpg"/>
+                     <graphic url="thumb/HaneAbirMe.jpg" decls="#profile_balta_01_graphic003" type="thumbnail"/>
                      <head>Ilona with local friends</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5667.jpg" decls="#profile_balta_01_graphic004"/>
-                     <graphic url="thumb/IMG_5667.jpg" decls="#profile_balta_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic004" url="IMG_5667.jpg"/>
+                     <graphic url="thumb/IMG_5667.jpg" decls="#profile_balta_01_graphic004" type="thumbnail"/>
                      <head>Bench between two trees providing shadow</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5141.jpg" decls="#profile_balta_01_graphic005"/>
-                     <graphic url="thumb/IMG_5141.jpg" decls="#profile_balta_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic005" url="IMG_5141.jpg"/>
+                     <graphic url="thumb/IMG_5141.jpg" decls="#profile_balta_01_graphic005" type="thumbnail"/>
                      <head>Balta's Landscape</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5130.jpg" decls="#profile_balta_01_graphic006"/>
-                     <graphic url="thumb/IMG_5130.jpg" decls="#profile_balta_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic006" url="IMG_5130.jpg"/>
+                     <graphic url="thumb/IMG_5130.jpg" decls="#profile_balta_01_graphic006" type="thumbnail"/>
                      <head>Old stonewall with opening to a garden</head>
                   </figure>
                   <figure>
-                     <link target="IMG_E5125.jpg" decls="#profile_balta_01_graphic007"/>
-                     <graphic url="thumb/IMG_E5125.jpg" decls="#profile_balta_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic007" url="IMG_E5125.jpg"/>
+                     <graphic url="thumb/IMG_E5125.jpg" decls="#profile_balta_01_graphic007" type="thumbnail"/>
                      <head>Donkey with donkey child</head>
                   </figure>
                   <figure>
-                     <link target="IMG_5252.jpg" decls="#profile_balta_01_graphic008"/>
-                     <graphic url="thumb/IMG_5252.jpg" decls="#profile_balta_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic008" url="IMG_5252.jpg"/>
+                     <graphic url="thumb/IMG_5252.jpg" decls="#profile_balta_01_graphic008" type="thumbnail"/>
                      <head>Researcher Ilona holding a small bird</head>
                   </figure>
                   <figure><!--@rendition="#full-width"-->
-                     <link target="IMG_5224.jpg" decls="#profile_balta_01_graphic009"/>
-                     <graphic url="thumb/IMG_5224.jpg" decls="#profile_balta_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_balta_01_graphic009" url="IMG_5224.jpg"/>
+                     <graphic url="thumb/IMG_5224.jpg" decls="#profile_balta_01_graphic009" type="thumbnail"/>
                      <head>Researcher Ilona with local women</head>
                   </figure>
                </p>

@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -345,7 +346,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="BouOmrane1.jpg" decls="#profile_Bou_Omrane_01_graphic001"/>
+                  <graphic url="BouOmrane1.jpg" decls="#profile_Bou_Omrane_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -371,99 +372,99 @@
                <p xml:space="preserve">Bou Omrane is a village situated in the Orbata Mountains (Žbǟl ʕUṛbāṭa) of the south Tunisian governorate of Gafsa around 40 kilometres east of its capital. </p>
                <p>
                   <figure rendition="#small">
-                     <link target="Mosque_of_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic002"/>
-                     <graphic url="thumb/Mosque_of_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic002" url="Mosque_of_Bou_Omrane.jpg"/>
+                     <graphic url="thumb/Mosque_of_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic002" type="thumbnail"/>
                      <head>Mosque of Bou Omrane</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="The_mountain_village_of_Bou_Omrane_(4).jpg" decls="#profile_Bou_Omrane_01_graphic003"/>
-                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(4).jpg" decls="#profile_Bou_Omrane_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic003" url="The_mountain_village_of_Bou_Omrane_(4).jpg"/>
+                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(4).jpg" decls="#profile_Bou_Omrane_01_graphic003" type="thumbnail"/>
                      <head>The mountain village of Bou Omrane</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="The_mountain_village_of_Bou_Omrane_(9).jpg" decls="#profile_Bou_Omrane_01_graphic004"/>
-                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(9).jpg" decls="#profile_Bou_Omrane_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic004" url="The_mountain_village_of_Bou_Omrane_(9).jpg"/>
+                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(9).jpg" decls="#profile_Bou_Omrane_01_graphic004" type="thumbnail"/>
                      <head>The mountains of Bou Omrane</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Street_leading_from_the_old_Bou_Omrane_on_the_mountain_side_to_the_new_Bou_Omrane_at_the_bottom_of_it.jpg" decls="#profile_Bou_Omrane_01_graphic005"/>
-                     <graphic url="thumb/Street_leading_from_the_old_Bou_Omrane_on_the_mountain_side_to_the_new_Bou_Omrane_at_the_bottom_of_it.jpg" decls="#profile_Bou_Omrane_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic005" url="Street_leading_from_the_old_Bou_Omrane_on_the_mountain_side_to_the_new_Bou_Omrane_at_the_bottom_of_it.jpg"/>
+                     <graphic url="thumb/Street_leading_from_the_old_Bou_Omrane_on_the_mountain_side_to_the_new_Bou_Omrane_at_the_bottom_of_it.jpg" decls="#profile_Bou_Omrane_01_graphic005" type="thumbnail"/>
                      <head>Street leading from the old to the new Bou Omrane</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="St._Saleh_on_the_mountain.jpg" decls="#profile_Bou_Omrane_01_graphic006"/>
-                     <graphic url="thumb/St._Saleh_on_the_mountain.jpg" decls="#profile_Bou_Omrane_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic006" url="St._Saleh_on_the_mountain.jpg"/>
+                     <graphic url="thumb/St._Saleh_on_the_mountain.jpg" decls="#profile_Bou_Omrane_01_graphic006" type="thumbnail"/>
                      <head>St. Saleh on the mountain</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Way_to_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic007"/>
-                     <graphic url="thumb/Way_to_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic007" url="Way_to_Bou_Omrane.jpg"/>
+                     <graphic url="thumb/Way_to_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic007" type="thumbnail"/>
                      <head>Way to Bou Omrane</head>
                   </figure>
                </p>
                <p xml:space="preserve">According to locals, their ancestors led a nomadic life until tribal families eventually started to settle down. First, they took up abode in the adjacent village of Bou Saad. In the course of time, however, the families established themselves one after another permanently in the mountains of Bou Omrane. The first settler is said to be a certain Židd Bū ʕUmṛān “Grandpa Bou Omrane”, which is why some locals call their village also Ūlǟd Bū ʕUmṛān “Bou Omrane’s descendants”. To this day, old houses of these first settlements remain. </p>
                <p>
                   <figure rendition="#small">
-                     <link target="Old_houses'_remains_(1).jpg" decls="#profile_Bou_Omrane_01_graphic008"/>
-                     <graphic url="thumb/Old_houses'_remains_(1).jpg" decls="#profile_Bou_Omrane_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic008" url="Old_houses'_remains_(1).jpg"/>
+                     <graphic url="thumb/Old_houses'_remains_(1).jpg" decls="#profile_Bou_Omrane_01_graphic008" type="thumbnail"/>
                      <head>Old houses' remains</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Old_houses'_remains_(3).jpg" decls="#profile_Bou_Omrane_01_graphic009"/>
-                     <graphic url="thumb/Old_houses'_remains_(3).jpg" decls="#profile_Bou_Omrane_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic009" url="Old_houses'_remains_(3).jpg"/>
+                     <graphic url="thumb/Old_houses'_remains_(3).jpg" decls="#profile_Bou_Omrane_01_graphic009" type="thumbnail"/>
                      <head>Old houses' remains</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="The_mountain_village_of_Bou_Omrane_(8).jpg" decls="#profile_Bou_Omrane_01_graphic010"/>
-                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(8).jpg" decls="#profile_Bou_Omrane_01_graphic010"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic010" url="The_mountain_village_of_Bou_Omrane_(8).jpg"/>
+                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(8).jpg" decls="#profile_Bou_Omrane_01_graphic010" type="thumbnail"/>
                      <head>The old mountain village of Bou Omrane</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Old_houses'_remains_(5).jpg" decls="#profile_Bou_Omrane_01_graphic011"/>
-                     <graphic url="thumb/Old_houses'_remains_(5).jpg" decls="#profile_Bou_Omrane_01_graphic011"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic011" url="Old_houses'_remains_(5).jpg"/>
+                     <graphic url="thumb/Old_houses'_remains_(5).jpg" decls="#profile_Bou_Omrane_01_graphic011" type="thumbnail"/>
                      <head>Old door</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Old_houses'_remains_(4).jpg" decls="#profile_Bou_Omrane_01_graphic012"/>
-                     <graphic url="thumb/Old_houses'_remains_(4).jpg" decls="#profile_Bou_Omrane_01_graphic012"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic012" url="Old_houses'_remains_(4).jpg"/>
+                     <graphic url="thumb/Old_houses'_remains_(4).jpg" decls="#profile_Bou_Omrane_01_graphic012" type="thumbnail"/>
                      <head>Old houses' remains</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="The_mountain_village_of_Bou_Omrane_(6).jpg" decls="#profile_Bou_Omrane_01_graphic013"/>
-                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(6).jpg" decls="#profile_Bou_Omrane_01_graphic013"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic013" url="The_mountain_village_of_Bou_Omrane_(6).jpg"/>
+                     <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(6).jpg" decls="#profile_Bou_Omrane_01_graphic013" type="thumbnail"/>
                      <head>The mountain village of Bou Omrane</head>
                   </figure>
                </p>
                <p xml:space="preserve">As the population grew, people started to colonize the foot of the mountain, too. Thus, nowadays the village abuts on the main road, which connects it to the governorate’s capital of Gafsa. Appropriately, people call this part Bū ʕUmṛān iž-Ždīda “the new Bou Omrane”, while the older part on the mountains is called Bū ʕUmṛān li-Gdīma “the old Bou Omrane”. </p>
                <p>
                   <figure rendition="#small">
-                     <link target="Local_interviewee_(1).jpg" decls="#profile_Bou_Omrane_01_graphic014"/>
-                     <graphic url="thumb/Local_interviewee_(1).jpg" decls="#profile_Bou_Omrane_01_graphic014"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic014" url="Local_interviewee_(1).jpg"/>
+                     <graphic url="thumb/Local_interviewee_(1).jpg" decls="#profile_Bou_Omrane_01_graphic014" type="thumbnail"/>
                      <head>Local interviewee</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="House_of_a_martyr_who_died_under_French_occupation_(1).jpg" decls="#profile_Bou_Omrane_01_graphic015"/>
-                     <graphic url="thumb/House_of_a_martyr_who_died_under_French_occupation_(1).jpg" decls="#profile_Bou_Omrane_01_graphic015"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic015" url="House_of_a_martyr_who_died_under_French_occupation_(1).jpg"/>
+                     <graphic url="thumb/House_of_a_martyr_who_died_under_French_occupation_(1).jpg" decls="#profile_Bou_Omrane_01_graphic015" type="thumbnail"/>
                      <head>House of a martyr who died under French occupation</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Houses.jpg" decls="#profile_Bou_Omrane_01_graphic016"/>
-                     <graphic url="thumb/Houses.jpg" decls="#profile_Bou_Omrane_01_graphic016"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic016" url="Houses.jpg"/>
+                     <graphic url="thumb/Houses.jpg" decls="#profile_Bou_Omrane_01_graphic016" type="thumbnail"/>
                      <head>Houses</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(3).jpg" decls="#profile_Bou_Omrane_01_graphic017"/>
-                     <graphic url="thumb/Traditional_life_(3).jpg" decls="#profile_Bou_Omrane_01_graphic017"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic017" url="Traditional_life_(3).jpg"/>
+                     <graphic url="thumb/Traditional_life_(3).jpg" decls="#profile_Bou_Omrane_01_graphic017" type="thumbnail"/>
                      <head>Wheelbarrow</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(7).jpg" decls="#profile_Bou_Omrane_01_graphic018"/>
-                     <graphic url="thumb/Traditional_life_(7).jpg" decls="#profile_Bou_Omrane_01_graphic018"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic018" url="Traditional_life_(7).jpg"/>
+                     <graphic url="thumb/Traditional_life_(7).jpg" decls="#profile_Bou_Omrane_01_graphic018" type="thumbnail"/>
                      <head>Farming</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(12)_(1).jpg" decls="#profile_Bou_Omrane_01_graphic019"/>
-                     <graphic url="thumb/Traditional_life_(12)_(1).jpg" decls="#profile_Bou_Omrane_01_graphic019"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic019" url="Traditional_life_(12)_(1).jpg"/>
+                     <graphic url="thumb/Traditional_life_(12)_(1).jpg" decls="#profile_Bou_Omrane_01_graphic019" type="thumbnail"/>
                      <head>Traditional tools</head>
                   </figure>
                </p>
@@ -471,33 +472,33 @@
                <p>According to our interviewees, the dialect of Bou Omrane has more Berber vocabulary than that of the town of Gafsa.</p>
                <p>
                   <figure rendition="#small">
-                     <link target="Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg" decls="#profile_Bou_Omrane_01_graphic020"/>
-                     <graphic url="thumb/Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg" decls="#profile_Bou_Omrane_01_graphic020"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic020" url="Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg"/>
+                     <graphic url="thumb/Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg" decls="#profile_Bou_Omrane_01_graphic020" type="thumbnail"/>
                      <head>Sheepskin carpet serving as padded underlay for sleeping - still in use</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(9).jpg" decls="#profile_Bou_Omrane_01_graphic021"/>
-                     <graphic url="thumb/Traditional_life_(9).jpg" decls="#profile_Bou_Omrane_01_graphic021"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic021" url="Traditional_life_(9).jpg"/>
+                     <graphic url="thumb/Traditional_life_(9).jpg" decls="#profile_Bou_Omrane_01_graphic021" type="thumbnail"/>
                      <head>Handmade carpet</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="manifactured_underlay_made_of_reed.jpg" decls="#profile_Bou_Omrane_01_graphic022"/>
-                     <graphic url="thumb/manifactured_underlay_made_of_reed.jpg" decls="#profile_Bou_Omrane_01_graphic022"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic022" url="manifactured_underlay_made_of_reed.jpg"/>
+                     <graphic url="thumb/manifactured_underlay_made_of_reed.jpg" decls="#profile_Bou_Omrane_01_graphic022" type="thumbnail"/>
                      <head>Manifactured underlay made of reed</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(5).jpg" decls="#profile_Bou_Omrane_01_graphic023"/>
-                     <graphic url="thumb/Traditional_life_(5).jpg" decls="#profile_Bou_Omrane_01_graphic023"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic023" url="Traditional_life_(5).jpg"/>
+                     <graphic url="thumb/Traditional_life_(5).jpg" decls="#profile_Bou_Omrane_01_graphic023" type="thumbnail"/>
                      <head>Crafted tapestry</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(1).jpg" decls="#profile_Bou_Omrane_01_graphic024"/>
-                     <graphic url="thumb/Traditional_life_(1).jpg" decls="#profile_Bou_Omrane_01_graphic024"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic024" url="Traditional_life_(1).jpg"/>
+                     <graphic url="thumb/Traditional_life_(1).jpg" decls="#profile_Bou_Omrane_01_graphic024" type="thumbnail"/>
                      <head>At the workshop</head>
                   </figure>
                   <figure rendition="#small">
-                     <link target="Traditional_life_(8).jpg" decls="#profile_Bou_Omrane_01_graphic025"/>
-                     <graphic url="thumb/Traditional_life_(8).jpg" decls="#profile_Bou_Omrane_01_graphic025"/>
+                     <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic025" url="Traditional_life_(8).jpg"/>
+                     <graphic url="thumb/Traditional_life_(8).jpg" decls="#profile_Bou_Omrane_01_graphic025" type="thumbnail"/>
                      <head>Traditional patterns</head>
                   </figure>
                </p>

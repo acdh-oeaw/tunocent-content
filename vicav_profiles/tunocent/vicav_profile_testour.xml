@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -115,7 +116,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Testour1.jpg" decls="#profile_testour_01_graphic001"/>
+                  <graphic url="Testour1.jpg" decls="#profile_testour_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Aleksandra Naddari</head>
                </figure>
                <label>Name (English)</label>
@@ -141,8 +142,8 @@
             <div type="general">
                <p xml:space="preserve">Testour is a small town located in the North West Tunisian governorate of Béja and situated on the hills of the Medjerda Valley. The population of Testour is famous for its Andalusian origin. The modern town occupies the site of the Roman settlement Tichilla which was granted to Andalusian refugees in 1609. </p>
                <figure rendition="#right">
-                  <link target="Testour_2-scaled-e1581591753519.jpg" decls="#profile_testour_01_graphic002"/>
-                  <graphic url="Testour_2-scaled-e1581591753519-300x278.jpg" decls="#profile_testour_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_testour_01_graphic002" url="Testour_2-scaled-e1581591753519.jpg"/>
+                  <graphic url="Testour_2-scaled-e1581591753519-300x278.jpg" decls="#profile_testour_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Great Mosque of Testour</head>
                </figure>
                <p xml:space="preserve">As for the town’s tourist attractions, the main one is the Great Mosque built in Andalusian style in the 17<sup>th</sup> century. Furthermore, Testour hosts a yearly international festival of <hi xml:lang="aeb" rendition="#i">mālūf</hi> (traditional Maghrebi music of Andalusian origin).</p>

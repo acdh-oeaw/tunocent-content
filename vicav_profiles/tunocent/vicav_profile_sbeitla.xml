@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -125,15 +126,15 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Sbeitla4.jpg" decls="#profile_sbeitla_01_graphic001"/>
+                  <graphic url="Sbeitla4.jpg" decls="#profile_sbeitla_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi</head>
                </figure>
                <figure>
-                  <graphic url="Sbeitla6.jpg" decls="#profile_sbeitla_01_graphic002"/>
+                  <graphic url="Sbeitla6.jpg" decls="#profile_sbeitla_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi</head>
                </figure>
                <figure>
-                  <graphic url="Sbeitla8.jpg" decls="#profile_sbeitla_01_graphic003"/>
+                  <graphic url="Sbeitla8.jpg" decls="#profile_sbeitla_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi</head>
                </figure>
                <label>Name (English)</label>

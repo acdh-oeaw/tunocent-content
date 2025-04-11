@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -156,7 +157,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Rouhia1.jpg" decls="#profile_rouhia_01_graphic001"/>
+                  <graphic url="Rouhia1.jpg" decls="#profile_rouhia_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -182,32 +183,32 @@
             <div type="general">
                <p>
                   <figure rendition="#right">
-                     <link target="Rouhiya-building.jpg" decls="#profile_rouhia_01_graphic002"/>
-                     <graphic url="Rouhiya-building.jpg" decls="#profile_rouhia_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_rouhia_01_graphic002" url="Rouhiya-building.jpg"/>
+                     <graphic url="Rouhiya-building.jpg" decls="#profile_rouhia_01_graphic002" type="thumbnail"/>
                      <head type="imgCaption">Landscape with a building</head>
                   </figure>
                </p>
                <p xml:space="preserve">Ir-Rūḥīya is a small town (with about 4,000 inhabitants) and district capital (<hi xml:lang="aeb" rendition="#i">mu</hi><hi xml:lang="aeb" rendition="#i">ʕ</hi><hi xml:lang="aeb" rendition="#i">tamadīya</hi>) in the Silyǟna Governorate. According to local sources, its original population was formed by the Arabic tribes Ūlǟd Mǟžir and Ūlǟd ʕAyyāṛ. Due to its location in the transition area of three governorates, it belonged to il-Kǟf first, later became a part of il-Gaṣrīn and as Silyǟna became a governorate of its own, it became a part of Silyǟna. Within the municipality of ir-Rūḥīya the dialect of is-Skārna is famous for its unique lexical expressions. </p>
                <figure rendition="#left">
-                  <link target="Rouhiya-Ilona-mit-mann-1.jpg" decls="#profile_rouhia_01_graphic003"/>
-                  <graphic url="Rouhiya-Ilona-mit-mann-1.jpg" decls="#profile_rouhia_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_rouhia_01_graphic003" url="Rouhiya-Ilona-mit-mann-1.jpg"/>
+                  <graphic url="Rouhiya-Ilona-mit-mann-1.jpg" decls="#profile_rouhia_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Researcher Ilona conducting an interview</head>
                </figure>
                <p xml:space="preserve">Folk etymology has it that the name of the town is derived from <hi xml:lang="aeb" rendition="#i">ir-rū</hi><hi xml:lang="aeb" rendition="#i">ḥ</hi> <hi xml:lang="aeb" rendition="#i">hīya</hi> “It is the spirit”. ir-Rūḥīya used to be a vivid center of spiritual life, famous for its <hi xml:lang="aeb" rendition="#i">zrid</hi>-ceremonies (singular <hi xml:lang="aeb" rendition="#i">zarda</hi> “feast celebrated in honour of a saint”), in the course of which the local population as well as people from other parts of Tunisia visited the saints’ tombs (e.g. Umm id-Dlǟl, Sīdi l-Hǟdi, Ḥmid Bū ʕĪn, Sīdi ʕAlī). After the revolution in 2011 these activities stopped and have shown a slow revival within the last years.</p>
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004"/>
-                  <graphic url="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_rouhia_01_graphic004" url="Rouhiya-Ilona-locals.jpg"/>
+                  <graphic url="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="Rouhiya-family.jpg" decls="#profile_rouhia_01_graphic005"/>
-                  <graphic url="Rouhiya-family.jpg" decls="#profile_rouhia_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_rouhia_01_graphic005" url="Rouhiya-family.jpg"/>
+                  <graphic url="Rouhiya-family.jpg" decls="#profile_rouhia_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Ilona with her Rouhian family</head>
                </figure>
                <figure>
-                  <link target="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006"/>
-                  <graphic url="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006"/>
+                  <graphic type="fullscale" decls="#profile_rouhia_01_graphic006" url="Rouhiya-donkey.jpg"/>
+                  <graphic url="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">The familys donkey</head>
                </figure>
             </div>

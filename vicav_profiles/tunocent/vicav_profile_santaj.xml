@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -155,27 +156,27 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Santaj1.jpg" decls="#profile_Santaj_01_graphic001"/>
+                  <graphic url="Santaj1.jpg" decls="#profile_Santaj_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Santaj2.jpg" decls="#profile_Santaj_01_graphic002"/>
+                  <graphic url="Santaj2.jpg" decls="#profile_Santaj_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Santaj3.jpg" decls="#profile_Santaj_01_graphic003"/>
+                  <graphic url="Santaj3.jpg" decls="#profile_Santaj_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Santaj4.jpg" decls="#profile_Santaj_01_graphic004"/>
+                  <graphic url="Santaj4.jpg" decls="#profile_Santaj_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Santaj5.jpg" decls="#profile_Santaj_01_graphic005"/>
+                  <graphic url="Santaj5.jpg" decls="#profile_Santaj_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Santaj6.jpg" decls="#profile_Santaj_01_graphic006"/>
+                  <graphic url="Santaj6.jpg" decls="#profile_Santaj_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>

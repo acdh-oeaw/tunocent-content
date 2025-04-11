@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -305,7 +306,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="BirSaad_title.jpg" decls="#profile_Bir_Saad_01_graphic001"/>
+                  <graphic url="BirSaad_title.jpg" decls="#profile_Bir_Saad_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -331,110 +332,110 @@
                </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002"/>
-                     <graphic url="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic002" url="Aslema_Bir_Saad.jpg"/>
+                     <graphic url="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002" type="thumbnail"/>
                   </figure>
                   <figure>
-                     <link target="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003"/>
-                     <graphic url="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic003" url="BirSaad_Bislema.jpg"/>
+                     <graphic url="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003" type="thumbnail"/>
                   </figure>
                </p>
                <p>Members of the Ouled Bou Saad tribe, however, constitute the large majority of Bir Saad’s population. According to locals, this tribe originally came from the small town of Sened situated about 30 km to the north of Bir Saad. The other two tribal groups, Ouled Zayd (Ūlǟd Zāyd) and il-Ayaysha (l-Aʕyǟyša) hail from the east. It is reported that the Ayaysha tribesmen came from the close Belkhir region, the Ouled Zayd tribe, however, from the direction of the coastal city of Sfax. Since there have been no family relations between the three tribes, people used to be wary of each other for a long time. Nowadays, however, the situation has changed. Even marriages go beyond the tribal borders.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004"/>
-                     <graphic url="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic004" url="School_built_in_1969_(1).jpg"/>
+                     <graphic url="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004" type="thumbnail"/>
                      <head>School built in 1969 (1)</head>
                   </figure>
                   <figure>
-                     <link target="Market_place_(3).jpg" decls="#profile_Bir_Saad_01_graphic005"/>
-                     <graphic url="Market_place_(3).jpg" decls="#profile_Bir_Saad_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic005" url="Market_place_(3).jpg"/>
+                     <graphic url="Market_place_(3).jpg" decls="#profile_Bir_Saad_01_graphic005" type="thumbnail"/>
                      <head>Market place</head>
                   </figure>
                   <figure>
-                     <link target="Researcher_Rawaa_with_her_interviewee.jpg" decls="#profile_Bir_Saad_01_graphic006"/>
-                     <graphic url="Researcher_Rawaa_with_her_interviewee.jpg" decls="#profile_Bir_Saad_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic006" url="Researcher_Rawaa_with_her_interviewee.jpg"/>
+                     <graphic url="Researcher_Rawaa_with_her_interviewee.jpg" decls="#profile_Bir_Saad_01_graphic006" type="thumbnail"/>
                      <head>Researcher Rawaa with her interviewee</head>
                   </figure>
                   <figure>
-                     <link target="Mosque.jpg" decls="#profile_Bir_Saad_01_graphic007"/>
-                     <graphic url="Mosque.jpg" decls="#profile_Bir_Saad_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic007" url="Mosque.jpg"/>
+                     <graphic url="Mosque.jpg" decls="#profile_Bir_Saad_01_graphic007" type="thumbnail"/>
                      <head>Mosque</head>
                   </figure>
                   <figure>
-                     <link target="Ruins_(2).jpg" decls="#profile_Bir_Saad_01_graphic008"/>
-                     <graphic url="Ruins_(2).jpg" decls="#profile_Bir_Saad_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic008" url="Ruins_(2).jpg"/>
+                     <graphic url="Ruins_(2).jpg" decls="#profile_Bir_Saad_01_graphic008" type="thumbnail"/>
                      <head>Ruins</head>
                   </figure>
                   <figure>
-                     <link target="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009"/>
-                     <graphic url="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic009" url="Farming_tools_(3).jpg"/>
+                     <graphic url="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009" type="thumbnail"/>
                      <head>Farming tools</head>
                   </figure>
                </p>
                <p xml:space="preserve">The place bears witness to its history while adapting to modern times. The toponym Bir Saad, meaning “Saad’s well”, perpetuates the builder’s memory. At the same time, the well itself is still in use. As people have no water pipes, each house is equipped with a dug underground water reservoir used as well and called majen (<hi xml:lang="aeb" rendition="#i">m</hi><hi xml:lang="aeb" rendition="#i">ǟ</hi><hi xml:lang="aeb" rendition="#i">žin</hi>). </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010"/>
-                     <graphic url="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic010" url="Saad's_well_giving_the_place_a_name.jpg"/>
+                     <graphic url="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010" type="thumbnail"/>
                      <head>Saad's well giving the place a name</head>
                   </figure>
                   <figure>
-                     <link target="Majen_for_digging_rain_water_(3).jpg" decls="#profile_Bir_Saad_01_graphic011"/>
-                     <graphic url="Majen_for_digging_rain_water_(3).jpg" decls="#profile_Bir_Saad_01_graphic011"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic011" url="Majen_for_digging_rain_water_(3).jpg"/>
+                     <graphic url="Majen_for_digging_rain_water_(3).jpg" decls="#profile_Bir_Saad_01_graphic011" type="thumbnail"/>
                      <head>Majen for digging rain water</head>
                   </figure>
                   <figure>
-                     <link target="Majen_for_digging_rain_water_(2).jpg" decls="#profile_Bir_Saad_01_graphic012"/>
-                     <graphic url="Majen_for_digging_rain_water_(2).jpg" decls="#profile_Bir_Saad_01_graphic012"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic012" url="Majen_for_digging_rain_water_(2).jpg"/>
+                     <graphic url="Majen_for_digging_rain_water_(2).jpg" decls="#profile_Bir_Saad_01_graphic012" type="thumbnail"/>
                      <head>Majen for digging rain water</head>
                   </figure>
                   <figure>
-                     <link target="Bazin_dish.jpg" decls="#profile_Bir_Saad_01_graphic013"/>
-                     <graphic url="Bazin_dish.jpg" decls="#profile_Bir_Saad_01_graphic013"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic013" url="Bazin_dish.jpg"/>
+                     <graphic url="Bazin_dish.jpg" decls="#profile_Bir_Saad_01_graphic013" type="thumbnail"/>
                      <head>Bazin dish</head>
                   </figure>
                   <figure>
-                     <link target="Local_eating_Bazin.jpg" decls="#profile_Bir_Saad_01_graphic014"/>
-                     <graphic url="Local_eating_Bazin.jpg" decls="#profile_Bir_Saad_01_graphic014"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic014" url="Local_eating_Bazin.jpg"/>
+                     <graphic url="Local_eating_Bazin.jpg" decls="#profile_Bir_Saad_01_graphic014" type="thumbnail"/>
                      <head>Local eating Bazin</head>
                   </figure>
                   <figure>
-                     <link target="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015"/>
-                     <graphic url="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic015" url="How_people_live.jpg"/>
+                     <graphic url="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015" type="thumbnail"/>
                      <head>How people live</head>
                   </figure>
                </p>
                <p xml:space="preserve">In respect to food and clothes, Bir Saad’s inhabitants draw on traditions. For instance, Bazin (<hi xml:lang="aeb" rendition="#i">bāzīn</hi>), a very traditional dish based on barley, is cooked very often. Moreover, the garments for festivities are handcrafted. The bridal gown, called Bakhnoug (<hi xml:lang="aeb" rendition="#i">baxn</hi><hi xml:lang="aeb" rendition="#i">ūg</hi>), is made of a red wool fabric. </p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016"/>
-                     <graphic url="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic016" url="Traditional_bridal_gown.jpg"/>
+                     <graphic url="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016" type="thumbnail"/>
                      <head>Bridal gown</head>
                   </figure>
                   <figure>
-                     <link target="Belt_for_the_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic017"/>
-                     <graphic url="Belt_for_the_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic017"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic017" url="Belt_for_the_bridal_gown.jpg"/>
+                     <graphic url="Belt_for_the_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic017" type="thumbnail"/>
                      <head>Belt for the bridal gown</head>
                   </figure>
                   <figure>
-                     <link target="Bridal_pillow_(1).jpg" decls="#profile_Bir_Saad_01_graphic018"/>
-                     <graphic url="Bridal_pillow_(1).jpg" decls="#profile_Bir_Saad_01_graphic018"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic018" url="Bridal_pillow_(1).jpg"/>
+                     <graphic url="Bridal_pillow_(1).jpg" decls="#profile_Bir_Saad_01_graphic018" type="thumbnail"/>
                      <head>Bridal pillow</head>
                   </figure>
                   <figure>
-                     <link target="Bridal_pillow_(3).jpg" decls="#profile_Bir_Saad_01_graphic019"/>
-                     <graphic url="Bridal_pillow_(3).jpg" decls="#profile_Bir_Saad_01_graphic019"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic019" url="Bridal_pillow_(3).jpg"/>
+                     <graphic url="Bridal_pillow_(3).jpg" decls="#profile_Bir_Saad_01_graphic019" type="thumbnail"/>
                      <head>Bridal pillow</head>
                   </figure>
                   <figure>
-                     <link target="handbag_for_the_bride.jpg" decls="#profile_Bir_Saad_01_graphic020"/>
-                     <graphic url="handbag_for_the_bride.jpg" decls="#profile_Bir_Saad_01_graphic020"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic020" url="handbag_for_the_bride.jpg"/>
+                     <graphic url="handbag_for_the_bride.jpg" decls="#profile_Bir_Saad_01_graphic020" type="thumbnail"/>
                      <head>Handbag for the bride</head>
                   </figure>
                   <figure>
-                     <link target="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021"/>
-                     <graphic url="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021"/>
+                     <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic021" url="Carpet.jpg"/>
+                     <graphic url="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021" type="thumbnail"/>
                      <head>Carpet</head>
                   </figure>
                </p>

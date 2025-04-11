@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -146,7 +147,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="SidiHmada1.jpg" decls="#profile_sidihmada_01_graphic001"/>
+                  <graphic url="SidiHmada1.jpg" decls="#profile_sidihmada_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -175,23 +176,23 @@
             <div type="gallery">
                <head/>
                <figure>
-                  <link target="SidiHmada-2.jpg" decls="#profile_sidihmada_01_graphic002"/>
-                  <graphic url="SidiHmada-2.jpg" decls="#profile_sidihmada_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_sidihmada_01_graphic002" url="SidiHmada-2.jpg"/>
+                  <graphic url="SidiHmada-2.jpg" decls="#profile_sidihmada_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Mountain</head>
                </figure>
                <figure>
-                  <link target="IMG_4580-scaled.jpg" decls="#profile_sidihmada_01_graphic003"/>
-                  <graphic url="IMG_4580-scaled.jpg" decls="#profile_sidihmada_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_sidihmada_01_graphic003" url="IMG_4580-scaled.jpg"/>
+                  <graphic url="IMG_4580-scaled.jpg" decls="#profile_sidihmada_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Cock</head>
                </figure>
                <figure>
-                  <link target="old_sidihmeda-scaled-e1581594838561.jpg" decls="#profile_sidihmada_01_graphic004"/>
-                  <graphic url="old_sidihmeda-scaled-e1581594838561.jpg" decls="#profile_sidihmada_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_sidihmada_01_graphic004" url="old_sidihmeda-scaled-e1581594838561.jpg"/>
+                  <graphic url="old_sidihmeda-scaled-e1581594838561.jpg" decls="#profile_sidihmada_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Ilona with two locals</head>
                </figure>
                <figure>
-                  <link target="kids_sidihmeda-scaled-e1581594155259.jpg" decls="#profile_sidihmada_01_graphic005"/>
-                  <graphic url="kids_sidihmeda-scaled-e1581594155259.jpg" decls="#profile_sidihmada_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_sidihmada_01_graphic005" url="kids_sidihmeda-scaled-e1581594155259.jpg"/>
+                  <graphic url="kids_sidihmeda-scaled-e1581594155259.jpg" decls="#profile_sidihmada_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Researcher Ilona surrounded by children</head>
                </figure>
             </div>

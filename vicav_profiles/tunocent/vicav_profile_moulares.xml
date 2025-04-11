@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -196,7 +197,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Moulares_title.jpg" decls="#profile_Moulares_01_graphic001"/>
+                  <graphic url="Moulares_title.jpg" decls="#profile_Moulares_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Rawaa Tlili</head>
                </figure>
                <label>Name (English)</label>
@@ -221,23 +222,23 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002"/>
-                  <graphic url="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic002" url="Moulares-Phosphate.jpg"/>
+                  <graphic url="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Phosphate</head>
                </figure>
                <figure>
-                  <link target="Moulares-Phosphate_mining.jpg" decls="#profile_Moulares_01_graphic003"/>
-                  <graphic url="Moulares-Phosphate_mining.jpg" decls="#profile_Moulares_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic003" url="Moulares-Phosphate_mining.jpg"/>
+                  <graphic url="Moulares-Phosphate_mining.jpg" decls="#profile_Moulares_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Phosphate mining</head>
                </figure>
                <figure>
-                  <link target="Moulares-Hills_of_Moulares_(1).jpg" decls="#profile_Moulares_01_graphic004"/>
-                  <graphic url="Moulares-Hills_of_Moulares_(1).jpg" decls="#profile_Moulares_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic004" url="Moulares-Hills_of_Moulares_(1).jpg"/>
+                  <graphic url="Moulares-Hills_of_Moulares_(1).jpg" decls="#profile_Moulares_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Hills of Moulares</head>
                </figure>
                <figure>
-                  <link target="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005"/>
-                  <graphic url="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic005" url="Moulares-Hills_of_Moulares_(2).jpg"/>
+                  <graphic url="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Hills of Moulares</head>
                </figure>
             </div>
@@ -245,8 +246,8 @@
                <p xml:space="preserve">Moulares is a small town in the hilly landscape of the southwest Tunisian governorate of Gafsa. With its geographical closeness to Algeria and the jobs it offers in the phosphate mines the town of Moulares attracts people from various Tunisian regions. </p>
                <p>
                   <figure rendition="#full-width">
-                     <link target="Moulares-centre.jpg" decls="#profile_Moulares_01_graphic006"/>
-                     <graphic url="Moulares-centre.jpg" decls="#profile_Moulares_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Moulares_01_graphic006" url="Moulares-centre.jpg"/>
+                     <graphic url="Moulares-centre.jpg" decls="#profile_Moulares_01_graphic006" type="thumbnail"/>
                      <head type="imgCaption">Center of Moulares</head>
                   </figure>
                </p>
@@ -254,23 +255,23 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007"/>
-                  <graphic url="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic007" url="Moulares-Impressions_of_Moulares_(3).jpg"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Mosque of Moulares</head>
                </figure>
                <figure>
-                  <link target="Moulares-Impressions_of_Moulares_(4).jpg" decls="#profile_Moulares_01_graphic008"/>
-                  <graphic url="Moulares-Impressions_of_Moulares_(4).jpg" decls="#profile_Moulares_01_graphic008"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic008" url="Moulares-Impressions_of_Moulares_(4).jpg"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(4).jpg" decls="#profile_Moulares_01_graphic008" type="thumbnail"/>
                   <head type="imgCaption">Impressions of Moulares</head>
                </figure>
                <figure>
-                  <link target="Moulares-Impressions_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic009"/>
-                  <graphic url="Moulares-Impressions_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic009"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic009" url="Moulares-Impressions_of_Moulares_(2).jpg"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Impressions of Moulares</head>
                </figure>
                <figure>
-                  <link target="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010"/>
-                  <graphic url="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010"/>
+                  <graphic type="fullscale" decls="#profile_Moulares_01_graphic010" url="Moulares-Impressions_of_Moulares_(11).jpg"/>
+                  <graphic url="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Impressions of Moulares</head>
                </figure>
             </div>

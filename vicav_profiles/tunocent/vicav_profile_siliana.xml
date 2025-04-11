@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -166,7 +167,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Siliana1.jpg" decls="#profile_siliana_01_graphic001"/>
+                  <graphic url="Siliana1.jpg" decls="#profile_siliana_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -193,13 +194,13 @@
                <p xml:space="preserve">Silyǟna is a modern town with about 30,000 inhabitants and the capital of the Governorate Silyǟna. It was founded in 1905 and is located about 130 km to the southwest of the capital Tunis. </p>
                <p>
                   <figure>
-                     <link target="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002"/>
-                     <graphic url="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_siliana_01_graphic002" url="IMG_4445-rotated.jpg"/>
+                     <graphic url="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002" type="thumbnail"/>
                      <head type="imgCaption">Researcher Ilona with a local</head>
                   </figure>
                   <figure>
-                     <link target="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003"/>
-                     <graphic url="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_siliana_01_graphic003" url="IMG_4446-2-scaled.jpg"/>
+                     <graphic url="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003" type="thumbnail"/>
                      <head type="imgCaption">Siliana market</head>
                   </figure>
                </p>
@@ -208,21 +209,21 @@
             <div type="gallery">
                <head>Impressions of Siliana</head>
                <figure>
-                  <link target="Silyena-3.jpg" decls="#profile_siliana_01_graphic004"/>
-                  <graphic url="Silyena-3.jpg" decls="#profile_siliana_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_siliana_01_graphic004" url="Silyena-3.jpg"/>
+                  <graphic url="Silyena-3.jpg" decls="#profile_siliana_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Figure One: The View from the Bridge</head>
                </figure>
                <figure>
-                  <link target="Silyena-4.jpg" decls="#profile_siliana_01_graphic005"/>
-                  <graphic url="Silyena-4.jpg" decls="#profile_siliana_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_siliana_01_graphic005" url="Silyena-4.jpg"/>
+                  <graphic url="Silyena-4.jpg" decls="#profile_siliana_01_graphic005" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="Silyena-6-1_(1).jpg" decls="#profile_siliana_01_graphic006"/>
-                  <graphic url="Silyena-6-1_(1).jpg" decls="#profile_siliana_01_graphic006"/>
+                  <graphic type="fullscale" decls="#profile_siliana_01_graphic006" url="Silyena-6-1_(1).jpg"/>
+                  <graphic url="Silyena-6-1_(1).jpg" decls="#profile_siliana_01_graphic006" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="Silyena-7.jpg" decls="#profile_siliana_01_graphic007"/>
-                  <graphic url="Silyena-7.jpg" decls="#profile_siliana_01_graphic007"/>
+                  <graphic type="fullscale" decls="#profile_siliana_01_graphic007" url="Silyena-7.jpg"/>
+                  <graphic url="Silyena-7.jpg" decls="#profile_siliana_01_graphic007" type="thumbnail"/>
                </figure>
             </div>
             <div type="researchHistory">

@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -235,59 +236,59 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Ouled Said1.jpg" decls="#profile_Ouled_Said_01_graphic001"/>
+                  <graphic url="Ouled Said1.jpg" decls="#profile_Ouled_Said_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said2.jpg" decls="#profile_Ouled_Said_01_graphic002"/>
+                  <graphic url="Ouled Said2.jpg" decls="#profile_Ouled_Said_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said3.jpg" decls="#profile_Ouled_Said_01_graphic003"/>
+                  <graphic url="Ouled Said3.jpg" decls="#profile_Ouled_Said_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said4.jpg" decls="#profile_Ouled_Said_01_graphic004"/>
+                  <graphic url="Ouled Said4.jpg" decls="#profile_Ouled_Said_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said5.jpg" decls="#profile_Ouled_Said_01_graphic005"/>
+                  <graphic url="Ouled Said5.jpg" decls="#profile_Ouled_Said_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said6.jpg" decls="#profile_Ouled_Said_01_graphic006"/>
+                  <graphic url="Ouled Said6.jpg" decls="#profile_Ouled_Said_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said7.jpg" decls="#profile_Ouled_Said_01_graphic007"/>
+                  <graphic url="Ouled Said7.jpg" decls="#profile_Ouled_Said_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said8.jpg" decls="#profile_Ouled_Said_01_graphic008"/>
+                  <graphic url="Ouled Said8.jpg" decls="#profile_Ouled_Said_01_graphic008" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said9.jpg" decls="#profile_Ouled_Said_01_graphic009"/>
+                  <graphic url="Ouled Said9.jpg" decls="#profile_Ouled_Said_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said10.jpg" decls="#profile_Ouled_Said_01_graphic010"/>
+                  <graphic url="Ouled Said10.jpg" decls="#profile_Ouled_Said_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said11.jpg" decls="#profile_Ouled_Said_01_graphic011"/>
+                  <graphic url="Ouled Said11.jpg" decls="#profile_Ouled_Said_01_graphic011" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said12.jpg" decls="#profile_Ouled_Said_01_graphic012"/>
+                  <graphic url="Ouled Said12.jpg" decls="#profile_Ouled_Said_01_graphic012" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said13.jpg" decls="#profile_Ouled_Said_01_graphic013"/>
+                  <graphic url="Ouled Said13.jpg" decls="#profile_Ouled_Said_01_graphic013" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <figure>
-                  <graphic url="Ouled Said14.jpg" decls="#profile_Ouled_Said_01_graphic014"/>
+                  <graphic url="Ouled Said14.jpg" decls="#profile_Ouled_Said_01_graphic014" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>

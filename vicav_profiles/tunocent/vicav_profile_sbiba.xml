@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -246,7 +247,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="I-love-Sbiba.jpg" decls="#profile_Sbiba_01_graphic001"/>
+                  <graphic url="I-love-Sbiba.jpg" decls="#profile_Sbiba_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>
@@ -271,38 +272,38 @@
                <p xml:space="preserve">Sbiba is an old town in the northeast of the Tunisian governorate of Kasserine. Ruins in its Fath-district (Ḥayy l-Fatḥ) bear witness to the Roman founders of the town. Moreover, street art calls to remind people of the town’s history, but also shows contemporary motifs.</p>
                <p rendition="#slideshow">
                   <figure>
-                     <link target="The-Smile-of-Sbiba.jpg" decls="#profile_Sbiba_01_graphic002"/>
-                     <graphic url="thumb/The-Smile-of-Sbiba.jpg" decls="#profile_Sbiba_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic002" url="The-Smile-of-Sbiba.jpg"/>
+                     <graphic url="thumb/The-Smile-of-Sbiba.jpg" decls="#profile_Sbiba_01_graphic002" type="thumbnail"/>
                      <head type="imgCaption">The smile of Sbiba</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-2.jpg" decls="#profile_Sbiba_01_graphic003"/>
-                     <graphic url="thumb/Sbiba-arts-2.jpg" decls="#profile_Sbiba_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic003" url="Sbiba-arts-2.jpg"/>
+                     <graphic url="thumb/Sbiba-arts-2.jpg" decls="#profile_Sbiba_01_graphic003" type="thumbnail"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-3.jpg" decls="#profile_Sbiba_01_graphic004"/>
-                     <graphic url="thumb/Sbiba-arts-3.jpg" decls="#profile_Sbiba_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic004" url="Sbiba-arts-3.jpg"/>
+                     <graphic url="thumb/Sbiba-arts-3.jpg" decls="#profile_Sbiba_01_graphic004" type="thumbnail"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-4.jpg" decls="#profile_Sbiba_01_graphic005"/>
-                     <graphic url="thumb/Sbiba-arts-4.jpg" decls="#profile_Sbiba_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic005" url="Sbiba-arts-4.jpg"/>
+                     <graphic url="thumb/Sbiba-arts-4.jpg" decls="#profile_Sbiba_01_graphic005" type="thumbnail"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-5.jpg" decls="#profile_Sbiba_01_graphic006"/>
-                     <graphic url="thumb/Sbiba-arts-5.jpg" decls="#profile_Sbiba_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic006" url="Sbiba-arts-5.jpg"/>
+                     <graphic url="thumb/Sbiba-arts-5.jpg" decls="#profile_Sbiba_01_graphic006" type="thumbnail"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts-6.jpg" decls="#profile_Sbiba_01_graphic007"/>
-                     <graphic url="thumb/Sbiba-arts-6.jpg" decls="#profile_Sbiba_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic007" url="Sbiba-arts-6.jpg"/>
+                     <graphic url="thumb/Sbiba-arts-6.jpg" decls="#profile_Sbiba_01_graphic007" type="thumbnail"/>
                      <head type="imgCaption">reminding of history</head>
                   </figure>
                   <figure>
-                     <link target="Sbiba-arts.jpg" decls="#profile_Sbiba_01_graphic008"/>
-                     <graphic url="thumb/Sbiba-arts.jpg" decls="#profile_Sbiba_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Sbiba_01_graphic008" url="Sbiba-arts.jpg"/>
+                     <graphic url="thumb/Sbiba-arts.jpg" decls="#profile_Sbiba_01_graphic008" type="thumbnail"/>
                      <head type="imgCaption">Modern arts</head>
                   </figure>
                </p>
@@ -310,38 +311,38 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Sbiba's_roundabout_with_an_apple.jpg" decls="#profile_Sbiba_01_graphic009"/>
-                  <graphic url="thumb/Sbiba's_roundabout_with_an_apple.jpg" decls="#profile_Sbiba_01_graphic009"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic009" url="Sbiba's_roundabout_with_an_apple.jpg"/>
+                  <graphic url="thumb/Sbiba's_roundabout_with_an_apple.jpg" decls="#profile_Sbiba_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Sbiba's roundabout with an apple</head>
                </figure>
                <figure>
-                  <link target="Park_4.jpg" decls="#profile_Sbiba_01_graphic010"/>
-                  <graphic url="thumb/Park_4.jpg" decls="#profile_Sbiba_01_graphic010"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic010" url="Park_4.jpg"/>
+                  <graphic url="thumb/Park_4.jpg" decls="#profile_Sbiba_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Places to relax</head>
                </figure>
                <figure>
-                  <link target="Park_3.jpg" decls="#profile_Sbiba_01_graphic011"/>
-                  <graphic url="thumb/Park_3.jpg" decls="#profile_Sbiba_01_graphic011"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic011" url="Park_3.jpg"/>
+                  <graphic url="thumb/Park_3.jpg" decls="#profile_Sbiba_01_graphic011" type="thumbnail"/>
                   <head type="imgCaption">Places to relax</head>
                </figure>
                <figure>
-                  <link target="Sbiba.jpg" decls="#profile_Sbiba_01_graphic012"/>
-                  <graphic url="thumb/Sbiba.jpg" decls="#profile_Sbiba_01_graphic012"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic012" url="Sbiba.jpg"/>
+                  <graphic url="thumb/Sbiba.jpg" decls="#profile_Sbiba_01_graphic012" type="thumbnail"/>
                   <head type="imgCaption">The centre of Sbiba</head>
                </figure>
                <figure>
-                  <link target="I_love_Sbiba.jpg" decls="#profile_Sbiba_01_graphic013"/>
-                  <graphic url="thumb/I_love_Sbiba.jpg" decls="#profile_Sbiba_01_graphic013"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic013" url="I_love_Sbiba.jpg"/>
+                  <graphic url="thumb/I_love_Sbiba.jpg" decls="#profile_Sbiba_01_graphic013" type="thumbnail"/>
                   <head type="imgCaption">I love Sbiba - park</head>
                </figure>
                <figure>
-                  <link target="Park.jpg" decls="#profile_Sbiba_01_graphic014"/>
-                  <graphic url="thumb/Park.jpg" decls="#profile_Sbiba_01_graphic014"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic014" url="Park.jpg"/>
+                  <graphic url="thumb/Park.jpg" decls="#profile_Sbiba_01_graphic014" type="thumbnail"/>
                   <head type="imgCaption">Places to relax</head>
                </figure>
                <figure>
-                  <link target="Pool.jpg" decls="#profile_Sbiba_01_graphic015"/>
-                  <graphic url="thumb/Pool.jpg" decls="#profile_Sbiba_01_graphic015"/>
+                  <graphic type="fullscale" decls="#profile_Sbiba_01_graphic015" url="Pool.jpg"/>
+                  <graphic url="thumb/Pool.jpg" decls="#profile_Sbiba_01_graphic015" type="thumbnail"/>
                   <head type="imgCaption">Pool</head>
                </figure>
             </div>

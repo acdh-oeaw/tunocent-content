@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -256,7 +257,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Redeyef1.jpg" decls="#profile_Redeyef_01_graphic001"/>
+                  <graphic url="Redeyef1.jpg" decls="#profile_Redeyef_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Franziska Schwemmer</head>
                </figure>
                <label>Name (English)</label>
@@ -283,8 +284,8 @@
                <p xml:space="preserve">Redeyef is a town in the very west of the Tunisian governorate of Gafsa, and was, according to local sources, called Xanfūsa l-Kaḥla in older days.</p>
                <p>
                   <figure>
-                     <link target="Redeyef-map.jpg" decls="#profile_Redeyef_01_graphic002"/>
-                     <graphic url="thumb/Redeyef-map.jpg" decls="#profile_Redeyef_01_graphic002"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic002" url="Redeyef-map.jpg"/>
+                     <graphic url="thumb/Redeyef-map.jpg" decls="#profile_Redeyef_01_graphic002" type="thumbnail"/>
                      <head type="imgCaption">Map of the governorate of Gafsa showing Redeyef in the very west</head>
                   </figure>
                </p>
@@ -292,58 +293,58 @@
                <div type="gallery">
                   <head>Impressions of Redeyef</head>
                   <figure>
-                     <link target="Redeyef-color-train.jpg" decls="#profile_Redeyef_01_graphic003"/>
-                     <graphic url="Redeyef-color-train.jpg" decls="#profile_Redeyef_01_graphic003"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic003" url="Redeyef-color-train.jpg"/>
+                     <graphic url="Redeyef-color-train.jpg" decls="#profile_Redeyef_01_graphic003" type="thumbnail"/>
                      <head type="imgCaption">Redeyef. Brightly coloured mini railway engine</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-landscape.jpg" decls="#profile_Redeyef_01_graphic004"/>
-                     <graphic url="Redeyef-landscape.jpg" decls="#profile_Redeyef_01_graphic004"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic004" url="Redeyef-landscape.jpg"/>
+                     <graphic url="Redeyef-landscape.jpg" decls="#profile_Redeyef_01_graphic004" type="thumbnail"/>
                      <head type="imgCaption">Landscape</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-Lampshades.jpg" decls="#profile_Redeyef_01_graphic005"/>
-                     <graphic url="Redeyef-Lampshades.jpg" decls="#profile_Redeyef_01_graphic005"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic005" url="Redeyef-Lampshades.jpg"/>
+                     <graphic url="Redeyef-Lampshades.jpg" decls="#profile_Redeyef_01_graphic005" type="thumbnail"/>
                      <head type="imgCaption">Lampshades on the marketplace</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-roundabout.jpg" decls="#profile_Redeyef_01_graphic006"/>
-                     <graphic url="Redeyef-roundabout.jpg" decls="#profile_Redeyef_01_graphic006"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic006" url="Redeyef-roundabout.jpg"/>
+                     <graphic url="Redeyef-roundabout.jpg" decls="#profile_Redeyef_01_graphic006" type="thumbnail"/>
                      <head type="imgCaption">Mini roundabout in the city center</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-man.jpg" decls="#profile_Redeyef_01_graphic007"/>
-                     <graphic url="Redeyef-man.jpg" decls="#profile_Redeyef_01_graphic007"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic007" url="Redeyef-man.jpg"/>
+                     <graphic url="Redeyef-man.jpg" decls="#profile_Redeyef_01_graphic007" type="thumbnail"/>
                      <head type="imgCaption">Man walking in the street</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-city-hall.jpg" decls="#profile_Redeyef_01_graphic008"/>
-                     <graphic url="Redeyef-city-hall.jpg" decls="#profile_Redeyef_01_graphic008"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic008" url="Redeyef-city-hall.jpg"/>
+                     <graphic url="Redeyef-city-hall.jpg" decls="#profile_Redeyef_01_graphic008" type="thumbnail"/>
                      <head type="imgCaption">City hall entrance</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-bath.jpg" decls="#profile_Redeyef_01_graphic009"/>
-                     <graphic url="Redeyef-bath.jpg" decls="#profile_Redeyef_01_graphic009"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic009" url="Redeyef-bath.jpg"/>
+                     <graphic url="Redeyef-bath.jpg" decls="#profile_Redeyef_01_graphic009" type="thumbnail"/>
                      <head type="imgCaption">Green puplic bath's door with beautiful ornaments</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-fight-club.jpg" decls="#profile_Redeyef_01_graphic010"/>
-                     <graphic url="Redeyef-fight-club.jpg" decls="#profile_Redeyef_01_graphic010"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic010" url="Redeyef-fight-club.jpg"/>
+                     <graphic url="Redeyef-fight-club.jpg" decls="#profile_Redeyef_01_graphic010" type="thumbnail"/>
                      <head type="imgCaption">Church transformed into a fighting cub</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-bin.jpg" decls="#profile_Redeyef_01_graphic011"/>
-                     <graphic url="Redeyef-bin.jpg" decls="#profile_Redeyef_01_graphic011"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic011" url="Redeyef-bin.jpg"/>
+                     <graphic url="Redeyef-bin.jpg" decls="#profile_Redeyef_01_graphic011" type="thumbnail"/>
                      <head type="imgCaption">Colorful painted garbage container</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-graffiti.jpg" decls="#profile_Redeyef_01_graphic012"/>
-                     <graphic url="Redeyef-graffiti.jpg" decls="#profile_Redeyef_01_graphic012"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic012" url="Redeyef-graffiti.jpg"/>
+                     <graphic url="Redeyef-graffiti.jpg" decls="#profile_Redeyef_01_graphic012" type="thumbnail"/>
                      <head type="imgCaption">Graffiti arts in the schoolyard</head>
                   </figure>
                   <figure>
-                     <link target="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013"/>
-                     <graphic url="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013"/>
+                     <graphic type="fullscale" decls="#profile_Redeyef_01_graphic013" url="Redeyef-sign.jpg"/>
+                     <graphic url="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013" type="thumbnail"/>
                      <head type="imgCaption">Street sign</head>
                   </figure>
                </div>
@@ -353,18 +354,18 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014"/>
-                  <graphic url="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014"/>
+                  <graphic type="fullscale" decls="#profile_Redeyef_01_graphic014" url="Redeyef-hand-drum.jpg"/>
+                  <graphic url="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014" type="thumbnail"/>
                   <head type="imgCaption">Hand drum</head>
                </figure>
                <figure>
-                  <link target="Redeyef-girls.jpg" decls="#profile_Redeyef_01_graphic015"/>
-                  <graphic url="Redeyef-girls.jpg" decls="#profile_Redeyef_01_graphic015"/>
+                  <graphic type="fullscale" decls="#profile_Redeyef_01_graphic015" url="Redeyef-girls.jpg"/>
+                  <graphic url="Redeyef-girls.jpg" decls="#profile_Redeyef_01_graphic015" type="thumbnail"/>
                   <head type="imgCaption">Celebrating girls accompaining a bride from the bath to her home</head>
                </figure>
                <figure>
-                  <link target="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016"/>
-                  <graphic url="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016"/>
+                  <graphic type="fullscale" decls="#profile_Redeyef_01_graphic016" url="Redeyef-bride.jpg"/>
+                  <graphic url="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016" type="thumbnail"/>
                   <head type="imgCaption">Dancing bride in traditional clothes of Algerian origin</head>
                </figure>
             </div>

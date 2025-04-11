@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -147,7 +148,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="GariaShamaliya_title.jpg" decls="#profile_garia_01_graphic001"/>
+                  <graphic url="GariaShamaliya_title.jpg" decls="#profile_garia_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -172,20 +173,20 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="GariaShamaliya-6-scaled.jpg" decls="#profile_garia_01_graphic002"/>
-                  <graphic url="GariaShamaliya-6-scaled.jpg" decls="#profile_garia_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_garia_01_graphic002" url="GariaShamaliya-6-scaled.jpg"/>
+                  <graphic url="GariaShamaliya-6-scaled.jpg" decls="#profile_garia_01_graphic002" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="GariaShamaliya-3.jpg" decls="#profile_garia_01_graphic003"/>
-                  <graphic url="GariaShamaliya-3.jpg" decls="#profile_garia_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_garia_01_graphic003" url="GariaShamaliya-3.jpg"/>
+                  <graphic url="GariaShamaliya-3.jpg" decls="#profile_garia_01_graphic003" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="GariaShamaliya-scaled.jpg" decls="#profile_garia_01_graphic004"/>
-                  <graphic url="GariaShamaliya-scaled.jpg" decls="#profile_garia_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_garia_01_graphic004" url="GariaShamaliya-scaled.jpg"/>
+                  <graphic url="GariaShamaliya-scaled.jpg" decls="#profile_garia_01_graphic004" type="thumbnail"/>
                </figure>
                <figure>
-                  <link target="GariaShamaliya-2-scaled.jpg" decls="#profile_garia_01_graphic005"/>
-                  <graphic url="GariaShamaliya-2-300x122.jpg" decls="#profile_garia_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_garia_01_graphic005" url="GariaShamaliya-2-scaled.jpg"/>
+                  <graphic url="GariaShamaliya-2-300x122.jpg" decls="#profile_garia_01_graphic005" type="thumbnail"/>
                </figure>
             </div>
             <div type="general">

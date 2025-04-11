@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -145,7 +146,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="AinDraham_title.jpg" decls="#profile_aindraham_01_graphic001"/>
+                  <graphic url="AinDraham_title.jpg" decls="#profile_aindraham_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Ilona Abdelfattah</head>
                </figure>
                <label>Name (English)</label>
@@ -170,27 +171,27 @@
             </div>
             <div type="general">
                <figure rendition="#right">
-                  <link target="AinDraham-Kroumir.jpg" decls="#profile_aindraham_01_graphic002"/>
-                  <graphic url="AinDraham-Kroumir.jpg" decls="#profile_aindraham_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_aindraham_01_graphic002" url="AinDraham-Kroumir.jpg"/>
+                  <graphic url="AinDraham-Kroumir.jpg" decls="#profile_aindraham_01_graphic002" type="thumbnail"/>
                   <head>Region of the Kroumir mountains</head>
                </figure>
                <p xml:space="preserve">ʕĪn Drāham is a town in the Jendouba Governorate of North Western Tunisia, located 25 km south of Tabarka and only about 10 km to the Algerian border. At an altitude of 700 m it is situated in the undulating region of the Kroumir mountains. </p>
                <figure rendition="#left">
-                  <link target="AinDraham-Ilona-local.jpg" decls="#profile_aindraham_01_graphic003"/>
-                  <graphic url="AinDraham-Ilona-local.jpg" decls="#profile_aindraham_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_aindraham_01_graphic003" url="AinDraham-Ilona-local.jpg"/>
+                  <graphic url="AinDraham-Ilona-local.jpg" decls="#profile_aindraham_01_graphic003" type="thumbnail"/>
                   <head>Researcher Ilona with a local</head>
                </figure>
                <p xml:space="preserve">It is home to about 11,000 inhabitants. ʕĪn Drāham is famous for its sulphurous hot springs that were already used by the Romans. </p>
                <figure rendition="#right">
-                  <link target="AinDraham-building.jpg" decls="#profile_aindraham_01_graphic004"/>
-                  <graphic url="AinDraham-building.jpg" decls="#profile_aindraham_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_aindraham_01_graphic004" url="AinDraham-building.jpg"/>
+                  <graphic url="AinDraham-building.jpg" decls="#profile_aindraham_01_graphic004" type="thumbnail"/>
                   <head>Red-tile roofs — a colonial heritage</head>
                </figure>
                <p xml:space="preserve">
                Originally a French military base, it started to become an inner-Tunisian tourist destination in the 1930s, being known for its unique cold and humid climate and its colonial heritage (especially the red-tile roofs). </p>
                <figure rendition="#left">
-                  <link target="AinDraham-trees.jpg" decls="#profile_aindraham_01_graphic005"/>
-                  <graphic url="AinDraham-trees.jpg" decls="#profile_aindraham_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_aindraham_01_graphic005" url="AinDraham-trees.jpg"/>
+                  <graphic url="AinDraham-trees.jpg" decls="#profile_aindraham_01_graphic005" type="thumbnail"/>
                   <head>Seat under the trees giving a view of the mountains</head>
                </figure>
                <p xml:space="preserve">

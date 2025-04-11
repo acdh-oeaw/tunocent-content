@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -166,7 +167,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Shlihat_almonds-cultivation.jpg" decls="#profile_Shlihat_01_graphic001"/>
+                  <graphic url="Shlihat_almonds-cultivation.jpg" decls="#profile_Shlihat_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi</head>
                </figure>
                <label>Name (English)</label>
@@ -192,33 +193,33 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002"/>
-                  <graphic url="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic002" url="Harvesting_crops.jpg"/>
+                  <graphic url="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Harvesting crops</head>
                </figure>
                <figure>
-                  <link target="Planted_salad.jpg" decls="#profile_Shlihat_01_graphic003"/>
-                  <graphic url="Planted_salad.jpg" decls="#profile_Shlihat_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic003" url="Planted_salad.jpg"/>
+                  <graphic url="Planted_salad.jpg" decls="#profile_Shlihat_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Planted salad</head>
                </figure>
                <figure>
-                  <link target="Grazing_sheep.jpg" decls="#profile_Shlihat_01_graphic004"/>
-                  <graphic url="Grazing_sheep.jpg" decls="#profile_Shlihat_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic004" url="Grazing_sheep.jpg"/>
+                  <graphic url="Grazing_sheep.jpg" decls="#profile_Shlihat_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Grazing sheep</head>
                </figure>
                <figure>
-                  <link target="Growing_tomatos.jpg" decls="#profile_Shlihat_01_graphic005"/>
-                  <graphic url="Growing_tomatos.jpg" decls="#profile_Shlihat_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic005" url="Growing_tomatos.jpg"/>
+                  <graphic url="Growing_tomatos.jpg" decls="#profile_Shlihat_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Growing tomatos</head>
                </figure>
                <figure>
-                  <link target="Organic_farming.jpg" decls="#profile_Shlihat_01_graphic006"/>
-                  <graphic url="Organic_farming.jpg" decls="#profile_Shlihat_01_graphic006"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic006" url="Organic_farming.jpg"/>
+                  <graphic url="Organic_farming.jpg" decls="#profile_Shlihat_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Organic farming</head>
                </figure>
                <figure>
-                  <link target="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007"/>
-                  <graphic url="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007"/>
+                  <graphic type="fullscale" decls="#profile_Shlihat_01_graphic007" url="Cute_cat_(1).jpg"/>
+                  <graphic url="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Cute cat</head>
                </figure>
             </div>

@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -146,7 +147,7 @@
          <div>
             <head>
                <figure>
-                  <graphic url="SidiShil1.jpg" decls="#profile_Sidi_Shil_01_graphic001"/>
+                  <graphic url="SidiShil1.jpg" decls="#profile_Sidi_Shil_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Wissem Saybi, Khayri Guesmi</head>
                </figure>
                <label>Name (English)</label>
@@ -175,23 +176,23 @@
             </div>
             <div type="gallery">
                <figure>
-                  <link target="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002"/>
-                  <graphic url="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002"/>
+                  <graphic type="fullscale" decls="#profile_Sidi_Shil_01_graphic002" url="Impressions_of_Sidi_Shil_(4).jpg"/>
+                  <graphic url="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Town flair</head>
                </figure>
                <figure>
-                  <link target="Old_wall.jpg" decls="#profile_Sidi_Shil_01_graphic003"/>
-                  <graphic url="Old_wall.jpg" decls="#profile_Sidi_Shil_01_graphic003"/>
+                  <graphic type="fullscale" decls="#profile_Sidi_Shil_01_graphic003" url="Old_wall.jpg"/>
+                  <graphic url="Old_wall.jpg" decls="#profile_Sidi_Shil_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Old wall</head>
                </figure>
                <figure>
-                  <link target="Impressions_of_Sidi_Shil_(3).jpg" decls="#profile_Sidi_Shil_01_graphic004"/>
-                  <graphic url="Impressions_of_Sidi_Shil_(3).jpg" decls="#profile_Sidi_Shil_01_graphic004"/>
+                  <graphic type="fullscale" decls="#profile_Sidi_Shil_01_graphic004" url="Impressions_of_Sidi_Shil_(3).jpg"/>
+                  <graphic url="Impressions_of_Sidi_Shil_(3).jpg" decls="#profile_Sidi_Shil_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">On the way through Sidi Shil</head>
                </figure>
                <figure>
-                  <link target="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005"/>
-                  <graphic url="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005"/>
+                  <graphic type="fullscale" decls="#profile_Sidi_Shil_01_graphic005" url="Harmil.jpg"/>
+                  <graphic url="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Plant called harmil</head>
                </figure>
             </div>

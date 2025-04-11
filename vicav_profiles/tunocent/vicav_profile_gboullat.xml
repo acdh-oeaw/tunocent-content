@@ -84,6 +84,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating publicationStmt (date, availability/@status)</change>
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
+         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -195,43 +196,43 @@
          <div>
             <head>
                <figure>
-                  <graphic url="Gboullat1.jpg" decls="#profile_Gboullat_01_graphic001"/>
+                  <graphic url="Gboullat1.jpg" decls="#profile_Gboullat_01_graphic001" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat2.jpg" decls="#profile_Gboullat_01_graphic002"/>
+                  <graphic url="Gboullat2.jpg" decls="#profile_Gboullat_01_graphic002" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat3.jpg" decls="#profile_Gboullat_01_graphic003"/>
+                  <graphic url="Gboullat3.jpg" decls="#profile_Gboullat_01_graphic003" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat4.jpg" decls="#profile_Gboullat_01_graphic004"/>
+                  <graphic url="Gboullat4.jpg" decls="#profile_Gboullat_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat5.jpg" decls="#profile_Gboullat_01_graphic005"/>
+                  <graphic url="Gboullat5.jpg" decls="#profile_Gboullat_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat6.jpg" decls="#profile_Gboullat_01_graphic006"/>
+                  <graphic url="Gboullat6.jpg" decls="#profile_Gboullat_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat7.jpg" decls="#profile_Gboullat_01_graphic007"/>
+                  <graphic url="Gboullat7.jpg" decls="#profile_Gboullat_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat8.jpg" decls="#profile_Gboullat_01_graphic008"/>
+                  <graphic url="Gboullat8.jpg" decls="#profile_Gboullat_01_graphic008" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat9.jpg" decls="#profile_Gboullat_01_graphic009"/>
+                  <graphic url="Gboullat9.jpg" decls="#profile_Gboullat_01_graphic009" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <figure>
-                  <graphic url="Gboullat10.jpg" decls="#profile_Gboullat_01_graphic010"/>
+                  <graphic url="Gboullat10.jpg" decls="#profile_Gboullat_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Nidhal Aloui</head>
                </figure>
                <label>Name (English)</label>
