@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -174,7 +175,7 @@
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Sidi Shil, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Sidi_Shil_01_graphic002" url="Impressions_of_Sidi_Shil_(4).jpg"/>
                   <graphic url="Impressions_of_Sidi_Shil_(4).jpg" decls="#profile_Sidi_Shil_01_graphic002" type="thumbnail"/>
@@ -195,7 +196,7 @@
                   <graphic url="Harmil.jpg" decls="#profile_Sidi_Shil_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Plant called harmil</head>
                </figure>
-            </div>
+            </figure>
             <div type="bibliography">
                <head>Bibliography</head>
                <p xml:space="preserve"/>

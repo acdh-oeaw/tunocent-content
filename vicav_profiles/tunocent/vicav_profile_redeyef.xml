@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -290,7 +291,7 @@
                   </figure>
                </p>
                <p xml:space="preserve">It is famous for the railway-line that was established for the transport of phosphate between Redeyef and the Eastern coast. This is due to the fact, that the town and its surrounding mountainous area is best known for its high amount of phospahte resources. </p>
-               <div type="gallery">
+               <figure rendition="#gallery">
                   <head>Impressions of Redeyef</head>
                   <figure>
                      <graphic type="fullscale" decls="#profile_Redeyef_01_graphic003" url="Redeyef-color-train.jpg"/>
@@ -347,12 +348,12 @@
                      <graphic url="Redeyef-sign.jpg" decls="#profile_Redeyef_01_graphic013" type="thumbnail"/>
                      <head type="imgCaption">Street sign</head>
                   </figure>
-               </div>
+               </figure>
                <p xml:space="preserve">
                   Because of the available jobs in the mining industry and the town’s geographical closeness to the Algerian border and to the south Tunisian governorate of Tozeur, Redeyef’s population is very heterogeneous. As a result, the locals’ dialects differ strongly from each other. This is particularly true for people whose families might have lived in Redeyef for decades, but who grew up in different districts of the same town. According to local sources, the majority of the residents belong to the Awlǟd Yaḥya tribe. People are proud of their origin and uphold their traditions and customs. During wedding ceremonies, for instance, the music and the traditional dress demonstrate the families’ origins.
                </p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Redeyef_01_graphic014" url="Redeyef-hand-drum.jpg"/>
                   <graphic url="Redeyef-hand-drum.jpg" decls="#profile_Redeyef_01_graphic014" type="thumbnail"/>
@@ -368,7 +369,7 @@
                   <graphic url="Redeyef-bride.jpg" decls="#profile_Redeyef_01_graphic016" type="thumbnail"/>
                   <head type="imgCaption">Dancing bride in traditional clothes of Algerian origin</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Redeyef, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>

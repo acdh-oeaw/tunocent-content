@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -301,7 +302,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Dahmani is located in the south western part of the governorate El Kef. While people can reach Dahmani and its surrounding area by shared mini buses, within the small town itself, the number of motorized vehicles seems relatively limited. Instead, locals use an athletic alternative riding on their bicycles, thus making up for the limitations of the local infrastructure.</p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Dahmani_01_graphic002" url="DAHMANI_barcha-bisklet_Ali-scaled.jpg"/>
                      <graphic url="thumb/DAHMANI_barcha-bisklet_Ali-scaled.jpg" decls="#profile_Dahmani_01_graphic002" type="thumbnail"/>
@@ -347,9 +348,9 @@
                      <graphic url="thumb/DAHMANI_barcha-bisklet-12-scaled.jpg" decls="#profile_Dahmani_01_graphic010" type="thumbnail"/>
                      <head>Bicycles of Dahmani</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">The mountains surrounding the town provide natural water sources and provide room for the region’s flora and fauna. Additionally, they accommodate ancient ruins which provide insights into regional history.</p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Dahmani_01_graphic011" url="DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg"/>
                      <graphic url="thumb/DAHMANI-RIF-Ausflug-nach-Mdayna-8-scaled.jpg" decls="#profile_Dahmani_01_graphic011" type="thumbnail"/>
@@ -385,7 +386,7 @@
                      <graphic url="thumb/IMG_20190917_111110031.jpg" decls="#profile_Dahmani_01_graphic017" type="thumbnail"/>
                      <head>Ebba's ruins</head>
                   </figure>
-               </p>
+               </figure>
                <p> Enclosed between this mountain area called Ebba, which means “market” in the Phoenician language, and the Roman Ksour Hilla (Qṣūr Hilla), “castles of Hilla”, Dahmani used to be called Ebba Ksour in previous times. This name remained until 1973 when the town was renamed after the medieval local saint Sidi Dahmani (Sīdi id-Dahmǟni).</p>
                <p>
                   <figure rendition="#full-width">

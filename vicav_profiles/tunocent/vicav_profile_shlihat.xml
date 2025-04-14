@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -191,7 +192,7 @@
             <div type="general">
                <p xml:space="preserve">Shlihat is a rural place 15 km to the southwest of the governorate’s capital El Kef. According to the Tunisian historian Mohamed Tlili, the toponym harks back to a Berber tribal group, which allied with the great Houwara tribe Sharen (Šārin). Coming from the Kefian Mellegue hills, the Šlīḥ tribe settled the place from the 1970s on. A local calls himself a Shlihi (<hi xml:lang="aeb" rendition="#i">šlī</hi><hi xml:lang="aeb" rendition="#i">ḥi</hi>) or herself a Shlihiya (<hi xml:lang="aeb" rendition="#i">šlī</hi><hi xml:lang="aeb" rendition="#i">ḥ</hi><hi xml:lang="aeb" rendition="#i">īya</hi>). In this area of low population density, most residents run their own farms. Traditionally, olive trees were planted under the advantageous climatic conditions the place offers. Provided that there is an access to water sources, people nowadays cultivate a wealth of further vegetables and fruits.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Shlihat_01_graphic002" url="Harvesting_crops.jpg"/>
                   <graphic url="Harvesting_crops.jpg" decls="#profile_Shlihat_01_graphic002" type="thumbnail"/>
@@ -222,7 +223,7 @@
                   <graphic url="Cute_cat_(1).jpg" decls="#profile_Shlihat_01_graphic007" type="thumbnail"/>
                   <head type="imgCaption">Cute cat</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Shlihat, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>

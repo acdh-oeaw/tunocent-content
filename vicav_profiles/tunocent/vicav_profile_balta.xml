@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -211,7 +212,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Balṭa is a village situated about 13 km north of the town of Bū Sǟlim in the Jendouba Governorate. Near the mountain called Ǧbal Bū Saʕīd, there is the tomb of the local saint Sīdi Ṣālaḥ il-Balṭi, on an elevation of 602 m. </p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_balta_01_graphic002" url="IMG_5100.jpg"/>
                      <graphic url="thumb/IMG_5100.jpg" decls="#profile_balta_01_graphic002" type="thumbnail"/>
@@ -252,7 +253,7 @@
                      <graphic url="thumb/IMG_5224.jpg" decls="#profile_balta_01_graphic009" type="thumbnail"/>
                      <head>Researcher Ilona with local women</head>
                   </figure>
-               </p>
+               </figure>
                <p>Every year in August, a big festival in honour of the saint brings together folkloric shows, popular arts and local heritage, culminating in the visit of the saint’s tomb, <hi xml:lang="aeb" rendition="#i">ḏikr</hi> and praising ceremonies.</p>
             </div>
             <div type="researchHistory">

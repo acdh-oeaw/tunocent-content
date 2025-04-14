@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -206,7 +207,7 @@
                </p>
                <p xml:space="preserve"> It consists of 17 districts and is the hometown of the historian Aḥmad ibn Abī Ḏ̣iyāf (Ahmad ibn Abi Dhiyaf) and the famous singer al-Hādī al-Žwīnī (Hédi Jouini). In the beginning, Silyǟna’s population was mainly formed by Arabic Bedouin and Amazigh tribes. Due to immigration from the neighbouring rural areas, the town has, since the 1990s, constantly increased in size.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <head>Impressions of Siliana</head>
                <figure>
                   <graphic type="fullscale" decls="#profile_siliana_01_graphic004" url="Silyena-3.jpg"/>
@@ -225,7 +226,7 @@
                   <graphic type="fullscale" decls="#profile_siliana_01_graphic007" url="Silyena-7.jpg"/>
                   <graphic url="Silyena-7.jpg" decls="#profile_siliana_01_graphic007" type="thumbnail"/>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">This dialect was linguistically investigated within the TUNOCENT project which resulted in the following publication: 
                   <rs type="bibl" ref="zotid:EY56FXZI">Abdelfattah and Ritt-Benmimoun (2024)</rs>.</p>

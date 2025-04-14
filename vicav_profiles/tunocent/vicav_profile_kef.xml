@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -620,7 +621,7 @@
                <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › North Western Tunisia</p>
                <p>Bedouin-type dialect</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <head>Impressions of Kef</head>
                <figure>
                   <graphic type="fullscale" decls="#profile_kef_01_graphic002" url="Kef-centre.jpg"/>
@@ -702,7 +703,7 @@
                   <graphic url="Kef-centre-mathaf.jpg" decls="#profile_kef_01_graphic017" type="thumbnail"/>
                   <head type="imgCaption">Old working tools in the museum</head>
                </figure>
-            </div>
+            </figure>
             <div type="general">
                <p xml:space="preserve">El Kef is the capital of its eponymous Tunisian governorate. It is located in the northwestern part of the country in the Tunisian-Algerian border region. Though beyond Tunisia’s touristic regions, the small town provides interesting insights into Tunisia’s cultural and historical heritage. </p>
                <p>
@@ -812,7 +813,7 @@
                   </figure>
                </p>
                <p xml:space="preserve">While historical traces are omnipresent, professional graffiti arts embellish roads, paths and public places showing the modern side of El Kef. </p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_kef_01_graphic037" url="Kef-graffiti-makhlouf.jpg"/>
                      <graphic url="Kef-graffiti-makhlouf.jpg" decls="#profile_kef_01_graphic037" type="thumbnail"/>
@@ -873,7 +874,7 @@
                      <graphic url="Kef-graffiti-wiss.jpg" decls="#profile_kef_01_graphic048" type="thumbnail"/>
                      <head>Artist Wiss in front of his graffiti of an eye</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">Some Kefian artists even integrate the town’s past into their work, using El Kef’s former Latin name Sicca Veneria as a graffiti motif. </p>
                <p rendition="#full-width">
                   <figure>

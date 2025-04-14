@@ -85,6 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -330,7 +331,7 @@
             <div type="general">
                <p xml:space="preserve">Bir Saad is a village in the South Tunisian governorate of Gafsa. It is located a little more than ten kilometres to the east of the village of <ref type="profile" target="profile_{Bou Omrane}_01">Bou Omrane</ref>, and it directly abuts to the village of <ref type="profile" target="profile_{Bou Saad}_01">Bou Saad</ref>. The main road leading to the governorate’s capital of Gafsa, divides the two villages, with Bou Saad being to its north and Bir Saad to its south.
                </p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic002" url="Aslema_Bir_Saad.jpg"/>
                      <graphic url="Aslema_Bir_Saad.jpg" decls="#profile_Bir_Saad_01_graphic002" type="thumbnail"/>
@@ -339,9 +340,9 @@
                      <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic003" url="BirSaad_Bislema.jpg"/>
                      <graphic url="BirSaad_Bislema.jpg" decls="#profile_Bir_Saad_01_graphic003" type="thumbnail"/>
                   </figure>
-               </p>
+               </figure>
                <p>Members of the Ouled Bou Saad tribe, however, constitute the large majority of Bir Saad’s population. According to locals, this tribe originally came from the small town of Sened situated about 30 km to the north of Bir Saad. The other two tribal groups, Ouled Zayd (Ūlǟd Zāyd) and il-Ayaysha (l-Aʕyǟyša) hail from the east. It is reported that the Ayaysha tribesmen came from the close Belkhir region, the Ouled Zayd tribe, however, from the direction of the coastal city of Sfax. Since there have been no family relations between the three tribes, people used to be wary of each other for a long time. Nowadays, however, the situation has changed. Even marriages go beyond the tribal borders.</p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic004" url="School_built_in_1969_(1).jpg"/>
                      <graphic url="School_built_in_1969_(1).jpg" decls="#profile_Bir_Saad_01_graphic004" type="thumbnail"/>
@@ -372,9 +373,9 @@
                      <graphic url="Farming_tools_(3).jpg" decls="#profile_Bir_Saad_01_graphic009" type="thumbnail"/>
                      <head>Farming tools</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">The place bears witness to its history while adapting to modern times. The toponym Bir Saad, meaning “Saad’s well”, perpetuates the builder’s memory. At the same time, the well itself is still in use. As people have no water pipes, each house is equipped with a dug underground water reservoir used as well and called majen (<hi xml:lang="aeb" rendition="#i">m</hi><hi xml:lang="aeb" rendition="#i">ǟ</hi><hi xml:lang="aeb" rendition="#i">žin</hi>). </p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic010" url="Saad's_well_giving_the_place_a_name.jpg"/>
                      <graphic url="Saad's_well_giving_the_place_a_name.jpg" decls="#profile_Bir_Saad_01_graphic010" type="thumbnail"/>
@@ -405,9 +406,9 @@
                      <graphic url="How_people_live.jpg" decls="#profile_Bir_Saad_01_graphic015" type="thumbnail"/>
                      <head>How people live</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">In respect to food and clothes, Bir Saad’s inhabitants draw on traditions. For instance, Bazin (<hi xml:lang="aeb" rendition="#i">bāzīn</hi>), a very traditional dish based on barley, is cooked very often. Moreover, the garments for festivities are handcrafted. The bridal gown, called Bakhnoug (<hi xml:lang="aeb" rendition="#i">baxn</hi><hi xml:lang="aeb" rendition="#i">ūg</hi>), is made of a red wool fabric. </p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bir_Saad_01_graphic016" url="Traditional_bridal_gown.jpg"/>
                      <graphic url="Traditional_bridal_gown.jpg" decls="#profile_Bir_Saad_01_graphic016" type="thumbnail"/>
@@ -438,7 +439,7 @@
                      <graphic url="Carpet.jpg" decls="#profile_Bir_Saad_01_graphic021" type="thumbnail"/>
                      <head>Carpet</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">The traditional accessories for a bride consist of a belt, a handbag, and a huge pillow, filled with wool and fragrant substances. This pillow is for the bride and her husband to sleep on. Local women produce everything from scratch and decorate their garments and accessories with elaborate and colourful patterns.</p>
             </div>
             <div type="researchHistory">

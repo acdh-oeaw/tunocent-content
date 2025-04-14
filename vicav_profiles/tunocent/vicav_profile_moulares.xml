@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -220,7 +221,7 @@
                <p rend="typology" xml:space="preserve">West (Maghreb) › Tunisia › Southern Tunisia</p>
                <p>Bedouin-type dialect</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Moulares_01_graphic002" url="Moulares-Phosphate.jpg"/>
                   <graphic url="Moulares-Phosphate.jpg" decls="#profile_Moulares_01_graphic002" type="thumbnail"/>
@@ -241,7 +242,7 @@
                   <graphic url="Moulares-Hills_of_Moulares_(2).jpg" decls="#profile_Moulares_01_graphic005" type="thumbnail"/>
                   <head type="imgCaption">Hills of Moulares</head>
                </figure>
-            </div>
+            </figure>
             <div type="general">
                <p xml:space="preserve">Moulares is a small town in the hilly landscape of the southwest Tunisian governorate of Gafsa. With its geographical closeness to Algeria and the jobs it offers in the phosphate mines the town of Moulares attracts people from various Tunisian regions. </p>
                <p>
@@ -253,7 +254,7 @@
                </p>
                <p xml:space="preserve">Like the town of <ref type="profile" target="profile_{Redeyef}_01">Redeyef</ref>, Moulares is connected by a freight-railway-line to the coastal town of Sfax where the mined phosphate is transported to. A great part of the town’s residents belong to the Ūlǟd Nāṣir tribe, whose descendants have lived there for a long time.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Moulares_01_graphic007" url="Moulares-Impressions_of_Moulares_(3).jpg"/>
                   <graphic url="Moulares-Impressions_of_Moulares_(3).jpg" decls="#profile_Moulares_01_graphic007" type="thumbnail"/>
@@ -274,7 +275,7 @@
                   <graphic url="Moulares-Impressions_of_Moulares_(11).jpg" decls="#profile_Moulares_01_graphic010" type="thumbnail"/>
                   <head type="imgCaption">Impressions of Moulares</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Moulares, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>

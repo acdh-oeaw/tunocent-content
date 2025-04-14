@@ -85,7 +85,7 @@
          <change who="corpus:DS" when="2025-01-11T01:00:00Z" type="minor">updating listPrefixDef</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
-         <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -169,7 +169,7 @@
                </figure>
                <p xml:space="preserve">Due to the town’s geographic location, the weekly market (<hi xml:lang="aeb" rendition="#i">sūg</hi>) of Tajerouine serves as a social meeting place not only for locals but also for people from the adjacent governorate of Kasserine and the neighbouring country Algeria. Because of its rural character and its closeness to the Algerian border, the market offers both regional agricultural products as well as international goods.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Tajerouine_01_graphic003" url="TAJEROUINE-12-scaled-e1585738047932.jpg"/>
                   <graphic url="TAJEROUINE-12-scaled-e1585738047932-300x300.jpg" decls="#profile_Tajerouine_01_graphic003" type="thumbnail"/>
@@ -180,7 +180,7 @@
                   <graphic url="TAJEROUINE_fi-souq-1-scaled.jpg" decls="#profile_Tajerouine_01_graphic004" type="thumbnail"/>
                   <head type="imgCaption">Fresh regional vegetables</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Tajerouine, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>

@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -280,7 +281,7 @@
                   </figure>
                </p>
                <p xml:space="preserve">Just one street separates this woodland from the Great Mosque and the Roman baths, two of Gafsa’s main architectural attractions.</p>
-               <p rendition="#slideshow">
+               <figure rendition="#slideshow">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Gafsa_01_graphic005" url="Gafsa-street-bath.jpg"/>
                      <graphic url="Gafsa-street-bath.jpg" decls="#profile_Gafsa_01_graphic005" type="thumbnail"/>
@@ -311,10 +312,10 @@
                      <graphic url="Gafsa-mosque-spring.jpg" decls="#profile_Gafsa_01_graphic010" type="thumbnail"/>
                      <head type="imgCaption">Spring in the mosque's yard</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">As the area of the town and its surroundings was in prehistoric times settled by the Mesolithic Capsian civilisation, a series of archaeological excavations and their findings bear witness to this early culture. Today, however, the governorate of Gafsa is famous for its phosphate mining which emerged at the end of the 19th century. The mining causes serious health problems and pollution in the whole region. Still, the town attracts many people from the adjacent governorates searching for work. Therefore, the dialect spoken in Gafsa as well as the speakers themselves are very heterogeneous.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_Gafsa_01_graphic011" url="Gafsa-roundabout.jpg"/>
                   <graphic url="Gafsa-roundabout.jpg" decls="#profile_Gafsa_01_graphic011" type="thumbnail"/>
@@ -335,7 +336,7 @@
                   <graphic url="Gafsa-street.jpg" decls="#profile_Gafsa_01_graphic014" type="thumbnail"/>
                   <head type="imgCaption">On a walk through Gafsa</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">With the exception of two texts in the Arabic dialect of Gafsan Jews (Singer 1980, 272-276) hitherto no data is published on the dialect of Gafsa, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>

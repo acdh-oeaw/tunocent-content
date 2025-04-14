@@ -86,6 +86,7 @@
          <change who="corpus:DS" when="2025-04-09" type="minor">fixing encoding of gallery encoding</change>
          <change when="2025-04-09" who="corpus:DS" type="minor">adding creators and license for graphics (add_creator_to_graphic.xsl).</change>
          <change who="corpus:DS" when="2025-04-09" type="minor">replacing tei:link with tei:graphic in gallery encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
+         <change who="corpus:DS" when="2025-04-14" type="minor">updating gallery / slideshow encoding (fix_gallery_replace_link_with_graphic.xsl)</change>
       </revisionDesc>
    </teiHeader>
    <standOff>
@@ -196,7 +197,7 @@
                </figure>
                <p xml:space="preserve">Folk etymology has it that the name of the town is derived from <hi xml:lang="aeb" rendition="#i">ir-rū</hi><hi xml:lang="aeb" rendition="#i">ḥ</hi> <hi xml:lang="aeb" rendition="#i">hīya</hi> “It is the spirit”. ir-Rūḥīya used to be a vivid center of spiritual life, famous for its <hi xml:lang="aeb" rendition="#i">zrid</hi>-ceremonies (singular <hi xml:lang="aeb" rendition="#i">zarda</hi> “feast celebrated in honour of a saint”), in the course of which the local population as well as people from other parts of Tunisia visited the saints’ tombs (e.g. Umm id-Dlǟl, Sīdi l-Hǟdi, Ḥmid Bū ʕĪn, Sīdi ʕAlī). After the revolution in 2011 these activities stopped and have shown a slow revival within the last years.</p>
             </div>
-            <div type="gallery">
+            <figure rendition="#gallery">
                <figure>
                   <graphic type="fullscale" decls="#profile_rouhia_01_graphic004" url="Rouhiya-Ilona-locals.jpg"/>
                   <graphic url="Rouhiya-Ilona-locals.jpg" decls="#profile_rouhia_01_graphic004" type="thumbnail"/>
@@ -211,7 +212,7 @@
                   <graphic url="Rouhiya-donkey.jpg" decls="#profile_rouhia_01_graphic006" type="thumbnail"/>
                   <head type="imgCaption">The familys donkey</head>
                </figure>
-            </div>
+            </figure>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of ir-Rūḥīya, however this dialect is linguistically investigated within the TUNOCENT project.</p>
             </div>
