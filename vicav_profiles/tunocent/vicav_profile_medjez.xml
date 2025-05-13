@@ -154,7 +154,7 @@
             <div type="general">
                <p xml:space="preserve">Medjez el Bab is a town in the North West Tunisian governorate of Béja, situated some 60 km away from the capital Tunis. It is located in the plain of the river Medjerda and was inhabited during the Roman era already, bearing the name Membressa. </p>
             </div>
-            <figure rendition="#gallery">
+            <figure rendition="#slideshow">
                <figure>
                   <graphic type="fullscale" decls="#profile_medjez_01_graphic002" url="Medjez-Mosque.jpg"/>
                   <graphic url="Medjez-Mosque.jpg" decls="#profile_medjez_01_graphic002" type="thumbnail"/>
