@@ -118507,6 +118507,9 @@
                   <person sex="m" age="35" sameAs="corpus:Shikh5">
                      <idno>Shikh5</idno>
                   </person>
+                  <person sex="f" age="28" sameAs="corpus:Medjez6">
+                     <idno>Medjez6</idno>
+                  </person>
                </listPerson>
             </particDesc>
             <settingDesc>
@@ -118886,7 +118889,7 @@
                                  <f name="translation"/>
                                  <f name="other"/>
                                  <f name="informant">Shikh2/f/50</f>
-                                 <f name="comment">und Medjez6/f/28</f>
+                                 <f name="informant">Medjez6/f/28</f>
                               </fs>
                            </w>
                         </seg>
