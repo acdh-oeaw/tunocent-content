@@ -193,7 +193,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Silyǟna is a modern town with about 30,000 inhabitants and the capital of the Governorate Silyǟna. It was founded in 1905 and is located about 130 km to the southwest of the capital Tunis. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_siliana_01_graphic002" url="IMG_4445-rotated.jpg"/>
                      <graphic url="IMG_4445-rotated.jpg" decls="#profile_siliana_01_graphic002" type="thumbnail"/>
@@ -204,7 +204,7 @@
                      <graphic url="IMG_4446-2-scaled.jpg" decls="#profile_siliana_01_graphic003" type="thumbnail"/>
                      <head type="imgCaption">Siliana market</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve"> It consists of 17 districts and is the hometown of the historian Aḥmad ibn Abī Ḏ̣iyāf (Ahmad ibn Abi Dhiyaf) and the famous singer al-Hādī al-Žwīnī (Hédi Jouini). In the beginning, Silyǟna’s population was mainly formed by Arabic Bedouin and Amazigh tribes. Due to immigration from the neighbouring rural areas, the town has, since the 1990s, constantly increased in size.</p>
             </div>
             <figure rendition="#slideshow">

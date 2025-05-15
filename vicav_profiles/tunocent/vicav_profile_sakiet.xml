@@ -277,7 +277,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Sakiet Sidi Youssef is a small town in the northwestern part of the Tunisian governorate El Kef. Locals sometimes call it just “Segya”.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Sakiet_Sidi_Youssef_01_graphic001" url="Park_4.jpg"/>
                      <graphic url="thumb/Park_4.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic001" type="thumbnail"/>
@@ -298,8 +298,8 @@
                      <graphic url="thumb/Mosque.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic004" type="thumbnail"/>
                      <head>Mosque</head>
                   </figure>
-               </p>
-               <p>
+               </figure>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Sakiet_Sidi_Youssef_01_graphic005" url="Impressions_of_Saqiat_11.jpg"/>
                      <graphic url="thumb/Impressions_of_Saqiat_11.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic005" type="thumbnail"/>
@@ -320,11 +320,11 @@
                      <graphic url="thumb/Impressions_of_Saqiat_1.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic008" type="thumbnail"/>
                      <head>Impressions of Segya 2</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">
                   Many tribes passed the place in transit. The tribesman Sidi Youssef ed-Dahmani (Sīdi Yūsuf id-Dahmǟni) of the huge Hilalian Riah branch was amongst them. Himself a former robber, Sidi Youssef decided to change sides and started fighting brigandage. Thus, the transit place was dedicated to Sidi Youssef, who is also known as the medieval saint of Dahmani.
                </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Sakiet_Sidi_Youssef_01_graphic009" url="In_the_woods_of_Saqiat.jpg"/>
                      <graphic url="thumb/In_the_woods_of_Saqiat.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic009" type="thumbnail"/>
@@ -345,9 +345,9 @@
                      <graphic url="thumb/View_over_Segya_from_top.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic012" type="thumbnail"/>
                      <head>View over Segya from top</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve"> The place is characterized by a hilly landscape with pine trees and quiet surroundings. However, Sakiet Sidi Youssef witnessed commotions in previous times. Located on the Algerian-Tunisian communication road, only a few kilometers from the border, the town in February 1958 sadly gained international attention. During the Algerian Revolution, the inhabitants of Sakiet Sidi Youssef had been supporting refugees fleeing from the adjoining Algerian village Souk Ahras. Subsequently, the French occupation forces retaliated against this assistance and bombarded the Tunisian town. This reprisal attack led to more than 60 dead and even more injured.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Sakiet_Sidi_Youssef_01_graphic013" url="Roundabout.jpg"/>
                      <graphic url="thumb/Roundabout.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic013" type="thumbnail"/>
@@ -368,7 +368,7 @@
                      <graphic url="thumb/7oumna.jpg" decls="#profile_Sakiet_Sidi_Youssef_01_graphic016" type="thumbnail"/>
                      <head>7oumna - "our neighbourhood"</head>
                   </figure>
-               </p>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Sakiet Sidi Youssef, however this dialect is linguistically investigated within the TUNOCENT project.</p>

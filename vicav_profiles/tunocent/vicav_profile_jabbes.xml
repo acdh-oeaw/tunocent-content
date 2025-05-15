@@ -211,7 +211,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Jabbes is located in the northeastern part of the Tunisian Kasserine Governorate. It is a very pastoral place with a cactus landscape situated on a mountain chain. There are many sacred sites up on those mountains. The tombs of the female saint Židda Žǟlīya as well as the male saints Židdi Sǟfi and Sīdi ʕAlī Šǟyib are located there. Moreover, a local centre is called after the saint ʕAlī b. Žbal, meaning “Ali, son of the mountain”. Sīdi ʕAbd il-Qādir is a further example of a saint after whom a part of Jabbes is named.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_Jabbes_01_graphic002" url="Cactuses_in_the_landscape_of_Jabbes.jpg"/>
                      <graphic url="Cactuses_in_the_landscape_of_Jabbes.jpg" decls="#profile_Jabbes_01_graphic002" type="thumbnail"/>
@@ -237,9 +237,9 @@
                      <graphic url="Cactuses,_trees_and_mountains.jpg" decls="#profile_Jabbes_01_graphic006" type="thumbnail"/>
                      <head>Cactuses, trees and mountains</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">Once a year, people make a pilgrimage to these cultural sites. The festivities in honour of a saint usually last two days. On the first day, people visit the place (<hi xml:lang="aeb" rendition="#i">zyāra</hi>), laying down money, frankincense (<hi xml:lang="aeb" rendition="#i">bxūr</hi>) or Jawi-incense (<hi xml:lang="aeb" rendition="#i">žāwi</hi>). On the second day, the celebration follows. People install stands to sell sweets, fruits or other things. Previously, this celebration was called <hi xml:lang="aeb" rendition="#i">zarda</hi>. Today, people in Jabbes, however, call it festival (<hi xml:lang="aeb" rendition="#i">mahr</hi><hi xml:lang="aeb" rendition="#i">a</hi><hi xml:lang="aeb" rendition="#i">žǟn</hi>) dedicating it to the respective saint. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Jabbes_01_graphic007" url="Mountains_of_Jabbes_7.jpg"/>
                      <graphic url="Mountains_of_Jabbes_7.jpg" decls="#profile_Jabbes_01_graphic007" type="thumbnail"/>
@@ -255,7 +255,7 @@
                      <graphic url="Mountains_of_Jabbes_3.jpg" decls="#profile_Jabbes_01_graphic009" type="thumbnail"/>
                      <head>Mountains of Jabbes</head>
                   </figure>
-               </p>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Jabbes, however this dialect is linguistically investigated within the TUNOCENT project.</p>

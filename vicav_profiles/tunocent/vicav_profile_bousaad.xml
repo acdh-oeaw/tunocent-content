@@ -249,7 +249,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Bou Saad, also called Ouled Bou Saad, is an ancient Berber village situated in the Orbata Mountains (Žbǟl ʕUṛbāṭa) of the South Tunisian governorate of Gafsa. According to an article the Tunisian newspaper aš-Šurūq published in 2016, the region Ouled Bou Saad is also called is-Saket (is-Sǟkit), a toponym still used by people in their fifties instead of, or concomitant with its current toponym.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bou_Saad_01_graphic002" url="School.jpg"/>
                      <graphic url="thumb/School.jpg" decls="#profile_Bou_Saad_01_graphic002" type="thumbnail"/>
@@ -265,7 +265,7 @@
                      <graphic url="thumb/School_(2).jpg" decls="#profile_Bou_Saad_01_graphic004" type="thumbnail"/>
                      <head>School</head>
                   </figure>
-               </p>
+               </figure>
                <p>Bou Saad is interbedded between 
                <ref type="profile" target="profile_{Bou Omrane}_01">Bou Omrane</ref>, 
                which is located to its west and Sened to its east. In the south, 
@@ -273,7 +273,7 @@
                and Talah. 
                The main road leading to the governorate’s capital Gafsa, divides the villages, 
                with Bou Saad being to its north and Bir Saad as well as Talah being to its south. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bou_Saad_01_graphic005" url="Settlement_on_the_mountain.jpg"/>
                      <graphic url="thumb/Settlement_on_the_mountain.jpg" decls="#profile_Bou_Saad_01_graphic005" type="thumbnail"/>
@@ -289,7 +289,7 @@
                      <graphic url="thumb/Settlement_on_the_mountain_(1).jpg" decls="#profile_Bou_Saad_01_graphic007" type="thumbnail"/>
                      <head>Settlement on the mountain</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">According to the aš-Šurūq article cited above, 
                caves preserved in the Orbata Mountains (Žbǟl ʕUṛbāṭa) between 
                the region Ouled Bou Saad and Tafertast (Ṭāfirṭāst) suggest that 
@@ -298,7 +298,7 @@
                (between 7000 and 8000 years BC), for which the region of 
                <ref type="profile" target="profile_{Gafsa}_01">Gafsa</ref> 
                is known. Moreover, the region is rich of stone age landmarks.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bou_Saad_01_graphic008" url="Tomb_of_Sidi_Saleh_(1).jpg"/>
                      <graphic url="thumb/Tomb_of_Sidi_Saleh_(1).jpg" decls="#profile_Bou_Saad_01_graphic008" type="thumbnail"/>
@@ -314,9 +314,9 @@
                      <graphic url="thumb/Tomb_of_Sidi_Saleh_(3).jpg" decls="#profile_Bou_Saad_01_graphic010" type="thumbnail"/>
                      <head>Tomb of Sidi Saleh (3)</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">In comparison to that, a tomb commemorating the medieval saint Sidi Saleh (Sīdi Ṣāliḥ) appears like recent history. Locals still maintain their Berber heritage. Berber women, for instance, still feature their traditional face and hand tatoos. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Bou_Saad_01_graphic011" url="Berber_woman_with_traditional_tattoos.jpg"/>
                      <graphic url="thumb/Berber_woman_with_traditional_tattoos.jpg" decls="#profile_Bou_Saad_01_graphic011" type="thumbnail"/>
@@ -332,7 +332,7 @@
                      <graphic url="thumb/Cleaning_tools.jpg" decls="#profile_Bou_Saad_01_graphic013" type="thumbnail"/>
                      <head>Cleaning tools</head>
                   </figure>
-               </p>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Bou Saad, however this dialect is linguistically investigated within the TUNOCENT project.</p>

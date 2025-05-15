@@ -263,7 +263,7 @@
             </div>
             <div type="general">
                <p xml:space="preserve">Gafsa (Latin: Capsa) is the capital of the southwest Tunisian governorate Gafsa. It abuts on a forest area (<hi xml:lang="aeb" rendition="#i">ž</hi><hi xml:lang="aeb" rendition="#i">arr</hi>) to its south, which has nearly the size of the town itself and provides a habitat for the local flora and fauna</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_Gafsa_01_graphic002" url="Gafsa-cat.jpg"/>
                      <graphic url="Gafsa-cat.jpg" decls="#profile_Gafsa_01_graphic002" type="thumbnail"/>
@@ -279,7 +279,7 @@
                      <graphic url="Gafsa-horse.jpg" decls="#profile_Gafsa_01_graphic004" type="thumbnail"/>
                      <head type="imgCaption">Researcher Franzi getting a hug from a photogenic horse</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">Just one street separates this woodland from the Great Mosque and the Roman baths, two of Gafsa’s main architectural attractions.</p>
                <figure rendition="#slideshow">
                   <figure>

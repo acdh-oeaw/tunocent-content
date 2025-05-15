@@ -370,7 +370,7 @@
             <div type="general">
                <p xml:space="preserve">Between Mountain and Main Road - between Old and New.</p>
                <p xml:space="preserve">Bou Omrane is a village situated in the Orbata Mountains (Žbǟl ʕUṛbāṭa) of the south Tunisian governorate of Gafsa around 40 kilometres east of its capital. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic002" url="Mosque_of_Bou_Omrane.jpg"/>
                      <graphic url="thumb/Mosque_of_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic002" type="thumbnail"/>
@@ -401,9 +401,9 @@
                      <graphic url="thumb/Way_to_Bou_Omrane.jpg" decls="#profile_Bou_Omrane_01_graphic007" type="thumbnail"/>
                      <head>Way to Bou Omrane</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">According to locals, their ancestors led a nomadic life until tribal families eventually started to settle down. First, they took up abode in the adjacent village of Bou Saad. In the course of time, however, the families established themselves one after another permanently in the mountains of Bou Omrane. The first settler is said to be a certain Židd Bū ʕUmṛān “Grandpa Bou Omrane”, which is why some locals call their village also Ūlǟd Bū ʕUmṛān “Bou Omrane’s descendants”. To this day, old houses of these first settlements remain. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic008" url="Old_houses'_remains_(1).jpg"/>
                      <graphic url="thumb/Old_houses'_remains_(1).jpg" decls="#profile_Bou_Omrane_01_graphic008" type="thumbnail"/>
@@ -434,9 +434,9 @@
                      <graphic url="thumb/The_mountain_village_of_Bou_Omrane_(6).jpg" decls="#profile_Bou_Omrane_01_graphic013" type="thumbnail"/>
                      <head>The mountain village of Bou Omrane</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">As the population grew, people started to colonize the foot of the mountain, too. Thus, nowadays the village abuts on the main road, which connects it to the governorate’s capital of Gafsa. Appropriately, people call this part Bū ʕUmṛān iž-Ždīda “the new Bou Omrane”, while the older part on the mountains is called Bū ʕUmṛān li-Gdīma “the old Bou Omrane”. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic014" url="Local_interviewee_(1).jpg"/>
                      <graphic url="thumb/Local_interviewee_(1).jpg" decls="#profile_Bou_Omrane_01_graphic014" type="thumbnail"/>
@@ -467,10 +467,10 @@
                      <graphic url="thumb/Traditional_life_(12)_(1).jpg" decls="#profile_Bou_Omrane_01_graphic019" type="thumbnail"/>
                      <head>Traditional tools</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">Be that as it may, new and old melt together when it comes to lifestyle. While people welcome modernity, adapting their lives to changes, they keep on living their traditional life based on livestock and agriculture. Local women manufacture household textiles. </p>
                <p>According to our interviewees, the dialect of Bou Omrane has more Berber vocabulary than that of the town of Gafsa.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_Bou_Omrane_01_graphic020" url="Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg"/>
                      <graphic url="thumb/Sheepskin_carpet_serving_as_padded_underlay_for_sleeping_-_still_in_use.jpg" decls="#profile_Bou_Omrane_01_graphic020" type="thumbnail"/>
@@ -501,7 +501,7 @@
                      <graphic url="thumb/Traditional_life_(8).jpg" decls="#profile_Bou_Omrane_01_graphic025" type="thumbnail"/>
                      <head>Traditional patterns</head>
                   </figure>
-               </p>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">To the best of our knowledge hitherto no research has been done on the dialect of Bou Omrane, however this dialect is linguistically investigated within the TUNOCENT project.</p>
