@@ -706,7 +706,7 @@
             </figure>
             <div type="general">
                <p xml:space="preserve">El Kef is the capital of its eponymous Tunisian governorate. It is located in the northwestern part of the country in the Tunisian-Algerian border region. Though beyond Tunisia’s touristic regions, the small town provides interesting insights into Tunisia’s cultural and historical heritage. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_kef_01_graphic018" url="Kef-roman-bath.jpg"/>
                      <graphic url="Kef-roman-bath.jpg" decls="#profile_kef_01_graphic018" type="thumbnail"/>
@@ -727,9 +727,9 @@
                      <graphic url="Kef-baths-2.jpg" decls="#profile_kef_01_graphic021" type="thumbnail"/>
                      <head>Roman bath</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">Ruins of a Roman bath (<hi xml:lang="aeb" rendition="#i">ḥammām</hi>) evoke the country’s antique past, while the Kasbah (<hi xml:lang="aeb" rendition="#i">qaṣba</hi>), a fort with a view over the whole town, goes back to the time of Ottoman rule. </p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_kef_01_graphic022" url="Kef-kasba.jpg"/>
                      <graphic url="Kef-kasba.jpg" decls="#profile_kef_01_graphic022" type="thumbnail"/>
@@ -760,9 +760,9 @@
                      <graphic url="Kef-kasba-night.jpg" decls="#profile_kef_01_graphic027" type="thumbnail"/>
                      <head>The Kasbah Illuminated at Night</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">An old synagogue in the centre of El Kef as well as a Jewish and a Christian cemetery are indicators of the former times’ religious diversity.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_kef_01_graphic028" url="Kef-synagogue-road.jpg"/>
                      <graphic url="Kef-synagogue-road.jpg" decls="#profile_kef_01_graphic028" type="thumbnail"/>
@@ -788,9 +788,9 @@
                      <graphic url="Kef-cemeteries.jpg" decls="#profile_kef_01_graphic032" type="thumbnail"/>
                      <head>Jewish and Christian cemeteries</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">In addition to the mosque, the mausoleum of the local saint Sidi Bou Makhlouf (Sīdi Bū Maxlūf) is one of the holy places people visit to the present.</p>
-               <p>
+               <figure rendition="#gallery">
                   <figure rendition="#small">
                      <graphic type="fullscale" decls="#profile_kef_01_graphic033" url="Kef-makhlouf-sign.jpg"/>
                      <graphic url="Kef-makhlouf-sign.jpg" decls="#profile_kef_01_graphic033" type="thumbnail"/>
@@ -811,7 +811,7 @@
                      <graphic url="Kef-makhlouf-tomb-2.jpg" decls="#profile_kef_01_graphic036" type="thumbnail"/>
                      <head>Tombs of Bou Makhlouf</head>
                   </figure>
-               </p>
+               </figure>
                <p xml:space="preserve">While historical traces are omnipresent, professional graffiti arts embellish roads, paths and public places showing the modern side of El Kef. </p>
                <figure rendition="#slideshow">
                   <figure rendition="#small">
@@ -876,7 +876,7 @@
                   </figure>
                </figure>
                <p xml:space="preserve">Some Kefian artists even integrate the town’s past into their work, using El Kef’s former Latin name Sicca Veneria as a graffiti motif. </p>
-               <p rendition="#full-width">
+               <figure rendition="#gallery">
                   <figure>
                      <graphic type="fullscale" decls="#profile_kef_01_graphic049" url="Kef-graffiti-1.jpg"/>
                      <graphic url="Kef-graffiti-1.jpg" decls="#profile_kef_01_graphic049" type="thumbnail"/>
@@ -887,7 +887,7 @@
                      <graphic url="Kef-graffiti-2.jpg" decls="#profile_kef_01_graphic050" type="thumbnail"/>
                      <head>Graffiti VENERIA</head>
                   </figure>
-               </p>
+               </figure>
             </div>
             <div type="researchHistory">
                <p xml:space="preserve">This dialect was linguistically investigated within the TUNOCENT project, which resulted in the following publication: <rs type="bibl" ref="zotid:5TEEAD39">Ritt-Benmimoun (2022)</rs>
