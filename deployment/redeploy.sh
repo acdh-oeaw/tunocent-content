@@ -88,7 +88,7 @@ do echo "Directory $d:"
    for filename in $(find "$d" -type f -and -name '*.xml')
    do
       publicationIdno=$(sed ':a;N;$!ba;s/\n/\\n/g' <<EOF
-<idno>$sourcebaseuri$filename</idno>
+<idno type="teiSource">$sourcebaseuri$filename</idno>
 EOF
 )
      sed -i "s~\(</publicationStmt>\)~$publicationIdno\\n\1~g" $filename
