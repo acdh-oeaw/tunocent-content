@@ -159,7 +159,6 @@
             <place sameAs="geo:OuledBouAli">
                <settlement>
                   <name xml:lang="en">Ouled Bou Ali</name>
-                  <name xml:lang="aeb"/>
                </settlement>
                <region>Beja</region>
                <country>Tunisia</country>
