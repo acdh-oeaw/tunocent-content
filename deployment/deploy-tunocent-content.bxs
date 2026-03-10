@@ -2,8 +2,9 @@
         <set option='CHOP'>false</set>
         <set option='textindex'>true</set>
         <set option='textinclude'>*:person,*:region,*:country,*:name,*:idno</set>
-        <create-db name='vicav_corpus'>../tunocent-content/vicav_corpus</create-db>
-        <add>../tunocent-content/corpus.xml</add>
+        <create-db name='vicav_corpus'/>
+        <add path="tunocent">../tunocent-content/vicav_corpus</add>
+        <add path="tunocent">../tunocent-content/corpus.xml</add>
         <optimize-all/>
         <create-db name='vicav_projects'>../tunocent-content/vicav_projects</create-db>
         <create-db name='vicav_profiles'>../tunocent-content/vicav_profiles</create-db>
