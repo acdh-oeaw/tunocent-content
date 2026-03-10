@@ -220,7 +220,7 @@
                <note type="start">#T0</note>
                <note type="end">#T32</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a1"
                   who="corpus:Hbeba1"
@@ -251,8 +251,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a6"
                   who="corpus:Hbeba2"
@@ -293,8 +293,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a8"
                   who="corpus:Hbeba3"
@@ -309,8 +309,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a2"
                   who="corpus:Hbeba1"
@@ -338,8 +338,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a9"
                   who="corpus:Hbeba3"
@@ -375,8 +375,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a7"
                   who="corpus:Hbeba2"
@@ -391,8 +391,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a10"
                   who="corpus:Hbeba3"
@@ -421,8 +421,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a11"
                   who="corpus:Hbeba3"
@@ -464,8 +464,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a12"
                   who="corpus:Hbeba3"
@@ -487,8 +487,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a3"
                   who="corpus:Hbeba1"
@@ -508,8 +508,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a13"
                   who="corpus:Hbeba3"
@@ -538,8 +538,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a4"
                   who="corpus:Hbeba1"
@@ -556,8 +556,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a14"
                   who="corpus:Hbeba3"
@@ -590,8 +590,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a15"
                   who="corpus:Hbeba3"
@@ -627,8 +627,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a5"
                   who="corpus:Hbeba1"
@@ -643,8 +643,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a16"
                   who="corpus:Hbeba3"
@@ -673,8 +673,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a17"
                   who="corpus:Hbeba3"
@@ -693,8 +693,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="hbeba1_f_50_de3_a18"
                   who="corpus:Hbeba3"
@@ -725,7 +725,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

@@ -274,7 +274,7 @@
                <note type="start">#T0</note>
                <note type="end">#T77</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a5"
                   who="corpus:Testour11"
@@ -292,8 +292,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a5" xml:id="a52">What does she want?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a1"
                   end="#T69"
@@ -328,8 +328,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a1" xml:id="a47">Speak about the market. She (...), the dialect, give her information about the language.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a7"
                   who="corpus:Testour11"
@@ -348,8 +348,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a7" xml:id="a53">About the dialect?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a3"
                   end="#T71"
@@ -365,8 +365,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a3" xml:id="a48">The language, yes.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a20"
                   who="corpus:Testour11"
@@ -398,8 +398,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a20" xml:id="a54">This is the wholesale market. We sell the merchandise; Should I always speak in Arabic to you?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a4"
                   end="#T73"
@@ -419,8 +419,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a4" xml:id="a49">She understands Arabic.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a17"
                   who="corpus:AN"
@@ -440,8 +440,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a17" xml:id="a88">With the Testouri dialect.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a8"
                   who="corpus:Testour11"
@@ -490,8 +490,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a8" xml:id="a55">With the Testouri dialect, the Testouri dialect, do you understand me? Here, the farmer, this is a big shop. The government sets it up now, it is called the wholesale market.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a9"
                   who="corpus:Testour11"
@@ -539,8 +539,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a9" xml:id="a56">The farmer grows his produce and brings it here to the market. We sell it to the greengrocer who sells it in small quantities, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a10"
                   who="corpus:Testour11"
@@ -571,8 +571,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a10" xml:id="a57">And we take our share and we pass on the money which belongs to the farmer.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a11"
                   who="corpus:Testour11"
@@ -600,8 +600,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a11" xml:id="a58">And Testour is an Andalusian town. Do you want me to tell you a bit about Testour? It is an Andalusian town.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a12"
                   who="corpus:Testour11"
@@ -637,8 +637,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a12" xml:id="a59">Most of the Andalusians came from 1610, something like that. They came to Testour. Do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a13"
                   who="corpus:Testour11"
@@ -675,8 +675,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a13" xml:id="a60">They are called the Moriscos, they are Andalusians. They came as migrants, migrants, they came here as migrants. They settled in Soliman.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a14"
                   who="corpus:Testour11"
@@ -712,8 +712,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a14" xml:id="a61">They lived in Soliman, a town called Soliman in Tunisia, and they lived here in Testour, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a15"
                   who="corpus:Testour11"
@@ -753,8 +753,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a15" xml:id="a62">And they brought with them their customs and traditions, which were many fruits, now many fruits are from Spain</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a16"
                   who="corpus:Testour11"
@@ -786,8 +786,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a16" xml:id="a63">Such as pomegranates, apricots, do you understand me? We have, for example, saffron.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a18"
                   end="#T75"
@@ -802,8 +802,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a18" xml:id="a50">Saffron</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a21"
                   who="corpus:Testour11"
@@ -837,8 +837,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a21" xml:id="a64">And with regards to the flowers, they  brought the jasmine, they brought the Arabian jasmine from there, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a22"
                   who="corpus:Testour11"
@@ -866,8 +866,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a22" xml:id="a65">And they brought varieties of food, do you understand me? A lot of them.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a23"
                   who="corpus:Testour11"
@@ -891,8 +891,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a23" xml:id="a66">What else would you like me to tell you about Testour?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a24"
                   who="corpus:Testour11"
@@ -909,8 +909,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a24" xml:id="a67">It is a charming town</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a25"
                   who="corpus:Testour11"
@@ -941,8 +941,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a25" xml:id="a68">An agricultural town, it is an agricultural town, it doesn’t have an industrial area.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a26"
                   who="corpus:Testour11"
@@ -974,8 +974,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a26" xml:id="a69">The people here live off, most people here live off agriculture, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a27"
                   who="corpus:Testour11"
@@ -1005,8 +1005,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a27" xml:id="a70">Right, it is an unimportant and average town, a fine and average town, do you understand?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a46"
                   who="corpus:AN"
@@ -1027,8 +1027,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a46" xml:id="a89">And the feasts, what do you celebrate?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a28"
                   who="corpus:Testour11"
@@ -1062,8 +1062,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a28" xml:id="a71">We celebrate the feasts, our religious feasts mostly. The religious feasts.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a29"
                   who="corpus:Testour11"
@@ -1090,8 +1090,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a29" xml:id="a72">We have Eid al-Fitr (the small Eid) and the Eid al-Adha (the big Eid).</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a30"
                   who="corpus:Testour11"
@@ -1129,8 +1129,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a30" xml:id="a73">Eid al-Fitr is the one in which traditional pastry is baked; there is the ġṛayyba, there is the makrouth, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a31"
                   who="corpus:Testour11"
@@ -1178,8 +1178,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a31" xml:id="a74">And there is the pastry rings. Every person bakes what he likes, do you understand me? The big feast is Eid al-Adha, it is well known for the lamb, do you understand? Eid al-Adha.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a32"
                   who="corpus:Testour11"
@@ -1213,8 +1213,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a32" xml:id="a75">What is it that we have? We have the month of Ramadan, all the Muslims celebrate it, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a33"
                   who="corpus:Testour11"
@@ -1231,8 +1231,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a33" xml:id="a76">Do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a34"
                   who="corpus:Testour11"
@@ -1274,8 +1274,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a34" xml:id="a77">No, no, ça va. We all celebrate it, as you know. You know abour Ramadan, right? Do you fast or not?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a35"
                   who="corpus:Testour11"
@@ -1302,8 +1302,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a35" xml:id="a78">You don’t fast. God willing you will start fasting, God willing, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a36"
                   who="corpus:Testour11"
@@ -1336,8 +1336,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a36" xml:id="a79">Do you know when the period of fasting is? From sunrise until sunset, do you understand?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a37"
                   who="corpus:Testour11"
@@ -1368,8 +1368,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a37" xml:id="a80">These are some of our official feasts. There is also the feast where we celebrate the birth of the prophet Mohammad.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a38"
                   who="corpus:Testour11"
@@ -1399,8 +1399,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a38" xml:id="a81">Bon, in Testour, we also celebrate it greatly by making the ʕaṣīda</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a39"
                   who="corpus:Testour11"
@@ -1426,8 +1426,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a39" xml:id="a82">There are different varieties of the ʕaṣīda, the majority would make it with pine nuts.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a40"
                   who="corpus:Testour11"
@@ -1447,8 +1447,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a40" xml:id="a83">Do you know what pine nuts are?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a41"
                   who="corpus:Testour11"
@@ -1469,8 +1469,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a41" xml:id="a84">The majority would make the ʕaṣīda with pine nuts.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a42"
                   who="corpus:Testour11"
@@ -1509,8 +1509,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a42" xml:id="a85">And those who cannot afford it, they would make the white ʕaṣīda, do you understand me? Out of flour, do you understand me? That’s it.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a43"
                   who="corpus:Testour11"
@@ -1540,8 +1540,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a43" xml:id="a86">Welcome to Testour, welcome, pleased to meet you, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a44"
                   who="corpus:Testour11"
@@ -1562,8 +1562,8 @@
                <spanGrp type="Testour11_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a44" xml:id="a87">What would you like me to tell you more about?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour11_m_55_e_a19"
                   end="#T77"
@@ -1581,7 +1581,7 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour11_m_55_e_a19" xml:id="a51">No, it is enough...</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

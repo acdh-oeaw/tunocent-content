@@ -307,7 +307,7 @@
                <note type="start">#T0</note>
                <note type="end">#T110</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a34"
                   who="corpus:Testour3"
@@ -323,8 +323,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a34" xml:id="a35">Now...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a33"
                   who="corpus:AN"
@@ -355,8 +355,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a33" xml:id="a100">Tell me in general how life was before and what has changed and...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a4"
                   who="corpus:Testour3"
@@ -377,8 +377,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a4" xml:id="a67">Life was good before</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a5"
                   who="corpus:Testour3"
@@ -405,8 +405,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a5" xml:id="a68">Women would not go out, let me tell you.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a6"
                   who="corpus:Testour3"
@@ -427,8 +427,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a6" xml:id="a69">Women would not go out</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a7"
                   who="corpus:Testour3"
@@ -453,8 +453,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a7" xml:id="a70">And the man would run the errands, he would not let the woman go out.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a8"
                   who="corpus:Testour3"
@@ -484,8 +484,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a8" xml:id="a71">The man would be the one who brings, he would bring the meat, the groceries, he would bring anything</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a9"
                   who="corpus:Testour3"
@@ -503,8 +503,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a9" xml:id="a72">And the woman would cook</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a10"
                   who="corpus:Testour3"
@@ -522,8 +522,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a10" xml:id="a73">She would wash the clothes, she would sew</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a11"
                   who="corpus:Testour3"
@@ -541,8 +541,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a11" xml:id="a74">She would iron</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a12"
                   who="corpus:Testour3"
@@ -568,8 +568,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a12" xml:id="a75">She would make wheat at home,  she would knead (the bread), she would wash</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a13"
                   who="corpus:Testour3"
@@ -588,8 +588,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a13" xml:id="a76">She would do everything</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a14"
                   who="corpus:Testour3"
@@ -606,8 +606,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a14" xml:id="a77">She would raise the children</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a15"
                   who="corpus:Testour3"
@@ -627,8 +627,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a15" xml:id="a78">The children would behave well, and they would stay in their place</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a16"
                   who="corpus:Testour3"
@@ -651,8 +651,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a16" xml:id="a79">And they would fear and respect (their elders), and they would eat whatever was available</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a17"
                   who="corpus:Testour3"
@@ -676,8 +676,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a17" xml:id="a80">And if their mum tells them "Be quiet", they would be quiet</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a18"
                   who="corpus:Testour3"
@@ -703,8 +703,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a18" xml:id="a81">And in the evening they would sleep, they would not go out in the street.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a19"
                   who="corpus:Testour3"
@@ -730,8 +730,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a19" xml:id="a82">She would help them study, she would gather them in the room and help them with their homework</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a20"
                   who="corpus:Testour3"
@@ -751,8 +751,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a20" xml:id="a83">They would not go out, they would be fearful</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a21"
                   who="corpus:Testour3"
@@ -782,8 +782,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a21" xml:id="a84">(She would tell them), "Wash your feet", and they would wash their feet, "don’t talk like this", they wouldn’t talk like that</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a22"
                   who="corpus:Testour3"
@@ -801,8 +801,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a22" xml:id="a85">"Go to sleep", and they would sleep.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a23"
                   who="corpus:Testour3"
@@ -826,8 +826,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a23" xml:id="a86">Nowadays it’s not like that, now everything has changed.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a24"
                   who="corpus:Testour3"
@@ -880,8 +880,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a24" xml:id="a51">Before, the woman would  wash clothes in the washing basin with her hands from one o’clock until nine o’clock in the evening, and she would do like this /mimics the washing process by hand/</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a26"
                   who="corpus:Testour3"
@@ -910,8 +910,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a26" xml:id="a87">And she would not say "I’m tired!" and she wouldn’t say a thing like that</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a27"
                   who="corpus:Testour3"
@@ -954,8 +954,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a27" xml:id="a88">Nowadays (they complain) "I’m tired! My shoulder is hurting, my chest  is hurting, I have headache!" What is causing you the pain?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a28"
                   who="corpus:Testour3"
@@ -984,8 +984,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a28" xml:id="a89">We did not cook..., we used to cook with the kerosen stove /mimics the sound of the stove/</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a29"
                   who="corpus:Testour3"
@@ -1002,8 +1002,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a29" xml:id="a90">Now they have the gas cooker</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a30"
                   who="corpus:Testour3"
@@ -1039,8 +1039,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a30" xml:id="a91">We used to cook over firewood, and knead the bread with our hands, we kneaded the bread with our hands.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a31"
                   who="corpus:Testour3"
@@ -1059,8 +1059,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a31" xml:id="a92">Nowadays, it’s not like this anymore, my dear.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a36"
                   who="corpus:Testour3"
@@ -1084,8 +1084,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a36" xml:id="a93">People used to be fearful and timid and they would not speak</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a37"
                   who="corpus:Testour3"
@@ -1103,8 +1103,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a37" xml:id="a94">And the children were educated properly</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a38"
                   who="corpus:Testour3"
@@ -1151,8 +1151,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a38" xml:id="a95">And regarding the teacher; you would take care of the teacher (you would behave well), of your master, your master would say "Do that!" your master would say "Don’t speak!" your master would tell you "Don’t..."</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a39"
                   who="corpus:Testour3"
@@ -1193,8 +1193,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a39" xml:id="a96">Nowadays, do they still fear their headmaster or their teacher? Nowadays, they no longer fear neither the headmaster nor the teacher.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a52"
                   who="corpus:AN"
@@ -1212,8 +1212,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a52" xml:id="a101">There is no respect</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a40"
                   who="corpus:Testour3"
@@ -1240,8 +1240,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a40" xml:id="a102">No, this is all because of the parents.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a41"
                   who="corpus:Testour3"
@@ -1265,8 +1265,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a41" xml:id="a103">No, parents are not raising their children right, I always say this.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a42"
                   who="corpus:Testour3"
@@ -1296,8 +1296,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a42" xml:id="a104">The parents, when their child goes out of the house, they no longer care about him</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a43"
                   who="corpus:Testour3"
@@ -1330,8 +1330,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a43" xml:id="a105">They do not guide him. They do not tell him "my son, do not do so and so"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a44"
                   who="corpus:Testour3"
@@ -1357,8 +1357,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a44" xml:id="a106">"If you meet an old person, tell him good morning"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a45"
                   who="corpus:Testour3"
@@ -1383,8 +1383,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a45" xml:id="a107">"If you meet an old woman accompany her to her place"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a46"
                   who="corpus:Testour3"
@@ -1412,8 +1412,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a46" xml:id="a108">"And if she is carrying a basket, tell her give it to me, I will carry it for you."</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a47"
                   who="corpus:Testour3"
@@ -1433,8 +1433,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a47" xml:id="a109">Nowadays no, nowadays it’s not like this.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a48"
                   who="corpus:Testour3"
@@ -1482,8 +1482,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a48" xml:id="a110">His mother leaves him and goes out. And her child would begin to act out, he disturbs things, spits, and  destroys, he would begin to yell and scream and the mother would just talk to her neighbour as if everything is normal.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a49"
                   who="corpus:Testour3"
@@ -1530,8 +1530,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a49" xml:id="a111">She does not tell him "Why did you talk?" or "Why did you scream?" or "Be quiet!" None of this, no, no, no, no, no, no.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a50"
                   who="corpus:Testour3"
@@ -1561,8 +1561,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a50" xml:id="a112">She doesn’t say to her son "That’s bad! Shut up, don’t speak like this, it’s shameful!"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a53"
                   who="corpus:Testour3"
@@ -1599,8 +1599,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a53" xml:id="a113">No, his mother sees what he’s doing and would tell you "What did he do to you? He’s just a child."</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a54"
                   who="corpus:Testour3"
@@ -1618,8 +1618,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a54" xml:id="a114">No, what kind of child is this?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a55"
                   who="corpus:Testour3"
@@ -1641,8 +1641,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a55" xml:id="a115">There are children and there are adults.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a56"
                   who="corpus:Testour3"
@@ -1666,8 +1666,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a56" xml:id="a116">Isn't it so? And there’s respect and honour.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a57"
                   who="corpus:Testour3"
@@ -1706,8 +1706,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a57" xml:id="a117">"No, it’s okay." No, it’s not okay, no.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a58"
                   who="corpus:Testour3"
@@ -1743,8 +1743,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a58" xml:id="a118">It’s a matter of upbringing. Nowadays, those poor children that you find around, those are all victims of their parents</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a59"
                   who="corpus:Testour3"
@@ -1763,8 +1763,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a59" xml:id="a119">It’s not their fault</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a60"
                   who="corpus:Testour3"
@@ -1797,8 +1797,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a60" xml:id="a120">These poor children that you find all around, the youth that are running around, they are all victims of their parents.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a61"
                   who="corpus:Testour3"
@@ -1828,8 +1828,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a61" xml:id="a121">Most of them (end up like this) because of their mother. The father eats and leaves, he goes to work.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a62"
                   who="corpus:Testour3"
@@ -1863,8 +1863,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a62" xml:id="a122">But the mum is at home and if her son is late she doesn’t ask him "Why are you late?"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a63"
                   who="corpus:Testour3"
@@ -1891,8 +1891,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a63" xml:id="a123">If he spits , she does not ask "Why did you spit?"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a64"
                   who="corpus:Testour3"
@@ -1920,8 +1920,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a64" xml:id="a97">If he was away and tore his clothes she doesn’t ask him why the clothes are torn</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a65"
                   who="corpus:Testour3"
@@ -1948,8 +1948,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a65" xml:id="a98">If he touches something, she doesn’t ask him "Why have you touched this?"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e2_a66"
                   who="corpus:Testour3"
@@ -1976,7 +1976,7 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e2_a66" xml:id="a99">The mother starts building a wall between her and her son.</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

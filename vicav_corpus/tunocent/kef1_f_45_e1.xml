@@ -236,7 +236,7 @@
                <note type="start">#T0</note>
                <note type="end">#T48</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a1"
                   who="corpus:Kef1"
@@ -279,8 +279,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a1" xml:id="a49">The famous food of il-Kǟf is called burzgǟn. It is made in… we cook it in the month of May, on the fifteenth of May. We call it “the feast of May”.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a2"
                   who="corpus:Kef1"
@@ -324,8 +324,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a2" xml:id="a50">At that time we have a lot of green salad. At the same time the people of il-Kǟf, (the people of) all the (other) governorates know that, whenever we say burzgǟn, (we mean) the Kefi burzgǟn. It is eaten in May.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a3"
                   who="corpus:Kef1"
@@ -352,8 +352,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a3" xml:id="a51">In order to prepare and cook burzgǟn in il-Kǟf, we buy dried fruits,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a4"
                   who="corpus:Kef1"
@@ -388,8 +388,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a4" xml:id="a52">dry fruits which are almonds, pine nuts, walnuts, hazelnuts and dagla dates. And we buy lamb meat.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a5"
                   who="corpus:Kef1"
@@ -428,8 +428,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a5" xml:id="a53">Of course, all the Kefan people have couscous at home and everything that is needed to cook it, and milk and butter.[...] And sugar.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a6"
                   who="corpus:Kef1"
@@ -465,8 +465,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a6" xml:id="a54">In order to prepare the dish burzgǟn we fry the dried fruits, we roast them. We cut the dagla dates into four, boil the milk, and let the butter melt.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a7"
                   who="corpus:Kef1"
@@ -509,8 +509,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a7" xml:id="a55">We let the sun-dried couscous steam. At the same time we place the meat that, after washing, we have spiced with a pinch of salt and rosemary.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a8"
                   who="corpus:Kef1"
@@ -540,8 +540,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a8" xml:id="a56">It is green rosemary that (grows) in the mountains and sends forth a nice aroma. We place it (i.e. the meat), let it steam, and we call it knǟf.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a9"
                   who="corpus:Kef1"
@@ -575,8 +575,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a9" xml:id="a57">After we have let the couscous steam, we open (the couscous chunk) slowly and dissipate it with some butter. We make a layer of couscous.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a10"
                   who="corpus:Kef1"
@@ -615,8 +615,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a10" xml:id="a58">We garnish (it with) the dried fruits that we have roasted, which are the almonds, the hazelnuts, the pine nuts, and the walnuts;</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a11"
                   who="corpus:Kef1"
@@ -645,8 +645,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a11" xml:id="a59">and at the same time the pieces of dagla dates that we have cleaned and quartered.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a12"
                   who="corpus:Kef1"
@@ -681,8 +681,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a12" xml:id="a60">We arrange it as decoration in (different) sections: A field like this with almonds, (another with) walnuts, (another with) hazelnuts, (one) with pine nuts, and (one) with dagla dates.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a13"
                   who="corpus:Kef1"
@@ -721,8 +721,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a13" xml:id="a61">Like this it shapes a rose. We continue with the couscous. We make one more layer of couscous mixed with sugar and butter.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a14"
                   who="corpus:Kef1"
@@ -763,8 +763,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a14" xml:id="a62">After that we make the last (thing), the decoration of the couscous. We make different sections with those dried fruits that we have roasted and with which we made the first layer.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a15"
                   who="corpus:Kef1"
@@ -807,8 +807,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a15" xml:id="a63">Different sections of dried fruits and dagla dates. At the same time we have the milk that has become hot, and we have the piece of butter that we put in a pan and that has melted.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a16"
                   who="corpus:Kef1"
@@ -849,8 +849,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a16" xml:id="a64">At the same time we have the pieces of meat that are called knǟf, that are steaming in the couscous steamer with the smell of rosemary, the smell of which spreads fragrance.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a17"
                   who="corpus:Kef1"
@@ -879,8 +879,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a17" xml:id="a65">We pour that milk, we pour a layer of butter and then a bit of milk, not too much.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a18"
                   who="corpus:Kef1"
@@ -912,8 +912,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a18" xml:id="a66">And then we place those pieces of meat that are cooked, they are cooked very well. We put one piece of meat next to the other.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a19"
                   who="corpus:Kef1"
@@ -945,8 +945,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a19" xml:id="a67">Its beauty lies in its form (which is like) a rose and (in its arrangement) in (various) sections with those dried fruits.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a20"
                   who="corpus:Kef1"
@@ -982,8 +982,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a20" xml:id="a68">And in those pieces of meat that were cooked with rosemary and called knǟf. That is the dish of il-Kǟf […]</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a21"
                   who="corpus:Kef1"
@@ -1002,8 +1002,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a21" xml:id="a69">Eat (it) and bon appétit!</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a22"
                   who="corpus:Kef1"
@@ -1047,8 +1047,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a22" xml:id="a70">Of course there is green salad on the table; there is sour milk; there is an earthen plate, because when we serve the burzgǟn we put it on an earthen plate.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a23"
                   who="corpus:Kef1"
@@ -1080,8 +1080,8 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a23" xml:id="a71">It has the form of a decorated earthen plate. That can be called a Kefan dish, the burzgǟn.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e1_a24"
                   who="corpus:Kef1"
@@ -1113,7 +1113,7 @@
                <spanGrp type="Translation-cp">
                   <span xml:lang="en" target="#kef1_f_45_e1_a24" xml:id="a72">It is eaten in the month of May, beginning with the fifteenth of May. It is a big celebration in the governorate of il-Kǟf.</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

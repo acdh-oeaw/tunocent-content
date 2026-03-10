@@ -213,7 +213,7 @@
                <note type="start">#T0</note>
                <note type="end">#T22</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a1"
                   who="corpus:MagsamTrab1"
@@ -260,8 +260,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a2"
                   who="corpus:MagsamTrab1"
@@ -305,8 +305,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a3"
                   who="corpus:MagsamTrab1"
@@ -360,8 +360,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a4"
                   who="corpus:MagsamTrab1"
@@ -409,8 +409,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a5"
                   who="corpus:MagsamTrab1"
@@ -467,8 +467,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a6"
                   who="corpus:MagsamTrab1"
@@ -516,8 +516,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a7"
                   who="corpus:MagsamTrab1"
@@ -584,8 +584,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a8"
                   who="corpus:MagsamTrab1"
@@ -636,8 +636,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a9"
                   who="corpus:MagsamTrab1"
@@ -688,8 +688,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a10"
                   who="corpus:MagsamTrab1"
@@ -751,8 +751,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e2_a11"
                   who="corpus:MagsamTrab1"
@@ -788,7 +788,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

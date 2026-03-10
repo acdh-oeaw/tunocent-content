@@ -368,7 +368,7 @@
                <note type="start">#T0</note>
                <note type="end">#T180</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a1"
                   who="corpus:SidiBouzid2"
@@ -410,8 +410,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a2"
                   who="corpus:SidiBouzid2"
@@ -451,8 +451,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a3"
                   who="corpus:SidiBouzid2"
@@ -482,8 +482,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a4"
                   who="corpus:SidiBouzid2"
@@ -526,8 +526,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a5"
                   who="corpus:SidiBouzid2"
@@ -560,8 +560,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a6"
                   who="corpus:SidiBouzid2"
@@ -611,8 +611,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a7"
                   who="corpus:SidiBouzid2"
@@ -655,8 +655,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a8"
                   who="corpus:SidiBouzid2"
@@ -696,8 +696,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a9"
                   who="corpus:SidiBouzid2"
@@ -738,8 +738,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a10"
                   who="corpus:SidiBouzid2"
@@ -801,8 +801,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a11"
                   who="corpus:SidiBouzid2"
@@ -837,8 +837,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a12"
                   who="corpus:SidiBouzid2"
@@ -908,8 +908,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a13"
                   who="corpus:SidiBouzid2"
@@ -961,8 +961,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a14"
                   who="corpus:SidiBouzid2"
@@ -1022,8 +1022,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a15"
                   who="corpus:SidiBouzid2"
@@ -1075,8 +1075,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a16"
                   who="corpus:SidiBouzid2"
@@ -1131,8 +1131,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a17"
                   who="corpus:SidiBouzid2"
@@ -1203,8 +1203,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a18"
                   who="corpus:SidiBouzid2"
@@ -1265,8 +1265,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a19"
                   who="corpus:SidiBouzid2"
@@ -1326,8 +1326,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a20"
                   who="corpus:SidiBouzid2"
@@ -1397,8 +1397,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a21"
                   who="corpus:SidiBouzid2"
@@ -1448,8 +1448,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a22"
                   who="corpus:SidiBouzid2"
@@ -1494,8 +1494,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a23"
                   who="corpus:SidiBouzid2"
@@ -1543,8 +1543,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a24"
                   who="corpus:SidiBouzid2"
@@ -1607,8 +1607,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a25"
                   who="corpus:SidiBouzid2"
@@ -1663,8 +1663,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a26"
                   who="corpus:SidiBouzid2"
@@ -1719,8 +1719,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a27"
                   who="corpus:SidiBouzid2"
@@ -1795,8 +1795,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a28"
                   who="corpus:SidiBouzid2"
@@ -1862,8 +1862,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a29"
                   who="corpus:SidiBouzid2"
@@ -1913,8 +1913,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a30"
                   who="corpus:SidiBouzid2"
@@ -2000,8 +2000,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a31"
                   who="corpus:SidiBouzid2"
@@ -2069,8 +2069,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a32"
                   who="corpus:SidiBouzid2"
@@ -2122,8 +2122,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a33"
                   who="corpus:SidiBouzid2"
@@ -2172,8 +2172,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a34"
                   who="corpus:SidiBouzid2"
@@ -2234,8 +2234,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a35"
                   who="corpus:SidiBouzid2"
@@ -2276,8 +2276,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a36"
                   who="corpus:SidiBouzid2"
@@ -2322,8 +2322,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a37"
                   who="corpus:SidiBouzid2"
@@ -2394,8 +2394,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a38"
                   who="corpus:SidiBouzid2"
@@ -2435,8 +2435,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a39"
                   who="corpus:SidiBouzid2"
@@ -2522,8 +2522,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a40"
                   who="corpus:SidiBouzid2"
@@ -2562,8 +2562,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a41"
                   who="corpus:SidiBouzid2"
@@ -2602,8 +2602,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a42"
                   who="corpus:SidiBouzid2"
@@ -2653,8 +2653,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a43"
                   who="corpus:SidiBouzid2"
@@ -2710,8 +2710,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a44"
                   who="corpus:SidiBouzid2"
@@ -2765,8 +2765,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a45"
                   who="corpus:SidiBouzid2"
@@ -2806,8 +2806,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a46"
                   who="corpus:SidiBouzid2"
@@ -2877,8 +2877,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a47"
                   who="corpus:SidiBouzid2"
@@ -2909,8 +2909,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a48"
                   who="corpus:SidiBouzid2"
@@ -2968,8 +2968,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a49"
                   who="corpus:SidiBouzid2"
@@ -3008,8 +3008,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a50"
                   who="corpus:SidiBouzid2"
@@ -3059,8 +3059,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a95"
                   who="corpus:RT"
@@ -3078,8 +3078,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a52"
                   who="corpus:SidiBouzid2"
@@ -3116,8 +3116,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a53"
                   who="corpus:SidiBouzid2"
@@ -3175,8 +3175,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a54"
                   who="corpus:SidiBouzid2"
@@ -3226,8 +3226,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a55"
                   who="corpus:SidiBouzid2"
@@ -3262,8 +3262,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a56"
                   who="corpus:SidiBouzid2"
@@ -3338,8 +3338,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a57"
                   who="corpus:SidiBouzid2"
@@ -3390,8 +3390,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a58"
                   who="corpus:SidiBouzid2"
@@ -3437,8 +3437,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a59"
                   who="corpus:SidiBouzid2"
@@ -3486,8 +3486,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a60"
                   who="corpus:SidiBouzid2"
@@ -3553,8 +3553,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a61"
                   who="corpus:SidiBouzid2"
@@ -3616,8 +3616,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a62"
                   who="corpus:SidiBouzid2"
@@ -3710,8 +3710,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a63"
                   who="corpus:SidiBouzid2"
@@ -3749,8 +3749,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a64"
                   who="corpus:SidiBouzid2"
@@ -3801,8 +3801,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a65"
                   who="corpus:SidiBouzid2"
@@ -3866,8 +3866,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a66"
                   who="corpus:SidiBouzid2"
@@ -3903,8 +3903,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a67"
                   who="corpus:SidiBouzid2"
@@ -3980,8 +3980,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a68"
                   who="corpus:SidiBouzid2"
@@ -4049,8 +4049,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a69"
                   who="corpus:SidiBouzid2"
@@ -4106,8 +4106,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a70"
                   who="corpus:SidiBouzid2"
@@ -4181,8 +4181,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a71"
                   who="corpus:SidiBouzid2"
@@ -4252,8 +4252,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a72"
                   who="corpus:SidiBouzid2"
@@ -4312,8 +4312,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a73"
                   who="corpus:SidiBouzid2"
@@ -4361,8 +4361,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a74"
                   who="corpus:SidiBouzid2"
@@ -4423,8 +4423,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a75"
                   who="corpus:SidiBouzid2"
@@ -4493,8 +4493,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a76"
                   who="corpus:SidiBouzid2"
@@ -4577,8 +4577,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a77"
                   who="corpus:SidiBouzid2"
@@ -4645,8 +4645,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a78"
                   who="corpus:SidiBouzid2"
@@ -4719,8 +4719,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a79"
                   who="corpus:SidiBouzid2"
@@ -4774,8 +4774,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a80"
                   who="corpus:SidiBouzid2"
@@ -4835,8 +4835,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a81"
                   who="corpus:SidiBouzid2"
@@ -4887,8 +4887,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a82"
                   who="corpus:SidiBouzid2"
@@ -4931,8 +4931,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a83"
                   who="corpus:SidiBouzid2"
@@ -5000,8 +5000,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a84"
                   who="corpus:SidiBouzid2"
@@ -5083,8 +5083,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a85"
                   who="corpus:SidiBouzid2"
@@ -5169,8 +5169,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a86"
                   who="corpus:SidiBouzid2"
@@ -5217,8 +5217,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a96"
                   who="corpus:RT"
@@ -5237,8 +5237,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a87"
                   who="corpus:SidiBouzid2"
@@ -5295,8 +5295,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a88"
                   who="corpus:SidiBouzid2"
@@ -5370,8 +5370,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a89"
                   who="corpus:SidiBouzid2"
@@ -5421,8 +5421,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a90"
                   who="corpus:SidiBouzid2"
@@ -5468,8 +5468,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a91"
                   who="corpus:SidiBouzid2"
@@ -5510,8 +5510,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a92"
                   who="corpus:SidiBouzid2"
@@ -5565,8 +5565,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a93"
                   who="corpus:SidiBouzid2"
@@ -5603,8 +5603,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="sidibouzid2_f_41_e2_a94"
                   who="corpus:SidiBouzid2"
@@ -5642,7 +5642,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

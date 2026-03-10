@@ -259,7 +259,7 @@
                <note type="start">#T0</note>
                <note type="end">#T70</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a1"
                   who="corpus:UmmLabid3"
@@ -289,8 +289,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a29"
                   who="corpus:NA"
@@ -323,8 +323,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a3"
                   who="corpus:UmmLabid3"
@@ -353,8 +353,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a4"
                   who="corpus:UmmLabid3"
@@ -383,8 +383,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a5"
                   who="corpus:UmmLabid3"
@@ -411,8 +411,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a30"
                   who="corpus:NA"
@@ -432,8 +432,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a7"
                   who="corpus:UmmLabid3"
@@ -469,8 +469,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a11"
                   who="corpus:NA"
@@ -490,8 +490,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a8"
                   who="corpus:UmmLabid3"
@@ -521,8 +521,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a12"
                   who="corpus:NA"
@@ -544,8 +544,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a9"
                   who="corpus:UmmLabid3"
@@ -567,8 +567,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a13"
                   who="corpus:NA"
@@ -587,8 +587,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a10"
                   who="corpus:UmmLabid3"
@@ -612,8 +612,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a31"
                   who="corpus:NA"
@@ -632,8 +632,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a14"
                   who="corpus:UmmLabid3"
@@ -650,8 +650,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a32"
                   who="corpus:NA"
@@ -672,8 +672,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a15"
                   who="corpus:UmmLabid3"
@@ -712,8 +712,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a33"
                   who="corpus:NA"
@@ -730,8 +730,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a16"
                   who="corpus:UmmLabid3"
@@ -768,8 +768,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a17"
                   who="corpus:UmmLabid3"
@@ -801,8 +801,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a18"
                   who="corpus:UmmLabid3"
@@ -824,8 +824,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a34"
                   who="corpus:NA"
@@ -847,8 +847,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a19"
                   who="corpus:UmmLabid3"
@@ -881,8 +881,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a20"
                   who="corpus:UmmLabid3"
@@ -918,8 +918,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a21"
                   who="corpus:UmmLabid3"
@@ -940,8 +940,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a35"
                   who="corpus:NA"
@@ -966,8 +966,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a22"
                   who="corpus:UmmLabid3"
@@ -994,8 +994,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a23"
                   who="corpus:UmmLabid3"
@@ -1019,8 +1019,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a24"
                   who="corpus:UmmLabid3"
@@ -1053,8 +1053,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a25"
                   who="corpus:UmmLabid3"
@@ -1084,8 +1084,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a26"
                   who="corpus:UmmLabid3"
@@ -1108,8 +1108,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a36"
                   who="corpus:NA"
@@ -1127,8 +1127,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a27"
                   who="corpus:UmmLabid3"
@@ -1145,8 +1145,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a37"
                   who="corpus:NA"
@@ -1166,8 +1166,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="ummlabid3_m_51_e4_a28"
                   who="corpus:UmmLabid3"
@@ -1189,7 +1189,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

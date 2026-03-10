@@ -243,7 +243,7 @@
                <note type="start">#T0</note>
                <note type="end">#T52</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a1"
                   who="corpus:MagsamTrab1"
@@ -290,8 +290,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a2"
                   who="corpus:MagsamTrab1"
@@ -358,8 +358,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a3"
                   who="corpus:MagsamTrab1"
@@ -398,8 +398,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a4"
                   who="corpus:MagsamTrab1"
@@ -439,8 +439,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a5"
                   who="corpus:MagsamTrab1"
@@ -499,8 +499,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a6"
                   who="corpus:MagsamTrab1"
@@ -557,8 +557,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a7"
                   who="corpus:MagsamTrab1"
@@ -612,8 +612,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a8"
                   who="corpus:MagsamTrab1"
@@ -659,8 +659,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a9"
                   who="corpus:MagsamTrab1"
@@ -718,8 +718,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a10"
                   who="corpus:MagsamTrab1"
@@ -762,8 +762,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a11"
                   who="corpus:MagsamTrab1"
@@ -810,8 +810,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a12"
                   who="corpus:MagsamTrab1"
@@ -846,8 +846,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a13"
                   who="corpus:MagsamTrab1"
@@ -911,8 +911,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a14"
                   who="corpus:MagsamTrab1"
@@ -943,8 +943,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a15"
                   who="corpus:MagsamTrab1"
@@ -1000,8 +1000,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a16"
                   who="corpus:MagsamTrab1"
@@ -1045,8 +1045,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a17"
                   who="corpus:MagsamTrab1"
@@ -1090,8 +1090,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a18"
                   who="corpus:MagsamTrab1"
@@ -1152,8 +1152,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a19"
                   who="corpus:MagsamTrab1"
@@ -1219,8 +1219,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a20"
                   who="corpus:MagsamTrab1"
@@ -1266,8 +1266,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a21"
                   who="corpus:MagsamTrab1"
@@ -1320,8 +1320,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a22"
                   who="corpus:MagsamTrab1"
@@ -1366,8 +1366,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a23"
                   who="corpus:MagsamTrab1"
@@ -1410,8 +1410,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a24"
                   who="corpus:MagsamTrab1"
@@ -1453,8 +1453,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a25"
                   who="corpus:MagsamTrab1"
@@ -1492,8 +1492,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="magsamtrab1_f_72_e7_a26"
                   who="corpus:MagsamTrab1"
@@ -1539,7 +1539,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

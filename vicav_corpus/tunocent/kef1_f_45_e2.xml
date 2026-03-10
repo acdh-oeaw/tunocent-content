@@ -287,7 +287,7 @@
                <note type="start">#T0</note>
                <note type="end">#T99</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a1"
                   who="corpus:Kef1"
@@ -332,8 +332,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a1" xml:id="a101">In il-Kǟf we have the type of bread called ruggǟg and we have abṛāž bread. The bread ruggǟg, the bread abṛāž, and we have mṭālīʿ. And we have the bread that is folded with oil.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a2"
                   who="corpus:Kef1"
@@ -358,8 +358,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a2" xml:id="a102">These are the kinds of bread that exist in the governorate of il-Kǟf.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a3"
                   who="corpus:Kef1"
@@ -402,8 +402,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a3" xml:id="a103">We will talk about ruggǟg bread.  The bread ruggǟg is made of fine semolina, oil, and a little bit of salt—not too much, so that it does not become too salty—and water.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a4"
                   who="corpus:Kef1"
@@ -434,8 +434,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a4" xml:id="a104">We knead (the ingredients of) the bread very thoroughly (until) it becomes dough, the consistency of dough, and we let it rest.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a5"
                   who="corpus:Kef1"
@@ -466,8 +466,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a5" xml:id="a105">We have kneaded it until it becomes very good, (then) we put the ṭāžīn  on the gas stove and heat it.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a6"
                   who="corpus:Kef1"
@@ -504,8 +504,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a6" xml:id="a106">There are those who… When we bake bread with the traditional ṭāžīn, we bake it (directly) on firewood. This is how they do it in the countryside.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a7"
                   who="corpus:Kef1"
@@ -545,8 +545,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a7" xml:id="a107">But in the village we bake it on the gas stove. What we have nowadays is the ṭāžīn of iron, it is of iron. Okay. […]</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a8"
                   who="corpus:Kef1"
@@ -577,8 +577,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a8" xml:id="a108">After the (dough of) the bread has proved, we make a small bread (of) the dough, like this, not very big. We call it guṛṣa, a flat bread.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a9"
                   who="corpus:Kef1"
@@ -604,8 +604,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a9" xml:id="a109">We flatten (the dough) with our fingers until it becomes neither too thick nor too thin.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a10"
                   who="corpus:Kef1"
@@ -633,8 +633,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a10" xml:id="a110">Of course (meanwhile) that ṭāžīn that is placed on the gas stove has become hot.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a11"
                   who="corpus:Kef1"
@@ -674,8 +674,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a11" xml:id="a111">We put that flat bread (in it). While we are baking it, we move it carefully with our hands until it becomes brown.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a12"
                   who="corpus:Kef1"
@@ -695,8 +695,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a12" xml:id="a112">This is the bread called ruggǟg.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a13"
                   who="corpus:Kef1"
@@ -730,8 +730,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a13" xml:id="a113">Also we have the bread abṛāž.  But abṛāž bread is soaked in oil and has…</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a14"
                   who="corpus:Kef1"
@@ -762,8 +762,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a14" xml:id="a114">There are people who like it with sugar, and there are those who don’t like it (that way), (they prefer it) without sugar.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a15"
                   who="corpus:Kef1"
@@ -793,8 +793,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a15" xml:id="a115">We cut it into squares, into quadratic pieces. It is soaked (in oil), and we also bake it on the iron ṭāžīn.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a16"
                   who="corpus:Kef1"
@@ -822,8 +822,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a16" xml:id="a116">We also have the bread that we call mṭālīʿ,  it is not made of fine semolina.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a17"
                   who="corpus:Kef1"
@@ -865,8 +865,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a17" xml:id="a117">It is possible with fine semolina and flour, or with fine wheaten semolina, or it is possible with flour that is…, it can be made of cake flour, which is not like fine semolina.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a18"
                   who="corpus:Kef1"
@@ -899,8 +899,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a18" xml:id="a118">It is made with yeast, with flour and yeast, of course a bit of salt, and lukewarm water.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a19"
                   who="corpus:Kef1"
@@ -942,8 +942,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a19" xml:id="a119">We mix those (ingredients of) the dough that become a dough, and make flat loaves of bread out of it. Then we let it prove. (It is) not like the ruggǟg. And we bake it in the ṭāžīn.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a20"
                   who="corpus:Kef1"
@@ -973,8 +973,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a20" xml:id="a120">You find people in the village and the countryside who (have what) they call ṭābūna bread.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a21"
                   who="corpus:Kef1"
@@ -1013,8 +1013,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a21" xml:id="a121">The ṭābūna  bread is made of fine semolina or flour, and it is possible with bread, with wheat, which is called a brownish bread.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a22"
                   who="corpus:Kef1"
@@ -1045,8 +1045,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a22" xml:id="a122">We bake (the bread in the oven we call) a gōža. When I say gōža, I mean the way we make it with clay and it is…</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a23"
                   who="corpus:Kef1"
@@ -1088,8 +1088,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a23" xml:id="a123">We heat it with a lot of firewood so that it becomes an oven, until that firewood becomes ash. (Then) we attach every flat loaf of ṭābūna bread to a side of the ṭābūna stove.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a24"
                   who="corpus:Kef1"
@@ -1117,8 +1117,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a24" xml:id="a124">That is what we call traditional bread, the ṭābūna bread, this is the real ṭābūna.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a25"
                   who="corpus:Kef1"
@@ -1151,8 +1151,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a25" xml:id="a125">Nowadays, the world has developed: there are new things (now) and modern bakeries.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a26"
                   who="corpus:Kef1"
@@ -1193,8 +1193,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a26" xml:id="a126">There are even modern ovens (in the bakeries) with which they bake bread which they call ṭābūna. But the opposite is well known: The most delicious bread and the best bread is the (real) ṭābūna bread.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a27"
                   who="corpus:Kef1"
@@ -1221,8 +1221,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a27" xml:id="a127">Some of us women say gōža. It is the oven in which we bake it.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a28"
                   who="corpus:Kef1"
@@ -1248,8 +1248,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a28" xml:id="a128">We have ṭābūna, we have ruggǟg, we have  mlǟwi bread which…</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a29"
                   who="corpus:Kef1"
@@ -1295,8 +1295,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a29" xml:id="a129">Mlǟwi bread is baked with fine semolina. It is the one you have eaten before. We fold it with oil and bake it on the gas stove, in the ṭāžīn that we have put on the gas stove.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a30"
                   who="corpus:Kef1"
@@ -1345,8 +1345,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a30" xml:id="a130">At the same time (we have) abṛāž. Okay. These are the kinds of bread that exist in the governorate of il-Kǟf, the ones that we call traditional, which every family bakes. Okay.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a31"
                   who="corpus:Kef1"
@@ -1373,8 +1373,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a31" xml:id="a131">We will tell (you) about rfīsa. We will talk a little bit about rfīsa.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a32"
                   who="corpus:Kef1"
@@ -1422,8 +1422,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a32" xml:id="a132">We can make rfīsa on all the days (of the year), but most of the Kefan people bake the bread rfīsa… we make rfīsa when it rains a lot and when it is snowing. (Then) me make rfīs.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a33"
                   who="corpus:Kef1"
@@ -1448,8 +1448,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a33" xml:id="a133">Most of us Kefan people have rfīs all the time in winter.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a34"
                   who="corpus:Kef1"
@@ -1489,8 +1489,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a34" xml:id="a134">(We need) fine semolina, oil, salt, and water. (The ingredients of) that dough, that will become a dough, are kneaded. It is also a bread that is folded with oil.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a35"
                   who="corpus:Kef1"
@@ -1520,8 +1520,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a35" xml:id="a135">We say we pluck it—that is, we cut (the bread) into small pieces, small like this, very small, small squares.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a36"
                   who="corpus:Kef1"
@@ -1558,8 +1558,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a36" xml:id="a136">We buy dagla dates, wash them, and cut them into squares. Then we pour that rfīs which we have cooked, into a bowl, an earthen one, or in a wooden bowl.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a37"
                   who="corpus:Kef1"
@@ -1599,8 +1599,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a37" xml:id="a137">The dough, the bread that we have crumbled, we pour sugar, we pour butter on it, and we pour some milk and those dagla dates on it and mix it.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a38"
                   who="corpus:Kef1"
@@ -1623,8 +1623,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a38" xml:id="a138">You can eat (it now) and bon appétit! This is rfīs.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a39"
                   who="corpus:Kef1"
@@ -1652,8 +1652,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a39" xml:id="a139">We have what we call ʿṣīda. Spicy ʿṣīda, spicy ʿṣīda or sweet ʿṣīda.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a40"
                   who="corpus:Kef1"
@@ -1692,8 +1692,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a40" xml:id="a140">We cook the fine semolina, we put the water (until) it becomes lukewarm, and (then), little by little, we pour the fine semolina (into it) until we make ʿṣīda […]</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a41"
                   who="corpus:Kef1"
@@ -1746,8 +1746,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a41" xml:id="a141">Okay. After we have cooked that ʿṣīda in the lukewarm water, it must not form lumps, it must not be too dry, and it must not be too runny. It must be well cooked.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a42"
                   who="corpus:Kef1"
@@ -1766,8 +1766,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a42" xml:id="a142">Why must it be cooked? So that […]</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a43"
                   who="corpus:Kef1"
@@ -1803,8 +1803,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a43" xml:id="a143">Okay. When that fine semolina or the flour is cooked… Because it can be ʿṣīda made of flour or it can be ʿṣīda made of fine semolina.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a44"
                   who="corpus:Kef1"
@@ -1837,8 +1837,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a44" xml:id="a144">Is is well cooked. It must be well cooked so that, when someone eats it, he does not get a bellyache.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a45"
                   who="corpus:Kef1"
@@ -1867,8 +1867,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a45" xml:id="a145">When we say sweet ʿṣīda or spicy ʿṣīda […] We have sweet ʿṣīda and spicy ʿṣīda.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a46"
                   who="corpus:Kef1"
@@ -1904,8 +1904,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a46" xml:id="a146">The people who like the sweet ʿṣīda, (then) add butter and sugar or butter and honey.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a47"
                   who="corpus:Kef1"
@@ -1935,8 +1935,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a47" xml:id="a147">Honey… When I say honey, I mean natural honey—that is, bee honey.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a48"
                   who="corpus:Kef1"
@@ -1979,8 +1979,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a48" xml:id="a148">When we say spicy ʿṣīda… Spicy ʿṣīda is cooked with sausages called mirgǟz.  Most of us Kefan people mean by spicy ʿṣīda (that which) we cook with corned sun-dried meat […]</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a49"
                   who="corpus:Kef1"
@@ -2022,8 +2022,8 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a49" xml:id="a149">Okay. We have talked about burzgǟn, about the (different) kinds of bread, and we have talked about the spicy and the sweet ʿṣīda, (dishes) that are known in the governorate of il-Kǟf.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="kef1_f_45_e2_a50"
                   who="corpus:Kef1"
@@ -2077,7 +2077,7 @@
                <spanGrp type="Translation">
                   <span xml:lang="en" target="#kef1_f_45_e2_a50" xml:id="a150">And the most… The indigenous Kefan people who are the original residents of il-Kǟf, we cook the ʿṣīda especially when it snows: when it is very cold, we make ʿṣīda and rfīs.</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

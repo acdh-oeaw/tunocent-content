@@ -289,7 +289,7 @@
                <note type="start">#T0</note>
                <note type="end">#T90</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a1"
                   who="corpus:Testour13"
@@ -312,8 +312,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a1" xml:id="a53">They left from, they were exiled from Spain</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a2"
                   who="corpus:Testour13"
@@ -335,8 +335,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a2" xml:id="a56">Do you know this story or not?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a3"
                   who="corpus:Testour13"
@@ -369,8 +369,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a3" xml:id="a54">Well, in 1400, shall I tell you or not? In 1509</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a4"
                   who="corpus:Testour13"
@@ -391,8 +391,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a4" xml:id="a57">No, in 1490</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a5"
                   who="corpus:Testour13"
@@ -431,8 +431,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a5" xml:id="a58">You see, at the end of the 15th century, the Umayyad state in Spain was weakened.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a6"
                   who="corpus:Testour13"
@@ -463,8 +463,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a6" xml:id="a59">When it was totally weakened, the Arabs were expelled from Spain, all of them left.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a7"
                   who="corpus:Testour13"
@@ -503,8 +503,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a7" xml:id="a60">And what did they call them? At that time they used to call them Moriscos. Why? It’s because they were not pure Arabs, they were mixed</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a8"
                   who="corpus:Testour13"
@@ -532,8 +532,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a8" xml:id="a61">Some of them were married to Spanish, others were married to Arabs, they called them Moriscos.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a9"
                   who="corpus:Testour13"
@@ -567,8 +567,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a9" xml:id="a62">When even the last one was expelled from Spain, they reached a point that when they found out that someone had a great-great grandfather who has Arab origins (an Arab ancestor from four generations before)</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a10"
                   who="corpus:Testour13"
@@ -598,8 +598,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a10" xml:id="a63">They would not let a person who has an Arab ancestor from four generations before stay (in Spain). What is the meaning of a great-great grandfather?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a11"
                   who="corpus:Testour13"
@@ -622,8 +622,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a11" xml:id="a64">Do you know what a great-great grandfather is?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a12"
                   who="corpus:Testour13"
@@ -649,8 +649,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a12" xml:id="a65">Yes, from  four generations before, do you see?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a13"
                   who="corpus:Testour13"
@@ -677,8 +677,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a13" xml:id="a66">When he (the grandfather from four generations ago) was an Arab, they would not let the person stay in Spain, they had to leave.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a14"
                   who="corpus:Testour13"
@@ -718,8 +718,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a14" xml:id="a67">They forced them into exile and not even one person who had Arab ancestors going back four generations remained</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a15"
                   who="corpus:Testour13"
@@ -746,8 +746,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a15" xml:id="a68">They spread all over North Africa. Most of them went to Morocco</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a16"
                   who="corpus:Testour13"
@@ -791,8 +791,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a16" xml:id="a69">Few of them went to Algeria, not a lot, no, no, no, no, no. The nature of the Algerians was difficult, they did not manage to adapt to them</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a17"
                   who="corpus:Testour13"
@@ -816,8 +816,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a17" xml:id="a70">Do you understand me? Therefore, only a few went to Algeria.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a18"
                   who="corpus:Testour13"
@@ -862,8 +862,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a18" xml:id="a71">The majority settled in Tunisia, in Tunisia. Since they used to live in cities, they were not able to live in the mountains</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a19"
                   who="corpus:Testour13"
@@ -905,8 +905,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a19" xml:id="a72">Not like the tribes here. They lived in the cities, and where were the cities? They had to always live close to the water</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a20"
                   who="corpus:Testour13"
@@ -945,8 +945,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a20" xml:id="a73">And where close to the water? At that time here in North Africa, we had, most of all, the Medjerda river, the Medjerda river is ours.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a21"
                   who="corpus:Testour13"
@@ -968,8 +968,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a21" xml:id="a74">So, they started to live on the shores of Medjerda river.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a22"
                   who="corpus:Testour13"
@@ -1009,8 +1009,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a22" xml:id="a75">The most important cities in which they lived were at the shores of Medjerda river, starting with Testour, Medjez (al-Bab) Tebourba, Qalat al-Andalus</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a23"
                   who="corpus:Testour13"
@@ -1051,8 +1051,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a23" xml:id="a76">Up until you reach its where it pours, you arrive in Nabeul, where the river pours into the sea, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a24"
                   who="corpus:Testour13"
@@ -1082,8 +1082,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a24" xml:id="a77">Right! Do you see where all these villages are?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a25"
                   who="corpus:Testour13"
@@ -1109,8 +1109,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a25" xml:id="a78">They met the people there, and they managed to adapt to them</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a26"
                   who="corpus:Testour13"
@@ -1137,8 +1137,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a26" xml:id="a79">And they imported with them their customs, for example the Baklava,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a27"
                   who="corpus:Testour13"
@@ -1161,8 +1161,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a27" xml:id="a80">The Baklava has Moriscan origins.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a50"
                   end="#T92"
@@ -1177,8 +1177,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a50" xml:id="a101">No, it’s Syrian.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a28"
                   who="corpus:Testour13"
@@ -1213,8 +1213,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a28" xml:id="a81">No sir! The origin of the Baklava is Moriscan, and no one can tell me otherwise. Do you know why?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a29"
                   who="corpus:Testour13"
@@ -1242,8 +1242,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a29" xml:id="a82">When they expelled them, they baked the Baklava and hid their jewellery inside of it</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a30"
                   who="corpus:Testour13"
@@ -1268,8 +1268,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a30" xml:id="a83">They hid their rings inside of it, they hid their necklaces inside of it.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a31"
                   who="corpus:Testour13"
@@ -1308,8 +1308,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a31" xml:id="a84">When someone would come to search them, they would say “When I am hungry what can I eat? I baked the Baklava and I will leave with it.”</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a32"
                   who="corpus:Testour13"
@@ -1333,8 +1333,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a32" xml:id="a85">However, inside of the Baklava they were hiding their gold.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a33"
                   who="corpus:Testour13"
@@ -1361,8 +1361,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a33" xml:id="a55">The Baklava is of Moriscan origin, no one can disagree with me about this.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a34"
                   who="corpus:Testour13"
@@ -1396,8 +1396,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a34" xml:id="a86">They brought here their customs, for example the architecture. For example, before they (the native Tunisians) did not use tiles.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a35"
                   who="corpus:Testour13"
@@ -1431,8 +1431,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a35" xml:id="a87">From where did they get to know about the tiles? They got to know about this from the Moriscos. They introduced their architecture,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a36"
                   who="corpus:Testour13"
@@ -1453,8 +1453,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a36" xml:id="a88">The introduced their language and they introduced  music.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a51"
                   end="#T94"
@@ -1473,8 +1473,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a51" xml:id="a102">They are Arab.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a37"
                   who="corpus:Testour13"
@@ -1500,8 +1500,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a37" xml:id="a89">They are Arab, however, they have other customs, not like us.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a38"
                   who="corpus:Testour13"
@@ -1536,8 +1536,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a38" xml:id="a90">They brought their music, before we didn’t have music, it was considered forbidden to sing, as we say</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a39"
                   who="corpus:Testour13"
@@ -1573,8 +1573,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a39" xml:id="a91">When they came, music came along,and their vibes. And what's more they lived with...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a40"
                   who="corpus:Testour13"
@@ -1592,8 +1592,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a40" xml:id="a92">They lived with...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a42"
                   who="corpus:Testour13"
@@ -1624,8 +1624,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a42" xml:id="a93">They lived with...What is their names? What do they call them?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a43"
                   who="corpus:Testour13"
@@ -1654,8 +1654,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a43" xml:id="a94">Those nomads, the Spanish nomads, what do they call them?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a44"
                   who="corpus:Testour13"
@@ -1678,8 +1678,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a44" xml:id="a95">The ones like those that we have...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a52"
                   end="#T96"
@@ -1694,8 +1694,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a52" xml:id="a103">Gypsies</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a45"
                   who="corpus:Testour13"
@@ -1712,8 +1712,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a45" xml:id="a96">Gypsies!</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a46"
                   who="corpus:Testour13"
@@ -1746,8 +1746,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a46" xml:id="a97">They lived with them, and they had their music, music for them was essential, do you understand me?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a47"
                   who="corpus:Testour13"
@@ -1770,8 +1770,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a47" xml:id="a98">Anyways, they also brought their cuisine, like the makrouth</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a48"
                   who="corpus:Testour13"
@@ -1790,8 +1790,8 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a48" xml:id="a99">And they brought many other pastries.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour13_f_30_e2_a49"
                   who="corpus:Testour13"
@@ -1808,7 +1808,7 @@
                <spanGrp type="Testour13_Translation">
                   <span xml:lang="en" target="#testour13_f_30_e2_a49" xml:id="a100">And what else?</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

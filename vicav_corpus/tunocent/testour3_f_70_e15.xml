@@ -222,7 +222,7 @@
                <note type="start">#T0</note>
                <note type="end">#T25</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a1"
                   who="corpus:Testour3"
@@ -239,8 +239,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a1" xml:id="a16">A daily thing, yes.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a14"
                   who="corpus:AN"
@@ -259,8 +259,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a14" xml:id="a29">How many children do they usually have?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a2"
                   who="corpus:Testour3"
@@ -286,8 +286,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a2" xml:id="a17">Well, it depends on their mood, there are...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a15"
                   who="corpus:AN"
@@ -306,8 +306,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a15" xml:id="a30">How many would they have before versus now?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a3"
                   who="corpus:Testour3"
@@ -339,8 +339,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a3" xml:id="a18">Before they would have up to twelve children, nine, ten, eight, seven, four, six.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a4"
                   who="corpus:Testour3"
@@ -361,8 +361,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a4" xml:id="a19">Now, no. Now, they only have two children.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a5"
                   who="corpus:Testour3"
@@ -383,8 +383,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a5" xml:id="a20">That is the limit, before no.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a6"
                   who="corpus:Testour3"
@@ -413,8 +413,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a6" xml:id="a21">Before, she would give birth every two years, every two years a baby, every two years...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a7"
                   who="corpus:Testour3"
@@ -443,8 +443,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a7" xml:id="a22">until they grow up, one of them would be fifteen years old and the other would be two years old</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a8"
                   who="corpus:Testour3"
@@ -464,8 +464,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a8" xml:id="a23">Now, no, now one child is enough</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a9"
                   who="corpus:Testour3"
@@ -484,8 +484,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a9" xml:id="a24">Or two, maximum two</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a10"
                   who="corpus:Testour3"
@@ -516,8 +516,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a10" xml:id="a25">And they would eat together and they would share the same room, they would wear each other’s clothes...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a11"
                   who="corpus:Testour3"
@@ -539,8 +539,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a11" xml:id="a26">Nowadays it’s no longer like this, my dear</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a12"
                   who="corpus:Testour3"
@@ -578,8 +578,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a12" xml:id="a27">Now no, each child has his own room, each child has his own bed, each child has his own plate, each child...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e15_a13"
                   who="corpus:Testour3"
@@ -611,7 +611,7 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e15_a13" xml:id="a28">They no longer want to share anything. Ok, ok, ok, thank God.</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

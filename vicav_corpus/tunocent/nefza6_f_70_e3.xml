@@ -232,7 +232,7 @@
                <note type="start">#T0</note>
                <note type="end">#T49</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a1"
                   who="corpus:Nefza6"
@@ -251,8 +251,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a2"
                   who="corpus:Nefza6"
@@ -273,8 +273,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a3"
                   who="corpus:Nefza6"
@@ -298,8 +298,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a4"
                   who="corpus:Nefza6"
@@ -336,8 +336,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a5"
                   who="corpus:Nefza6"
@@ -368,8 +368,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a6"
                   who="corpus:Nefza6"
@@ -395,8 +395,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a7"
                   who="corpus:Nefza6"
@@ -429,8 +429,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a8"
                   who="corpus:Nefza6"
@@ -455,8 +455,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a9"
                   who="corpus:Nefza6"
@@ -481,8 +481,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a10"
                   who="corpus:Nefza6"
@@ -511,8 +511,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a11"
                   who="corpus:Nefza6"
@@ -535,8 +535,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a12"
                   who="corpus:Nefza6"
@@ -565,8 +565,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a13"
                   who="corpus:Nefza6"
@@ -593,8 +593,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a14"
                   who="corpus:Nefza6"
@@ -616,8 +616,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a15"
                   who="corpus:Nefza6"
@@ -654,8 +654,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a16"
                   who="corpus:Nefza6"
@@ -687,8 +687,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a17"
                   who="corpus:Nefza6"
@@ -723,8 +723,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a18"
                   who="corpus:Nefza6"
@@ -751,8 +751,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a19"
                   who="corpus:Nefza6"
@@ -782,8 +782,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a20"
                   who="corpus:Nefza6"
@@ -808,8 +808,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a21"
                   who="corpus:Nefza6"
@@ -832,8 +832,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a22"
                   who="corpus:Nefza6"
@@ -862,8 +862,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a23"
                   who="corpus:Nefza6"
@@ -882,8 +882,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a24"
                   who="corpus:Nefza6"
@@ -906,8 +906,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="nefza6_f_70_e3_a25"
                   who="corpus:Nefza6"
@@ -935,7 +935,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

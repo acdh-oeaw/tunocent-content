@@ -227,7 +227,7 @@
                <note type="start">#T0</note>
                <note type="end">#T30</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a1"
                   who="corpus:Testour14"
@@ -277,8 +277,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a1" xml:id="a16">Since you’ve been living here, which means you’re a native inhabitant of the town ofTestour, if you like you could tell us a little bit about its history and its original inhabitants</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a17"
                   end="#T32"
@@ -294,8 +294,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a17" xml:id="a33">The history of Testour?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a18"
                   end="#T34"
@@ -324,8 +324,8 @@
                <spanGrp type="UNKNOWN_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a18" xml:id="a34">Aleksandra will tell you about the history of Testour, because she has the experience.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a2"
                   who="corpus:Testour14"
@@ -353,8 +353,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a2" xml:id="a19">In Testour there were the Amazigh before,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a3"
                   who="corpus:Testour14"
@@ -380,8 +380,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a3" xml:id="a20">And after when the Islamic conquest happened, yes,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a4"
                   who="corpus:Testour14"
@@ -405,8 +405,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a4" xml:id="a21">Yes, there were the Amazigh in it before.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a5"
                   who="corpus:Testour14"
@@ -459,8 +459,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a5" xml:id="a22">When the Islamic conquest and everything else happened, they came, they came, the migration of the Andalusians happened. Now here wehave the quarter, the square, all of them are old buildings.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a6"
                   who="corpus:Testour14"
@@ -487,8 +487,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a6" xml:id="a23">And before it wasn’t called Testour, it was called Tichilla</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a7"
                   who="corpus:Testour14"
@@ -532,8 +532,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a7" xml:id="a24">And after that, when the Jewish population came and everything else, its name became Tazātūr, which means the person who collects taxes and takes money from them,</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a8"
                   who="corpus:Testour14"
@@ -552,8 +552,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a8" xml:id="a25">(The one who collected) one's taxes.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a9"
                   who="corpus:Testour14"
@@ -585,8 +585,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a9" xml:id="a26">As time went by, its name became Testour.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a10"
                   who="corpus:Testour14"
@@ -611,8 +611,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a10" xml:id="a27">If go to the quarter and to the Grand Mosque...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a11"
                   who="corpus:Testour14"
@@ -634,8 +634,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a11" xml:id="a28">Did you go to the Grand Mosque?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a12"
                   who="corpus:Testour14"
@@ -677,8 +677,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a12" xml:id="a29">The Grand Mosque is known as the most important monument in the town of Testour, it has a clock which runs counterclockwise and a clock which operates through sunlight.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a13"
                   who="corpus:Testour14"
@@ -702,8 +702,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a13" xml:id="a30">It has a clock that operates through sunlight.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a14"
                   who="corpus:Testour14"
@@ -720,8 +720,8 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a14" xml:id="a31">And there is...</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour14_f_20_e6_a15"
                   who="corpus:Testour14"
@@ -743,7 +743,7 @@
                <spanGrp type="Testour14_Translation">
                   <span xml:lang="en" target="#testour14_f_20_e6_a15" xml:id="a32">Can you read in Arabic?</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

@@ -249,7 +249,7 @@
                <note type="start">#T0</note>
                <note type="end">#T54</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a1"
                   who="corpus:Testour3"
@@ -266,8 +266,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a1" xml:id="a30">Work is a daily thing</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a2"
                   who="corpus:Testour3"
@@ -290,8 +290,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a2" xml:id="a31">Yes, work is a daily thing. We wake up in the morning</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a3"
                   who="corpus:Testour3"
@@ -311,8 +311,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a3" xml:id="a32">We wash our faces, we make coffee</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a4"
                   who="corpus:Testour3"
@@ -328,8 +328,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a4" xml:id="a33">We knead the bread</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a5"
                   who="corpus:Testour3"
@@ -347,8 +347,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a5" xml:id="a34">We knead the bread, we wash the floor</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a6"
                   who="corpus:Testour3"
@@ -364,8 +364,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a6" xml:id="a35">We do the laundry</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a7"
                   who="corpus:Testour3"
@@ -380,8 +380,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a7" xml:id="a36">We wipe</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a8"
                   who="corpus:Testour3"
@@ -398,8 +398,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a8" xml:id="a37">We prepare lunch</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a9"
                   who="corpus:Testour3"
@@ -421,8 +421,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a9" xml:id="a38">It is as such, the children would come from school</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a10"
                   who="corpus:Testour3"
@@ -444,8 +444,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a10" xml:id="a39">She who has a husband, her husband would come back</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a11"
                   who="corpus:Testour3"
@@ -474,8 +474,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a11" xml:id="a40">If she does not have a husband, she would stay with her children. Her daughters would go to school, her sons would go to school</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a12"
                   who="corpus:Testour3"
@@ -496,8 +496,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a12" xml:id="a41">She would fold the laundry, she would sew it</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a13"
                   who="corpus:Testour3"
@@ -514,8 +514,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a13" xml:id="a42">She would clean the house</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a14"
                   who="corpus:Testour3"
@@ -542,8 +542,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a14" xml:id="a43">Her neighbour would come over and they would drink tea, they talk like this, that’s it</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a15"
                   who="corpus:Testour3"
@@ -564,8 +564,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a15" xml:id="a44">When her neighbour leaves, she locks her door</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a16"
                   who="corpus:Testour3"
@@ -582,8 +582,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a16" xml:id="a45">She gathers her things</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a17"
                   who="corpus:Testour3"
@@ -619,8 +619,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a17" xml:id="a46">If she has something private to wash or tidy in the room, or to polish or to clean the cooker or the fridge (she would do it).</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a18"
                   who="corpus:Testour3"
@@ -647,8 +647,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a18" xml:id="a47">If she doesn’t (have to do such things) she would sit and watch TV. That’s it, like so.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a56"
                   who="corpus:AN"
@@ -671,8 +671,8 @@
                <spanGrp type="AN_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a56" xml:id="a57">And the men? What do they do?</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a19"
                   who="corpus:Testour3"
@@ -692,8 +692,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a19" xml:id="a48">Her husband would go out to work, he goes out</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a20"
                   who="corpus:Testour3"
@@ -730,8 +730,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a20" xml:id="a49">If she has a husband he goes out to work, if she doesn’t have one... He would nap a little, sleep a little bit, and then he would wake up and go to work again.</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a21"
                   who="corpus:Testour3"
@@ -760,8 +760,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a21" xml:id="a50">Around sunset, the children would return from school and the woman would heat up dinner</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a22"
                   who="corpus:Testour3"
@@ -785,8 +785,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a22" xml:id="a51">She would cook dinner again if the food (from lunch) was not enough, she would prepare the table</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a23"
                   who="corpus:Testour3"
@@ -811,8 +811,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a23" xml:id="a52">The children would come in and wash their feet, they wash their hands</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a24"
                   who="corpus:Testour3"
@@ -831,8 +831,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a24" xml:id="a53">The husband would come back and he would shower</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a25"
                   who="corpus:Testour3"
@@ -852,8 +852,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a25" xml:id="a54">They would gather around the table and have dinner together</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a26"
                   who="corpus:Testour3"
@@ -879,8 +879,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a26" xml:id="a61">They would discuss their issues, "What will you do, what will I do"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a27"
                   who="corpus:Testour3"
@@ -902,8 +902,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a27" xml:id="a58">"I will buy that and that tomorrow"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a28"
                   who="corpus:Testour3"
@@ -928,8 +928,8 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a28" xml:id="a59">"You will go to that place, you need to do that errand"</span>
                </spanGrp>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="testour3_f_70_e12_a29"
                   who="corpus:Testour3"
@@ -955,7 +955,7 @@
                <spanGrp type="Testour3_Translation">
                   <span xml:lang="en" target="#testour3_f_70_e12_a29" xml:id="a60">And that’s it, they would go to sleep and in the morning they would wake up, and everyday it’s the same story</span>
                </spanGrp>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>

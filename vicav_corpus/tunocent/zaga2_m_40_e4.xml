@@ -205,7 +205,7 @@
                <note type="start">#T0</note>
                <note type="end">#T14</note>
             </head>
-            <annotationBlock>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a1"
                   who="corpus:Zaga2"
@@ -239,8 +239,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a3"
                   who="corpus:Zaga2"
@@ -268,8 +268,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a4"
                   who="corpus:Zaga2"
@@ -297,8 +297,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a11"
                   who="corpus:NA"
@@ -321,8 +321,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a7"
                   who="corpus:Zaga2"
@@ -354,8 +354,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a8"
                   who="corpus:Zaga2"
@@ -389,8 +389,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a9"
                   who="corpus:Zaga2"
@@ -423,8 +423,8 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
-            <annotationBlock>
+            </div>
+            <div>
                <u xml:lang="ar-aeb"
                   xml:id="zaga2_m_40_e4_a10"
                   who="corpus:Zaga2"
@@ -449,7 +449,7 @@
                          mimeType="audio/wav"
                          type="archivalCopy"/>
                </u>
-            </annotationBlock>
+            </div>
          </div>
       </body>
    </text>
