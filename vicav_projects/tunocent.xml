@@ -282,6 +282,9 @@
 
    </style>
    <staticData>
+      <geo>
+        <insert_vicav_geojson/>
+      </geo>
       <table>
          <insert_vicav_lingfeatures/>
          <insert_vicav_samples/>
