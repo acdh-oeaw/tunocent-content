@@ -292,7 +292,8 @@
          <insert_vicav_corpus/>
       </table>
    </staticData>
-   <noskeHost>https://tunocent-9beb0531-2df9-4ed6-aabb-cb012544c9dc.acdh-ch-dev.oeaw.ac.at</noskeHost>
+   <noskeHost>https://tunocent-noske.acdh-dev.oeaw.ac.at</noskeHost>
+   <!-- noskeHost>http://production-auto-deploy.noske-tunocent:8080</noskeHost -->
    <specialCharacters>
       <char><value>ā</value></char>
       <char><value>ǟ</value></char>
