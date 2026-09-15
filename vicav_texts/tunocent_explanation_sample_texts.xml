@@ -46,13 +46,13 @@ Two words in brackets separated by a slash, like  (ā-hāw / hā-hāw), are vari
                   To some sample texts more than just one speaker contributed, which makes the number of speakers rise to some 200.</p>
               <p xml:space="preserve">For 18 <!-- CHECK THIS NUMBER --> sample texts audio recordings are available on this website <!-- LINK -->.</p>
               <p>The source text from which the sample texts were translated is:</p>
-              <p>Modern Standard Arabic: <quote><s n="1">يوم الاثنين بعد الفجر ذهبتُ إلى السوق لأشتري بيضا وخضروات مثل الباذنجان والثوم.</s>
-<s n="2">واشتريت أيضا 2 كيلو برتقال بـ [مبلغ مناسب في العملة المحلية] ولكن لم آخذ طماطم لأنه كان غاليا جدا.</s>
-<s n="3">مررت بأخي الكبير وبعدها ركبتُ تاكسي وعُدت إلى البيت قبل الظهر.</s>
-<s n="4">بعد قليل جاء الأولاد من المدرسة وأكلنا [أكلة تونسية].</s>
-<s n="5">بعد الغداء سألتهم قائلة: ماذا تفعلون المساء.</s>
-<s n="6">قالوا لي: اليوم نبقى في البيت ولكن غدا نريد أن نرى أصدقاءنا وسنذهب معهم إلى ابن خالتنا الذي يسكن في حي [اسم أي حي في المدينة أو القرية] وهناك سوف نشرب قهوة ونتحادث إن شاء الله.</s>
-<s n="7">!قلت لهم: طيب، ولكن لا تنسوا أن تأخذوا معكم هواتفكم وأخبِروني إن تأخرتم</s>
+              <p>Modern Standard Arabic: <quote><s n="1" xml:lang="ar">يوم الاثنين بعد الفجر ذهبتُ إلى السوق لأشتري بيضا وخضروات مثل الباذنجان والثوم.</s>
+<s n="2" xml:lang="ar">واشتريت أيضا 2 كيلو برتقال بـ [مبلغ مناسب في العملة المحلية] ولكن لم آخذ طماطم لأنه كان غاليا جدا.</s>
+<s n="3" xml:lang="ar">مررت بأخي الكبير وبعدها ركبتُ تاكسي وعُدت إلى البيت قبل الظهر.</s>
+<s n="4" xml:lang="ar">بعد قليل جاء الأولاد من المدرسة وأكلنا [أكلة تونسية].</s>
+<s n="5" xml:lang="ar">بعد الغداء سألتهم قائلة: ماذا تفعلون المساء.</s>
+<s n="6" xml:lang="ar">قالوا لي: اليوم نبقى في البيت ولكن غدا نريد أن نرى أصدقاءنا وسنذهب معهم إلى ابن خالتنا الذي يسكن في حي [اسم أي حي في المدينة أو القرية] وهناك سوف نشرب قهوة ونتحادث إن شاء الله.</s>
+<s n="7" xml:lang="ar">!قلت لهم: طيب، ولكن لا تنسوا أن تأخذوا معكم هواتفكم وأخبِروني إن تأخرتم</s>
 </quote></p>
 <p>English: <quote><s n="1">On Monday after dawn I went to the market to buy eggs and vegetables such as aubergines and garlic.</s> 
 <s n="2">I also bought 2 kilograms of oranges for (price in local currency). I didn’t take tomatoes because they were very expensive.</s>
